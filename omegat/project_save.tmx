@@ -4,6 +4,22 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="it"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="it">
+        <seg>1,1&lt;t0/&gt; Inizio del vangelo di Gesù Cristo, Figlio di Dio. &lt;t1/&gt;2&lt;t2/&gt; Come è scritto nel profeta Isaia:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20250910T223154Z" creationid="Gianfranco" creationdate="20250910T223154Z">
+        <seg>1,1&lt;t0/&gt; Cumintzu de su vangelu de Gesùs Cristos, Fìgiu de Deus. &lt;t1/&gt;2&lt;t2/&gt; Comente est iscritu in su profeta Isaia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Marco</seg>
+      </tuv>
+      <tuv lang="sc" changeid="Gianfranco" changedate="20250910T223145Z" creationid="Gianfranco" creationdate="20250910T223145Z">
+        <seg>Marcu</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
