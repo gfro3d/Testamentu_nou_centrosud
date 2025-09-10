@@ -1,0 +1,14 @@
+11/09/25, 00:15
+Statistiche del progetto
+
+                 	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	#File	
+Totali:          	     339	 12981	                  60802	                73453	    1	
+Restanti:        	     339	 12981	                  60802	                73453	    1	
+Univoci:         	     339	 12981	                  60802	                73453	    1	
+Univoci restanti:	     339	 12981	                  60802	                73453	    1	
+
+
+Statistiche file singoli:
+
+Nome del file    	Segmenti totali	Segmenti restanti	Segmenti univoci	Segmenti univoci restanti	Parole totali	Parole restanti	Parole univoche	Parole univoche restanti	Caratteri totali (senza spazi)	Caratteri rimanenti (senza spazi)	Caratteri univoci (senza spazi)	Caratteri univoci rimanenti (senza spazi)	Caratteri totali (con spazi)	Caratteri rimanenti (con spazi)	Caratteri univoci (con spazi)	Caratteri univoci rimanenti (con spazi)	
+Marco intreu.docx	            339	              339	             339	                      339	        12981	          12981	          12981	                   12981	                         60802	                            60802	                          60802	                                    60802	                       73453	                          73453	                        73453	                                  73453	
