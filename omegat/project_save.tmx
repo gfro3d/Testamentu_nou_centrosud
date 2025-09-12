@@ -48,8 +48,16 @@
       <tuv lang="it">
         <seg>preparate la strada del Signore,</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20250912T100148Z" creationid="BRUNA" creationdate="20250912T100148Z">
-        <seg>preparai su caminu de su Sennori</seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20250912T100437Z" creationid="BRUNA" creationdate="20250912T100148Z">
+        <seg>preparai su camminu de su Sennori,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>raddrizzate i suoi sentieri&lt;t0/&gt;,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20250912T101144Z" creationid="BRUNA" creationdate="20250912T101144Z">
+        <seg>aderetzai </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
