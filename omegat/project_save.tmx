@@ -44,6 +44,14 @@
         <seg>issu t'at a aprontai su caminu</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>preparate la strada del Signore,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20250912T100148Z" creationid="BRUNA" creationdate="20250912T100148Z">
+        <seg>preparai su caminu de su Sennori</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
