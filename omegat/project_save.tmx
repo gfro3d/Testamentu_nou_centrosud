@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Ed essi, lasciato il loro padre Zebedèo sulla barca con i garzoni, lo seguirono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20250914T130546Z" creationid="BRUNA" creationdate="20250914T130546Z">
+        <seg>E issus, lassau a Zebedeu su babbu in sa barca cun is </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Marco</seg>
       </tuv>
       <tuv lang="sc" changeid="Gianfranco" changedate="20250910T223145Z" creationid="Gianfranco" creationdate="20250910T223145Z">
