@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Sei venuto a rovinarci!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20250914T152710Z" creationid="BRUNA" creationdate="20250914T152710Z">
+        <seg>Ses bènniu a si spèrdiri/arroinai!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>egli ti preparerà la strada.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20250912T091243Z" creationid="BRUNA" creationdate="20250912T091243Z">
