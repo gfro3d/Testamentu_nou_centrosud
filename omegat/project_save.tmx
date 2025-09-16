@@ -136,8 +136,8 @@
       <tuv lang="it">
         <seg>Esci da quell'uomo». &lt;t9/&gt;26&lt;t10/&gt; E lo spirito immondo, straziandolo e gridando forte, uscì da lui. &lt;t11/&gt;27&lt;t12/&gt; Tutti furono presi da timore, tanto che si chiedevano a vicenda: «Che è mai questo?</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20250916T054716Z" creationid="BRUNA" creationdate="20250914T155358Z">
-        <seg>E su spiridu malu, trumentedi·ddu e aboxinendi a forti ndi esseit a foras. Fiant totus intimorigiaus, tantis chi si pregontànt apari: " Ita cosa est?</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20250916T073511Z" creationid="BRUNA" creationdate="20250914T155358Z">
+        <seg>E su spìridu malu, trumentedi·ddu e aboxinendi a forti ndi esseit a foras. Fiant totus intimorigiaus, tantis chi si pregontànt apari: " Ita cosa est?</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,14 +162,6 @@
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20250915T103205Z" creationid="BRUNA" creationdate="20250914T152710Z">
         <seg>Ses bènniu a si portai a sa perditzioni?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="it">
-        <seg>Una dottrina nuova insegnata con autorità.</seg>
-      </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20250915T110013Z" creationid="BRUNA" creationdate="20250914T155640Z">
-        <seg>Ita dotrina noa est custa chi cun autoridadi cumandat fintzas a is spiridus malus e ddi ponint menti!</seg>
       </tuv>
     </tu>
     <tu>
