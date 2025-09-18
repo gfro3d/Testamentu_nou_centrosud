@@ -40,8 +40,8 @@
       <tuv lang="it">
         <seg>2,1&lt;t0/&gt; Ed entrò di nuovo a Cafarnao dopo alcuni giorni.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20250918T074749Z" creationid="giuan" creationdate="20250916T085301Z">
-        <seg> Ea pustis de unas cantu diis Gesùs torreit a intrai a Cafàrna </seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20250918T075621Z" creationid="giuan" creationdate="20250916T085301Z">
+        <seg> E a pustis de unas cantu diis Gesùs torreit a intrai a Cafàrna </seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +82,14 @@
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20250912T095955Z" creationid="BRUNA" creationdate="20250912T093337Z">
         <seg>Boxi de unu chi aboxinat in su desertu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>3&lt;t0/&gt; Si recarono da lui con un paralitico portato da quattro persone. &lt;t1/&gt;4&lt;t2/&gt; Non potendo però portarglielo innanzi, a causa della folla, scoperchiarono il tetto nel punto dov'egli si trovava e, fatta un'apertura, calarono il lettuccio su cui giaceva il paralitico. &lt;t3/&gt;5&lt;t4/&gt; Gesù, vista la loro fede, disse al paralitico: «Figliolo, ti sono rimessi i tuoi peccati».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20250918T083352Z" creationid="BRUNA" creationdate="20250918T083352Z">
+        <seg>E cuatru personis fiant andadas anca fiat issu carrighendi unu màrturu. Sigomenti no si podiant acostiai a Gesùs, po nexi de sa truma, nd'iant scovecau sa crobetura insoru innui fiat issu e obertu unu giassu nci calant sa letera cun su màrturu. Gesùs, biendi sa fidi insoru, nareit a su màrturu: "Fillu miu, is pecaus tuus funt perdonaus". </seg>
       </tuv>
     </tu>
     <tu>
