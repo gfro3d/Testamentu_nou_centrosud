@@ -144,8 +144,8 @@
       <tuv lang="it">
         <seg>4&lt;t0/&gt; si presentò Giovanni a battezzare nel deserto, predicando un battesimo di conversione per il perdono dei peccati. &lt;t1/&gt;5&lt;t2/&gt; Accorreva a lui tutta la regione della Giudea e tutti gli abitanti di Gerusalemme.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20250915T083815Z" creationid="BRUNA" creationdate="20250912T104521Z">
-        <seg>Giuanni su Batista fiat in su desertu  predichendi unu batiari de cunversioni/pentimentu po su perdonu de is pecaus. Aprobiàt/acudiat a innui fiat issu totu sa regioni de sa Giudea e totu is de Gerusalemme.</seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20250922T080351Z" creationid="BRUNA" creationdate="20250912T104521Z">
+        <seg>Giuanni su Batista fiat in su desertu  predichendi unu batiari de cunversioni/arrepentimentu po su perdonu de is pecaus. Acudiat a innui fiat issu totu sa regioni de sa Giudea e totu is de Gerusalemme,</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,8 +328,8 @@
       <tuv lang="it">
         <seg>raddrizzate i suoi sentieri&lt;t0/&gt;,</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20250915T082736Z" creationid="BRUNA" creationdate="20250912T101144Z">
-        <seg>aparixai/aderetzai is moris/àndalas suus,</seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20250922T075941Z" creationid="BRUNA" creationdate="20250912T101144Z">
+        <seg>aderetzai is àndalas suas,</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
