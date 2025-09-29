@@ -98,3 +98,6 @@ secondo	cunforma
 spiegava	spricàt
 senapa	alaussa
 ortaggi	ortalìtzia
+stelo	canna
+mietitura	s'ora de messai	su tempus de messai
+pronto	cumpriu
