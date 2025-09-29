@@ -101,3 +101,5 @@ ortaggi	ortalìtzia
 stelo	canna
 mietitura	s'ora de messai	su tempus de messai
 pronto	cumpriu
+Fate attenzione	Ponei atentzioni	Donai a cura/Giai a cura
+misura	medida
