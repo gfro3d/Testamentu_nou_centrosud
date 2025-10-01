@@ -328,8 +328,8 @@
       <tuv lang="it">
         <seg>C'erano anche altre barche con lui. &lt;t3/&gt;37&lt;t4/&gt; Nel frattempo si sollevò una gran tempesta di vento e gettava le onde nella barca, tanto che ormai era piena. &lt;t5/&gt;38&lt;t6/&gt; Egli se ne stava a poppa, sul cuscino, e dormiva.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251001T100413Z" creationid="giuan" creationdate="20250929T080429Z">
-        <seg>E lassendi sa truma dde genti, ndi dd’iant pigau cun issus aici comenti fiat, in sa barca. Ddoi aiat fintzas àteras barcas impari a sa sua. Si ndi peseit insaras una grandu traschia/frusada de bentu chi nci ghetàt is undas a sa barca, tantis chi sa barca fiat agiumai prena de àcua.  </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20251001T100748Z" creationid="giuan" creationdate="20250929T080429Z">
+        <seg>E lassendi sa truma dde genti, ndi dd’iant pigau cun issus aici comenti fiat, in sa barca. Ddoi aiat fintzas àteras barcas impari a sa sua. Si ndi peseit insaras una grandu traschia de bentu chi nci ghetàt is undas a sa barca, tantis chi sa barca fiat agiumai prena de àcua.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Il vento cessò e vi fu grande bonaccia. &lt;t9/&gt;40&lt;t10/&gt; Poi disse loro: «Perché siete così paurosi?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251001T100556Z" creationid="giuan" creationdate="20251001T100556Z">
+        <seg> Issu scidendi si ndi, iat certau su bentu e dd’iat narau a su mari: «Asselia·tì e citi·tì a sa muda!». Su bentu si fiat firmau e lompeit una grandu bonantza. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Io so chi tu sei: il santo di Dio». &lt;t7/&gt;25&lt;t8/&gt; E Gesù lo sgridò: «Taci!</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20250922T100033Z" creationid="BRUNA" creationdate="20250914T152856Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20250916T090536Z" creationid="Gianfranco" creationdate="20250910T223145Z">
         <seg>Marcu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Non avete ancora fede?». &lt;t11/&gt;41&lt;t12/&gt; E furono presi da grande timore e si dicevano l'un l'altro: «Chi è dunque costui, al quale anche il vento e il mare obbediscono?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251001T100702Z" creationid="giuan" creationdate="20251001T100702Z">
+        <seg>Luegus ddis nareit «Poit’est chi seis timoriosus aici? No ndi teneis ancora fidi?».E ddis pigat una timoria manna e si narant de pari a pari «E chini at a èssiri custu, a chini fintzas su bentu e su mari ponint menti?».</seg>
       </tuv>
     </tu>
     <tu>
