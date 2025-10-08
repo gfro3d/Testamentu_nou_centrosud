@@ -149,3 +149,7 @@ infranto	struncau
 Giunsero	Arribbaus	Lòmpius
 Strepito	Atropèlliu	Avolotu
 Carpentiere	Fusteri	Maistu de linna
+Viaggio	Biaxi	Viàgiu, Caminu
+Re	Rei	Urrei
+Giuramento	Giura	Giuramentu; Promissa
+Guardia	Buginu	Guàrdia
