@@ -376,8 +376,8 @@
       <tuv lang="it">
         <seg>53&lt;t0/&gt; Compiuta la traversata, approdarono e presero terra a Genèsaret. &lt;t1/&gt;54&lt;t2/&gt; Appena scesi dalla barca, la gente lo riconobbe, &lt;t3/&gt;55&lt;t4/&gt; e accorrendo da tutta quella regione cominciarono a portargli sui lettucci quelli che stavano male, dovunque udivano che si trovasse. &lt;t5/&gt;56&lt;t6/&gt; E dovunque giungeva, in villaggi o città o campagne, ponevano i malati nelle piazze e lo pregavano di potergli toccare almeno la frangia del mantello; e quanti lo toccavano guarivano.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251008T151528Z" creationid="BRUNA" creationdate="20251008T151528Z">
-        <seg>Acabbada sa traessada iant aprodau in Genèsaret . 54 No ndi fiant mancu calaus de sa barca chi sa genti iat connotu deretu a Gesùs, 55 e iant incumentzau a aproillai de totu sa regioni e a nci ddi portai is màrturus, in is lètigas insoru, in calisisiat logu chi intendiant chi fessit issu. 56 E a ònnia logu chi lòmpiat, biddas, tzitadis o sartu chi fessit, ndi bogànt is malàdius a is pratzas e ddu impetrant/pregànt a ddis fàiri tocai assumancu s’oru de su manteddu, e is chi ddu tocànt fiant sànaus.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20251009T141504Z" creationid="BRUNA" creationdate="20251008T151528Z">
+        <seg>Acabbada sa traessada iant aprodau in Genèsaret . 54 No ndi fiant mancu calaus de sa barca chi sa genti iat connotu deretu a Gesùs, 55 e iant incumentzau a aproillai de totu sa regioni e a nci ddi portai is màrturus, in is lètigas insoru, in calisisiat logu chi intendiant chi fessit issu. 56 E a ònnia logu chi lòmpiat, biddas, tzitadis o sartu chi fessit, ndi bogànt is malàdius a is pratzas e ddu impetrant/pregànt a ddis fàiri tocai assumancu s’oru de su manteddu, e is chi ddu tocànt fiant sanaus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +394,14 @@
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251009T065800Z" creationid="BRUNA" creationdate="20250918T084028Z">
         <seg>6 Sètzius innia ddoi fiant unus cantu scribas chi in coru insoru megànt de pensai: 7 "Poita chistionat aici custu? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,1&lt;t0/&gt; Allora si riunirono attorno a lui i farisei e alcuni degli scribi venuti da Gerusalemme. &lt;t1/&gt;2&lt;t2/&gt; Avendo visto che alcuni dei suoi discepoli prendevano cibo con mani immonde, cioè non lavate - &lt;t3/&gt;3&lt;t4/&gt; i farisei &lt;t5/&gt;infatti e tutti i Giudei non mangiano se non si sono lavate le mani fino al gomito, attenendosi alla tradizione degli antichi, &lt;t6/&gt;4&lt;t7/&gt; e tornando dal mercato non mangiano senza aver fatto le abluzioni, e osservano molte altre cose per tradizione, come lavature di bicchieri, stoviglie e oggetti di rame - &lt;t8/&gt;5&lt;t9/&gt; quei farisei e scribi lo interrogarono: «Perché i tuoi discepoli non si comportano secondo la tradizione degli antichi, ma prendono cibo con mani immonde?». &lt;t10/&gt;6&lt;t11/&gt; Ed egli rispose loro: «Bene ha profetato Isaia di voi, ipocriti, come sta scritto:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251009T141742Z" creationid="giuan" creationdate="20251009T141742Z">
+        <seg>7,1 Insaras is fariseus e unus cantu scribas lòmpius de Gerusalemmi si fiant atobiaus anche issu. 2  E biendi chi unus cantu discipulus de Gesùs pigànt sa cosa de papai cun is manus brutas, est a narai chene si dd’as ai sciacuadas,3 ca is fariseus e totu is Giudeus no papànt chene si sciacuai is manus fintzas a su cùidu, cunforma a su chi narat su connotu de is mannus insoru,e furriendi de su mercau no papant antis de si purificai cun s’àcua, e sighint àterus impòsitus meda de is antigus, comenti su de sciacuai is tassas, su strexu e is trastus de arràmini. 5 Cussus fariseus e scribas, duncas, ddi preguntànt: «Poit’est chi is discipulus tuus no sighint cunforma a su connotu e papànt chene si samunai is manus?». Gesùs ddis iat arrespustu: «Isaia at profetau beni de bosàterus, ipòcritas, comenti est scritu:   </seg>
       </tuv>
     </tu>
     <tu>
@@ -730,8 +738,8 @@
       <tuv lang="it">
         <seg>Marco</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251007T125312Z" creationid="Gianfranco" creationdate="20250910T223145Z">
-        <seg>Marc</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20251009T141328Z" creationid="Gianfranco" creationdate="20250910T223145Z">
+        <seg>Mar</seg>
       </tuv>
     </tu>
     <tu>
