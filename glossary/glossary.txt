@@ -299,3 +299,6 @@ cacciati tutti fuori	boghendi·nci totus a foras
 bambina	pipia	piciochedda
 alzati	pesati·ndi
 fanciulla	piciochedda	pipia
+è morta	s'est morta
+sii guarita	sanada siast
+impaurita e tremante	timendi e tremendi
