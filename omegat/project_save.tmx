@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Avete il cuore indurito? &lt;t7/&gt;18&lt;t8/&gt; &lt;t9/&gt;Avete occhi e non vedete, avete orecchi e non udite&lt;t10/&gt;?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251014T064832Z" creationid="BRUNA" creationdate="20251014T064832Z">
+        <seg>Su coru intostau/tostau portais? 18 Portais ogus e no bieis, portais origas e no intendeis?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Bestemmia!</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20250918T084143Z" creationid="BRUNA" creationdate="20250918T084143Z">
@@ -659,6 +667,14 @@
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251008T142303Z" creationid="BRUNA" creationdate="20251008T142303Z">
         <seg>In medas ascurtànt e nd’abarrànt spantaus e narànt: «De innui ndi benint custas ideas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E non vi ricordate, &lt;t11/&gt;19&lt;t12/&gt; quando ho spezzato i cinque pani per i cinquemila, quante ceste colme di pezzi avete portato via?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251014T064902Z" creationid="BRUNA" creationdate="20251014T064902Z">
+        <seg>E no bosi arregordat, 19 ca apu partziu cincu panis po ddu spartziri in cincumilla, cantu cadinus prenus si nd’eis pigau avatu? »</seg>
       </tuv>
     </tu>
     <tu>
@@ -796,6 +812,22 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251010T070701Z" creationid="BRUNA" creationdate="20251008T150054Z">
         <seg>E issus ddi preguntant: «Andaus nosu a comporai duxentus dinaris de pani po ddis donai a papai?». 38 Gesùs però iat narau: «Pani cantu ndi teneis? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Gli dissero: «Dodici». &lt;t13/&gt;20&lt;t14/&gt; «E quando ho spezzato i sette pani per i quattromila, quante sporte piene di pezzi avete portato via?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251014T065007Z" creationid="BRUNA" creationdate="20251014T065007Z">
+        <seg> E ddi arrespundint «Doxi». 20 «E candu apu partziu is seti panis de spartziri in cuatrumilla, cantu cadinus prenus nd’eis pigaus?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Gli dissero: «Sette». &lt;t15/&gt;21&lt;t16/&gt; E disse loro: «Non capite ancora?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251014T065032Z" creationid="BRUNA" creationdate="20251014T065032Z">
+        <seg>Dd’arrespundint: «Seti». 21 E ddis narat: «Ancora no cumprendeis?».</seg>
       </tuv>
     </tu>
     <tu>
