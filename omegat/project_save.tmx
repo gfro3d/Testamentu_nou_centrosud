@@ -881,6 +881,22 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Fino a quando dovrò sopportarvi?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251014T105749Z" creationid="giuan" creationdate="20251014T105749Z">
+        <seg>Fintzas a candu s’apu a dèpiri baliai?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Fino a quando starò con voi?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251014T105729Z" creationid="giuan" creationdate="20251014T105729Z">
+        <seg>19 Issu insaras ddis arrespundit: «O generatzioni scrètia/chene fidi! Fintzas a candu apu a abarrai cun bosàterus?  Betei mi·nde·ddu a innoi ». </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Gesù andava attorno per i villaggi, insegnando.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251008T142933Z" creationid="BRUNA" creationdate="20251008T142933Z">
@@ -923,8 +939,8 @@
       <tuv lang="it">
         <seg>Ho detto ai tuoi discepoli di scacciarlo, ma non ci sono riusciti». &lt;t9/&gt;19&lt;t10/&gt; Egli allora in risposta, disse loro: «O generazione incredula!</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251014T105407Z" creationid="giuan" creationdate="20251014T105407Z">
-        <seg>eApu pediu a is discipulus tuus a nci ddu bogai ma no nci funt arrennèscius».</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20251014T105710Z" creationid="giuan" creationdate="20251014T105407Z">
+        <seg>Apu pediu a is discipulus tuus a nci ddu bogai ma no nci funt arrennèscius».</seg>
       </tuv>
     </tu>
     <tu>
