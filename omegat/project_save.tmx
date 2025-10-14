@@ -505,8 +505,8 @@
       <tuv lang="it">
         <seg>42&lt;t0/&gt; Chi scandalizza uno di questi piccoli che credono, è meglio per lui che gli si metta una macina da asino al collo e venga gettato nel mare. &lt;t1/&gt;43&lt;t2/&gt; Se la tua mano ti scandalizza, tagliala: è meglio per te entrare nella vita monco, che con due mani andare nella Geenna, nel fuoco inestinguibile. &lt;t3/&gt;44&lt;t4/&gt;  &lt;t5/&gt;45&lt;t6/&gt; Se il tuo piede ti scandalizza, taglialo: è meglio per te entrare nella vita zoppo, che esser gettato con due piedi nella Geenna. &lt;t7/&gt;46&lt;t8/&gt;  &lt;t9/&gt;47&lt;t10/&gt; Se il tuo occhio ti scandalizza, cavalo: è meglio per te entrare nel regno di Dio con un occhio solo, che essere gettato con due occhi nella Geenna, &lt;t11/&gt;48&lt;t12/&gt; dove &lt;t13/&gt;il loro verme non muore e il fuoco non si estingue&lt;t14/&gt;. &lt;t15/&gt;49&lt;t16/&gt; Perché ciascuno sarà salato con il fuoco. &lt;t17/&gt;50&lt;t18/&gt; Buona cosa il sale; ma se il sale diventa senza sapore, con che cosa lo salerete?</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251014T112249Z" creationid="giuan" creationdate="20251014T112249Z">
-        <seg>42 Chini est de scàndulu a unu de custus piticus chi creint a mei, mellus est po issu chi ddi pongant una mola de molenti a su tzugu e a nci ddu ghetai a mari.43 Chi sa manu tua t’ofendit, segati nde dda: mellus est po tui a intrai in sa vida manuncau/smanau chi no a nci intrai cun duas manus a s’inferru/sa Geena, a su fogu chi no si ndi studat. (44)  45 Chi su pei tuu t’ofendit, segati nde ddu: mellus est po tui a intrai in sa vida tzopu chi no a ti nci ghetai a sa Geenna/s’inferrru cun totu a is duus peis. 46 (….) 47 Chi s’ogu tuu t’ofendit, bogati nde ddu , mellus est po tui a intrai in su rennu de Deus bisogu chi no a nci èssiri ghetau cun duus ogus a s’inferru/a sa Geenna, 48 innui su brèmini issoru no si morit e su fogu no si ndi studat.49 Ca ònniunu at a èssiri saliu a fogu. 50 Su sali est cosa bona/Bonu su sali, chi però su sali si furriat sciapidu/bambu, cun ita est chi dd’eis a cundiri? </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20251014T112916Z" creationid="giuan" creationdate="20251014T112249Z">
+        <seg>42 Chini est de scàndulu a unu de custus piticus chi creint a mei, mellus est po issu chi ddi pongant una mola de molenti a su tzugu e a nci ddu ghetai a mari.43 Chi sa manu tua t’ofendit, segati nde dda: mellus est po tui a intrai in sa vida manuncauchi no a nci intrai cun duas manus a s’inferru, a su fogu chi no si ndi studat. (44)  45 Chi su pei tuu t’ofendit, segati nde ddu: mellus est po tui a intrai in sa vida tzopu chi no a ti nci ghetai a s’inferrru cun totu a is duus peis. 46 (….) 47 Chi s’ogu tuu t’ofendit, bogati nde ddu , mellus est po tui a intrai in su rennu de Deus bisogu chi no a nci èssiri ghetau cun duus ogus a s’inferru/a sa Geenna, 48 innui su brèmini issoru no si morit e su fogu no si ndi studat.49 Ca ònniunu at a èssiri saliu a fogu. 50 Su sali est cosa bona, chi però su sali si furriat sciapidu, cun ita est chi dd’eis a cundiri? </seg>
       </tuv>
     </tu>
     <tu>
@@ -635,6 +635,14 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251014T105107Z" creationid="giuan" creationdate="20251014T105107Z">
         <seg>9 Comenti nd’abasciànt de monti ddus iat pretzetaus a no contai a nemus su chi iant bistu, chi no a pustis de ndi torrai/arrisuscitai su Fillu de s’òmini de is mortus. 10 E issus iant postu menti, preguntendi·sì però ita iat a bòlliri narai a arresuscitai de is mortus. 11 E dd’iant preguntau: «Poit’est chi is scribas narant chi innantis dèpit bènniri Elias?». 12 E Gesùs ddis iat arrespostu: «Eja, a innantis bènit Elia e torrat totu a nou. E poita est chi ddoi est scritu ca su Fillu de s’òmini depit patiri meda e èssiri dispretziau? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Abbiate sale in voi stessi e siate in pace gli uni con gli altri».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251014T112331Z" creationid="giuan" creationdate="20251014T112331Z">
+        <seg>Circai de tènniri sali in bosàterus etotu e eis a biviri in paxi is unus cun is àterus».</seg>
       </tuv>
     </tu>
     <tu>
