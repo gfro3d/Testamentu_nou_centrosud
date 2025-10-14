@@ -24,9 +24,16 @@
       <tuv lang="it">
         <seg>10&lt;t0/&gt; Salì poi sulla barca con i suoi discepoli e andò dalle parti di Dalmanùta.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251014T064038Z" creationid="BRUNA" creationdate="20251014T064038Z">
-        <seg>E nci ddus iat dispidius.
-10 Nci fiat pesau luegus a sa barca cun is discipulus e fiat andau a sa regioni de Dalmanùta.</seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251014T064155Z" creationid="BRUNA" creationdate="20251014T064038Z">
+        <seg>10 Nci fiat pesau luegus a sa barca cun is discìpulus e fiat andau a sa regioni de Dalmanùta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11&lt;t0/&gt; Allora vennero i farisei e incominciarono a discutere con lui, chiedendogli un segno dal cielo, per metterlo alla prova. &lt;t1/&gt;12&lt;t2/&gt; Ma egli, traendo un profondo sospiro, disse: «Perché questa generazione chiede un segno?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251014T064334Z" creationid="BRUNA" creationdate="20251014T064334Z">
+        <seg>11 Si fiant presentaus insaras is fariseus e iant cumentzau a arrexonai cun issu, pedendi·ddi unu sinnu de is celus po ddu pònniri a prova/tenteai. 12 Issu però, cun unu susprexu longu, ddis iat narau «Poit’est chi custa generatzioni/custu eredeu pedit/circat sinnus/sinnalis?</seg>
       </tuv>
     </tu>
     <tu>
@@ -797,6 +804,14 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251007T134714Z" creationid="giuan" creationdate="20251001T100556Z">
         <seg> Issu scidendi si ndi, iat certau su bentu e dd’iat narau a su mari: «Asselia·tì e citi·tì a sa muda!». Su bentu si fiat firmau e fiat lòmpia una grandu bonantza. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>In verità vi dico: non sarà dato alcun segno a questa generazione». &lt;t3/&gt;13&lt;t4/&gt; E lasciatili, risalì sulla barca e si avviò all'altra sponda.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251014T064455Z" creationid="BRUNA" creationdate="20251014T064455Z">
+        <seg>In beridadi bosi naru: perunu sinnu/sinnali at a èssiri donau a custu eredeu/custa generatzioni.13 E lassaus chi ddus iat, nci fiat torrau a pesai a sa barca e si ndi fiat andau/partiu a s’ateru oru de mari.</seg>
       </tuv>
     </tu>
     <tu>
