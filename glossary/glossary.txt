@@ -1,36 +1,15 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
-Ecco	Alloddu	Mirai
-fiume	arriu	frùmini
-cintura	singeddu	cintroxa, lumbus est prus sa parti de a palas
-degno	dìnniu	dinnu
-Spirito	Spìridu	Spìritu
-venne	fiat lòmpiu	lompeit
-vangelo	evangèliu
 riassettare	assetiai	it. rassettare, fr. arranger, sp. remmendar
-spirito	spìridu
-pregava	pregàt	in it./sp/ fr non ponet su verbu gerundiu ne inditat un'atzioni chi est cumpria in cussu momentu
-venuto	bènniu	s'assegurai de imperai sempri custu
-parola	paràula	fueddu; verbu in su Contu
 paralitico	màrturu
-folla	truma	trumma
 lettuccio	letera	lètiga, lètia
-uomo	òmini
 glorificare	alabantzai	allabantzai; alabai
 discepolo	discipulu
 pubblicani	pubblicanus
 discepoli	discìpulus	scientis
 chiamare	circai   (ca Gesùs est circhendi is discìpulus)
-otri	urdis	udris
-come	comenti
 messagero	nùntziu
 messaggero	nùntziu
 davanti a te	ananti tuu
-strada	caminu
-a lui	a innui fiat issu
-degno	dinnu
-Spirito	Spirìdu
-Inizio	Cumintzu
-preparate	preparai	apariciai
 raddrizzate	aparixai	aderetzai
 sentieri	àndalas	moris
 predicando	predichendi
@@ -39,94 +18,54 @@ conversione	cunversioni	pentimentu
 Accorreva	acudiat	aprobiàt
 Dopo di me	infatu miu
 sciogliere	scapiai
-legacci	corrias
-sandali	sàndulus
-cielo	celus
 prediletto	prus stimau
 compiaciuto	cumpraxu
 sospinse	impertu
-tentato	tenteau
-satana	satanassu
-angeli	àngiulus
 quaranta	coranta
 Subito dopo	luegus
 arrestato	tentu
 compiuto	cumpriu
-regno	rennu
-vicino	acanta
 convertitevi	cunvertei·sì
-credete	ponei fidi
-subito	in deretura	deretu
 riassettavano	assetiendi
-garzoni	giorronaderis
 seguirono	postu infatu
 proprio	etotu	pròpiu
 insegnare	donai imparu	imparu de Gesus
-Taci	Calla·tì a sa muda
-scribi	scribas
 si mise a gridare	si peseit a boxis
 rovinarci	si nci portai a sa perditzioni
 straziandolo	trumentedi·ddu
 strappare	stoddiri
-Vedi	mirai
 permesso	permìtiu
 si trovò nel bisogno	si fiat agatau in su bisòngiu
 i campi di grano	is trigus
-sotto	in su tempus
 i pani dell'offerta	is panis de s'oferta
 il sommo sacerdote	su predi mannu
-sommo	mannu	mannu o majori
 strappare	arrancai	stoddiri
 Perciò	po cussu	tantis chi
-signore	sennori	meri
 inaridita	cancarada	sica in campidanesu si imperat po làngia, asciuta
 inaridita	cancarada	retenta; sica
 guardandoli	ponniri su càstiu
 osservavano	poniant su càstiu
-fianchi	chintzu	lumbus
 al vangelo	in s'avangèliu
 Cafarnao	Cafarnau	Cafàrnau o Cafarnàu?
 permesso	lìtzitu
 Gerusalemme	Gerusulamme
 Gerusalemme	Gerusalemmi
 parabole	paràbbulas	paràbbolas
-regno	rennu	arrènniu, arrennu
 resistere	durai	aguantai
-diranno	ant a narai	ant a ghetai
 annunziava	annuntziàt
 secondo	cunforma
 spiegava	spricàt
-senapa	alaussa
-ortaggi	ortalìtzia
 stelo	canna
 mietitura	s'ora de messai	su tempus de messai
-pronto	cumpriu
 Fate attenzione	Ponei atentzioni	Donai a cura/Giai a cura
-misura	medida
-moggio	moju	imbudu
 l'accolgono	dd'arricint
-parola	paràula	fueddu
-gioia	prexu	dìcia, praxeri
 seminatore	seminadori	massaju
 l'accolgono	dd'acollint	dd'arricint
-perché	aici chi	po chi
-Dodici	Doxi
-radice	arrexinis
-tempesta di vento	traschia	frusada
-a poppa	a pupa	in pupa?
 Iscariota	Iscariòtu	Iscariota
 si ribella	s'arrebbellat	si furriat
-Chi ha orecchi per intendere intenda	Ascurti chini portat origas po ascurtai	Intendat chini portat origas po intendiri
-pietre	arrocas	perdas
 messo in luce	scoviau	postu a craru
-Giàiro	Giàiru	Jàiru
-Diceva	creiat	pensàt
 si voltò	si fiat furriau
-fede	fidi
-attorno	a fùrriu
-sii	siast
 emorragia	pèrdiri sànguni
-medici	mèigus
 vantaggio	profetu
 peggiorando	andendi de mali in peus
 alle sue spalle	a palas de issu
@@ -134,15 +73,9 @@ l'indemoniato	su spiridau
 misericordia	làstima
 proclamare	annuntziai
 si precipitò	nci fiat spentumau
-scongiuro	pedu	domandu
 non tormentarmi!	no mi trumentis!
-spirito immondo	spìridu malu
-sepolcri	tumbas	sepulcrus
-catene	cadenas
-ceppi	trabas
 si percuoteva	pistendi·sì	ferrendi·sì
 Che hai tu in comune con me	Lassa·mì in paxi	Ita ses circhendi·mì
-timore	timoria
 al quale	a chini
 obbediscono	ponint menti
 infranto	struncau
@@ -150,75 +83,37 @@ Giunsero	Arribbaus	Lòmpius
 Strepito	Atropèlliu	Avolotu
 Carpentiere	Fusteri	Maistu de linna
 Viaggio	Biaxi	Viàgiu, Caminu
-Re	Rei	Urrei
 Giuramento	Giura	Giuramentu; Promissa
-Guardia	Buginu	Guàrdia
-lo raccomandava	si ddu pretzetat
 sordomuto	surdu
 pregandolo	preghendi·ddu	impetrendi·ddu
 imporgli	ddi impònniri
-in disparte	aparti
-sospiro	sùlidu
 si sciolse	si ddi fiat snuada
 correttamente	comenti si spetat
 E comandò loro di non dirlo a nessuno	E ddus iat pretzetaus a no narai nudda a nemus
-trovò	iat agatau
 voleva che nessuno lo sapesse	no boliat a ddu sciri nemus
 nascosto	cuau
 figlioletta	fillixedda
 non è bene	no est bonu
 cagnolini	calleddus
-figli	fillus	piciocheddus
 briciole	farinalla
 Per questa tua parola	Po su chi as narau
- Partito di là	De innia
-mondi	in puresa
-dall'uomo	de s'òmini	de sa personi
-uomini	òminis
 intenzioni cattive	intentus malus
 fornicazioni	lussùria
-furti	furas
-omicidi	mortis
-inganno	trassas	traitorias
 calunnia	disfama
-superbia	barrosimini
-stoltezza	machimini
 malvagità	malesa
 adultèri	adultèriu
 cupidigie	asurìmini
 impudicizia	discaru	disonestadi
-invidia	fèngia
-uomo	òmini
 contamina	imbrutat
 Dal di dentro	De aintru
-fogna	latrina	mara, bassa
-perché	ca
 dal di fuori	de parti de foras
-contaminarlo	imbrutai	cundiri
-intendete bene	circai de cumprendiri
-Trascurando	Scabudendi	Lassendi
-osservate	poderais	sigheis
-degli uomini	de is òminis	umanu
 veramente abili	bonus diaderus
-eludere	arrefudai
-tradizione	traditzioni	connotu
-maledice	maleixit	frastimat
 sia messo a morte	siat cundennau a morti
-dichiara	decrarat	narat
-offerta	oferta	donu
-permettete	permiteis	lassais
 annullando	torrendi a nudda
 precetti	pretzetus
 di uomini	umanus	de is òminis
-Invano	Sbòdiu	de badas
-culto	cultu
 mi rendono	mi torrant
-lontano	atesu
-da me	de mei	de mimi
-labbra	larbas
 mi onora	mi torrat onori
-popolo	pòpulu
-venuti	lòmpius	bènnius, arribaus
 traversata	traessada
 approdarono	iant aprodau
 accorrendo	aproillendi
@@ -228,46 +123,26 @@ guarivano	fiant sanaus
 la frangia del mantello	s'oru de su manteddu
 pregavano	pregànt	impetrànt
 indurito	tostau
-stupiti	spramaus	spantaus
-Coraggio	Ànimu	Coràgiu
 non temete	no timais
-cessò	si fiat firmau	si fiat asseliau
-Ordinò	Iat cumandau
-mentre	in s'interis
 li ebbe congedati	nci ddus iat dispidius
-remare	arremai
 fantasma	pantàsima	pantuma
 erano rimasti turbati	si fiant assustraus
-cominciarono a gridare	si ndi fiant pesaus a boxis
 l'ultima parte della notte	a coa de noti
-gruppi	trumixeddas	trupas
-verde	frisca
-ceste	cadinus
-Andate	Baxei
 accorrere	aprobiai	aproillai
 congedali	dispidi·ddus
-come	che	comenti
 solitario	spèrdiu
-tardi	trigadiu
-per	peri
 riposatevi	pasiai·sì
 gli riferirono	dd'iant torrau a contai
-testa	conca
 Giovanni il Battista	Giuanni su Batista
 giuramento	impromissa	giura
 commensali	cumbidaus
-vassoio	safata
 cadavere	corpus
 sepolcro	tumba	sepurcru
 Chiedimi	Pedi·mì
-piacque	ddi fiat agradèssia
 giorno propizio	dii bona
 i grandi	is majoris
 notabili	autoridadis
-a causa	po mori
-lecito	lìtzitu
 sapendolo	connoscendi·ddu
-vigilava	teniat in contu	teniat a càstiu
 perplesso	dudosu
 dai morti	de mesu a is mortus
 miracoli	miràculus
@@ -275,14 +150,9 @@ Elia	Elias	Allias, Elia
 decapitare	degollai
 risuscitato	torrau a biu	arrisuscitau
 era diventato famoso	fiat essiu famau
-si convertisse	si fessit cunvertia	a si cunvertiri
 guarivano	sanànt
 ungevano	ungiant	poniant ollu
-bastone	bàculu
-viaggio	viàgiu	biaxi
 rimanetevi	abitai·ddoi	abarrai·ddoi
-polvere	pruini
-piedi	peis
 testimonianza	testimonia
 insegnando	donendi imparu
 si scandalizzavano	ndi iant tentu scàndulu
@@ -293,97 +163,226 @@ incredulità	pagu fidi
 Ioses	Ioses	Giusepi
 carpentiere	fusteri	maistu de linna
 sapienza	sabidoria
-sabato	sàbudu
 grande stupore	spantu mannu
 cacciati tutti fuori	boghendi·nci totus a foras
 bambina	pipia	piciochedda
-alzati	pesati·ndi
 fanciulla	piciochedda	pipia
-è morta	s'est morta
 sii guarita	sanada siast
 impaurita e tremante	timendi e tremendi
 digiunare	giaunai
-cuce	arrangiat
-toppa	tzàpulu
-strappo	scòrriu
-versa	ghetat
 digiunano	funt giaunendi
 invitati	cumbidaus
-nozze	coja
 Si recarono	andant
 stavano facendo	megànt
-Ora	Immoi
 peccatori	pecadoris
-medico	mèigu
-malati	malàdius
 lo seguì	dd'iat postu in fatu
 li ammaestrava	ddis donàt s'imparu
-banco delle imposte	babgu de is tributus
-Seguimi	Beni cun megus
-Maestro	Su Maistu	Rabbi
-tende	pinnetas	umbragus, barracas
 Si trasfigurò	trasfigurau
 splendenti	arreluxenti
 bianchissime	biancu che nii
 lavandaio	lissieri
 renderle così bianche	torrai innidu aici
-è bello	est una cosa bona
 spavento	timoria
-nube	nui
 li avvolse	ddus iat imboddiaus
 ascoltatelo	ascurtai·ddu
-nessuno	nemus
-posseduto	portat	est possidiu
-muto	mudu
 lo afferra	dd'aferrat
 lo getta	nci ddu scudit
 al suolo	a terra
-schiuma	bogat spuma
 digrigna	tzichirriat	tzacarrat
 si irrigidisce	s'acirdinat
 è possibile	est dabbili
 per	a	po
 ad alta voce	a boxi manna	a boxis
-Credo	Giai creu	Deu creu
 scuotendolo	scutulendi·ddu	santzinendi·ddu
 fortemente	a forti
 se ne uscì.	ndi ddi fiat essiu
 se non con	sceti cun
 preghiera	pregadoria
 scacciarlo	nci ddu bogai
-specie	genia
 in privato	a una parti
-che alcuno lo sapesse	chi dd'epat scipiu nemus	a ddu sciri nemus
 Istruiva	fiat donendi imparu	istrutzionàt
 nelle mani	in is manus
 risusciterà	at a arrisuscitai
 chiedergli spiegazioni	ndi ddi preguntai
-timore	timoria
 accoglie	arricit	aberit is bratzus
-colui	su chi
-nel mio nome	in nòmini miu	a nòmini miu
-Non glielo proibite	No si ddu proibais
 possa parlare male di me	potzat fueddai mali de mei	mi potzat calunniai
 ricompensa	arrecumpènsia
 bicchiere	tassa
- Chiunque	Chini totu
-da bere	a bufai
 scandalizza	est de scàndulu	strunciat, criticat, ofendit, brigat
-meglio	mellus
-salato	saliu
 con il fuoco	a fogu
 senza sapore	bambu	sciapidu
 ciascuno	ònniunu
-cavalo	boga·ti·nde·ddu
 con un occhio solo	bisogu
-Geenna	inferru	Geenna
-con	a
-zoppo	tzopu
 ti scandalizza	t'ofendit
 taglialo	sega·ti·nde·ddu
-monco	manuncau	smanau
-collo	tzugu
 inestinguibile	chi no studat
 lo salerete	dd'eis a cundiri
-Transgiordania	addia de	addei
-paragonare	cumparai	pònniri a pari
+Ecco		Alloddu
+fiume		arriu
+cintura		singeddu
+degno		dìnniu
+Spirito		Spìridu
+venne		fiat lòmpiu
+vangelo		evangèliu
+spirito		spìridu
+pregava		pregàt
+venuto		bènniu
+parola		paràula
+folla		truma
+uomo		òmini
+otri		urdis
+come		comenti cumenti
+strada		caminu
+a lui		a innui fiat issu
+degno		dinnu
+Spirito		Spirìdu
+Inizio		Cumintzu
+preparate	preparai apariciai
+legacci		corrias
+sandali		sàndulus
+cielo		celus
+tentato		tenteau
+satana		satanassu
+angeli		àngiulus
+regno		rennu arrènniu arrennu
+vicino		acanta
+credete		ponei fidi
+subito		in deretura
+garzoni		giorronaderis
+Taci		Calla·tì a sa muda
+scribi		scribas
+Vedi		mirai
+sotto		in su tempus
+sommo		mannu o majori
+signore		sennori
+fianchi		chintzu
+diranno		ant a narai
+senapa		alaussa
+ortaggi		ortalìtzia
+pronto		cumpriu
+misura		medida
+moggio		moju
+parola		paràula
+gioia		prexu
+perché		aici chi, po chi
+Dodici		Doxi
+radice		arrexinis
+tempesta di vento	traschia, frusada
+a poppa		a pupa
+Chi ha orecchi per intendere intenda	Ascurtit chini portat origas po ascurtai Intendat chini portat origas po intendiri
+pietre		arrocas
+Giàiro		Giàiru
+Diceva		creiat
+fede		fidi
+attorno		a fùrriu
+sii		siast
+medici		mèigus
+scongiuro	pedu, domandu
+spirito immondo		spìridu malu
+sepolcri	tumbas,sepulcrus
+catene		cadenas
+ceppi		trabas
+timore		timoria
+Re		Rei
+Guardia		Buginu
+lo raccomandava	si ddu pretzetàt
+in disparte	a parti
+sospiro		sùlidu
+trovò		iat agatau
+figli		fillus
+Partito di là	De innia
+mondi		in puresa
+dall'uomo	de s'òmini, de sa personi
+uomini		òminis
+furti		furas
+omicidi		mortis
+inganno		trassas, traitorias
+superbia	barrosìmini
+stoltezza	machìmini
+invidia		fèngia
+uomo		òmini
+fogna		latrina
+perché		ca
+contaminarlo	imbrutai, cundiri
+intendete bene	circai de cumprèndiri
+Trascurando	Scabudendi, Lassendi
+osservate	poderais, sigheis
+degli uomini	de is òminis, umanu
+eludere		arrefudai
+tradizione	traditzioni, connotu
+maledice	maleixit, frastimat
+dichiara	decrarat, narat
+offerta		oferta
+permettete	permiteis, lassais
+Invano		Sbòdiu
+culto		cultu
+lontano		atesu
+da me		de mei
+labbra		larbas, laras
+popolo		pòpulu
+venuti		lòmpius
+stupiti		spramaus, spantaus
+Coraggio	Ànimu, Coràgiu
+cessò		si fiat firmau
+Ordinò		Iat cumandau
+mentre		in s'interis
+remare		arremai
+cominciarono a gridare	si fiant pesaus a boxis
+gruppi		trumixeddas
+verde		frisca
+ceste		cadinus
+Andate		Baxei
+come		che
+tardi		trigadiu
+per		peri
+testa		conca
+vassoio		safata
+piacque		ddi fiat agradèssia
+a causa		po mori
+lecito		lìtzitu
+vigilava	teniat in contu, teniat a càstiu
+si convertisse	si fessit cunvertia, a si cunvertiri
+bastone		bàculu
+viaggio		viàgiu
+polvere		prùini
+piedi		peis
+sabato		sàbudu
+alzati		pesati·ndi
+è morta		s'est morta
+cuce		arrangiat
+toppa		tzàpulu
+strappo		scòrriu
+versa		ghetat
+nozze		coja
+Ora		Immoi
+medico		mèigu
+malati		malàdius
+banco delle imposte	bangu de is tributus
+Seguimi		Beni cun megus
+Maestro		Su Maistu, Rabbi
+tende		pinnetas, umbragus, barracas
+è bello		est una cosa bona
+nube		nui
+nessuno		nemus
+posseduto	portat,	est possidiu
+muto		mudu
+schiuma		bogat spuma
+Credo		Giai creu, Deu creu
+specie		genia
+che alcuno lo sapesse	chi dd'apat scìpiu nemus, a ddu sciri nemus
+timore		timoria
+colui		su chi
+nel mio nome	in nòmini miu/ a nòmini miu
+Non glielo proibite	No si ddu proibbais
+Chiunque	Chini totu
+da bere		a bufai
+meglio		mellus
+salato		saliu
+cavalo		boga·ti·nde·ddu
+Geenna		inferru
+con		a
+zoppo		tzopu
+monco		manuncau
+collo		tzugu
+Transgiordania	addia de / addei de
+paragonare	cumparai/ pònniri a pari
