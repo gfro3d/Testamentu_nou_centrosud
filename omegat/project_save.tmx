@@ -209,8 +209,8 @@
       <tuv lang="it">
         <seg>21&lt;t0/&gt; Essendo passato di nuovo Gesù all'altra riva, gli si radunò attorno molta folla, ed egli stava lungo il mare. &lt;t1/&gt;22&lt;t2/&gt; Si recò da lui uno dei capi della sinagoga, di nome Giàiro, il quale, vedutolo, gli si gettò ai piedi &lt;t3/&gt;23&lt;t4/&gt; e lo pregava con insistenza: «La mia figlioletta è agli estremi; vieni a imporle le mani perché sia guarita e viva». &lt;t5/&gt;24&lt;t6/&gt; Gesù andò con lui.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251023T062904Z" creationid="BRUNA" creationdate="20251001T153837Z">
-        <seg>21 Gesùs iat atraessau cun sa barca a s'àteru oru de mari e una truma manna de genti si ddoi fiat arregorta a fùrriu. 22 Lòmpit insaras unu de is capus de sa sinagoga, ddi narànt a nòmini Giàiru/Jàiru chi biendi·ddu, si nci ddi ghetat a peis 23 impetrendi e narendi: «Fillixedda mia e morendi·sì; beni a ddi impònniri is manus tuas po dda sanai e abarrit in vida.». 
+      <tuv lang="sc" changeid="giuan" changedate="20251023T140905Z" creationid="BRUNA" creationdate="20251001T153837Z">
+        <seg>21 Gesùs iat atraessau cun sa barca a s'àteru oru de mari e una truma manna de genti si ddoi fiat arregorta a fùrriu, e issu fiat in s’oru de mari.  22 Fiat arribbau insaras unu de is capus de sa sinagoga, ddi narànt a nòmini Giàiru/Jàiru chi biendi·ddu, si nci ddi fiat ghetau a peis 23 impetrendi e narendi: «Fillixedda mia est acanta de si mòrriri; beni a ddi impònniri is manus tuas po dda sanai e po chi abarrit bia». 
 24 Gesùs si ndi fiat andau impari cun issu  </seg>
       </tuv>
     </tu>
@@ -1120,8 +1120,8 @@
       <tuv lang="it">
         <seg>Molta folla lo seguiva e gli si stringeva intorno.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251023T062946Z" creationid="BRUNA" creationdate="20251001T153938Z">
-        <seg> e una truma manna de genti ddu sighiat e si ddi stringiat a fùrriu. </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20251023T141144Z" creationid="BRUNA" creationdate="20251001T153938Z">
+        <seg>e una truma manna de genti ddu sighiat e si ddi stringiat a fùrriu.  27 candu iat intèndiu chistionendi de Gesùs iat postu in fatu a sa truma e lòmpia a palas de issu dd’iat tocau su manteddu; ca creiat/pensàt/si naràt: </seg>
       </tuv>
     </tu>
     <tu>
