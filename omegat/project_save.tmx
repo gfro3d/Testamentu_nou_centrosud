@@ -48,8 +48,8 @@
       <tuv lang="it">
         <seg>11&lt;t0/&gt; Ora c'era là, sul monte, un numeroso branco di porci al pascolo. &lt;t1/&gt;12&lt;t2/&gt; E gli spiriti lo scongiurarono: «Mandaci da quei porci, perché entriamo in essi». &lt;t3/&gt;13&lt;t4/&gt; Glielo permise.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251001T153030Z" creationid="BRUNA" creationdate="20251001T153030Z">
-        <seg>11 Tandus pascendi innia, in su monti, ddoi iat unu tallu mannu de procus.12 E totu is spìridus malus ddu impetreint narendi: «Manda·si·nci anca funt cussus procus po chi nci intreus in issus ». 13 E si ddus iat permìtiu. </seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251023T062615Z" creationid="BRUNA" creationdate="20251001T153030Z">
+        <seg>11 Tandus pascendi innia, in su monti, ddoi iat unu tallu mannu de procus. 12 E totu is spìridus malus ddu impetrànt narendi: «Manda·si·nci anca funt cussus procus po chi nci ddis intreus aintru». 13 E si ddus iat permìtiu. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1351,8 +1351,9 @@
       <tuv lang="it">
         <seg>«Mi chiamo Legione, gli rispose, perché siamo in molti». &lt;t17/&gt;10&lt;t18/&gt; E prese a scongiurarlo con insistenza perché non lo cacciasse fuori da quella regione.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251001T152924Z" creationid="BRUNA" creationdate="20251001T152924Z">
-        <seg>e cuddu dd’iat arrespustu « Legioni mi narant ca seus in medas». 10 E ddu pregheit cun insistèntzia a no nci ddus bogai de cussa regioni.</seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251023T062530Z" creationid="BRUNA" creationdate="20251001T152924Z">
+        <seg>e cuddu dd’iat arrespustu « Legioni mi narant ca seus in medas». 10 E dd’iat pregau meda a no nci ddus bogai de cussa regioni.
+.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
