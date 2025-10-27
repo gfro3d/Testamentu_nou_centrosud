@@ -244,7 +244,7 @@ cielo		celus
 tentato		tenteau
 satana		satanassu
 angeli		àngiulus
-regno		rennu 
+regno		rennu
 vicino		acanta
 credete		ponei fidi
 subito		in deretura
@@ -397,7 +397,9 @@ non aveva da mangiare	chene nudda de papai	no portànt cosa de papai
 sfamarli	po ndi bogai su fàmini	po pràndiri
 portarono via	si ndi fiant pigaus	si ndi iant pigau
 Dalmanùta	Dalmanùta	Dalmanuta?
-con sé		cunsegus	cun issus
+con sé		cunsegus
 Convocata	tzerriendi
 Va' in pace	Bai in paxi
 medici	dotoris
+salvato	sanau	sarvau
+cieco	tzurpu
