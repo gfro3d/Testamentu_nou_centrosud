@@ -339,8 +339,8 @@
       <tuv lang="it">
         <seg>28&lt;t0/&gt; Pietro allora gli disse: «Ecco, noi abbiamo lasciato tutto e ti abbiamo seguito». &lt;t1/&gt;29&lt;t2/&gt; Gesù gli rispose: «In verità vi dico: non c'è nessuno che abbia lasciato casa o fratelli o sorelle o madre o padre o figli o campi a causa mia e a causa del vangelo, &lt;t3/&gt;30&lt;t4/&gt; che non riceva già al presente cento volte tanto in case e fratelli e sorelle e madri e figli e campi, insieme a persecuzioni, e nel futuro la vita eterna. &lt;t5/&gt;31&lt;t6/&gt; E molti dei primi saranno ultimi e gli ultimi i primi».</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251027T113531Z" creationid="giuan" creationdate="20251027T113531Z">
-        <seg>28 Pedru insaras dd’iat narau : «Mira, nosu eus lassau totu e t’eus sighiu/postu in fatu». 29 E Gesùs dd’iat arrespostu: «In beridadi bosi naru: no ddoi at nemus chi apat lassau domu, fradis o sorris o mamma o babbu o fillus o sartus a càusa mia e a càusa de s’evangéliu, 30 chi no at a arriciri giai in tempus de oi centu bortas tantu in domu, fradis e sorris e mammas e fillus e sartus, impari a trumentus, e in su benidori sa vida eterna. 31 E medas de is primus ant a èssiri is ùrtimus e is ùrtimus is primus.».</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20251027T113656Z" creationid="giuan" creationdate="20251027T113531Z">
+        <seg>28 Pedru insaras dd’iat narau : «Mira, nosu eus lassau totu e t’eus sighiu/postu in fatu». 29 E Gesùs dd’iat arrespostu: «In beridadi bosi naru: no ddoi at nemus chi apat lassau domu, fradis o sorris o mamma o babbu o fillus o sartus a càusa mia e a càusa de s’evangéliu, 30 chi no at a arriciri giai in tempus de oi centu bortas tantu in domu, fradis e sorris e mammas e fillus e sartus, impari a trumentus, e in su benidori sa vida eterna. 31 E medas de is primus ant a èssiri is ùrtimus e is ùrtimus is primus».</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +486,14 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251007T131325Z" creationid="BRUNA" creationdate="20250915T072749Z">
         <seg>A mengianu chitzi si ndi fiat pesau, candu fiat ancora scuriu, nci fiat essiu de domu, si ndi fiat andau a unu logu desertu e innia pregàt. Ma Simoni e is chi fiant cun issu dd'iant circau e agatendi·ddu, ddi iant narau: "Totus funt circhendi·ti!" E issu ddis arrespundeit:" "Andeus a is biddas acanta, po predicai innia puru; ca po custu seu bènniu!" E fiat andau  in totu sa Galilea, predichendi in is sinagogas insoru e boghendi·nci is dimònius. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>35&lt;t0/&gt; E gli si avvicinarono Giacomo e Giovanni, i figli di Zebedèo, dicendogli: «Maestro, noi vogliamo che tu ci faccia quello che ti chiederemo». &lt;t1/&gt;36&lt;t2/&gt; Egli disse loro: «Cosa volete che io faccia per voi?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251027T113736Z" creationid="giuan" creationdate="20251027T113736Z">
+        <seg>35 E si fiant acostiaus anche issu Giagu e Giuanni e is fillus de Zebedèu narendi-ddi: «Su Maistu, nosu boleus chi tui fatzas po nosu su chi t’eus a domandai ». 36 E issu ddis iat narau: «E it’est chi boleis a fai deu po basàterus?». </seg>
       </tuv>
     </tu>
     <tu>
@@ -1102,6 +1110,22 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Gli risposero: «Lo possiamo». &lt;t7/&gt;39&lt;t8/&gt; E Gesù disse: «Il calice che io bevo anche voi lo berrete, e il battesimo che io ricevo anche voi lo riceverete. &lt;t9/&gt;40&lt;t10/&gt; Ma sedere alla mia destra o alla mia sinistra non sta a me concederlo; è per coloro per i quali è stato preparato».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251027T114013Z" creationid="giuan" creationdate="20251027T114013Z">
+        <seg>E dd’iant arrespustu: «Podeus». 39 E Gesùs iat narau: «De su càlixi miu eis a bufai bosàterus puru, e bosi ant a batiai cun su matessi batiari miu. 40 Su de sètziri a dereta o a manca mia però no seu deu a ddu podi acansai ca est giai decidiu e chini si ddoi at a sètziri. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Gli risposero: &lt;t3/&gt;37&lt;t4/&gt; «Concedici di sedere nella tua gloria uno alla tua destra e uno alla tua sinistra». &lt;t5/&gt;38&lt;t6/&gt; Gesù disse loro: «Voi non sapete ciò che domandate.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251027T113857Z" creationid="giuan" creationdate="20251027T113857Z">
+        <seg>E dd’iant arrespustu: 37 «Lassa·sì sètziri in sa glòria tua, unu a sa dereta e unu a sa manca tua». 38 Gesùs ddis iat narau : «Bosàterus no scieis su chi seis domande·mì. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Ho detto ai tuoi discepoli di scacciarlo, ma non ci sono riusciti». &lt;t9/&gt;19&lt;t10/&gt; Egli allora in risposta, disse loro: «O generazione incredula!</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251014T105710Z" creationid="giuan" creationdate="20251014T105407Z">
@@ -1287,10 +1311,18 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Potete bere il calice che io bevo, o ricevere il battesimo con cui io sono battezzato?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251027T113930Z" creationid="giuan" creationdate="20251027T113930Z">
+        <seg>Podeis tastai de su càlixi chi deu apu a tastai o arriciri su batiari chi m’at a batiai? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Prendendo di nuovo in disparte i Dodici, cominciò a dir loro quello che gli sarebbe accaduto: &lt;t1/&gt;33&lt;t2/&gt; «Ecco, noi saliamo a Gerusalemme e il Figlio dell'uomo sarà consegnato ai sommi sacerdoti e agli scribi: lo condanneranno a morte, lo consegneranno ai pagani, &lt;t3/&gt;34&lt;t4/&gt; lo scherniranno, gli sputeranno addosso, lo flagelleranno e lo uccideranno; ma dopo tre giorni risusciterà».</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251027T113647Z" creationid="giuan" creationdate="20251027T113647Z">
-        <seg>E pighendi un’àtera borta a una parti is Doxi, iat incumentzau a ddis narai su chi diat a èssiri acontèssiu: 33 «Mirai, seus artziendi-nci a Gerusalemmi e a su Su Fillu de s’òmini dd’ant a intregai a is predis majoris e a is scribas: dd’ant a cundennai a morti, dd’ant a intregai a is paganus, 34 si nd’ant a befai, dd’ant a spudai, dd’ant a aciotai e dd’ant a bociri, a pustis de tres diis però at a arrisuscitai ».</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20251027T113712Z" creationid="giuan" creationdate="20251027T113647Z">
+        <seg>E pighendi un’àtera borta a una parti is Doxi, iat incumentzau a ddis narai su chi diat a èssiri acontèssiu: 33 «Mirai, seus artziendi-nci a Gerusalemmi e a su Su Fillu de s’òmini dd’ant a intregai a is predis majoris e a is scribas: dd’ant a cundennai a morti, dd’ant a intregai a is paganus, 34 si nd’ant a befai, dd’ant a spudai, dd’ant a aciotai e dd’ant a bociri, a pustis de tres diis però at a arrisuscitai».</seg>
       </tuv>
     </tu>
     <tu>
