@@ -408,3 +408,9 @@ Coraggio	toca
 mendicare	pèdiri limòsina
 pietà	làstima
 lo sgridavano	ddu certànt
+Giacomo	Giacu
+servitore	serbidori
+calice	càlixi
+destra	dereta
+sinistra	manca
+concederlo	ddu acansai
