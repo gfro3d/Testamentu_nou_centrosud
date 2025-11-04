@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10&lt;t0/&gt; Benedetto il regno che viene, del nostro padre Davide!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251104T112245Z" creationid="giuan" creationdate="20251104T112245Z">
+        <seg>10 Beneitu siat su rennu chi est benendi, de su babbu nostu Davidi! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10&lt;t0/&gt; Quando poi fu solo, i suoi insieme ai Dodici lo interrogavano sulle parabole.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251007T134220Z" creationid="giuan" creationdate="20250929T075253Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251014T064334Z" creationid="BRUNA" creationdate="20251014T064334Z">
         <seg>11 Si fiant presentaus insaras is fariseus e iant cumentzau a arrexonai cun issu, pedendi·ddi unu sinnu de is celus po ddu pònniri a prova/tenteai. 12 Issu però, cun unu susprexu longu, ddis iat narau «Poit’est chi custa generatzioni/custu eredeu pedit/circat sinnus/sinnalis?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11&lt;t0/&gt; Ed entrò a Gerusalemme, nel tempio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251104T112322Z" creationid="giuan" creationdate="20251104T112322Z">
+        <seg>11 E fiat intrau a Gerusalemmi, a su tèmpiu. </seg>
       </tuv>
     </tu>
     <tu>
@@ -804,6 +820,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Benedetto colui che viene nel nome del Signore&lt;t0/&gt;!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251104T112146Z" creationid="giuan" creationdate="20251104T112146Z">
+        <seg>Beneitu su chi est benendi in nòmini de su Sennori!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Bestemmia!</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20250918T084143Z" creationid="BRUNA" creationdate="20250918T084143Z">
@@ -898,6 +922,14 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251010T055639Z" creationid="giuan" creationdate="20251010T055639Z">
         <seg>E de cosas aici ndi feis medas».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E dopo aver guardato ogni cosa attorno, essendo ormai l'ora tarda, uscì con i Dodici diretto a Betània.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251104T112339Z" creationid="giuan" creationdate="20251104T112339Z">
+        <seg>. E castiendi totu beni a fùrriu, sendi giai tradu, ndi fiat essiu e impari a is Doxi iat fatu conca a Betània.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1342,6 +1374,22 @@
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251016T080631Z" creationid="giuan" creationdate="20250929T075622Z">
         <seg>Si unu portat origas po intèndiri chi intendat!»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Osanna!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251104T112141Z" creationid="giuan" creationdate="20251104T112141Z">
+        <seg>Osanna! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Osanna&lt;t0/&gt; nel più alto dei cieli!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251104T112250Z" creationid="giuan" creationdate="20251104T112250Z">
+        <seg>Osanna in is celus prus artus!</seg>
       </tuv>
     </tu>
     <tu>
