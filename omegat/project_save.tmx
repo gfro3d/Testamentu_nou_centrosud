@@ -1129,8 +1129,8 @@
       <tuv lang="it">
         <seg>Ecco, io mando il mio messaggero davanti a te,</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20250919T075248Z" creationid="BRUNA" creationdate="20250912T085220Z">
-        <seg>Alloddu, deu mandu a su nùntziu miu ananti tuu,  </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20251105T081009Z" creationid="BRUNA" creationdate="20250912T085220Z">
+        <seg>Mira, deu mandu a su nùntziu miu ananti tuu,  </seg>
       </tuv>
     </tu>
     <tu>
@@ -1334,6 +1334,14 @@
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251014T064455Z" creationid="BRUNA" creationdate="20251014T064455Z">
         <seg>In beridadi bosi naru: perunu sinnu/sinnali at a èssiri donau a custu eredeu/custa generatzioni.13 E lassaus chi ddus iat, nci fiat torrau a pesai a sa barca e si ndi fiat andau/partiu a s’ateru oru de mari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Inizio modulo</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251105T081103Z" creationid="giuan" creationdate="20251105T081103Z">
+        <seg>seu mandendi</seg>
       </tuv>
     </tu>
     <tu>
