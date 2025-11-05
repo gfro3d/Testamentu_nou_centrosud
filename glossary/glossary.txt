@@ -494,3 +494,5 @@ un'apertura	trapa	stampu
 lettuccio	stoja
  ti ordino	ti cumandu	ti seu narendi
 otri	udris	urdis
+lecito	litzizu	contras a sa lei
+sommo sacerdote	sacerdotu majori
