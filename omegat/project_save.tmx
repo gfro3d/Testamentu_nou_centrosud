@@ -242,8 +242,8 @@
       <tuv lang="it">
         <seg>18&lt;t0/&gt; Ora i discepoli di Giovanni e i farisei stavano facendo un digiuno.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251009T065220Z" creationid="BRUNA" creationdate="20250918T103418Z">
-        <seg>18 Immoi is discìpulus de Giuanni e is fariseus megant de giaunai.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20251105T085748Z" creationid="BRUNA" creationdate="20250918T103418Z">
+        <seg>18 Tandus is discìpulus de Giuanni e is fariseus megànt de giaunai.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,8 +1630,8 @@
       <tuv lang="it">
         <seg>Si recarono allora da Gesù e gli dissero: «Perché i discepoli di Giovanni e i discepoli dei farisei digiunano, mentre i tuoi discepoli non digiunano?». &lt;t1/&gt;19&lt;t2/&gt; Gesù disse loro: «Possono forse digiunare gli invitati a nozze quando lo sposo è con loro?</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251013T155152Z" creationid="BRUNA" creationdate="20250918T104018Z">
-        <seg>Unus cantu andant anca de Gesùs e ddi narant: "Poita is discìpulus de Giuanni e de is fariseus funt giaunendi e is tuus no?". 19 Gesùs ddis iat narau: "Is cumbidaus a una coja, si su sposu est cun  issus, giaunai podint ? Fintzas a candu su sposu est impari a issus no podint giaunai.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20251105T085859Z" creationid="BRUNA" creationdate="20250918T104018Z">
+        <seg>Unus cantu andant anca fiat Gesùs e ddi narant: "Poita is discìpulus de Giuanni e de is fariseus funt giaunendi e is tuus no?". 19 Gesùs ddis iat narau: "Is cumbidaus a una coja, si su sposu est cun  issus, giaunai podint? Fintzas a candu su sposu est impari a issus no podint giaunai</seg>
       </tuv>
     </tu>
     <tu>
