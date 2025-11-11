@@ -493,7 +493,7 @@ stese	allonghiau	stèrriu
 un'apertura	trapa	stampu
 lettuccio	stoja
  ti ordino	ti cumandu	ti seu narendi
-otri	udris	urdis
+otri	udris	
 lecito	litzizu	contras a sa lei
 sommo sacerdote	sacerdotu majori
 Mettiti nel mezzo	poni·tì in mesu
