@@ -493,7 +493,7 @@ stese	allonghiau	stèrriu
 un'apertura	trapa	stampu
 lettuccio	stoja
  ti ordino	ti cumandu	ti seu narendi
-otri	udris	
+otri	udris
 lecito	litzizu	contras a sa lei
 sommo sacerdote	sacerdotu majori
 Mettiti nel mezzo	poni·tì in mesu
@@ -507,3 +507,4 @@ Se uno ha orecchi per intendere, intenda!	Se uno ha orecchi per intendere, inten
 se	chi	si
 Salì	iat pigau	nci fiat pesau/artziau
 ceppi	trabas	travas/tzipus
+cielo	is celus	celu
