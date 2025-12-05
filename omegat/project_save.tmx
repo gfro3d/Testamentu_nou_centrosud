@@ -846,8 +846,8 @@
       <tuv lang="it">
         <seg>Allora disse loro: «Di chi è questa immagine e l'iscrizione?».</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251205T151131Z" creationid="BRUNA" creationdate="20251205T151131Z">
-        <seg>«Custa faci e custu rètulu/custa iscritzioni de chini funt?».</seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T151309Z" creationid="BRUNA" creationdate="20251205T151131Z">
+        <seg>e ddis iat preguntau: «Custa faci e custu rètulu/custa iscritzioni de chini funt?».</seg>
       </tuv>
     </tu>
     <tu>
@@ -1347,6 +1347,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Gli risposero: «Di Cesare». &lt;t7/&gt;17&lt;t8/&gt; Gesù disse loro: «Rendete a Cesare ciò che è di Cesare e a Dio ciò che è di Dio».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T151514Z" creationid="BRUNA" creationdate="20251205T151514Z">
+        <seg>E dd’iant arrespustu: «De Cèsari». 17 E Gesùs ddis iat narau: «Torrai a Cèsari su chi est de Cèsari e a Deus su chi est de Deus.»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Gli risposero: «Lo possiamo». &lt;t7/&gt;39&lt;t8/&gt; E Gesù disse: «Il calice che io bevo anche voi lo berrete, e il battesimo che io ricevo anche voi lo riceverete. &lt;t9/&gt;40&lt;t10/&gt; Ma sedere alla mia destra o alla mia sinistra non sta a me concederlo; è per coloro per i quali è stato preparato».</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T091124Z" creationid="giuan" creationdate="20251027T114013Z">
@@ -1630,8 +1638,8 @@
       <tuv lang="it">
         <seg>Portatemi un denaro perché io lo veda». &lt;t5/&gt;16&lt;t6/&gt; Ed essi glielo portarono.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251205T151045Z" creationid="BRUNA" creationdate="20251205T151045Z">
-        <seg> Betei·mi  unu dinai/soddu po chi ddu bia». 16 E issus si dd’iant betiu e ddis iat preguntau:</seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T151215Z" creationid="BRUNA" creationdate="20251205T151045Z">
+        <seg>Betei·mi  unu dinai/soddu po chi ddu bia». 16 E issus si dd’iant betiu </seg>
       </tuv>
     </tu>
     <tu>
