@@ -661,8 +661,8 @@
       <tuv lang="it">
         <seg>49&lt;t0/&gt; Allora Gesù si fermò e disse: «Chiamatelo!».</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251027T114311Z" creationid="giuan" creationdate="20251027T114311Z">
-        <seg>49 Insaras Gesùs si fiat firmau e iat narau: «Tzerriai·de·ddu!».</seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T094733Z" creationid="giuan" creationdate="20251027T114311Z">
+        <seg>49 Insaras Gesùs si fiat firmau e iat narau: «Tzerriai·ddu!».</seg>
       </tuv>
     </tu>
     <tu>
@@ -828,14 +828,6 @@
     </tu>
     <tu>
       <tuv lang="it">
-        <seg>Alzati, ti chiama!». &lt;t1/&gt;50&lt;t2/&gt; Egli, gettato via il mantello, balzò in piedi e venne da Gesù. &lt;t3/&gt;51&lt;t4/&gt; Allora Gesù gli disse: «Che vuoi che io ti faccia?».</seg>
-      </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251120T111855Z" creationid="giuan" creationdate="20251027T114435Z">
-        <seg>Pesati·ti·ndi ca est tzerriendi·tì!». 50 Issu, scavulendi·nci su manteddu, cun unu brichidu si ndi fiat strantaxau e fiat andau anca fiat Gesùs. 51 Insaras Gesùs dd’iat narau: «E ita bolis a ti fàiri deu?». </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="it">
         <seg>Andate a vedere».</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251008T150114Z" creationid="BRUNA" creationdate="20251008T150114Z">
@@ -960,8 +952,8 @@
       <tuv lang="it">
         <seg>E chiamarono il cieco dicendogli: «Coraggio!</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251027T114801Z" creationid="giuan" creationdate="20251027T114330Z">
-        <seg>E iant tzèrriau a su tzurpu narendi·ddi: «Toca! </seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T094848Z" creationid="giuan" creationdate="20251027T114330Z">
+        <seg>E iant tzèrriau a su tzurpu narendi·ddi: «Ajò! </seg>
       </tuv>
     </tu>
     <tu>
