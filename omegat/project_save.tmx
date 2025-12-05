@@ -862,7 +862,7 @@
       <tuv lang="it">
         <seg>Benedetto colui che viene nel nome del Signore&lt;t0/&gt;!</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251104T112146Z" creationid="giuan" creationdate="20251104T112146Z">
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T102715Z" creationid="giuan" creationdate="20251104T112146Z">
         <seg>Beneitu su chi est benendi in nòmini de su Sennori!</seg>
       </tuv>
     </tu>
@@ -1492,8 +1492,8 @@
       <tuv lang="it">
         <seg>Osanna!</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251126T090114Z" creationid="giuan" creationdate="20251104T112141Z">
-        <seg>Osanna in is celus prus artus! </seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T102700Z" creationid="giuan" creationdate="20251104T112141Z">
+        <seg>Osanna! </seg>
       </tuv>
     </tu>
     <tu>
