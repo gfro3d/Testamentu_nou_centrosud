@@ -1824,8 +1824,8 @@
       <tuv lang="it">
         <seg>Siedi alla mia destra,</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251205T153231Z" creationid="BRUNA" creationdate="20251205T153231Z">
-        <seg>Setzi a manu dereta mia</seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T153332Z" creationid="BRUNA" creationdate="20251205T153231Z">
+        <seg>Setzi a manu dereta mia,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1886,6 +1886,15 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>come sgabello ai tuoi piedi&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T153530Z" creationid="BRUNA" creationdate="20251205T153530Z">
+        <seg>che a scannu asuta de is peis/peis tuus.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>ed è mirabile agli occhi nostri&lt;t0/&gt;»?</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T150406Z" creationid="BRUNA" creationdate="20251205T150406Z">
@@ -1899,6 +1908,14 @@
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251128T160312Z" creationid="BRUNA" creationdate="20250912T091243Z">
         <seg>issu t'at a aprontai su caminu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>finché io ponga i tuoi nemici</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T153502Z" creationid="BRUNA" creationdate="20251205T153502Z">
+        <seg> fintzas chi no apu a pònniri is nemigus tuus </seg>
       </tuv>
     </tu>
     <tu>
