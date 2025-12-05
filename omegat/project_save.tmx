@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12&lt;t0/&gt; Allora cercarono di catturarlo, ma ebbero paura della folla; avevano capito infatti che aveva detto quella parabola contro di loro.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T150452Z" creationid="BRUNA" creationdate="20251205T150452Z">
+        <seg> Insaras iant circau de ddu tènniri ma iant timiu sa genti; iant cumprèndiu, difatis, ca fiat po issus chi iat contau cussa paràbula. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12&lt;t0/&gt; La mattina seguente, mentre uscivano da Betània, ebbe fame. &lt;t1/&gt;13&lt;t2/&gt; E avendo visto di lontano un fico che aveva delle foglie, si avvicinò per vedere se mai vi trovasse qualche cosa; ma giuntovi sotto, non trovò altro che foglie.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251120T112921Z" creationid="giuan" creationdate="20251104T112409Z">
@@ -1143,6 +1151,15 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>E, lasciatolo, se ne andarono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T150532Z" creationid="BRUNA" creationdate="20251205T150532Z">
+        <seg> E dd’iant lassau e si ndi fiant andaus.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Ecco, io mando il mio messaggero davanti a te,</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251203T080856Z" creationid="BRUNA" creationdate="20250912T085220Z">
@@ -1735,6 +1752,15 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251104T112604Z" creationid="giuan" creationdate="20251104T112604Z">
         <seg>domu de oratzioni po totu is pòpulus? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>ed è mirabile agli occhi nostri&lt;t0/&gt;»?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T150406Z" creationid="BRUNA" creationdate="20251205T150406Z">
+        <seg>cosa de spantu est po is ogus nostus?».
+</seg>
       </tuv>
     </tu>
     <tu>
