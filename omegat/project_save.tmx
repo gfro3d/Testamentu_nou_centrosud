@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11&lt;t0/&gt; &lt;t1/&gt;dal Signore è stato fatto questo</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T110304Z" creationid="BRUNA" creationdate="20251205T110304Z">
+        <seg>11 Custu dd’at fatu su Sennori,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11&lt;t0/&gt; Allora vennero i farisei e incominciarono a discutere con lui, chiedendogli un segno dal cielo, per metterlo alla prova. &lt;t1/&gt;12&lt;t2/&gt; Ma egli, traendo un profondo sospiro, disse: «Perché questa generazione chiede un segno?</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251201T170356Z" creationid="BRUNA" creationdate="20251014T064334Z">
@@ -1793,6 +1801,14 @@
       <tuv lang="sc" changeid="giuan" changedate="20251113T085736Z" creationid="BRUNA" creationdate="20251001T152924Z">
         <seg>9 E cuddu dd’iat arrespustu « Legioni mi narant ca seus in medas».  10 E dd’iat pregau meda a no nci ddus bogai de cussa regioni.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>è diventata testata d'angolo;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T110215Z" creationid="BRUNA" creationdate="20251205T110215Z">
+        <seg>est pedra de contonada/pedra de fundamentu; </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
