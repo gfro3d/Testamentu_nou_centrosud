@@ -628,10 +628,27 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>37&lt;t0/&gt; Davide stesso lo chiama Signore: come dunque può essere suo figlio?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T153618Z" creationid="BRUNA" creationdate="20251205T153618Z">
+        <seg>Dàvidi etotu ddi naràt Sennori: comenti podit èssiri duncas Fillu suu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>37&lt;t0/&gt; «Chi accoglie uno di questi bambini nel mio nome, accoglie me; chi accoglie me, non accoglie me, ma colui che mi ha mandato».</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251203T094006Z" creationid="giuan" creationdate="20251014T111747Z">
         <seg>37 «Chini arricit a unu de custus pipius in nòmini miu, arricit a mei; e chini arricit  a mei no est a mei chi est arricendi ma a chini m’at mandau».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>38&lt;t0/&gt; Diceva loro mentre insegnava: «Guardatevi dagli scribi, che amano passeggiare in lunghe vesti, ricevere saluti nelle piazze, &lt;t1/&gt;39&lt;t2/&gt; avere i primi seggi nelle sinagoghe e i primi posti nei banchetti. &lt;t3/&gt;40&lt;t4/&gt; Divorano le case delle vedove e ostentano di fare lunghe preghiere; essi riceveranno una condanna più grave».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T153810Z" creationid="BRUNA" creationdate="20251205T153810Z">
+        <seg> Ddis naràt in s’interis chi donat imparu: «No cunfieis/Castia-sì in/de is scribas, chi ddis praxit a passillai a bistiri longu, a arriciri saludus/si fàiri saludai me is pratzas, 39 a si sètziri ananti totu/in is primus postus in is sinagogas e in is cumbidus. 40 Chi nci papant/ingùrtint is benis de is fiudas, e po si fàiri biri faint pregadorias longas; issus/custus ant a arriciri una cundenna prus grai/manna».
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -688,6 +705,14 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251203T094451Z" creationid="giuan" creationdate="20251014T112117Z">
         <seg>41 Chini totu bosi at a donai a bufai una tassa de àcua in nòmini miu, ca seis de Cristu, bosi naru in beridadi ca no at a abarrai chene arrecumpènsia. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>41&lt;t0/&gt; E sedutosi di fronte al tesoro, osservava come la folla gettava monete nel tesoro.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T153917Z" creationid="BRUNA" creationdate="20251205T153917Z">
+        <seg>E sètziu faci a su tesoru, castiàt comenti sa genti nci ghetàt dinai pitiu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1092,6 +1117,15 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251203T092620Z" creationid="giuan" creationdate="20251014T110617Z">
         <seg>E su piciocheddu fiat comenti mortu, aici chi medas narànt: «S’est mortu». 27 Ma Gesùs, pighendi·ddu a sa manu, ndi dd’iat pesau e issu fiat abarrau strantaxa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E la numerosa folla lo ascoltava volentieri.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T153644Z" creationid="BRUNA" creationdate="20251205T153644Z">
+        <seg>E sa trumma manna de genti dd’ascurtàt cun praxeri.
+</seg>
       </tuv>
     </tu>
     <tu>
