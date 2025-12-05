@@ -332,8 +332,8 @@
       <tuv lang="it">
         <seg>23&lt;t0/&gt; Gesù, volgendo lo sguardo attorno, disse ai suoi discepoli: «Quanto difficilmente coloro che hanno ricchezze entreranno nel regno di Dio!». &lt;t1/&gt;24&lt;t2/&gt; I discepoli rimasero stupefatti a queste sue parole; ma Gesù riprese: «Figlioli, com'è difficile entrare nel regno di Dio! &lt;t3/&gt;25&lt;t4/&gt; È più facile che un cammello passi per la cruna di un ago, che un ricco entri nel regno di Dio». &lt;t5/&gt;26&lt;t6/&gt; Essi, ancora più sbigottiti, dicevano tra loro: «E chi mai si può salvare?». &lt;t7/&gt;27&lt;t8/&gt; Ma Gesù, guardandoli, disse: «Impossibile presso gli uomini, ma non presso Dio!</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251205T084923Z" creationid="giuan" creationdate="20251027T113407Z">
-        <seg>23 Gesùs, castiendi·sì a fùrriu, iat narau a is discìpulus suus: «E ita difìcili at a èssiri, po is chi tenint arrichesas, a nci intrai nci a su rennu de Deus!». 24 Is discìpulus fiant abarraus spantaus meda de is fueddus suus, e Gesùs iat sighiu: «Fillus mius, ita difìcili chi est a nci intrai in su rennu de Deus! ! 25  Est prus fàcili chi unu cammellu nci passit in s’ogu de un’agu, chi no un’arricu intrit a su rennu de Deus». 26 E issus ancora prus spantaus, si narànt a pari: «E insaras chini s'at a pòdiri sarvai?». 27 Ma Gesùs, castiendi·ddus a firmu, iat narau: «A is òminis no ddis est possìbili ma a Deus eja, ca Deus podit totu!».</seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T085135Z" creationid="giuan" creationdate="20251027T113407Z">
+        <seg>23 Gesùs, castiendi·sì a fùrriu, iat narau a is discìpulus suus: «E ita difìcili at a èssiri, po is chi tenint arrichesas, a nci intrai nci a su rennu de Deus!». 24 Is discìpulus fiant abarraus spantaus meda de is fueddus suus, e Gesùs iat sighiu: «Fillus mius, ita difìcili chi est a nci intrai in su rennu de Deus! ! 25  Est prus fàcili chi unu cammellu nci passit in s’ogu de un’agu, chi no un’arricu intrit a su rennu de Deus». 26 E issus ancora prus spantaus, si narànt a pari: «E insaras chini s'at a pòdiri sarvai?». 27 Ma Gesùs, castiendi·ddus a firmu, iat narau: «A is òminis no ddis est possìbili ma a Deus eja!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1533,8 +1533,8 @@
       <tuv lang="it">
         <seg>Perché tutto è possibile presso Dio».</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251027T113455Z" creationid="giuan" creationdate="20251027T113455Z">
-        <seg>Ca anca de Deus fait totu»</seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251205T085117Z" creationid="giuan" creationdate="20251027T113455Z">
+        <seg>Ca Deus podit totu!».</seg>
       </tuv>
     </tu>
     <tu>
