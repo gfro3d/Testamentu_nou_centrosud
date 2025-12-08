@@ -545,3 +545,7 @@ discendenza	erèntzia
 Abramo	Abramu
 Isacco	Isacu
 Giacobbe	Giacobbu
+Egli	Issu
+all'infuori di lui	foras de issu
+olocausti	olocaustus
+saggiamente	cun sabiduria
