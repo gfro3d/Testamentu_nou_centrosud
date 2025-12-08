@@ -282,8 +282,8 @@
       <tuv lang="it">
         <seg>18&lt;t0/&gt; Vennero a lui dei sadducei, i quali dicono che non c'è risurrezione, e lo interrogarono dicendo: &lt;t1/&gt;19&lt;t2/&gt; «Maestro, Mosè ci ha lasciato scritto che &lt;t3/&gt;se muore il fratello di uno&lt;t4/&gt; e lascia la moglie &lt;t5/&gt;senza figli, il fratello ne prenda la moglie per dare discendenti al fratello&lt;t6/&gt;. &lt;t7/&gt;20&lt;t8/&gt; C'erano sette fratelli: il primo prese moglie e morì senza lasciare discendenza; &lt;t9/&gt;21&lt;t10/&gt; allora la prese il secondo, ma morì senza lasciare discendenza; e il terzo egualmente, &lt;t11/&gt;22&lt;t12/&gt; e nessuno dei sette lasciò discendenza.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251205T151909Z" creationid="BRUNA" creationdate="20251205T151909Z">
-        <seg>Insaras si fiant acostiaus unus cantu sadducesus, is chi narant ca arrisurretzioni no nci nd’at, e ddu preguntànt narendi: 19 «Su Maistu, Mosè nosi at lassau scritu ca: si su fradi de unu si morit e lassat sa mulleri chene fillus, su fradi ndi pigat sa mulleri po chi su fradi mortu tengat un’erèntzia. 20 Ddoi fiant seti fradis; su primu si fiat cojau e si fiat mortu chene lassai eredeu; 21 insaras cussa fèmina si dd’iat pigada su de duus, ma si fiat mortu chene lassai erèntzia; e su de tres aici etotu, 22 e mancunu de is fradis iat lassau erèntzia.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20251208T083643Z" creationid="BRUNA" creationdate="20251205T151909Z">
+        <seg>Insaras si fiant acostiaus unus cantu sadducesus, is chi narant ca arresurretzioni no nci nd’at, e ddu preguntànt narendi: 19 «Su Maistu, Mosè nosi at lassau scritu ca: si su fradi de unu si morit e lassat sa mulleri chene fillus, su fradi ndi pigat sa mulleri po chi su fradi mortu tengat un’erèntzia. 20 Ddoi fiant seti fradis; su primu si fiat cojau e si fiat mortu chene lassai eredeu; 21 insaras cussa fèmina si dd’iat pigada su de duus, ma si fiat mortu chene lassai erèntzia; e su de tres aici etotu, 22 e mancunu de is fradis iat lassau erèntzia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1213,8 +1213,8 @@
       <tuv lang="it">
         <seg>E rimasero ammirati di lui.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251205T151653Z" creationid="BRUNA" creationdate="20251205T151653Z">
-        <seg>E fiant abarraus spantaus meda de/po issu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20251208T083507Z" creationid="BRUNA" creationdate="20251205T151653Z">
+        <seg>E fiant abarraus spantaus meda de issu.</seg>
       </tuv>
     </tu>
     <tu>
