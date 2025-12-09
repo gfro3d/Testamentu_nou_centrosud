@@ -953,6 +953,22 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>63&lt;t0/&gt; Allora il sommo sacerdote, stracciandosi le vesti, disse: «Che bisogno abbiamo ancora di testimoni? &lt;t1/&gt;64&lt;t2/&gt; Avete udito la bestemmia; che ve ne pare?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251209T143627Z" creationid="giuan" creationdate="20251209T143627Z">
+        <seg>63 Insaras su sacerdotu majori, scorriendi·sì su bistiri iat narau: « E ita bisòngiu teneus de àterus testimòngius? 64 Intèndiu dd’eis su frastimu e ita si ndi parit?». </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>65&lt;t0/&gt; Allora alcuni cominciarono a sputargli addosso, a coprirgli il volto, a schiaffeggiarlo e a dirgli: &lt;t1/&gt;«Indovina».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251209T143815Z" creationid="giuan" creationdate="20251209T143815Z">
+        <seg> 65 Insaras unus cantu si fiant postus a ddu spudai, a ddi cuai sa cara/faci, a ddu pigai a ddu scùdiri e a ddi narai: «Profetiza immoi!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>6&lt;t0/&gt; Allora Gesù disse: «Lasciatela stare; perché le date fastidio?</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251209T141908Z" creationid="giuan" creationdate="20251209T141908Z">
@@ -1481,8 +1497,8 @@
       <tuv lang="it">
         <seg>E vedrete &lt;t0/&gt;il Figlio dell'uomo</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251209T143431Z" creationid="giuan" creationdate="20251209T143431Z">
-        <seg>E eis a biri su Fillu de s’òmini  benendi in is nuis de  su celu».
+      <tuv lang="sc" changeid="giuan" changedate="20251209T143534Z" creationid="giuan" creationdate="20251209T143431Z">
+        <seg>E eis a biri su Fillu de s’òmini  
 </seg>
       </tuv>
     </tu>
@@ -2223,6 +2239,15 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Tutti sentenziarono che era reo di morte.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251209T143710Z" creationid="giuan" creationdate="20251209T143710Z">
+        <seg>Totus iant sententziau ca minesciat a ddu cundennai a morti.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Tutto è possibile a te, allontana da me questo calice!</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251209T142926Z" creationid="giuan" creationdate="20251209T142926Z">
@@ -2308,6 +2333,14 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251209T141451Z" creationid="giuan" creationdate="20251209T141451Z">
         <seg>e is potèntzias/fortzas chi funt in is celus ant a èssiri avolotadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>e venire con le nubi del cielo&lt;t0/&gt;».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251209T143608Z" creationid="giuan" creationdate="20251209T143608Z">
+        <seg>benendi in is nuis de  su celu». </seg>
       </tuv>
     </tu>
     <tu>
