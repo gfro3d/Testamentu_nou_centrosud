@@ -307,8 +307,8 @@
       <tuv lang="it">
         <seg>17&lt;t0/&gt; Venuta la sera, egli giunse con i Dodici. &lt;t1/&gt;18&lt;t2/&gt; Ora, mentre erano a mensa e mangiavano, Gesù disse: «In verità vi dico, uno di voi, &lt;t3/&gt;colui che mangia con me&lt;t4/&gt;, mi tradirà». &lt;t5/&gt;19&lt;t6/&gt; Allora cominciarono a rattristarsi e a dirgli uno dopo l'altro: «Sono forse io?». &lt;t7/&gt;20&lt;t8/&gt; Ed egli disse loro: «Uno dei Dodici, colui che intinge con me nel piatto. &lt;t9/&gt;21&lt;t10/&gt; Il Figlio dell'uomo se ne va, come sta scritto di lui, ma guai a quell'uomo dal quale il Figlio dell'uomo è tradito!</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251209T142352Z" creationid="giuan" creationdate="20251209T142352Z">
-        <seg> 17 Furriendi su merii, Gesùs fiat arribbau impari a is Doxi. 18 E candu fiant in sa mesa, papendi, Gesùs iat narau: «In beridadi bosi naru, unu de bosàterus, unu chi est papendi cun mei, m’at a traìxiri». 19 E totus fiant calaus in tristura e unu in fatu de s’àteru iant atacau a ddi preguntai: «No apu a èssiri deu?». 20 E issu ddis iat narau: «Unu de is Doxi, unu chi est papendi cun mei de sa matessi discua. 21 Su Fillu de s’òmini gei si ndi andat, comenti est scritu de issu, arguai/sciadau de issu perou a chini at a traìxiri su Fillu de s’òmini, .</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20251209T142417Z" creationid="giuan" creationdate="20251209T142352Z">
+        <seg> 17 Furriendi su merii, Gesùs fiat arribbau impari a is Doxi. 18 E candu fiant in sa mesa, papendi, Gesùs iat narau: «In beridadi bosi naru, unu de bosàterus, unu chi est papendi cun mei, m’at a traìxiri». 19 E totus fiant calaus in tristura e unu in fatu de s’àteru iant atacau a ddi preguntai: «No apu a èssiri deu?». 20 E issu ddis iat narau: «Unu de is Doxi, unu chi est papendi cun mei de sa matessi discua. 21 Su Fillu de s’òmini gei si ndi andat, comenti est scritu de issu, arguai/sciadau de issu perou a chini at a traìxiri su Fillu de s’òmini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -419,6 +419,15 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>22&lt;t0/&gt; Mentre mangiavano prese il pane e, pronunziata la benedizione, lo spezzò e lo diede loro, dicendo: «Prendete, questo è il mio corpo». &lt;t1/&gt;23&lt;t2/&gt; Poi prese il calice e rese grazie, lo diede loro e ne bevvero tutti. &lt;t3/&gt;24&lt;t4/&gt; E disse: «Questo è il mio sangue, il sangue dell'alleanza versato per molti. &lt;t5/&gt;25&lt;t6/&gt; In &lt;t7/&gt;verità vi dico che io non berrò più del frutto della vite fino al giorno in cui lo berrò nuovo nel regno di Dio».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251209T142516Z" creationid="giuan" creationdate="20251209T142516Z">
+        <seg>22  Candu fiant papendi, iat pigau su pani, dd’iat beneixu, dd’iat partziu e si ddus iat donau narendi: «Pigai, custu est su corpus miu». 23 A pustis iat piagau su càlixi e iat torrau gràtzias, si ddus iat donau e nd’iant bufau totus. 24 E iat narau: «Custu est su sànguni miu, su sànguni de s’alleàntzia derramau po medas. 25 In beridadi bosi naru ca deu, de su frutu de sa bìngia, no nd’apu a bufai prus, fintzas a sa dii candu dd’apu a bufai nou in su Rennu de Deus».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>23&lt;t0/&gt; Gesù, volgendo lo sguardo attorno, disse ai suoi discepoli: «Quanto difficilmente coloro che hanno ricchezze entreranno nel regno di Dio!». &lt;t1/&gt;24&lt;t2/&gt; I discepoli rimasero stupefatti a queste sue parole; ma Gesù riprese: «Figlioli, com'è difficile entrare nel regno di Dio! &lt;t3/&gt;25&lt;t4/&gt; È più facile che un cammello passi per la cruna di un ago, che un ricco entri nel regno di Dio». &lt;t5/&gt;26&lt;t6/&gt; Essi, ancora più sbigottiti, dicevano tra loro: «E chi mai si può salvare?». &lt;t7/&gt;27&lt;t8/&gt; Ma Gesù, guardandoli, disse: «Impossibile presso gli uomini, ma non presso Dio!</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T155215Z" creationid="giuan" creationdate="20251027T113407Z">
@@ -487,6 +496,14 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251112T163517Z" creationid="giuan" creationdate="20250929T075854Z">
         <seg>E naràt: «Su rennu de Deus est comenti a un'òmini chi nci ghetat su sèmini in sa terra; chi dromat o  pesit, a de noti o a de dii, su sèmini in s’interis bogat e crescit sena chi issu scìpiat comenti..Ca sa terra bogàt frutu cunforma a su naturali suu, a innantis sa canna, a pustis sa spiga, e su granu prenu in sa spiga.  E candu su trigu est drimpiu, ddi ghetat manu a sa fraci, ca est tempus de messai» </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26&lt;t0/&gt; E dopo aver cantato l'inno, uscirono verso il monte degli Ulivi. &lt;t1/&gt;27&lt;t2/&gt; Gesù disse loro: «Tutti rimarrete scandalizzati, poiché sta scritto:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251209T142546Z" creationid="giuan" creationdate="20251209T142546Z">
+        <seg>26 E a pustis de cantai is salmus/s’innu, fiant andaus conca a su Monti de is Olias. 27 E Gesùs ddis iat narau: «Totus eis a arrùiri/s’eis a indulliri, ca aici ddoi est scritu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1067,6 +1084,14 @@
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251126T090553Z" creationid="giuan" creationdate="20251104T112729Z">
         <seg>Ca ddu timiant poita ca su pòpulu abarràt ammirau de s’imparu suu. 19 A scurigadroxu ndi fiant essius de sa citadi. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Bene per quell'uomo se non fosse mai nato!».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251209T142438Z" creationid="giuan" creationdate="20251209T142404Z">
+        <seg>Iat  a èssiri mellus po issu chi no fessit mai nàsciu!»</seg>
       </tuv>
     </tu>
     <tu>
@@ -1901,6 +1926,14 @@
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T085117Z" creationid="giuan" creationdate="20251027T113455Z">
         <seg>Ca Deus podit totu!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Percuoterò il pastore e le pecore saranno disperse&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20251209T142610Z" creationid="giuan" creationdate="20251209T142610Z">
+        <seg> Apu a fèrriri su pastori e is brebeis s’ant a spainai.</seg>
       </tuv>
     </tu>
     <tu>
