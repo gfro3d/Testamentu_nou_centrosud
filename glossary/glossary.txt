@@ -602,3 +602,4 @@ Simone di Cirene	Simoni de Cirene
 Alessandro	Lisandru
 Rufo	Rufu
 Gòlgota	Gòlgota
+'Israele	Israeli
