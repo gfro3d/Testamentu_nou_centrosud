@@ -592,3 +592,4 @@ Giovanni	Giuanni
 fino alla morte	a ndi mòrriri
 Galilea	Galilea
 pecore	brebeis
+Andrea	Andria
