@@ -609,3 +609,6 @@ vigilia	vèspuru
 Giuseppe d'Arimatèa	Giusepi de Arimatea
 sepolcro	tumba
 oli aromatici	ollu nuscosu	aromàticu
+seguaci	cumpàngius
+lutto	corrutu
+sotto altro aspetto	cun un'àtera bisura
