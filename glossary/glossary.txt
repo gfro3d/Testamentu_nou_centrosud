@@ -575,7 +575,7 @@ Potenza	Totu Poderosu
 Figlio	Fillu
 benedetto	benitu
 concorde	a cuncordu	torràt paris
-lenzuolo	lentzolu
+lenzuolo	lentzolu/lentzoru
 bastoni	matzocas
 l'orecchio	s'origa
 Giuda	Giudas
@@ -603,3 +603,8 @@ Alessandro	Lisandru
 Rufo	Rufu
 Gòlgota	Gòlgota
 'Israele	Israeli
+Maria di Màgdala	Maria de Màgdala
+Parascève	Parasceve
+vigilia	vèspuru
+Giuseppe d'Arimatèa	Giusepi de Arimatea
+sepolcro	tumba
