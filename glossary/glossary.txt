@@ -594,3 +594,4 @@ Galilea	Galilea
 pecore	brebeis
 Andrea	Andria
 Rabbì	Rabbì
+Pilato	Pilatu
