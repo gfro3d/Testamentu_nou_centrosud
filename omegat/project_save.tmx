@@ -2470,6 +2470,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Voi cercate Gesù Nazareno, il crocifisso.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251219T140837Z" creationid="BRUNA" creationdate="20251219T140837Z">
+        <seg>Seis circhendi a Gesùs su Nazarenu, su chi fiat in sa gruxi. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Voi invece ne avete fatto &lt;t0/&gt;una spelonca di ladri&lt;t1/&gt;!».</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251126T090421Z" creationid="giuan" creationdate="20251104T112623Z">
@@ -2622,6 +2630,14 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251208T082037Z" creationid="BRUNA" creationdate="20251205T150822Z">
         <seg>A donai su tribbutu a Cèsari lìtcitu est o no?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>È risorto, non è qui.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20251219T140906Z" creationid="BRUNA" creationdate="20251219T140906Z">
+        <seg> Est arresuscitau, no est innoi. </seg>
       </tuv>
     </tu>
     <tu>
