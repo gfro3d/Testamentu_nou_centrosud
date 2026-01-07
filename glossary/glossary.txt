@@ -617,3 +617,4 @@ parabola	paràbula
 Erode	Erodi
 Erodìade	Erodìadi
 Filippo	Filipu
+madre	mama
