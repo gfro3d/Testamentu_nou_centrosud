@@ -621,3 +621,4 @@ madre	mama
 intelletto	comprendòriu
 Tiro	Tiru
 Sidone	Sidoni
+sospiro	susprexu
