@@ -128,8 +128,8 @@
       <tuv lang="it">
         <seg>12&lt;t0/&gt; Il primo giorno degli Azzimi, quando si immolava la Pasqua, i suoi discepoli gli dissero: «Dove vuoi che andiamo a preparare perché tu possa mangiare la Pasqua?». &lt;t1/&gt;13&lt;t2/&gt; Allora mandò due dei suoi discepoli dicendo loro: «Andate in città e vi verrà incontro un uomo con una brocca d'acqua; seguitelo &lt;t3/&gt;14&lt;t4/&gt; e là dove entrerà dite al padrone di casa: Il Maestro dice: Dov'è la mia stanza, perché io vi possa mangiare la Pasqua con i miei discepoli? &lt;t5/&gt;15&lt;t6/&gt; Egli vi mostrerà al piano superiore una grande sala con i tappeti, già pronta; là preparate per noi». &lt;t7/&gt;16&lt;t8/&gt; I discepoli andarono e, entrati in città, trovarono come aveva detto loro e prepararono per la Pasqua.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251209T142056Z" creationid="giuan" creationdate="20251209T142056Z">
-        <seg>12  Sa primu dii de is panis Àzimus, candu si sacrificàt s’angioni/sa pasca, is discìpulus suus dd’iant narau: «A innui bolis chi andeus a aprontai po chi tui papist sa cena de Pasca?». 13 Insaras iat mandau a duus de is discìpulus e ddis iat narau: «Baxei a sa citadi e bosi at atobiai un’òmini cun una màriga de àcua, sighei·ddu 14 e innui at a intrai narai a su meri de domu: Su Maistu narat: Innui est s’aposentu miu po ddoi pòdiri papai sa cena de Pasca cun is discìpulus mius? 15 Issu s’at a ammostai una sala manna a tapetus, in su pranu de susu, giai pronta e innia aprontais po nosu». 16 Is discìpulus fiant andaus, e intraus a sa citadi, iant agatau totu comenti ddis iat narau e aprontau iant po sa Pasca.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260108T152150Z" creationid="giuan" creationdate="20251209T142056Z">
+        <seg>12  Sa primu dii de is panis Àzimus, candu si sacrificàt sa Pasca, is discìpulus suus dd’iant narau: «A innui bolis chi andeus a aprontai po chi tui papist sa cena de Pasca?». 13 Insaras iat mandau a duus de is discìpulus e ddis iat narau: «Baxei a sa citadi e bosi at atobiai un’òmini cun una màriga de àcua, sighei·ddu 14 e innui at a intrai narai a su meri de domu: Su Maistu narat: Innui est s’aposentu miu po ddoi pòdiri papai sa cena de Pasca cun is discìpulus mius? 15 Issu s’at a ammostai una sala manna a tapetus, in su pranu de susu, giai pronta e innia aprontais po nosu». 16 Is discìpulus fiant andaus, e intraus a sa citadi, iant agatau totu comenti ddis iat narau e aprontau iant po sa Pasca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,8 +576,8 @@
       <tuv lang="it">
         <seg>26&lt;t0/&gt; E dopo aver cantato l'inno, uscirono verso il monte degli Ulivi. &lt;t1/&gt;27&lt;t2/&gt; Gesù disse loro: «Tutti rimarrete scandalizzati, poiché sta scritto:</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251209T142546Z" creationid="giuan" creationdate="20251209T142546Z">
-        <seg>26 E a pustis de cantai is salmus/s’innu, fiant andaus conca a su Monti de is Olias. 27 E Gesùs ddis iat narau: «Totus eis a arrùiri/s’eis a indulliri, ca aici ddoi est scritu:</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260108T155126Z" creationid="giuan" creationdate="20251209T142546Z">
+        <seg>26 E a pustis de cantai s’innu, fiant andaus conca a su Monti de is Olias. 27 E Gesùs ddis iat narau: «Totus s’eis a arrendiri, ca aici ddoi est scritu:</seg>
       </tuv>
     </tu>
     <tu>
