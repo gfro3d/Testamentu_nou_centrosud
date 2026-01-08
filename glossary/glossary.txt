@@ -624,3 +624,9 @@ Sidone	Sidoni
 sospiro	susprexu
 farisei	fariseus
 tende	barracas
+Nazaret	Nazaret
+Bartolomeo	Bartumeu
+Tommaso	Tomasu
+Alfeo	Alfeu
+Taddeo	Taddeu
+Iscariota	Iscàriota
