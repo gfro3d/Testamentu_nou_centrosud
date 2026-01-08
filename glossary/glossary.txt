@@ -631,3 +631,4 @@ Alfeo	Alfeu
 Taddeo	Taddeu
 Iscariota	Iscàriota
 sbigottiti	spantaus
+salvato	sarvau
