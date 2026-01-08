@@ -2036,8 +2036,8 @@
       <tuv lang="it">
         <seg>La mia casa sarà chiamata</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251104T112547Z" creationid="giuan" creationdate="20251104T112547Z">
-        <seg>: A sa domu mia dd’ant a narai </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260108T143244Z" creationid="giuan" creationdate="20251104T112547Z">
+        <seg>A sa domu mia dd’ant a narai </seg>
       </tuv>
     </tu>
     <tu>
@@ -2603,8 +2603,8 @@
       <tuv lang="it">
         <seg>ed è mirabile agli occhi nostri&lt;t0/&gt;»?</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251208T081746Z" creationid="BRUNA" creationdate="20251205T150406Z">
-        <seg>e no est cosa de spantu po is ogus nostus?».
+      <tuv lang="sc" changeid="giuan" changedate="20260108T143332Z" creationid="BRUNA" creationdate="20251205T150406Z">
+        <seg>e   po is ogus nostus no est cosa de spantu?».
 </seg>
       </tuv>
     </tu>
@@ -2718,8 +2718,8 @@
       <tuv lang="it">
         <seg>è diventata testata d'angolo;</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251205T110215Z" creationid="BRUNA" creationdate="20251205T110215Z">
-        <seg>est pedra de contonada/pedra de fundamentu; </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260108T143458Z" creationid="BRUNA" creationdate="20251205T110215Z">
+        <seg>est pedra de assentu; </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
