@@ -835,8 +835,8 @@
       <tuv lang="it">
         <seg>37&lt;t0/&gt; Davide stesso lo chiama Signore: come dunque può essere suo figlio?».</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251205T153618Z" creationid="BRUNA" creationdate="20251205T153618Z">
-        <seg>Dàvidi etotu ddi naràt Sennori: comenti podit èssiri duncas Fillu suu?</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260108T145507Z" creationid="BRUNA" creationdate="20251205T153618Z">
+        <seg>Dàvidi etotu ddi naràt Sennori: comenti podit èssiri duncas Fillu suu</seg>
       </tuv>
     </tu>
     <tu>
@@ -2570,8 +2570,8 @@
       <tuv lang="it">
         <seg>come sgabello ai tuoi piedi&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251208T092029Z" creationid="BRUNA" creationdate="20251205T153530Z">
-        <seg>(che a scannu) asuta de is peis.
+      <tuv lang="sc" changeid="giuan" changedate="20260108T144836Z" creationid="BRUNA" creationdate="20251205T153530Z">
+        <seg>che a scannu asuta de is peis.
 </seg>
       </tuv>
     </tu>
