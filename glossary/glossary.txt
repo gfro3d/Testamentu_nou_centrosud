@@ -633,3 +633,12 @@ Iscariota	Iscàriota
 sbigottiti	spantaus
 salvato	sarvau
 testata d'angolo	pedra de assentu
+Isacco	Isacu
+Giacobbe	Giacobbu
+Giuda	Giudas
+Abramo	Abramu
+Fares	Fares
+Zara	Zara
+Tamar	Tamar
+Aminadab	Aminadàb
+Iesse	Jesse
