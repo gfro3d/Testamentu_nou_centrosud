@@ -64,8 +64,16 @@
       <tuv lang="it">
         <seg>1,18&lt;s0/&gt;Ecco come avvenne la nascita di Gesù Cristo: sua madre Maria, essendo promessa sposa di Giuseppe, prima che andassero a vivere insieme si trovò incinta per opera dello Spirito Santo.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260224T081851Z" creationid="giuan" creationdate="20260224T081851Z">
-        <seg>1,17 Fendi su contu/Sa summa de totu is generatzionis, de Abramu a Dàvidi, funt catòdixi; de Dàvidi fintzas a sa disisterru in Babilònia funt sèmpiri catòdixi; de su disisterru in Babilonia a Cristu funt, inprefinis/a s'acabada catòdixi.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T082026Z" creationid="giuan" creationdate="20260224T081851Z">
+        <seg>1,17 Fendi su contu/Sa summa de totu is generatzionis, de Abramu a Dàvidi, funt catòdixi; de Dàvidi fintzas a sa disisterru in Babilònia funt sèmpiri catòdixi; de su disisterru in Babilonia a Cristu funt, inprefinis/a s'acabada catòdixi.1,18 Custu est su contu de comenti est nàsciu Gesùs Cristu: Maria, sa mama, sendu sposa cun Giusepi, innantis chi essant andaus a bìviri impari si fiat agatada prìngia/gràida po òpera de su Spìridu Santu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,19&lt;s0/&gt;Giuseppe suo sposo, che era giusto e non voleva ripudiarla, decise di licenziarla in segreto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T082130Z" creationid="giuan" creationdate="20260224T082130Z">
+        <seg>1,19 Giusepi su sposu, sendi giustu e ca no dda boliat disfamai ananti de totus, iat decidiu de dda arrepudiai a sa scusi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +90,14 @@
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251006T093221Z" creationid="Gianfranco" creationdate="20250910T223154Z">
         <seg>1,1&lt;t0/&gt; Cumintzu de s'evangèliu de Gesùs Cristu, Fillu de Deus. &lt;t1/&gt;2&lt;t2/&gt; Comenti ddoi est scritu in su profeta Isaia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,20&lt;s0/&gt;Mentre però stava pensando a queste cose, ecco che gli apparve in sogno un angelo del Signore e gli disse: "Giuseppe, figlio di Davide, non temere di prendere con te Maria, tua sposa, perché quel che è generato in lei viene dallo Spirito Santo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T082144Z" creationid="giuan" creationdate="20260224T082144Z">
+        <seg>1,20 In s'interis chi fiat pensendi a custas cosas, ecu ca ddi fiat cumpartu un'àngiulu de su Sennori narendi: "Giusepi, fillu de Dàvidi, no timas a ti cojai a Maria, poita ca su chi est ingendrau in issa est su Spìridu Santu.</seg>
       </tuv>
     </tu>
     <tu>
