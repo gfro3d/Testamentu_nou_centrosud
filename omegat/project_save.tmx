@@ -6,6 +6,70 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="it">
+        <seg>1,10&lt;s0/&gt;Ezechia generò Manasse, Manasse generò Amos, Amos generò Giosia,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081650Z" creationid="giuan" creationdate="20260224T081650Z">
+        <seg>1,10 Ezechia ingenereit a Manasse, Manasse ingenereit a Amos, Amos ingenereit a Giosia,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,11&lt;s0/&gt;Giosia generò Ieconia e i suoi fratelli, al tempo della deportazione in Babilonia.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081710Z" creationid="giuan" creationdate="20260224T081710Z">
+        <seg>1,11 Giosia ingenereit a Jeconias/Ieconia e a is fradis, a su tempus de su disterru in Babilònia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,12&lt;s0/&gt;Dopo la deportazione in Babilonia, Ieconia generò Salatiel, Salatiel generò Zorobabele,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081723Z" creationid="giuan" creationdate="20260224T081723Z">
+        <seg>1,12 A pustis de su disterru de Babilonia, Geconias ingenereit a Salatiel, Salatièl ingenereit a Zorobabele,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,13&lt;s0/&gt;Zorobabele generò Abiud, Abiud generò Elìacim, Elìacim generò Azor,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081735Z" creationid="giuan" creationdate="20260224T081735Z">
+        <seg>1,13 Zorobabele ingenereit a Abiud/Abiùd, Abiud ingenereit a Elìacim, Elìacim/Eliachim ingenereit a Azòr,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,14&lt;s0/&gt;Azor generò Sadoc, Sadoc generò Achim, Achim generò Eliud,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081752Z" creationid="giuan" creationdate="20260224T081752Z">
+        <seg>1,14 Azòr ingenereit a Sadòc, Sadoc ingenereit a Achìm, Achim ingenereit a Eliud,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,15&lt;s0/&gt;Eliud generò Eleazar, Eleazar generò Mattan, Mattan generò Giacobbe,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081821Z" creationid="giuan" creationdate="20260224T081821Z">
+        <seg>1,15 Eliud ingenereit a Eleazar, Eleazar ingenereit a Matàn, Matàn ingenereit a Giacobbu,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,16&lt;s0/&gt;Giacobbe generò Giuseppe, lo sposo di Maria, dalla quale è nato Gesù chiamato Cristo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081833Z" creationid="giuan" creationdate="20260224T081833Z">
+        <seg>1,16 Giacobbu ingenereit a Giusepi, su sposu/pobiddu de Maria, de issa fiat nàsciu/nasceit Gesùs  nomenau Cristu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,18&lt;s0/&gt;Ecco come avvenne la nascita di Gesù Cristo: sua madre Maria, essendo promessa sposa di Giuseppe, prima che andassero a vivere insieme si trovò incinta per opera dello Spirito Santo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081851Z" creationid="giuan" creationdate="20260224T081851Z">
+        <seg>1,17 Fendi su contu/Sa summa de totu is generatzionis, de Abramu a Dàvidi, funt catòdixi; de Dàvidi fintzas a sa disisterru in Babilònia funt sèmpiri catòdixi; de su disisterru in Babilonia a Cristu funt, inprefinis/a s'acabada catòdixi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,1&lt;s0/&gt;Genealogia di Gesù Cristo figlio di Davide, figlio di Abramo.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260224T081320Z" creationid="giuan" creationdate="20260224T081320Z">
@@ -58,6 +122,30 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260224T081503Z" creationid="giuan" creationdate="20260224T081503Z">
         <seg>1,6 Jesse ingenereit a Dàvidi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,7&lt;s0/&gt;Salomone generò Roboamo, Roboamo generò Abìa, Abìa generò Asaf,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081604Z" creationid="giuan" creationdate="20260224T081604Z">
+        <seg>1,7 Salomoni ingenereit a Roboamu, Roboamu ingenereit a Abìa/Àbia, Abìa ingenereit a Asàf,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,8&lt;s0/&gt;Asaf generò Giosafat, Giosafat generò Ioram, Ioram generò Ozia,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081618Z" creationid="giuan" creationdate="20260224T081618Z">
+        <seg>1,8 Asaf ingenereit a Giosafat/Giòsafat, Giosafat ingenereit a Joram, Joram ingenereit a Ozia,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,9&lt;s0/&gt;Ozia generò Ioatam, Ioatam generò Acaz, Acaz generò Ezechia,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081634Z" creationid="giuan" creationdate="20260224T081634Z">
+        <seg>1,9 Ozia ingenereit a Joatàm/Ioatàm, Ioatam ingenereit a Acaz, Acàz ingenereit a Ezechia,</seg>
       </tuv>
     </tu>
     <tu>
