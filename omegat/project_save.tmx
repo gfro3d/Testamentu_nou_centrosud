@@ -6,10 +6,58 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="it">
+        <seg>1,1&lt;s0/&gt;Genealogia di Gesù Cristo figlio di Davide, figlio di Abramo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081320Z" creationid="giuan" creationdate="20260224T081320Z">
+        <seg>1,1 Genealogia de Gesù Cristu fillu de Dàvidi,  fillu de Abramu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,1&lt;t0/&gt; Inizio del vangelo di Gesù Cristo, Figlio di Dio. &lt;t1/&gt;2&lt;t2/&gt; Come è scritto nel profeta Isaia:</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251006T093221Z" creationid="Gianfranco" creationdate="20250910T223154Z">
         <seg>1,1&lt;t0/&gt; Cumintzu de s'evangèliu de Gesùs Cristu, Fillu de Deus. &lt;t1/&gt;2&lt;t2/&gt; Comenti ddoi est scritu in su profeta Isaia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,2&lt;s0/&gt;Abramo generò Isacco, Isacco generò Giacobbe, Giacobbe generò Giuda e i suoi fratelli,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081357Z" creationid="giuan" creationdate="20260224T081357Z">
+        <seg>1,2 Abramu ingenereit a Isacu, Isacu ingenereit a Giacobbu, Giacobbu iat generau a Giudas e a is fradis,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,3&lt;s0/&gt;Giuda generò Fares e Zara da Tamar, Fares generò Esrom, Esrom generò Aram,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081402Z" creationid="giuan" creationdate="20260224T081402Z">
+        <seg>1,3 Giuda ingenereit a Fares e a Zara de Tamar, Fares ingenereit a Esrom, Esrom ingenereit a Aram,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,4&lt;s0/&gt;Aram generò Aminadab, Aminadab generò Naasson, Naasson generò Salmon,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081423Z" creationid="giuan" creationdate="20260224T081423Z">
+        <seg>1,4 Aram ingenereit a Aminadàb, Aminadàb ingenereit a Naasson, Naasson ingenereit a Salmon,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,5&lt;s0/&gt;Salmon generò Booz da Racab, Booz generò Obed da Rut, Obed generò Iesse,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081439Z" creationid="giuan" creationdate="20260224T081439Z">
+        <seg>1,5 Salmon ingenereit a Booz de Racab, Booz ingenereit a Obed de Rut, Obed ingenereit a  Jesse,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,6&lt;s0/&gt;Iesse generò il re Davide.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081503Z" creationid="giuan" creationdate="20260224T081503Z">
+        <seg>1,6 Jesse ingenereit a Dàvidi</seg>
       </tuv>
     </tu>
     <tu>
@@ -1388,6 +1436,14 @@
       <tuv lang="sc" changeid="BRUNA" changedate="20251128T161752Z" creationid="BRUNA" creationdate="20250914T160332Z">
         <seg>Cumandat  fintzas a is spìridus malus e ddi ponint menti!". E sa nomea sua si fiat spainada in deretura in totu sa Galilea e a ingìriu.  
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Davide generò Salomone da quella che era stata la moglie di Urìa,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260224T081541Z" creationid="giuan" creationdate="20260224T081541Z">
+        <seg>su rei Dàvidi ingenereit a Salomoni cun sa chi fiat stètia sa pobidda de Uria,</seg>
       </tuv>
     </tu>
     <tu>
