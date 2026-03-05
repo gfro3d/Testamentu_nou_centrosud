@@ -586,6 +586,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,1&lt;s0/&gt;Gesù nacque a Betlemme di Giudea, al tempo del re Erode.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T150834Z" creationid="giuan" creationdate="20260305T150834Z">
+        <seg>2,1 Gesùs fiat nàsciu in Betlemmi de Giudea, a su tempus de su rei Erodi. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>2,1&lt;t0/&gt; Ed entrò di nuovo a Cafarnao dopo alcuni giorni.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251007T131713Z" creationid="giuan" creationdate="20250916T085301Z">
@@ -1418,6 +1426,14 @@
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251120T100432Z" creationid="giuan" creationdate="20251014T112331Z">
         <seg>su sali circai de ddu portai in bosàterus etotu e a bìviri in paxi is unus cun is àterus».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Alcuni Magi giunsero da oriente a Gerusalemme e domandavano:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T150841Z" creationid="giuan" creationdate="20260305T150841Z">
+        <seg>Unus cantu Magus fiant lòmpius de orienti a Gerusalemmi e preguntànt:</seg>
       </tuv>
     </tu>
     <tu>
