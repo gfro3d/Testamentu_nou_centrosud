@@ -602,6 +602,65 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,2&lt;s0/&gt;"Dov'è il re dei Giudei che è nato?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T151332Z" creationid="giuan" creationdate="20260305T151332Z">
+        <seg>2,2 "Innui est su rei de is Giudeus chi est nàsciu? Eus bistu  in orienti su steddu suu, e seus bènnius a dd'adorai".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>2,3&lt;s0/&gt;All'udire queste parole, il re Erode restò turbato e con lui tutta Gerusalemme.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T151355Z" creationid="giuan" creationdate="20260305T151355Z">
+        <seg>2,3 Intendendi custus fueddus, su rei Erodi fiat a pistighìngiu, e cun issu totu Gerusalemmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>2,4&lt;s0/&gt;Riuniti tutti i sommi sacerdoti e gli scribi del popolo, s'informava da loro sul luogo in cui doveva nascere il Messia.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T151417Z" creationid="giuan" creationdate="20260305T151417Z">
+        <seg>2,4 Arreuniu chi iat totu is sacerdotus majoris e is scribas de su pòpulu, ddis iat preguntau su logu innui depiat nàsciri su Messia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>2,5&lt;s0/&gt;Gli risposero: "A Betlemme di Giudea, perché così è scritto per mezzo del profeta:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T151435Z" creationid="giuan" creationdate="20260305T151435Z">
+        <seg>2,5 Dd'iant arrespustu: «In Betlemmi de Giudea, ca aici est scritu de su profeta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>2,6&lt;s0/&gt;E tu, Betlemme, terra di Giuda, non sei davvero il più piccolo capoluogo di Giuda: da te uscirà infatti un capo che pascerà il mio popolo, Israele.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T151449Z" creationid="giuan" creationdate="20260305T151449Z">
+        <seg>2,6 E tui, Betlemmi, terra de Giudas,
+no ses sa prus pitica de is capitalis de Giudas:
+ca de tui nd'at a essiri, difatis unu capu/ghia chi at a pàsciri Israeli, su pòpulu miu».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>2,7&lt;s0/&gt;Allora Erode, chiamati segretamente i Magi, si fece dire con esattezza da loro il tempo in cui era apparsa la stella</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T151505Z" creationid="giuan" creationdate="20260305T151505Z">
+        <seg>2,7 Tandus Erodi, a sa scusi iat tzerriau is Magus, ddus iat preguntaus beni beni  in cali tempus ddis fiat cumpartu su steddu;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>2,8&lt;s0/&gt;e li inviò a Betlemme esortandoli: "Andate e informatevi accuratamente del bambino e, quando l'avrete trovato, fatemelo sapere, perché anch'io venga ad adorarlo".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T151550Z" creationid="giuan" creationdate="20260305T151550Z">
+        <seg>2,8 e ddus iat mandaus a Betlemmi arrecumande·ndi·ddis: «Baxei e informai·sì beni de su pipiu e, candu dd'agatais, feimi·ddu sciri, po chi deu puru potza andai a dd'adorai».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>20&lt;t0/&gt; Allora essi partirono e predicarono dappertutto, mentre il Signore operava insieme con loro e confermava la parola con i prodigi che l'accompagnavano.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260108T165241Z" creationid="BRUNA" creationdate="20251219T144503Z">
@@ -1418,6 +1477,14 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260108T161855Z" creationid="BRUNA" creationdate="20251219T141507Z">
         <seg> Arresuscitau a mengianu sa primu dii a pustis de su sàbudu, fiat aparèssiu/cumpartu/cumpàrfiu innantis a Maria de Màgdala, a sa chi ndi dd’iat bogau seti dimònius. 10 Issa fiat andada a dd’annuntziai a is cumpàngius de Gesùs chi fiant in corrutu e no si ndi acunnortànt. 11 E issus, intendendi ca fiat biu e ca issa dd’iat bistu, no nci iant crètiu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Abbiamo visto sorgere la sua stella, e siamo venuti per adorarlo".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T151337Z" creationid="giuan" creationdate="20260305T151337Z">
+        <seg>Eus bistu  in orienti su steddu suu, e seus bènnius a dd'adorai".</seg>
       </tuv>
     </tu>
     <tu>
