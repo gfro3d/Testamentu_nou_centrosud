@@ -694,10 +694,18 @@ Racheli prangit is fillus suus e no si bolit acunnortai, ca no funt prus bius/ca
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,21&lt;s0/&gt;Egli, alzatosi, prese con sé il bambino e sua madre, ed entrò nel paese d'Israele.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T152657Z" creationid="giuan" creationdate="20260305T152657Z">
+        <seg>2,21 Issu, cumenti si ndi fiat pesau, iat pigau cun issu su pipiu e sa mama, e fiat torrau a sa terra de Israeli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>2,22&lt;s0/&gt;Avendo però saputo che era re della Giudea Archelào al posto di suo padre Erode, ebbe paura di andarvi.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260305T152142Z" creationid="giuan" creationdate="20260305T152142Z">
-        <seg>2,21 Issu, cumenti si ndi fiat pesau, iat pigau cun issu su pipiu e sa mama, e fiat torrau a sa terra de Israeli.
+      <tuv lang="sc" changeid="giuan" changedate="20260305T152636Z" creationid="giuan" creationdate="20260305T152142Z">
+        <seg>
 </seg>
       </tuv>
     </tu>
@@ -705,8 +713,8 @@ Racheli prangit is fillus suus e no si bolit acunnortai, ca no funt prus bius/ca
       <tuv lang="it">
         <seg>2,23&lt;s0/&gt;e, appena giunto, andò ad abitare in una città chiamata Nazaret, perché si adempisse ciò che era stato detto dai profeti: "Sarà chiamato Nazareno".</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260305T152321Z" creationid="giuan" creationdate="20260305T152321Z">
-        <seg>2,23 e, cumenti fiat lòmpiu, fiat andau a bìviri in una citadi chi ddi narànt Nazaret/Nazarèt, po chi si fessit cumpriu su chi iant narau is profetas: "Dd'ant a narai Nazarenu/S''at a narai Nazarenu"</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T152552Z" creationid="giuan" creationdate="20260305T152321Z">
+        <seg>2,23 e, cumenti fiat lòmpiu, fiat andau a bìviri in una citadi chi ddi narànt Nazaret, po chi si fessit cumpriu su chi iant narau is profetas: "S'at a narai Nazarenu"</seg>
       </tuv>
     </tu>
     <tu>
