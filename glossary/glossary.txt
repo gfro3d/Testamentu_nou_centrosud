@@ -658,3 +658,4 @@ licenziarla	dda arrepudiai
 Nazaret	Nazaret	Nazarèt
 "Sarà chiamato Nazareno"	S'at a narai Nazarenu	Dd'ant a narai Nazarenu
 'Israele	Israeli
+Giudei	Giudeus
