@@ -1041,10 +1041,87 @@ ca de tui nd'at a essiri, difatis unu capu/ghia chi at a pàsciri Israeli, su p�
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>3,1&lt;s0/&gt;In quei giorni comparve Giovanni il Battista a predicare nel deserto della Giudea,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T153642Z" creationid="giuan" creationdate="20260305T153642Z">
+        <seg>3,1 In cussas diis fiat arribbau Giuanni su Batista a predicai in su desertu de sa Giudea,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>3,1&lt;t0/&gt; Entrò di nuovo nella sinagoga.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20250919T094438Z" creationid="giuan" creationdate="20250919T092703Z">
         <seg>3,1&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>3,2&lt;s0/&gt;dicendo: "Convertitevi, perché il regno dei cieli è vicino!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T153646Z" creationid="giuan" creationdate="20260305T153646Z">
+        <seg>3,2 narendi: «Cunvertei·sì, ca su rennu de is celus est acanta!»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>3,3&lt;s0/&gt;Egli è colui che fu annunziato dal profeta Isaia quando disse: Voce di uno che grida nel deserto: Preparate la via del Signore, raddrizzate i suoi sentieri!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T153703Z" creationid="giuan" creationdate="20260305T153703Z">
+        <seg>3,3 Est issu su chi iat annuntziau su profeta Isaia candu iat narau: 
+Boxi de unu chi aboxinat/aboxinendi in su desertu:
+Aprontai su caminu de su Sennori,
+aderetzai is àndalas suas!
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>3,4&lt;s0/&gt;Giovanni portava un vestito di peli di cammello e una cintura di pelle attorno ai fianchi; il suo cibo erano locuste e miele selvatico.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T153719Z" creationid="giuan" creationdate="20260305T153719Z">
+        <seg>3,4 Giuanni fiat a besti de pilu de cammellu, cun una cintroxa de peddi in lumbus, papàt pibitziri e meli aresti. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>3,5&lt;s0/&gt;Allora accorrevano a lui da Gerusalemme, da tutta la Giudea e dalla zona adiacente il Giordano;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T153736Z" creationid="giuan" creationdate="20260305T153736Z">
+        <seg>3,5 E acudiat a innui fiat issu de Gerusalemmi, de totu sa Giudea e de assoru/is tretus probianus a su Giordanu; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>3,6&lt;s0/&gt;e, confessando i loro peccati, si facevano battezzare da lui nel fiume Giordano.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T153752Z" creationid="giuan" creationdate="20260305T153752Z">
+        <seg>3,6 e, cumenti cunfessànt is pecaus insoru, issu ddus batiàt in (s'arriu) su Giordanu.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>3,7&lt;s0/&gt;Vedendo però molti farisei e sadducei venire al suo battesimo, disse loro: "Razza di vipere!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T153818Z" creationid="giuan" creationdate="20260305T153818Z">
+        <seg>3,7 Ma biendi ca ddoi andant fariseus e sadduceus medas acudendi a si fàiri batiai, ddis iat narau: «Arratza de pìbaras! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>3,8&lt;s0/&gt;Fate dunque frutti degni di conversione,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T153850Z" creationid="giuan" creationdate="20260305T153850Z">
+        <seg>3,8 Fadei duncas frutus dinnus de cunversioni,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>3,9&lt;s0/&gt;e non crediate di poter dire fra voi: Abbiamo Abramo per padre.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T153923Z" creationid="giuan" creationdate="20260305T153923Z">
+        <seg>3,9 e no cretais de pòdiri narai intre bosàterus; Abramu est babbu nostu. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1797,6 +1874,14 @@ ca de tui nd'at a essiri, difatis unu capu/ghia chi at a pàsciri Israeli, su p�
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20250918T084321Z" creationid="BRUNA" creationdate="20250918T084321Z">
         <seg>E chini podit perdonai is pecaus chi no Deus sceti?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Chi vi ha suggerito di sottrarvi all'ira imminente?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260305T153825Z" creationid="giuan" creationdate="20260305T153825Z">
+        <seg>Chini est chi bosi at narau a si fuiri de su s'àiru chi est arribbendi?</seg>
       </tuv>
     </tu>
     <tu>
