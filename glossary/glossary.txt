@@ -655,3 +655,6 @@ Cristo	Cristu
 incinta	pringia	gràida
 si trovò	si fiat agatada
 licenziarla	dda arrepudiai
+Nazaret	Nazaret	Nazarèt
+"Sarà chiamato Nazareno"	S'at a narai Nazarenu	Dd'ant a narai Nazarenu
+'Israele	Israeli
