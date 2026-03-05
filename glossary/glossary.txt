@@ -669,3 +669,10 @@ pula	pula
 fuoco inestinguibile	fogu chi no si ndi morit
 ventilabro	trebutzu
 grano	trigu
+fuoco	fogu
+scure	seguri
+radice	arrèxini
+alberi	matas
+produce	donat
+figli	fillus
+degni	dinnus
