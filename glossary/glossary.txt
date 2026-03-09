@@ -756,3 +756,13 @@ potere	poderi
 rendere	torrai
 bianco	canu
 capello	pilu
+città	citadi
+sgabello	scannu
+trono	trona
+antichi	antigus
+spergiurare	giurai su frassu
+adempi	cumpri
+giuramenti	giuras
+ripudia	arrefudat
+eccetto	francu
+concubinato	afanceddamentu
