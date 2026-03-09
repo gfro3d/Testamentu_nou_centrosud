@@ -2129,6 +2129,23 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>5,47&lt;s0/&gt;E se date il saluto soltanto ai vostri fratelli, che cosa fate di straordinario?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260309T172018Z" creationid="giuan" creationdate="20260309T171936Z">
+        <seg>5,47 E si saludais sceti a fradis bostus, ita feis in prus?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>5,48&lt;s0/&gt;Siate voi dunque perfetti come è perfetto il Padre vostro celeste.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260309T172110Z" creationid="giuan" creationdate="20260309T172110Z">
+        <seg>5,48 Siais, duncas, bosàterus perfetus cumenti su Babbu bostu chi est in is celus est perfetu.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>5,4&lt;s0/&gt;Beati gli afflitti, perché saranno consolati.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260309T170229Z" creationid="giuan" creationdate="20260309T170229Z">
@@ -3413,6 +3430,22 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251104T112437Z" creationid="giuan" creationdate="20251104T112437Z">
         <seg>ca no fiat tempus de figu. 14 E dd’iat narau: «Ancu mai prus nemus papit frutu de tui ». </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Non fanno così anche i pagani?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260309T172002Z" creationid="giuan" creationdate="20260309T172002Z">
+        <seg> Ellus no faint aici is paganus puru? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Non fanno così anche i pubblicani?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260309T171916Z" creationid="giuan" creationdate="20260309T171916Z">
+        <seg>No faint aici is pubblicanus puru? </seg>
       </tuv>
     </tu>
     <tu>
