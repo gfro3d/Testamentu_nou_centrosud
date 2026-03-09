@@ -766,3 +766,4 @@ giuramenti	giuras
 ripudia	arrefudat
 eccetto	francu
 concubinato	afanceddamentu
+ripudio	arrefudu
