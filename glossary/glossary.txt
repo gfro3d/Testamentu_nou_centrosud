@@ -849,13 +849,9 @@ si sfigurano	si sbisuriant
 colpe	pecaus	culpas
 debitori	depidoris
 quotidiano	de ònnia dii	fitianu
-venga	bengat
 come in cielo così in terra	cumenti in is celus aici in sa terra
-che sei nei cieli	chi ses in is celus
 di quali cose avete bisogno	ita s'abbisòngiat	de ita teneis abbisò
 non sprecate	no sperditzieis
-camera	aposentu
-che vede nel segreto	chi biit in su segretu	chi totu biit
 ipocriti	ipòcritas	frassus
 elemosina	limùsina
 essere lodati	si fàiri abantai
@@ -866,6 +862,11 @@ ritti		strantaxu
 angoli		arrenconis
 tromba		trumba
 nelle		me is
-Così	aici etotu
 iniquità	cosas foras de lei
-roccia	perda	1. arroca
+venga		bengat
+che sei nei cieli		chi ses in is celus
+camera		aposentu
+che vede nel segreto		chi biit in su segretu
+Così		aici etotu
+roccia		perda
+sanare		purificai
