@@ -2582,6 +2582,22 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>7,10&lt;s0/&gt;O se gli chiede un pesce, darà una serpe?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260316T094607Z" creationid="BRUNA" creationdate="20260316T094607Z">
+        <seg>7,10 Opuru si ddi pedit unu pisci, dd'at a donai unu pìbera?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,11&lt;s0/&gt;Se voi dunque che siete cattivi sapete dare cose buone ai vostri figli, quanto più il Padre&lt;s1/&gt;vostro che è nei cieli darà cose buone a quelli che gliele domandano!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260316T094802Z" creationid="BRUNA" creationdate="20260316T094802Z">
+        <seg>7,11 Si bosàterus chi seis malus scieis donai cosas bonas a fillus bostus, cantu prus su Babbu bostu chi est in is celus at a donai cosa bona a is chi si dda pedint!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>7,1&lt;s0/&gt;Non giudicate, per non essere giudicati;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260316T090534Z" creationid="BRUNA" creationdate="20260316T090534Z">
@@ -2646,6 +2662,22 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260316T094319Z" creationid="BRUNA" creationdate="20260316T094319Z">
         <seg>7,7 Pedei e bosi ant a donai, circai e eis a agatai: tocai s'enna e bosi ant a abèrriri;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,8&lt;s0/&gt;perché chiunque chiede riceve, e chi cerca trova e a chi bussa sarà aperto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260316T094424Z" creationid="BRUNA" creationdate="20260316T094424Z">
+        <seg>7,8 ca a chini pedit arricit, e a chini circat agatat e a chini tocat s'enna ant a abèrriri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,9&lt;s0/&gt;Chi tra di voi al figlio che gli chiede un pane darà una pietra?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260316T094504Z" creationid="BRUNA" creationdate="20260316T094504Z">
+        <seg>7,9 Chini de bosàterus a su fillu chi ddi pedit pani dd'at a donai una pedra?</seg>
       </tuv>
     </tu>
     <tu>
