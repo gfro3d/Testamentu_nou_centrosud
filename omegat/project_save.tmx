@@ -2634,6 +2634,22 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>7,6&lt;s0/&gt;Non date le cose sante ai cani e non gettate le vostre perle davanti ai porci, perché non le calpestino con le loro zampe e poi si voltino per sbranarvi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260316T094007Z" creationid="BRUNA" creationdate="20260316T094007Z">
+        <seg>7,6 No doneis sa cosa santa a is canis e no gheteis is prellas bostas ananti de is procus, po chi no ddas apetighint e si furrint contras a bosàterus po si fàiri a arrogus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,7&lt;s0/&gt;Chiedete e vi sarà dato; cercate e troverete; bussate e vi sarà aperto;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260316T094319Z" creationid="BRUNA" creationdate="20260316T094319Z">
+        <seg>7,7 Pedei e bosi ant a donai, circai e eis a agatai: tocai s'enna e bosi ant a abèrriri;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>7&lt;t0/&gt; &lt;t1/&gt;Invano essi mi rendono culto,</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251014T063408Z" creationid="giuan" creationdate="20251009T141853Z">
