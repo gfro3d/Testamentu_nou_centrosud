@@ -874,3 +874,4 @@ servo	serbidori	tzeracu
 ciò	cussu
 riva	oru de mari
 tempesta	strasura
+flutti	caddarigas
