@@ -2647,6 +2647,15 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>7,18&lt;s0/&gt;un albero buono non può produrre frutti cattivi, né un albero cattivo produrre frutti buoni.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260316T101110Z" creationid="BRUNA" creationdate="20260316T101110Z">
+        <seg>7,18 una mata bona no podit bogai frutus malus, ni una mata mala podit donai frutus bonus.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>7,1&lt;s0/&gt;Non giudicate, per non essere giudicati;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260316T090534Z" creationid="BRUNA" creationdate="20260316T090534Z">
