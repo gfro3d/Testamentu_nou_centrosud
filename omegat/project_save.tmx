@@ -2639,6 +2639,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>7,17&lt;s0/&gt;Così ogni albero buono produce frutti buoni e ogni albero cattivo produce frutti cattivi;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260316T101034Z" creationid="BRUNA" creationdate="20260316T101034Z">
+        <seg>7,17 Aici etotu ònnia mata bona bogat/donat frutus bonus e ònnia mata mala donat/betit frutus malus;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>7,1&lt;s0/&gt;Non giudicate, per non essere giudicati;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260316T090534Z" creationid="BRUNA" creationdate="20260316T090534Z">
@@ -4177,6 +4185,15 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260107T092112Z" creationid="BRUNA" creationdate="20251008T144407Z">
         <seg>E narànt: «Giuanni su Batista est arresuscitau de mesu a is mortus e po custu  tenit su poderi de fàiri miràculus». 15 Intamis chi àterus narànt: «Est Elias »; e àterus ancora narànt: «Est unu profeta, che a unu de is profetas». 16 Ma Erodi, chi ndi iat intèndiu chistionai, naràt: «Cuddu Giuanni  chi apu fatu degollai, est torrau biu!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Si raccoglie forse uva dalle spine, o fichi dai rovi?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260316T100119Z" creationid="BRUNA" creationdate="20260316T100119Z">
+        <seg>Ellus, s’àxina de mesu de sa spina, o si boddit figu de mesu de su cardu?
+</seg>
       </tuv>
     </tu>
     <tu>
