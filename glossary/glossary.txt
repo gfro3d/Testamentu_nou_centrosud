@@ -3,7 +3,6 @@ riassettare	assetiai	it. rassettare, fr. arranger, sp. remmendar
 paralitico	màrturu
 lettuccio	letera	lètiga, lètia
 glorificare	alabantzai	allabantzai; alabai
-discepolo	discipulu
 pubblicani	pubblicanus
 discepoli	discìpulus	scientis
 chiamare	circai   (ca Gesùs est circhendi is discìpulus)
@@ -874,3 +873,4 @@ paralizzato	màrturu
 servo	serbidori	tzeracu
 ciò	cussu
 riva	oru de mari
+tempesta	strasura
