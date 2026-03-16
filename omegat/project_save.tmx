@@ -2349,6 +2349,68 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>6,22&lt;s0/&gt;La lucerna del corpo è l'occhio; se dunque il tuo occhio è chiaro, tutto il tuo corpo sarà nella luce;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080346Z" creationid="giuan" creationdate="20260316T080346Z">
+        <seg>6,22 Sa làntia de su corpus est s'ogu; si s'ogu tuu est sanu/sintzeru, totu su corpus tuu at a èssiri in sa luxi/luxenti;
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,23&lt;s0/&gt;ma se il tuo occhio è malato, tutto il tuo corpo sarà tenebroso.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080416Z" creationid="giuan" creationdate="20260316T080416Z">
+        <seg>6,23 ma si s'ogu tuu est malu, totu su corpus tuu at a èssiri scuriosu  (prenu de scuriori). 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,24&lt;s0/&gt;Nessuno può servire a due padroni: o odierà l'uno e amerà l'altro, o preferirà l'uno e&lt;s1/&gt;disprezzerà l'altro: non potete servire a Dio e a mammona.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080449Z" creationid="giuan" creationdate="20260316T080449Z">
+        <seg>6,24 Nemus podit serbiri a duus meris: o at a tènniri in òdiu a s'unu e at a stimai a s'àteru, o at a preferriri a s'unu e at a dispretziai a s'àteru: no podeis serbiri a Deus e a s'arrichesa/dinai mammona.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,25&lt;s0/&gt;Perciò vi dico: per la vostra vita non affannatevi di quello che mangerete o berrete, e neanche per il vostro corpo, di quello che indosserete; la vita forse non vale più del cibo e il corpo più del vestito?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080504Z" creationid="giuan" creationdate="20260316T080504Z">
+        <seg>6,25 Po custu bosi naru: no siais in arriolu/pentzamentu/axiu po sa vida de bosàterus po su chi eis a papai o a bufai, e mancu po su corpus de bosàterus pensendi cumenti seis a bistiri; e ita sa vida no si balit/fortzis de prus de su papai/mandiari e su corpus prus de su bistiri?
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,26&lt;s0/&gt;Guardate gli uccelli del cielo: non seminano, né mietono, né ammassano nei granai; eppure il Padre vostro celeste li nutre.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080525Z" creationid="giuan" creationdate="20260316T080525Z">
+        <seg>6,26 Castiai is pillonis de celu: no ddoi seminant, no messant, no incungiant/e ammuntonant in is stàulus; epuru su Babbu bostu de su celu ddis donat a papai. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,27&lt;s0/&gt;E chi di voi, per quanto si dia da fare, può aggiungere un'ora sola alla sua vita?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080559Z" creationid="giuan" creationdate="20260316T080559Z">
+        <seg>6,27 Chini de bosàterus, po cantu fatzat /s'arriolit meda, podit aciùngiri mancai pagu a sa vida sua?
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,28&lt;s0/&gt;E perché vi affannate per il vestito?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080623Z" creationid="giuan" creationdate="20260316T080623Z">
+        <seg>6,28 E poita si pighais pentzamentu po su bistiri? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>6,2&lt;s0/&gt;Quando dunque fai l'elemosina, non suonare la tromba davanti a te, come fanno gli ipocriti nelle sinagoghe e nelle strade per essere lodati dagli uomini.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260316T075625Z" creationid="giuan" creationdate="20260316T075512Z">
@@ -3617,6 +3679,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Non contate voi forse più di loro?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080542Z" creationid="giuan" creationdate="20260316T080542Z">
+        <seg>No contais fortzis prus de issus?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Non era infatti quella la stagione dei fichi. &lt;t3/&gt;14&lt;t4/&gt; E gli disse: «Nessuno possa mai più mangiare i tuoi frutti».</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251104T112437Z" creationid="giuan" creationdate="20251104T112437Z">
@@ -3863,6 +3933,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T102249Z" creationid="giuan" creationdate="20251104T112040Z">
         <seg>Ndi ddu scapiais e ndi ddu beteis. 3 E si calincunu bosi at a narai: It’est chi seis fendi? Arrespundei: A su Sennori ddi serbit, e ndi dd’at a torrai a mandai luegus a innoi». 4 Fiant andaus e iant agatau unu molenteddu acapiau acanta a una genna, in sa bia, e ndi dd’iant scapiau. 5 E unus cantu chi fiant innia ddis iant narau: « E it’est chi seis fendi, scapiendi·ndi custu molenteddu?». 6 E issus iant arrespustu comenti ddis iat narau su Sennori. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Se dunque la luce che è in te è tenebra, quanto grande sarà la tenebra!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080429Z" creationid="giuan" creationdate="20260316T080429Z">
+        <seg>Si sa luxi chi est aintru de tui/tuu est scuriori, cantu at a èssiri mannu su scuriori!</seg>
       </tuv>
     </tu>
     <tu>
