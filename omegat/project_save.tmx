@@ -3059,6 +3059,25 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>8,33&lt;s0/&gt;I mandriani allora fuggirono ed entrati in città raccontarono ogni cosa e il fatto degli&lt;s1/&gt;indemoniati.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260316T115114Z" creationid="BRUNA" creationdate="20260316T115114Z">
+        <seg>8,33 Tandus is procaxus si fiant fuius e fiant intraus a sa citadi e iant contau ònnia cosa e (fintzas)  su fatu de is indimoniaus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>8,34&lt;s0/&gt;Tutta la città allora uscì incontro a Gesù e, vistolo, lo pregarono che si allontanasse dal loro territorio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260316T115228Z" creationid="BRUNA" creationdate="20260316T115228Z">
+        <seg>8,34 Totu sa citadi insaras nci fiat essia a atobiai a Gesùs e, biendi·ddu, dd'iant impetrau chi si nci stesiessit de sa terra insoru.
+
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>8,4&lt;s0/&gt;Poi Gesù gli disse: "Guardati dal dirlo a qualcuno, ma va' a mostrarti al sacerdote e presenta l'offerta prescritta da Mosè, e ciò serva come testimonianza per loro".</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260316T104138Z" creationid="BRUNA" creationdate="20260316T104138Z">
@@ -3866,6 +3885,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251107T112352Z" creationid="BRUNA" creationdate="20250914T130546Z">
         <seg>E issus, lassau su babbu Zebedeu in sa barca cun is giorronaderis, dd'iant postu infatu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Ed essi, usciti dai corpi degli uomini, entrarono in quelli dei porci: ed ecco tutta la mandria si precipitò dal dirupo nel mare e perì nei flutti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260316T115018Z" creationid="BRUNA" creationdate="20260316T115018Z">
+        <seg>8,32 E issu ddis iat narau: «Baxei/Andai!». E issus, ndi essiant de is corpus de is òminis e nci intrànt in su de is procus: e totu su tallu si nci spentumànt e si fiant mortus in is caddarigas de mari.</seg>
       </tuv>
     </tu>
     <tu>
