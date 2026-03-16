@@ -872,3 +872,4 @@ roccia		perda
 sanare		purificai
 paralizzato	màrturu
 servo	serbidori	tzeracu
+ciò	cussu
