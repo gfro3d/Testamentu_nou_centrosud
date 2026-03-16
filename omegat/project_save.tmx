@@ -2411,10 +2411,64 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>6,29&lt;s0/&gt;Eppure io vi dico che neanche Salomone, con tutta la sua gloria, vestiva come uno di loro.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080643Z" creationid="giuan" creationdate="20260316T080643Z">
+        <seg>6,29 Epuru/Ma deu bosi naru ca mancu Salomoni, cun totu sa glòria chi teniat, si bestiat che a unu de issus.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>6,2&lt;s0/&gt;Quando dunque fai l'elemosina, non suonare la tromba davanti a te, come fanno gli ipocriti nelle sinagoghe e nelle strade per essere lodati dagli uomini.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260316T075625Z" creationid="giuan" creationdate="20260316T075512Z">
         <seg>6,2 E candu fais sa limùsina, no dd'annuntzis sonendi sa trumba, cumenti faint is ipòcritas me is sinagogas e in caminu po si fàiri abantai de is òminis. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,30&lt;s0/&gt;Ora se Dio veste così l'erba del campo, che oggi c'è e domani verrà gettata nel forno, non farà&lt;s1/&gt;assai più per voi, gente di poca fede?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080657Z" creationid="giuan" creationdate="20260316T080657Z">
+        <seg>6,30 Duncas si Deus dda bestit aici s'erba de su campu, chi oi nci est e cras nci dda ghetant a su forru, ellus no at a fàiri meda de prus po bosàterus, genti de pagu fidi?
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,31&lt;s0/&gt;Non affannatevi dunque dicendo: Che cosa mangeremo?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080727Z" creationid="giuan" creationdate="20260316T080716Z">
+        <seg>6,31 Po custu/tantis no si pongais pentzamentu narendi: Ita eus a papai? 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,32&lt;s0/&gt;Di tutte queste cose si preoccupano i pagani; il Padre vostro celeste infatti sa che ne avete bisogno.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080800Z" creationid="giuan" creationdate="20260316T080800Z">
+        <seg>6,32 Totu custas cosas ponint in pentzamentu is paganus; su Babbu bostu chi est in is celus ddu sciit ca ndi teneis abbisòngiu.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,33&lt;s0/&gt;Cercate prima il regno di Dio e la sua giustizia, e tutte queste cose vi saranno date in&lt;s1/&gt;aggiunta.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080803Z" creationid="giuan" creationdate="20260316T080803Z">
+        <seg>6,33 A primu circai su rennu de Deus e sa giustìtzia sua, e totu custas cosas si ddas ant a donai in aciunta.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,34&lt;s0/&gt;Non affannatevi dunque per il domani, perché il domani avrà già le sue inquietudini.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080823Z" creationid="giuan" creationdate="20260316T080823Z">
+        <seg>6,34 No si pongais in pentzamentu po s'incràs, ca s'incràs at a tènniri giai is pentzamentus suus. A ònnia dii ddi bastat sa pena sua.
 </seg>
       </tuv>
     </tu>
@@ -2798,6 +2852,22 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260107T085557Z" creationid="giuan" creationdate="20250929T080429Z">
         <seg>Dd'acumpangiànt àteras barcas. Si fiat pesada insaras una  traschia de bentu chi nci ghetàt is undas a sa barca, tantis chi sa barca fiat agiumai. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Che cosa berremo?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080720Z" creationid="giuan" creationdate="20260316T080720Z">
+        <seg>Ita eus a bufai?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Che cosa indosseremo?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080730Z" creationid="giuan" creationdate="20260316T080730Z">
+        <seg> Ita s'eus a pònniri?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3763,6 +3833,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251104T112250Z" creationid="giuan" creationdate="20251104T112250Z">
         <seg>Osanna in is celus prus artus!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Osservate come crescono i gigli del campo: non lavorano e non filano.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260316T080627Z" creationid="giuan" creationdate="20260316T080627Z">
+        <seg>Castiai cumenti crescint is lillus de su sartu: no traballant e no filant.</seg>
       </tuv>
     </tu>
     <tu>
