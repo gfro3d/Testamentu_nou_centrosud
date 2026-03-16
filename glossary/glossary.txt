@@ -818,3 +818,10 @@ crescono	crescint
 vestito	bistiri
 per quanto si dia da fare	po cantu fatzat	po cantu s'arriolit
 forse	fortzis
+seminano	seminant
+mietono	messant
+ammassano nei granai	incungiant	ammuntonant in is stàulus
+nutre	donat a papai
+uccelli del cielo	pillonis de celu
+non affannatev	no siais in arriolu
+cibo	papai	mandiari
