@@ -2618,6 +2618,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>7,4&lt;s0/&gt;O come potrai dire al tuo fratello: permetti che tolga la pagliuzza dal tuo occhio, mentre&lt;s1/&gt;nell'occhio tuo c'è la trave?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260316T093325Z" creationid="BRUNA" creationdate="20260316T093325Z">
+        <seg>7,4 O cumenti as a pòdiri narai a fradi tuu: «Lassa ca ti ndi bogu s'àstula de s'ogu, e in s'ogu tuu ddoi est una/sa biga?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>7&lt;t0/&gt; &lt;t1/&gt;Invano essi mi rendono culto,</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251014T063408Z" creationid="giuan" creationdate="20251009T141853Z">
