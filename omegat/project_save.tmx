@@ -3704,8 +3704,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>E si facevano battezzare da lui nel fiume Giordano, confessando i loro peccati. &lt;t3/&gt;6&lt;t4/&gt; Giovanni era vestito di peli di cammello, con una cintura di pelle attorno ai fianchi, si cibava di locuste e miele selvatico &lt;t5/&gt;7&lt;t6/&gt; e predicava: «Dopo di me viene uno che è più forte di me e al quale io non son degno di chinarmi per sciogliere i legacci dei suoi sandali. &lt;t7/&gt;8&lt;t8/&gt; Io vi ho battezzati con acqua, ma egli vi battezzerà con lo Spirito Santo».</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251205T105008Z" creationid="BRUNA" creationdate="20250912T123453Z">
-        <seg>e issu ddus batiàt in s'arriu Giordanu, comenti cunfessànt is pecaus insoru. Giuanni fiat a besti de pilu de camellu, cun una cintroxa de peddi in lumbus, papàt pibitziri e meli aresti. E predicàt: "Infatu miu at a bènniri su chi est prus poderosu de mei, a chini no seu dìnniu mancu de m'incrubai po ndi ddi scapiai is corrias de is sàndulus. Deu bosi apu batiau cun àcua, ma issu bosi at a batiai cun su Spìridu Santu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260326T160552Z" creationid="BRUNA" creationdate="20250912T123453Z">
+        <seg>e issu ddus batiàt in s'arriu Giordanu, comenti cunfessànt is pecaus insoru. Giuanni fiat a besti de pilu de camellu, cun una cintroxa de peddi in lumbus, papàt pibitziri e meli aresti. E predicàt: «Infatu miu at a bènniri su chi est prus poderosu de mei, a chini no seu dìnniu mancu de m'incrubai po ndi ddi scapiai is corrias de is sàndulus. Deu bosi apu batiau cun àcua, ma issu bosi at a batiai cun su Spìridu Santu.»</seg>
       </tuv>
     </tu>
     <tu>
@@ -4209,14 +4209,6 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251203T085948Z" creationid="giuan" creationdate="20251014T110056Z">
         <seg>Ma chi podis fàiri calincuna cosa, tenindi piedadi de nosu e agiuda·sì». 23 Gesùs iat sighiu: «Si tui podis!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="it">
-        <seg>Marco</seg>
-      </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260326T160330Z" creationid="giuan" creationdate="20251106T081905Z">
-        <seg>«</seg>
       </tuv>
     </tu>
     <tu>
