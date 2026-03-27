@@ -377,8 +377,8 @@
       <tuv lang="it">
         <seg>13&lt;t0/&gt; Gli presentavano dei bambini perché li accarezzasse, ma i discepoli li sgridavano. &lt;t1/&gt;14&lt;t2/&gt; Gesù, al vedere questo, s'indignò e disse loro: «Lasciate che i bambini vengano a me e non glielo impedite, perché a chi è come loro appartiene il regno di Dio. &lt;t3/&gt;15&lt;t4/&gt; In verità vi dico: Chi non accoglie il regno di Dio come un bambino, non entrerà in esso». &lt;t5/&gt;16&lt;t6/&gt; E prendendoli fra le braccia e ponendo le mani sopra di loro li benediceva.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260327T152353Z" creationid="giuan" creationdate="20251027T113134Z">
-        <seg>13  Megànt de ddi presentai unus cantu pipius po ddus tocai, is discìpulus peru ddus certànt.14 Gesùs biendi custu, si fiat arrennegau e ddis iat narau: « Is pipius lassaide·ddus a s’acostai anche mimi, no si ddus priveis/proibbais ca su rennu de Deus est de is chi funt comenti a issus. 15 In beridadi bosi naru: Chini no arricit su rennu de Deus comenti a unu pipiu, no ddoi at a intrai». 16 E imprassendi·ddus, e stendiendide·ddis is manus asuba, ddus beneixiat. </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260327T153624Z" creationid="giuan" creationdate="20251027T113134Z">
+        <seg>13  Megànt de ddi presentai unus cantu pipius po ddus tocai, is discìpulus peru ddus certànt.14 Gesùs biendi custu, si fiat arrennegau e ddis iat narau: « Is pipius lassaide·ddus a s’acostai anche mimi, no si ddus priveis/proibbais ca su rennu de Deus est de is chi funt comenti a issus. 15 In beridadi bosi naru: Chini no arricit su rennu de Deus comenti a unu pipiu, no ddoi at a intrai». 16 E imprassendide·ddus, e stendiendide·ddis is manus asuba, ddus beneixiat. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3088,8 +3088,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>8,5&lt;s0/&gt;Entrato in Cafarnao, gli venne incontro un centurione che lo scongiurava:</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260316T104249Z" creationid="BRUNA" creationdate="20260316T104249Z">
-        <seg>8,5 Intrau (chi fiat) a Cafarnau, si ddi fiat acostiau unu centurioni preghendi·ddu:</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260327T153501Z" creationid="BRUNA" creationdate="20260316T104249Z">
+        <seg>8,5 Intrau (chi fiat) a Cafarnau, si ddi fiat acostiau unu centurioni preghendide·ddu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3313,8 +3313,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Basta, è venuta l'ora: ecco, il Figlio dell'uomo viene consegnato nelle mani dei peccatori. &lt;t1/&gt;42&lt;t2/&gt; Alzatevi, andiamo!</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251209T145140Z" creationid="giuan" creationdate="20251209T143109Z">
-        <seg>Bastat, ca s’ora est arribada: ecu, su Fillu de s’òmini funt intreghendi·ddu in manus a·is pecadoris. 42 Pesai e andeus! 
+      <tuv lang="sc" changeid="giuan" changedate="20260327T153432Z" creationid="giuan" creationdate="20251209T143109Z">
+        <seg>Bastat, ca s’ora est arribada: ecu, su Fillu de s’òmini funt intreghendide·ddu in manus a·is pecadoris. 42 Pesai e andeus! 
 </seg>
       </tuv>
     </tu>
