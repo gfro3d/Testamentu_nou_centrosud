@@ -377,8 +377,8 @@
       <tuv lang="it">
         <seg>13&lt;t0/&gt; Gli presentavano dei bambini perché li accarezzasse, ma i discepoli li sgridavano. &lt;t1/&gt;14&lt;t2/&gt; Gesù, al vedere questo, s'indignò e disse loro: «Lasciate che i bambini vengano a me e non glielo impedite, perché a chi è come loro appartiene il regno di Dio. &lt;t3/&gt;15&lt;t4/&gt; In verità vi dico: Chi non accoglie il regno di Dio come un bambino, non entrerà in esso». &lt;t5/&gt;16&lt;t6/&gt; E prendendoli fra le braccia e ponendo le mani sopra di loro li benediceva.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260327T153624Z" creationid="giuan" creationdate="20251027T113134Z">
-        <seg>13  Megànt de ddi presentai unus cantu pipius po ddus tocai, is discìpulus peru ddus certànt.14 Gesùs biendi custu, si fiat arrennegau e ddis iat narau: « Is pipius lassaide·ddus a s’acostai anche mimi, no si ddus priveis/proibbais ca su rennu de Deus est de is chi funt comenti a issus. 15 In beridadi bosi naru: Chini no arricit su rennu de Deus comenti a unu pipiu, no ddoi at a intrai». 16 E imprassendide·ddus, e stendiendide·ddis is manus asuba, ddus beneixiat. </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260327T171959Z" creationid="giuan" creationdate="20251027T113134Z">
+        <seg>13  Megànt de ddi presentai unus cantu pipius po ddus tocai, is discìpulus peru ddus certànt.14 Gesùs biendi custu, si fiat arrennegau e ddis iat narau: « Is pipius lassaide·ddus a s’acostai anche mimi, no si ddus priveis/proibbais ca su rennu de Deus est de is chi funt cumenti a issus. 15 In beridadi bosi naru: Chini no arricit su rennu de Deus cumenti a unu pipiu, no ddoi at a intrai». 16 E imprassendide·ddus, e stendiendide·ddis is manus asuba, ddus beneixiat. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3630,8 +3630,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>E mentre partiva da Gerico insieme ai discepoli e a molta folla, il figlio di Timèo, Bartimèo, cieco, sedeva lungo la strada a mendicare. &lt;t1/&gt;47&lt;t2/&gt; Costui, al sentire che c'era Gesù Nazareno, cominciò a gridare e a dire: «Figlio di Davide, Gesù, abbi pietà di me!». &lt;t3/&gt;48&lt;t4/&gt; Molti lo sgridavano per farlo tacere, ma egli gridava più forte: «Figlio di Davide, abbi pietà di me!».</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251205T094639Z" creationid="giuan" creationdate="20251027T114238Z">
-        <seg>E comenti fiat essendi·nci de Gèricu impari a is discìpulus e una truma manna de genti, Bartumeu, fillu de Timeu, tzurpu, fiat sètziu in s’oru de su caminu pedendi limòsina. 47 Candu custu iat intèndiu ca ddoi fiat Gesùs su Nazarenu, si fiat pesau a boxis narendi: «O su Fillu de Dàvidi, Gesùs, tenendi làstima de mei!». 48  E medas dd’iant certau a si citiri, issu perou tzerriàt prus a forti «O su Fillu de Dàvidi, tenendi làstima de mei!». </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260327T172013Z" creationid="giuan" creationdate="20251027T114238Z">
+        <seg>E cumenti fiat essendi·nci de Gèricu impari a is discìpulus e una truma manna de genti, Bartumeu, fillu de Timeu, tzurpu, fiat sètziu in s’oru de su caminu pedendi limòsina. 47 Candu custu iat intèndiu ca ddoi fiat Gesùs su Nazarenu, si fiat pesau a boxis narendi: «O su Fillu de Dàvidi, Gesùs, tenendi làstima de mei!». 48  E medas dd’iant certau a si citiri, issu perou tzerriàt prus a forti «O su Fillu de Dàvidi, tenendi làstima de mei!». </seg>
       </tuv>
     </tu>
     <tu>
@@ -3672,8 +3672,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>E quando fu in casa, chiese loro: «Di che cosa stavate discutendo lungo la via?». &lt;t1/&gt;34&lt;t2/&gt; Ed essi tacevano.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251014T111343Z" creationid="giuan" creationdate="20251014T111343Z">
-        <seg>e comenti nci fiant intraus a domu, Gesùs ddis iat preguntau: «De ita est chi fiais arrexonendi in caminu?».34 E issus abarrànt citius. </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260327T171929Z" creationid="giuan" creationdate="20251014T111343Z">
+        <seg>e cumenti nci fiant intraus a domu, Gesùs ddis iat preguntau: «De ita est chi fiais arrexonendi in caminu?».34 E issus abarrànt citius. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4117,8 +4117,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>La folla accorse di nuovo a lui e di nuovo egli l'ammaestrava, come era solito fare. &lt;t1/&gt;2&lt;t2/&gt; E avvicinatisi dei farisei, per metterlo alla prova, gli domandarono: «È lecito ad un marito ripudiare la propria moglie?». &lt;t3/&gt;3&lt;t4/&gt; Ma egli rispose loro: «Che cosa vi ha ordinato Mosè?». &lt;t5/&gt;4&lt;t6/&gt; Dissero: «Mosè ha permesso di &lt;t7/&gt;scrivere un atto di ripudio e di rimandarla&lt;t8/&gt;». &lt;t9/&gt;5&lt;t10/&gt; Gesù disse loro: «Per la durezza del vostro cuore egli scrisse per voi questa norma. &lt;t11/&gt;6&lt;t12/&gt; Ma all'inizio della creazione &lt;t13/&gt;Dio li creò maschio e femmina;&lt;t14/&gt; &lt;t15/&gt;7&lt;t16/&gt; &lt;t17/&gt;per questo l'uomo lascerà suo padre e sua madre e i due saranno una carne sola&lt;t18/&gt;. &lt;t19/&gt;8&lt;t20/&gt; Sicché non sono più due, ma una sola carne. &lt;t21/&gt;9&lt;t22/&gt; L'uomo dunque non separi ciò che Dio ha congiunto». &lt;t23/&gt;10&lt;t24/&gt; Rientrati a casa, i discepoli lo interrogarono di nuovo su questo argomento.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251205T081701Z" creationid="giuan" creationdate="20251027T113034Z">
-        <seg> E si torràt a pinnigai genti meda acanta sua, e Gesus, comenti acostumàt a fàiri, ddis torrada a donai imparu. 2 E si fiant acostiaus unus cantu fariseus chi po ddu fàiri arrùiri in trampa/pònniri a prova ddi pregontànt: « Lìcitu ddi est a unu pobiddu a nci bogai a sa mulleri?». 3 Issu perou ddis iat arrespustu: « Mosè e it’est chi bosi at cumandau?». 4  E issus iant narau: «Mosè at permitiu a scriri un’àutu/paperi de arrefudu e a nci dda bogai/dispidiri». 5 Ma Gesùs ddis iat narau: «Po nexi de su coru tostau de bosàterus bosi at scritu custa norma». 6  Ma a s’incomintzu de sa creatzioni Deus ddu at fatus mascu e fèmina; 7 po cussu s’òmini at a lassai su babbu e sa mama e is duus ant a èssiri totuna carri. 8  Aici chi no funt prus duus ma una carri sceti. 9  S’òmini duncas no pratzat su chi Deus at crobau/auniu ». 10 Furriaus a domu, is discìpulus iant torrau a preguntai a Gesùs de custu etotu. </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260327T171945Z" creationid="giuan" creationdate="20251027T113034Z">
+        <seg> E si torràt a pinnigai genti meda acanta sua, e Gesus, cumenti acostumàt a fàiri, ddis torrada a donai imparu. 2 E si fiant acostiaus unus cantu fariseus chi po ddu fàiri arrùiri in trampa/pònniri a prova ddi pregontànt: « Lìcitu ddi est a unu pobiddu a nci bogai a sa mulleri?». 3 Issu perou ddis iat arrespustu: « Mosè e it’est chi bosi at cumandau?». 4  E issus iant narau: «Mosè at permitiu a scriri un’àutu/paperi de arrefudu e a nci dda bogai/dispidiri». 5 Ma Gesùs ddis iat narau: «Po nexi de su coru tostau de bosàterus bosi at scritu custa norma». 6  Ma a s’incomintzu de sa creatzioni Deus ddu at fatus mascu e fèmina; 7 po cussu s’òmini at a lassai su babbu e sa mama e is duus ant a èssiri totuna carri. 8  Aici chi no funt prus duus ma una carri sceti. 9  S’òmini duncas no pratzat su chi Deus at crobau/auniu ». 10 Furriaus a domu, is discìpulus iant torrau a preguntai a Gesùs de custu etotu. </seg>
       </tuv>
     </tu>
     <tu>
