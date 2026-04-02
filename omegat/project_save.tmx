@@ -3150,6 +3150,38 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>9,10&lt;s0/&gt;Mentre Gesù sedeva a mensa in casa, sopraggiunsero molti pubblicani e peccatori e si misero a tavola con lui e con i discepoli.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071252Z" creationid="giuan" creationdate="20260402T071252Z">
+        <seg>9,10 E Gesùs fiat sètziu in sa mesa me in sa domu, candu funt aproillaus unu bellu tanti de publicanus e pecadoris e si fiant postus in sa mesa impari  a is discìpulus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,11&lt;s0/&gt;Vedendo ciò, i farisei dicevano ai suoi discepoli: "Perché il vostro maestro mangia insieme ai pubblicani e ai peccatori?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071306Z" creationid="giuan" creationdate="20260402T071306Z">
+        <seg>9,11 Biendi custu, is fariseus narànt a is discìpulus suus: «Poita su maistu de bosàterus papat impari a is publicanus e a is pecadoris?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,12&lt;s0/&gt;Gesù li udì e disse: "Non sono i sani che hanno bisogno del medico, ma i malati.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071339Z" creationid="giuan" creationdate="20260402T071339Z">
+        <seg>9,12 E Gesùs ddus iat intèndius e iat narau: «No funt is sanus chi tenint abbisòngiu de su mèigu, ma is malàidus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,13&lt;s0/&gt;Andate dunque e imparate che cosa significhi: Misericordia io voglio e non sacrificio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071445Z" creationid="giuan" creationdate="20260402T071425Z">
+        <seg>9,13 Baxei duncas e imparai ita bolit narai: Misericòrdia deu bollu e no sacrifìtziu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>9,1&lt;s0/&gt;Salito su una barca, Gesù passò all'altra riva e giunse nella sua città.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260402T070933Z" creationid="giuan" creationdate="20260402T070933Z">
@@ -3202,6 +3234,30 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260402T071146Z" creationid="giuan" creationdate="20260402T071146Z">
         <seg>9,6 Immoi, po chi scipiais ca su Fillu de s'òmini tenit in sa terra s'autoridadi de perdonai is pecaus: pesa·ti·ndi, iat narau a su màrturu, piga·ndi sa stoja e bai a domu tua».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,7&lt;s0/&gt;Ed egli si alzò e andò a casa sua.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071200Z" creationid="giuan" creationdate="20260402T071200Z">
+        <seg>9,7 E issu si ndi fiat pesau e si ndi fiat andau a domu sua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,8&lt;s0/&gt;A quella vista, la folla fu presa da timore e rese gloria a Dio che aveva dato un tale potere agli uomini.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071214Z" creationid="giuan" creationdate="20260402T071214Z">
+        <seg>9,8 Biendi custu, sa genti iat tìmiu e iat torrau glòria a Deus chi iat donau un'autoridadi aici manna a is òminis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,9&lt;s0/&gt;Andando via di là, Gesù vide un uomo chiamato Matteo, seduto al banco delle imposte, e gli disse:&lt;s1/&gt;"Seguimi".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071233Z" creationid="giuan" creationdate="20260402T071233Z">
+        <seg>9,9 Andendi·si·ndi de innia, Gesùs iat bistu a un'omini chi ddi narànt Mateu, sètziu in su bangu de is tributus, e dd'iat narau «Sighi·mì». </seg>
       </tuv>
     </tu>
     <tu>
@@ -3913,6 +3969,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Ed egli si alzò e lo seguì.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071237Z" creationid="giuan" creationdate="20260402T071237Z">
+        <seg>E issu si ndi fiat pesau e dd'iat postu infatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Ed entrato in una casa, voleva che nessuno lo sapesse, ma non potè restare nascosto. &lt;t1/&gt;25&lt;t2/&gt; Subito una donna che aveva la sua figlioletta posseduta da uno spirito immondo, appena lo seppe, andò e si gettò ai suoi piedi. &lt;t3/&gt;26&lt;t4/&gt; Ora, quella donna che lo pregava di scacciare il demonio dalla figlia era greca, di origine siro-fenicia. &lt;t5/&gt;27&lt;t6/&gt; Ed egli le disse: «Lascia prima che si sfamino i figli; non è bene prendere il pane dei figli e gettarlo ai cagnolini». &lt;t7/&gt;28&lt;t8/&gt; Ma essa replicò: «Sì, Signore, ma anche i cagnolini sotto la tavola mangiano delle briciole dei figli». &lt;t9/&gt;29&lt;t10/&gt; Allora le disse: «Per questa tua parola va', il demonio è uscito da tua figlia».</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T154125Z" creationid="giuan" creationdate="20251010T060018Z">
@@ -4151,6 +4215,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260107T105852Z" creationid="BRUNA" creationdate="20251014T064455Z">
         <seg>In beridadi bosi naru: no dd'apu a donai perunu sinnu a custa generatzioni.13 E lassaus chi ddus iat, nci fiat torrau a pesai a sa barca e si ndi fiat andau a s’ateru oru de mari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Infatti non sono venuto a chiamare i giusti, ma i peccatori".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071434Z" creationid="giuan" creationdate="20260402T071434Z">
+        <seg>Difatis no seu bènniu po is giustus, ma po is pecadoris».</seg>
       </tuv>
     </tu>
     <tu>
