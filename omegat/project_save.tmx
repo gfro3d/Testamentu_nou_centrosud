@@ -3166,6 +3166,46 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>9,2&lt;s0/&gt;Ed ecco, gli portarono un paralitico steso su un letto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071026Z" creationid="giuan" creationdate="20260402T070948Z">
+        <seg>9,2 E luegus, dd'iant portau unu màrturu corcau in una stoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,3&lt;s0/&gt;Allora alcuni scribi cominciarono a pensare: "Costui bestemmia".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071053Z" creationid="giuan" creationdate="20260402T071053Z">
+        <seg>9,3 E tandus unus cantu scribas iant cumentzau a pentzai: «Custu est frastimendi».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,4&lt;s0/&gt;Ma Gesù, conoscendo i loro pensieri, disse: "Perché mai pensate cose malvagie nel vostro cuore?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071111Z" creationid="giuan" creationdate="20260402T071111Z">
+        <seg>9,4 Gesùs perou, connoscendi is pensamentus insoru, iat narau: «Poita est chi pentzais cosas malas in su coru de bosàterus?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,5&lt;s0/&gt;Che cosa dunque è più facile, dire: Ti sono rimessi i peccati, o dire: Alzati e cammina?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071130Z" creationid="giuan" creationdate="20260402T071130Z">
+        <seg>9,5 E ita est duncas prus fàcili a narai: Is pecaus ti funt perdonaus, opuru a narai: Pesa·ti·ndi e camina?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,6&lt;s0/&gt;Ora, perché sappiate che il Figlio dell'uomo ha il potere in terra di rimettere i peccati:&lt;s1/&gt;alzati, disse allora il paralitico, prendi il tuo letto e va' a casa tua".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071146Z" creationid="giuan" creationdate="20260402T071146Z">
+        <seg>9,6 Immoi, po chi scipiais ca su Fillu de s'òmini tenit in sa terra s'autoridadi de perdonai is pecaus: pesa·ti·ndi, iat narau a su màrturu, piga·ndi sa stoja e bai a domu tua».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>9&lt;t0/&gt; In quei giorni Gesù venne da Nazaret di Galilea e fu battezzato nel Giordano da Giovanni. &lt;t1/&gt;10&lt;t2/&gt; E, uscendo dall'acqua, vide aprirsi i cieli e lo Spirito discendere su di lui come una colomba. &lt;t3/&gt;11&lt;t4/&gt; E si sentì una voce dal cielo: «Tu sei il Figlio mio prediletto, in te mi sono compiaciuto».</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T153704Z" creationid="BRUNA" creationdate="20250912T154702Z">
@@ -3991,6 +4031,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T150256Z" creationid="BRUNA" creationdate="20251008T142933Z">
         <seg>7 E Gesùs andàt peri is biddas de acanta donendi imparu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Gesù, vista la loro fede, disse al&lt;s1/&gt;paralitico: "Coraggio, figliolo, ti sono rimessi i tuoi peccati".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071035Z" creationid="giuan" creationdate="20260402T071035Z">
+        <seg>Gesùs, biendi sa fidi insoru, iat narau a su màrturu: «Fai·tì coràgiu, fillu miu, is pecaus tuus ti funt perdonaus».</seg>
       </tuv>
     </tu>
     <tu>
