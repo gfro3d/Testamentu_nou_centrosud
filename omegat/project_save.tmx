@@ -3266,6 +3266,77 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>9,22&lt;s0/&gt;Gesù, voltatosi, la vide e disse: "Coraggio, figliola, la tua fede ti ha guarita".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071811Z" creationid="giuan" creationdate="20260402T071811Z">
+        <seg>9,22 Gesùs, si fiat furriau, dd'iat bista e dd'iat narau: «Coràgiu, filla mia, sa fidi tua t'at sanau». 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,23&lt;s0/&gt;Arrivato poi Gesù nella casa del capo e veduti i flautisti e la gente in agitazione, disse:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071831Z" creationid="giuan" creationdate="20260402T071831Z">
+        <seg>9,23 E candu Gesùs fiat lòmpiu a sa domu de su capu biendi is sonadoris e sa genti in avolotu, iat narau:
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,24&lt;s0/&gt;"Ritiratevi, perché la fanciulla non è morta, ma dorme".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071855Z" creationid="giuan" creationdate="20260402T071855Z">
+        <seg>9,24 «Arretirai·sì, ca sa piciochedda no est morta, ma est dromia». 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,25&lt;s0/&gt;Ma dopo che fu cacciata via la gente egli entrò, le prese la mano e la fanciulla si alzò.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071927Z" creationid="giuan" creationdate="20260402T071927Z">
+        <seg>9,25 E candu nci iant bogau sa genti a foras fiat intrau issu, dd'iat pigau sa manu e sa piciochedda si ndi fiat pesada.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,26&lt;s0/&gt;E se ne sparse la fama in tutta quella regione.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071931Z" creationid="giuan" creationdate="20260402T071931Z">
+        <seg>9,26 E sa nova si fiat spartzinada apetotu cussa regioni.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,27&lt;s0/&gt;Mentre Gesù si allontanava di là, due ciechi lo seguivano urlando: "Figlio di Davide, abbi pietà di noi".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071955Z" creationid="giuan" creationdate="20260402T071955Z">
+        <seg>9,27 E candu Gesùs fiat mòviu de innia, ddu sodigànt duus tzurpus aboxinendi: «Fillu de Dàvidi, teni piedadi de nosu».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,28&lt;s0/&gt;Entrato in casa, i ciechi gli si accostarono, e Gesù disse loro: "Credete voi che io possa fare questo?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T072008Z" creationid="giuan" creationdate="20260402T072008Z">
+        <seg>9,28 E intrau a domu, is tzurpus si fiant acostiaus, e Gesùs ddis iat narau: «Bosàterus creeis chi potza fàiri custu?». 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,29&lt;s0/&gt;Allora toccò loro gli occhi e disse: "Sia fatto a voi secondo la vostra fede".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T072027Z" creationid="giuan" creationdate="20260402T072027Z">
+        <seg>9,29 Insaras iat tocau is ogus insoru narendi: « Siat fatu a bosàterus segundu sa fidi bosta».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>9,2&lt;s0/&gt;Ed ecco, gli portarono un paralitico steso su un letto.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260402T071026Z" creationid="giuan" creationdate="20260402T070948Z">
@@ -3775,6 +3846,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>E in&lt;s1/&gt;quell'istante la donna guarì.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071816Z" creationid="giuan" creationdate="20260402T071816Z">
+        <seg>E de insaras sa fèmina fiat sanada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>E la numerosa folla lo ascoltava volentieri.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251208T092315Z" creationid="BRUNA" creationdate="20251205T153644Z">
@@ -4203,6 +4282,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251014T063726Z" creationid="BRUNA" creationdate="20251014T063726Z">
         <seg>E dd’iant arrespustu: «Seti». 6 Gesùs iat cumandau a sa genti a si sètziri in terra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Gli risposero: "Sì, o Signore!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T072011Z" creationid="giuan" creationdate="20260402T072011Z">
+        <seg>Dd'iant arrespustu: «Sissi, o Sennori!».</seg>
       </tuv>
     </tu>
     <tu>
@@ -4722,10 +4809,27 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Quelli si misero a deriderlo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T071859Z" creationid="giuan" creationdate="20260402T071859Z">
+        <seg>E issus si nd'arriiant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Questo popolo mi onora con le labbra,</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251014T062951Z" creationid="giuan" creationdate="20251009T141818Z">
         <seg>Custu pòpulu mi torrat onori cun is laras,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Quindi Gesù li ammonì dicendo: "Badate che nessuno lo sappia!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T072052Z" creationid="giuan" creationdate="20260402T072052Z">
+        <seg>E Gesùs ddus ammonestat narendi: «Castiai chi no ddu scìpiat nemus!».
+</seg>
       </tuv>
     </tu>
     <tu>
