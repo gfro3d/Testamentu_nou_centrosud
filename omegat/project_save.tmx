@@ -2467,8 +2467,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>6,34&lt;s0/&gt;Non affannatevi dunque per il domani, perché il domani avrà già le sue inquietudini.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260316T080823Z" creationid="giuan" creationdate="20260316T080823Z">
-        <seg>6,34 No si pongais in pentzamentu po s'incràs, ca s'incràs at a tènniri giai is pentzamentus suus. A ònnia dii ddi bastat sa pena sua.
+      <tuv lang="sc" changeid="giuan" changedate="20260402T070547Z" creationid="giuan" creationdate="20260316T080823Z">
+        <seg>6,34 No si pongais in pentzamentu po s'incràs, ca s'incràs at a tènniri giai is pentzamentus suus. 
 </seg>
       </tuv>
     </tu>
@@ -2878,9 +2878,9 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>8,13&lt;s0/&gt;E Gesù disse al centurione: "Va', e sia fatto secondo la tua fede".</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260316T111024Z" creationid="BRUNA" creationdate="20260316T110616Z">
+      <tuv lang="sc" changeid="giuan" changedate="20260402T070640Z" creationid="BRUNA" creationdate="20260316T110616Z">
         <seg> 
- 8,13 E Gesùs dd'iat narau a su centurioni: «Bai, e chi ti siat fatu cunforma a  sa fidi tua». E in deretura su serbidori fiat sanau.</seg>
+ 8,13 E Gesùs dd'iat narau a su centurioni: «Bai, e chi ti siat fatu cunforma a  sa fidi tua». </seg>
       </tuv>
     </tu>
     <tu>
@@ -3028,8 +3028,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>8,29&lt;s0/&gt;Cominciarono a gridare: "Che cosa abbiamo noi in comune con te, Figlio di Dio?</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260316T114546Z" creationid="BRUNA" creationdate="20260316T114546Z">
-        <seg>8,29 Iant cumentzau a aboxinai: «Ita nci intraus nosu cun tui/Ita ses circhendi·sì, Fillu de Deus? Ses bènniu a innoi innantis de s'ora a si trumentai?».
+      <tuv lang="sc" changeid="giuan" changedate="20260402T070733Z" creationid="BRUNA" creationdate="20260316T114546Z">
+        <seg>8,29 Iant cumentzau a aboxinai: «Ita nci intraus nosu cun tui/Ita ses circhendi·sì, Fillu de Deus?
 </seg>
       </tuv>
     </tu>
@@ -3055,6 +3055,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260316T114746Z" creationid="BRUNA" creationdate="20260316T114746Z">
         <seg>8,31 E is dimònius ddu impetrànt: «Chi si nci bogas, manda·sì·nci a cussu tallu».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>8,32&lt;s0/&gt;Egli disse loro: "Andate!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T070801Z" creationid="giuan" creationdate="20260402T070801Z">
+        <seg>8,32 E issu ddis iat narau: «Baxei/Andai!».</seg>
       </tuv>
     </tu>
     <tu>
@@ -3142,6 +3150,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>9,1&lt;s0/&gt;Salito su una barca, Gesù passò all'altra riva e giunse nella sua città.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T070933Z" creationid="giuan" creationdate="20260402T070933Z">
+        <seg>9,1 Gesùs nci fiat artziau a una barca, nci fiat passau a s'àteru oru e fiat lòmpiu a sa citadi sua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>9,1&lt;t0/&gt; E diceva loro: «In verità vi dico: vi sono alcuni qui presenti, che non morranno senza aver visto il regno di Dio venire con potenza».</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251126T084523Z" creationid="giuan" creationdate="20251014T103904Z">
@@ -3178,6 +3194,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260108T161855Z" creationid="BRUNA" creationdate="20251219T141507Z">
         <seg> Arresuscitau a mengianu sa primu dii a pustis de su sàbudu, fiat aparèssiu/cumpartu/cumpàrfiu innantis a Maria de Màgdala, a sa chi ndi dd’iat bogau seti dimònius. 10 Issa fiat andada a dd’annuntziai a is cumpàngius de Gesùs chi fiant in corrutu e no si ndi acunnortànt. 11 E issus, intendendi ca fiat biu e ca issa dd’iat bistu, no nci iant crètiu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>A ciascun giorno basta la sua pena.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T070554Z" creationid="giuan" creationdate="20260402T070554Z">
+        <seg>A ònnia dii ddi bastat sa pena sua. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3891,8 +3915,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Ed essi, usciti dai corpi degli uomini, entrarono in quelli dei porci: ed ecco tutta la mandria si precipitò dal dirupo nel mare e perì nei flutti.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260316T115018Z" creationid="BRUNA" creationdate="20260316T115018Z">
-        <seg>8,32 E issu ddis iat narau: «Baxei/Andai!». E issus, ndi essiant de is corpus de is òminis e nci intrànt in su de is procus: e totu su tallu si nci spentumànt e si fiant mortus in is caddarigas de mari.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T070756Z" creationid="BRUNA" creationdate="20260316T115018Z">
+        <seg> E issus, ndi essiant de is corpus de is òminis e nci intrànt in su de is procus: e totu su tallu si nci spentumànt e si fiant mortus in is caddarigas de mari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4055,6 +4079,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T144823Z" creationid="giuan" creationdate="20251001T100556Z">
         <seg>Issu si ndi fiat pesau, iat certau su bentu e dd'iat narau a su mari: «Asselia·tì e citi·tì a sa muda!». Su bentu si fiat firmau e fiat lòmpia una grandu bonantza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>In quell'istante il servo guarì.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T070645Z" creationid="giuan" creationdate="20260402T070645Z">
+        <seg>E in deretura su serbidori fiat sanau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4538,6 +4570,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20250922T093848Z" creationid="BRUNA" creationdate="20250914T152710Z">
         <seg>A si spèrdiri ses bènniu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Sei venuto qui prima del tempo a tormentarci?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T070712Z" creationid="giuan" creationdate="20260402T070712Z">
+        <seg>Ses bènniu a innoi innantis de s'ora a si trumentai?».</seg>
       </tuv>
     </tu>
     <tu>
