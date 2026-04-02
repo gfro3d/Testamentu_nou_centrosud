@@ -913,3 +913,5 @@ Matteo	Mateu
 potere	autoridadi	poderi
 malvagie	malas
 letto	stoja
+La somma	Sa summa
+infine	inprefinis
