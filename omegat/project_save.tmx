@@ -612,8 +612,8 @@
       <tuv lang="it">
         <seg>2,13&lt;s0/&gt;Essi erano appena partiti, quando un angelo del Signore apparve in sogno a Giuseppe e gli disse:&lt;s1/&gt;"Alzati, prendi con te il bambino e sua madre e fuggi in Egitto, e resta là finché non ti&lt;s2/&gt;avvertirò, perché Erode sta cercando il bambino per ucciderlo".</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260305T151906Z" creationid="giuan" creationdate="20260305T151906Z">
-        <seg>2,13 Aditzu aditzu chi fiant mòvius, Giusepi iat bistu in bisu un'àngiulu de su Sennori chi dd'iat narau: «Pesa·ti·ndi, piga a su pipiu e a sa mama e fui·tì cun issus a Egitu, e abarra innia fintzas a candu ti ddu naru deu, ca Erodi est circhendi a su pipiu po ddu bociri.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T074342Z" creationid="giuan" creationdate="20260305T151906Z">
+        <seg>2,13 Aditzu·aditzu chi fiant mòvius, Giusepi iat bistu in bisu un'àngiulu de su Sennori chi dd'iat narau: «Pesa·ti·ndi, piga a su pipiu e a sa mama e fui·tì cun issus a Egitu, e abarra innia fintzas a candu ti ddu naru deu, ca Erodi est circhendi a su pipiu po ddu bociri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -654,8 +654,8 @@ De s'Egitu nd'apu tzerriau a fillu miu.
       <tuv lang="it">
         <seg>2,18&lt;s0/&gt;Un grido è stato udito in Rama, un pianto e un lamento grande; Rachele piange i suoi figli e non vuole essere consolata, perché non sono più.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260326T170614Z" creationid="giuan" creationdate="20260305T152054Z">
-        <seg>2,18 Unu tzèrriu/èrchidu s'est intèndiu in Rama,
+      <tuv lang="sc" changeid="giuan" changedate="20260402T074428Z" creationid="giuan" creationdate="20260305T152054Z">
+        <seg>2,18 Unu èrchidu s'est intèndiu in Rama,
 unu prantu e atìtidus mannus;
 Racheli prangit is fillus suus e no  bolit a dd'acunnortai, ca no funt prus.</seg>
       </tuv>
@@ -3636,8 +3636,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Avvertito poi in sogno, si ritirò nelle regioni della Galilea</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260305T152259Z" creationid="giuan" creationdate="20260305T152259Z">
-        <seg>2,22 Sendi ca iat scìpiu ca su rei de sa Giudea fiat Archelau in logu de su babbu Erodi, iat tìmiu a ddoi andai. Avèrtiu a pustis in unu bisu, si fiat arretirau/fiat furriau  in/a is regionis de Galilea</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260402T074513Z" creationid="giuan" creationdate="20260305T152259Z">
+        <seg>2,22 Sendi ca iat scìpiu ca su rei de sa Giudea fiat Archelau in logu de su babbu Erodi, iat tìmiu a ddoi andai. Avèrtiu a pustis in unu bisu, si fiat arretirau a is regionis de sa Galilea</seg>
       </tuv>
     </tu>
     <tu>
