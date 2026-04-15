@@ -215,10 +215,34 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,1&lt;s0/&gt;Chiamati a sé i dodici discepoli, diede loro il potere di scacciare gli spiriti immondi e di guarire ogni sorta di malattie e d'infermità.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260415T095645Z" creationid="giuan" creationdate="20260415T095645Z">
+        <seg>10,1 E issu tzerriau chi iat acanta sua a is doxi discìpulus suus, ddis iat donau autoridadi asuba de is spìridus malus po nci ddus bogai e po sanai ònnia casta de maladia e de mali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,1&lt;t0/&gt; Partito di là, si recò nel territorio della Giudea e oltre il Giordano.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251027T112908Z" creationid="giuan" creationdate="20251027T112908Z">
         <seg>10,1 Partiu de innia, fiat andau a su terriòriu de sa Giudea e a s’àtera ala de su Giordanu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,2&lt;s0/&gt;I nomi dei dodici apostoli sono: primo, Simone, chiamato Pietro, e Andrea, suo fratello; Giacomo di Zebedèo e Giovanni suo fratello,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260415T095719Z" creationid="giuan" creationdate="20260415T095719Z">
+        <seg>10,2 I nòminis de is doxi apòstulus funt custus: su primu, Simoni, su chi narant Pedru e Andria, fradi suu; Giagu de Zebedeu e Giuanni su fradi,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,3&lt;s0/&gt;Filippo e Bartolomeo, Tommaso e Matteo il pubblicano, Giacomo di Alfeo e Taddeo,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260415T095725Z" creationid="giuan" creationdate="20260415T095725Z">
+        <seg>10,3 Filipu e Bartumeu, Tomasu e Mateu su publicanu, Giagu de Alfeu e Taddeu,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3403,8 +3427,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>9,37&lt;s0/&gt;Allora disse ai suoi discepoli: "La messe è molta, ma gli operai sono pochi!</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260402T072311Z" creationid="giuan" creationdate="20260402T072311Z">
-        <seg>9,37 Insaras iat narau a is discìpulus suus: «Su lori est meda, ma is messadoris/giorronaderis funt pagus!».</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260415T095534Z" creationid="giuan" creationdate="20260402T072311Z">
+        <seg>9,37 Insaras iat narau a is discìpulus suus: «Su lori est meda, ma is messadoris funt pagus!».</seg>
       </tuv>
     </tu>
     <tu>
