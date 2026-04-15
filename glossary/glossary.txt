@@ -956,3 +956,10 @@ soldo	soddu
 capelli	pilus
 perfino	po fintzas
 capo	conca
+spada	spada
+Non crediate	No si cretais
+portare	betiri
+suocera	sorga
+nuora	nura
+nemici	nimigus
+figlia	filla
