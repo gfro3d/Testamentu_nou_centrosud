@@ -386,10 +386,42 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,29&lt;s0/&gt;Due passeri non si vendono forse per un soldo?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260415T101840Z" creationid="giuan" creationdate="20260415T101840Z">
+        <seg>10,29 No si bendint fortzis duus cruculeus po unu soddu? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,2&lt;s0/&gt;I nomi dei dodici apostoli sono: primo, Simone, chiamato Pietro, e Andrea, suo fratello; Giacomo di Zebedèo e Giovanni suo fratello,</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260415T095719Z" creationid="giuan" creationdate="20260415T095719Z">
         <seg>10,2 I nòminis de is doxi apòstulus funt custus: su primu, Simoni, su chi narant Pedru e Andria, fradi suu; Giagu de Zebedeu e Giuanni su fradi,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,30&lt;s0/&gt;Quanto a voi, perfino i capelli del vostro capo sono tutti contati;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260415T101957Z" creationid="giuan" creationdate="20260415T101957Z">
+        <seg>10,30 E bosàterus, po fintzas is pilus de conca funt totu contaus;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,31&lt;s0/&gt;non abbiate dunque timore: voi valete più di molti passeri!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260415T102025Z" creationid="giuan" creationdate="20260415T102025Z">
+        <seg>10,31 no timais duncas: bosàterus baleis prus de medas cruculeus!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,32&lt;s0/&gt;Chi dunque mi riconoscerà davanti agli uomini, anch'io lo riconoscerò davanti al Padre mio che è nei cieli;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260415T102046Z" creationid="giuan" creationdate="20260415T102046Z">
+        <seg>10,32  Chini m'at a arreconnòsciri ananti a is òminis, deu puru dd'apu a arreconnòsciri ananti a su Babbu miu chi est in is celus;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4483,6 +4515,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T153309Z" creationid="giuan" creationdate="20251209T141938Z">
         <seg>Est un’òpera bona chi m’at fatu; 7 ca is pòburus ddus portais sempri in fatu e ddis podeis fàiri su beni candu boleis, ma a mei no sempri m’eis a tènniri. 8 Issa at fatu su chi podiat, s’est acudia innantis a mi ùngiri su corpus po s’interru. 9 In beridadi bosi naru ca in ònnia logu innui s’annuntzit s’evangèliu ant a contai fintzas, in memòria sua, su chi issa at fatu».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Eppure neanche uno di essi cadrà a terra senza che il Padre vostro lo voglia.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260415T101857Z" creationid="giuan" creationdate="20260415T101857Z">
+        <seg>E mancai aici nissciunu de issus nci at a arrùiri a terra chene Babbu bostu.</seg>
       </tuv>
     </tu>
     <tu>
