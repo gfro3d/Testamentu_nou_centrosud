@@ -215,6 +215,30 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,10&lt;s0/&gt;né bisaccia da viaggio, né due tuniche, né sandali, né bastone, perché l'operaio ha diritto al suo nutrimento.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260415T100243Z" creationid="giuan" creationdate="20260415T100243Z">
+        <seg>10,10 ni bèrtula de viàgiu, ni duas tùnicas, ni sàndulus, ni matzucu, ca s'operaju est dìnniu de su nutrimentu suu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,11&lt;s0/&gt;In qualunque città o villaggio entriate, fatevi indicare se vi sia qualche persona degna, e lì rimanete fino alla vostra partenza.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260415T100320Z" creationid="giuan" creationdate="20260415T100320Z">
+        <seg>10,11 A cali si siat citadi o bidda intreis, fei·sì inditai si ddoi at calincuna persona dìnnia, e abarrai·ddoi innia fintzas a candu eis a mòviri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,12&lt;s0/&gt;Entrando nella casa, rivolgetele il saluto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260415T100334Z" creationid="giuan" creationdate="20260415T100334Z">
+        <seg>10,12 Intrendi a sa domu, saludai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,1&lt;s0/&gt;Chiamati a sé i dodici discepoli, diede loro il potere di scacciare gli spiriti immondi e di guarire ogni sorta di malattie e d'infermità.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260415T095645Z" creationid="giuan" creationdate="20260415T095645Z">
@@ -275,6 +299,22 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260415T100027Z" creationid="giuan" creationdate="20260415T100027Z">
         <seg>10,7 E andendi·andendi, annuntziai ca su rennu de is celus est acanta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,8&lt;s0/&gt;Guarite gli infermi, risuscitate i morti, sanate i lebbrosi, cacciate i demòni.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260415T100055Z" creationid="giuan" creationdate="20260415T100055Z">
+        <seg>10,8 Sanai a is malàidus, arresuscitai is mortus, sanai is lebrosus, bogai·nci is dimònius. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,9&lt;s0/&gt;Non procuratevi oro, né argento, né moneta di rame nelle vostre cinture,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260415T100151Z" creationid="giuan" creationdate="20260415T100151Z">
+        <seg>10,9 No bosi pigheis oru, ni prata, ni dinai de arràmini in is singeddus de bosàterus,</seg>
       </tuv>
     </tu>
     <tu>
@@ -4442,6 +4482,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T090424Z" creationid="giuan" creationdate="20251027T113857Z">
         <seg>E dd’iant arrespustu: 37 «Lassa·sì sètziri in sa glòria tua, unu a manu dereta e unu a manu manca». 38 Gesùs ddis iat narau: «Bosàterus no scieis su chi seis pedendi·mì. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Gratuitamente avete ricevuto, gratuitamente date.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260415T100105Z" creationid="giuan" creationdate="20260415T100105Z">
+        <seg>A indonu eis arriciu, a indonu donai</seg>
       </tuv>
     </tu>
     <tu>
