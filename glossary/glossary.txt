@@ -936,3 +936,6 @@ lupi	lupus
 prudenti	avèrtius
 serpenti	colorus
 colombe	columbas
+davanti	ananti
+preoccupatevi	arrioleis
+vostro	bostu
