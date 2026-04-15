@@ -970,3 +970,5 @@ causa	mori	càusa; nexi
 profeta	profeta
 ricompensa	arrecumpentza
 giusto	giustu
+acqua	àcua
+piccoli	piticheddus
