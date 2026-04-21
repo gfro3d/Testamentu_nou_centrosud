@@ -38,7 +38,6 @@ si trovò nel bisogno	si fiat agatau in su bisòngiu
 i campi di grano	is trigus
 i pani dell'offerta	is panis de s'oferta
 il sommo sacerdote	su predi mannu
-strappare	arrancai	stoddiri
 Perciò	po cussu	tantis chi
 inaridita	cancarada	sica in campidanesu si imperat po làngia, asciuta
 inaridita	cancarada	retenta; sica
@@ -81,7 +80,6 @@ Giunsero	Arribbaus	Lòmpius
 Strepito	Atropèlliu	Avolotu
 Carpentiere	Fusteri	Maistu de linna
 Viaggio	Biaxi	Viàgiu, Caminu
-Giuramento	Giura	Giuramentu; Promissa
 sordomuto	surdu
 pregandolo	preghendi·ddu	impetrendi·ddu
 imporgli	ddi impònniri
@@ -120,7 +118,6 @@ campagne	sartu
 guarivano	fiant sanaus
 la frangia del mantello	s'oru de su manteddu
 pregavano	pregànt	impetrànt
-indurito	tostau
 non temete	no timais
 li ebbe congedati	nci ddus iat dispidius
 fantasma	pantàsima	pantuma
@@ -398,21 +395,13 @@ Dalmanùta	Dalmanùta	Dalmanuta?
 con sé		cunsegus
 Convocata	tzerriendi
 Va' in pace	Bai in paxi
-medici	dotoris
-salvato	sanau	sarvau
-cieco	tzurpu
 gettato via	scavulendi·nci
 Coraggio	toca
 mendicare	pèdiri limòsina
-pietà	làstima
 lo sgridavano	ddu certànt
-Giacomo	Giacu
 servitore	serbidori
-calice	càlixi
-destra	dereta
 sinistra	manca
 concederlo	ddu acansai
-bere	tastai	bufai
 che io faccia	a fàiri deu
 consegnato	at a èssiri intregau
 sacerdoti	sacerdotus majoris
@@ -422,29 +411,20 @@ lo flagelleranno	dd'ant a aciotai
 presso	anca de
 la cruna	s'ogu
 afflitto	scorau
-tesoro	arrichesa manna
 Non uccidere	No bòcias
 adulterio	adultèriu
 non frodare	no fatzas trampa
 lettucci	stojas
 indurito	intostau
-stupiti	spramaus
-fatto	fau	miràculu
 Coraggio	ànimu	coràgiu
-subito	luegus
 precederlo	andai a innantis
 licenziato	dispidiu
 sul mare	asuba de mari
 contrario	contras
 l'ultima parte della notte	a coa de noti
-gruppi	trumas	trumixeddas, trupas
-verde	frisca	birdi
 si sfamarono	si fiant pràndius
 sedettero	si fiant stèrrius
-tardi	trigadiu	tardu
 si riunirono	si fiant assodius
-Venite	Ajo cun mimi
-un po'	una scuta	pagu·pagu
 divenne triste	si fiat intristau
 guardia	guàrdia	buginu
 lo decapitò	dd'iat degollau
@@ -464,13 +444,10 @@ Scioglietelo	ndi ddu scapiais
 conducetelo	ndi ddu bèteis
 lo rimanderà	ndi dd'at a torrai a mandai
 vi montò sopra	dd'iat sètziu
-stendevano	sterriant
 fronde	fròngia
 Osanna<t0/> nel più alto dei cieli!	Osanna in is celus prus artus
 seguente	infatu
 ebbe fame.	dd'iat pigau fàmini
-fico	figu
-foglie	folla
 stagione	tempus
 scacciare	nci bogai
 rovesciò	nci iat furriau
@@ -482,37 +459,20 @@ Quando venne la sera	A scurigadroxu
 maledetto	maleixu
 abbiate fede	tenei fidi	cunfiai in Deus
  In verità vi dico	In beridadi bosi naru
-contro	contras a	cun
-anziani	mannus
-dal cielo	de Deus
 Non sappiamo	No ddu scieus
 Tutti ti cercano	totus funt circhendi·tì	Totus ti circant
-stese	allonghiau	stèrriu
 un'apertura	trapa	stampu
 lettuccio	stoja
  ti ordino	ti cumandu	ti seu narendi
-otri	udris
-lecito	litzizu	contras a sa lei
 sommo sacerdote	sacerdotu majori
 Mettiti nel mezzo	poni·tì in mesu
-Stendi	allonghia
 perché non lo manifestassero.	ca no boliat a scoviai	ca no boliat a ndi bogai cun nemus
 costituì	nominau
-rese	iat donau	iat betiu
 si abbattono	imbruchinant	si storrant
-moggio	imbudu	moju
 Se uno ha orecchi per intendere, intenda!	Se uno ha orecchi per intendere, intenda!
-se	chi	si
-Salì	iat pigau	nci fiat pesau/artziau
-ceppi	trabas	travas/tzipus
-cielo	is celus	celu
-Effatà	Efatà
 arrisuscitau	arresuscitai
-accade	acuntèssiri
-contro	contras
 Cafarnao	Cafarnau	Cafàrnau
 si radunarono	si fiant pinnigadas apari
- Ora	Tandus
 altrimenti	deghinò, desinuncas
 camminando	in caminu
 lecito	lìcitu
@@ -547,7 +507,6 @@ Giacobbe	Giacobbu
 Egli	Issu
 all'infuori di lui	foras de issu
 olocausti	olocaustus
-saggiamente	cun sabiduria
 Guardatevi	Castiai·sì
 condanna	cundenna
 Divorano	Nci ingurtint
@@ -569,22 +528,14 @@ sputargli	ddu spudai
 coprirgli	ddi cuai
 stracciandosi	scorriendi·sì
 bestemmia	frastimu
-nubi	nuis
-Potenza	Totu Poderosu
-Figlio	Fillu
 benedetto	benitu
 concorde	a cuncordu	torràt paris
 lenzuolo	lentzolu/lentzoru
-bastoni	matzocas
 l'orecchio	s'origa
 Giuda	Giudas
 Alzatevi	Pesai
-Basta	Bastat
 riposatevi	pasiai
 vegliare	billai
-carne	carri
-Simone	Simoni
-Padre	Babbu
 allontana	stesia·nci
 Getsèmani	Getsemani
 Giovanni	Giuanni
@@ -942,14 +893,10 @@ vostro	bostu
 fratello	fradi
 chi persevererà	chini at aguantai
 sarete odiati	bosi ant a tènniri in òdiu
-fuggite	fuei·sì
 percorrere	nci passai
-padrone	meri
 Beelzebùl	Beelzebùl
-svelato	scobertu
 manifestato	connotu
 all'orecchio	a s'origa
-tetti	crobeturas
 uccidono	bocint
 passeri	cruculeus
 soldo	soddu
@@ -972,10 +919,60 @@ ricompensa	arrecumpentza
 giusto	giustu
 acqua	àcua
 piccoli	piticheddus
-sorto	bessiu
 tuttavia	epuru
 rimproverare	certai
 Guai	Arguai
 giogo	giuali
 Prendete	Atuai	Caricarsi addosso, farsi carico
 ristoro	arrecreu
+strappare		arrancai, stoddiri
+Giuramento	Giura	Giuramentu;
+medici		dotoris
+salvato		sanau
+cieco		tzurpu
+pietà		làstima
+Giacomo		Giacu
+calice		càlixi
+destra		dereta
+bere		tastai
+tesoro		arrichesa manna
+stupiti		spramaus
+fatto		fatu
+subito		luegus
+gruppi		areis, trumas
+Venite		Ajo cun mimi
+un po'		una scuta
+stendeva	no	sterriant
+fico		figu
+foglie		folla
+contro		contras a
+anziani		mannus
+dal cie	lo	de Deus
+stese		allonghiau
+otri		udris
+lecito		litzizu
+Stendi		allonghia
+rese		iat donau
+moggio		imbudu
+se		chi
+Salì		iat pigau
+cielo		is celus
+Effatà		Efatà
+accade		acuntèssiri
+contro		contras
+Ora		Tandus
+saggiamente	cun sabidoria
+nubi		nuis
+Potenza		Totu Poderosu
+Figlio		Fillu
+bastoni		matzocas
+Giuda		Giudas
+Basta		Bastat
+carne		carri
+Simone		Simoni
+Padre		Babbu
+fuggite		fuei·sì
+padrone		meri
+svelato		scobertu
+tetti		crobeturas
+sorto	essiu
