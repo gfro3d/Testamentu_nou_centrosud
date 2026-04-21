@@ -972,3 +972,5 @@ ricompensa	arrecumpentza
 giusto	giustu
 acqua	àcua
 piccoli	piticheddus
+sorto	bessiu
+tuttavia	epuru
