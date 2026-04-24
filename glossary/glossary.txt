@@ -999,3 +999,6 @@ reggersi.	aguantai
 saccheggiare	sdorrobbai
 disperde.	predìtziat
 futuro	benideru	benidori
+aridi	àrridus
+sollievo,	pàsiu
+verso	conca a
