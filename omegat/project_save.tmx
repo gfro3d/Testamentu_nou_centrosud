@@ -892,6 +892,15 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris. M
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,10&lt;s0/&gt;Ed ecco, c'era un uomo che aveva una mano inaridita, ed essi chiesero a Gesù: "È permesso curare di sabato?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260424T084855Z" creationid="BRUNA" creationdate="20260424T084855Z">
+        <seg>E mi’, ddoi fiat un’òmini chi portat una manu cancarada, e issus dd’iant preguntau a Gesùs: «Fait a sanai in dii de sàbudu?». Dd’iant narau aici po ddi ghetai curpa.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,1&lt;s0/&gt;In quel tempo Gesù passò tra le messi in giorno di sabato, e i suoi discepoli ebbero fame e cominciarono a cogliere spighe e le mangiavano.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260424T083905Z" creationid="BRUNA" creationdate="20260424T083905Z">
@@ -956,8 +965,8 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris. M
       <tuv lang="it">
         <seg>12,7&lt;s0/&gt;Se aveste compreso che cosa significa: Misericordia io voglio e non sacrificio, non avreste&lt;s1/&gt;condannato persone senza colpa.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260424T084449Z" creationid="BRUNA" creationdate="20260424T084449Z">
-        <seg>Si iais cumprèndiu/scìpiu ita bolit narai: «Misericòrdia deu bollu e no sacrifìciu, no iais cundennau is chene curpa.
+      <tuv lang="sc" changeid="BRUNA" changedate="20260424T084616Z" creationid="BRUNA" creationdate="20260424T084449Z">
+        <seg>Si iais cumprèndiu/scìpiu ita bolit narai: «Misericòrdia deu bollu e no sacrifìciu, no iais cundennau a is chene curpa.
 </seg>
       </tuv>
     </tu>
@@ -967,6 +976,15 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris. M
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260424T084553Z" creationid="BRUNA" creationdate="20260424T084553Z">
         <seg>Poita ca su Fillu de s’omini est sennori de su sàbudu».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,9&lt;s0/&gt;Allontanatosi di là, andò nella loro sinagoga.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260424T084644Z" creationid="BRUNA" creationdate="20260424T084644Z">
+        <seg>E mòviu de innia fiat intrau a sa sinagoga insoru.
 </seg>
       </tuv>
     </tu>
