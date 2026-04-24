@@ -1087,8 +1087,8 @@ fintzas a fàiri bìnciri sa giudìtzia;
       <tuv lang="it">
         <seg>12,29&lt;s0/&gt;Come potrebbe uno penetrare nella casa dell'uomo forte e rapirgli le sue cose, se prima non lo lega?</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260424T090859Z" creationid="BRUNA" creationdate="20260424T090859Z">
-        <seg>Cumenti unu nci iat a pòdiri intrai a sa domu de s’òmini forti a ndi ddi furai totu, si ainnantis no dd’acàpiat? Sceti insaras dd’at a pòdiri sdorrobai sa domu.</seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260424T091023Z" creationid="BRUNA" creationdate="20260424T090859Z">
+        <seg>Cumenti unu nci iat a pòdiri intrai a sa domu de s’òmini forti a ndi ddi furai totu, si ainnantis no dd’acàpiat? Sceti insaras dd’at a pòdiri sdorrobbai sa domu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1097,6 +1097,42 @@ fintzas a fàiri bìnciri sa giudìtzia;
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260424T083939Z" creationid="BRUNA" creationdate="20260424T083939Z">
         <seg>Is fariseus biendi custu, dd’iant narau: «Ecu a is discìpulus tuus fendi su chi no est lìcitu a fàiri in dii de sàbudu».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,30&lt;s0/&gt;Chi non è con me è contro di me, e chi non raccoglie con me, disperde.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260424T091122Z" creationid="BRUNA" creationdate="20260424T091122Z">
+        <seg>Chini no est cun mei est contras a mei e chini no arregollit cun mei, sperdìtziat.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,31&lt;s0/&gt;Perciò io vi dico: Qualunque peccato e bestemmia sarà perdonata agli uomini, ma la bestemmia&lt;s1/&gt;contro lo Spirito non sarà perdonata.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260424T091142Z" creationid="BRUNA" creationdate="20260424T091142Z">
+        <seg>Po custu bosi naru: Cali si siat pecau o frastimu at a èssiri perdonau a is òminis, su frastimu contras a su Spìridu perou no at a èssiri perdonau.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,32&lt;s0/&gt;A chiunque parlerà male del Figlio dell'uomo sarà perdonato; ma la bestemmia contro lo Spirito, non gli sarà perdonata né in questo secolo, né in quello futuro.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260424T091218Z" creationid="BRUNA" creationdate="20260424T091218Z">
+        <seg>Chini at a chistionai mali de su Fillu de s’òmini at a èssiri perdonau, su frastimu contras a su Spìridu perou no dd’at a èssiri perdonau ni in custu sèculu ni in su sèculu benideru.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,33&lt;s0/&gt;Se prendete un albero buono, anche il suo frutto sarà buono; se prendete un albero cattivo, anche il suo frutto sarà cattivo: dal frutto infatti si conosce l'albero.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260424T091310Z" creationid="BRUNA" creationdate="20260424T091310Z">
+        <seg>Si pigais una mata bona, su frutu suu puru at a èssiri bonu, si pigais una mata mala, su frutu suu puru at a èssiri malu: ca de su frutu si connoscit sa mata.
 </seg>
       </tuv>
     </tu>
