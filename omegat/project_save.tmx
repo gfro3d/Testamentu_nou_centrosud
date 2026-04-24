@@ -1257,8 +1257,26 @@ fintzas a fàiri bìnciri sa giudìtzia;
       <tuv lang="it">
         <seg>12,47&lt;s0/&gt;Qualcuno gli disse: "Ecco di fuori tua madre e i tuoi fratelli che vogliono parlarti".</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260424T092835Z" creationid="BRUNA" creationdate="20260424T092835Z">
-        <seg>E calincunu dd’iat narau: «Mi’ in foras a mama tua e a fradis tuus funt circhendi de ti chistionai».
+      <tuv lang="sc" changeid="BRUNA" changedate="20260424T092922Z" creationid="BRUNA" creationdate="20260424T092835Z">
+        <seg>E calincunu dd’iat narau: «Mi’ in foras a mama tua e a fradis tuus circhendi de ti chistionai».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,48&lt;s0/&gt;Ed egli, rispondendo a chi lo informava, disse: "Chi è mia madre e chi sono i miei fratelli?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260424T092847Z" creationid="BRUNA" creationdate="20260424T092847Z">
+        <seg>E issu, arrespundendi a su chi fiat chistionendi, iat narau: «E chini est mama mia e chini funt fradis mius?».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,49&lt;s0/&gt;Poi stendendo la mano verso i suoi discepoli disse: "Ecco mia madre ed ecco i miei fratelli;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260424T093014Z" creationid="BRUNA" creationdate="20260424T093014Z">
+        <seg>E stendiendi sa manu conca a is discìpulus suus iat narau: «Ecu a mama mia e ecu a fradis mius;
 </seg>
       </tuv>
     </tu>
@@ -1268,6 +1286,15 @@ fintzas a fàiri bìnciri sa giudìtzia;
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260424T084132Z" creationid="BRUNA" creationdate="20260424T084132Z">
         <seg>Cumenti fiat intrau a sa domu de Deus e s’iant papau is panis de s’oferta, chi no fiat permìtiu a ndi papai, ni a issu ni a is chi fiant cun issu, ma sceti a is sacerdotus?
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,50&lt;s0/&gt;perché chiunque fa la volontà del Padre mio che è nei cieli, questi è per me fratello, sorella e madre".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260424T093132Z" creationid="BRUNA" creationdate="20260424T093132Z">
+        <seg>ca chini fait sa voluntadi de su Babbu miu chi est in is celus, issu m’est fradi, sorri e mama».
 </seg>
       </tuv>
     </tu>
