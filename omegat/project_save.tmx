@@ -2086,11 +2086,52 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>14,28&lt;s0/&gt;Pietro gli disse: "Signore, se sei tu, comanda che io venga da te sulle acque".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T141548Z" creationid="giuan" creationdate="20260501T141548Z">
+        <seg>14,28 Pedru ddi iat narau: «Sennori, si ses tui, cumanda·mì a bènniri aundi ses tui asuba de s'àcua».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,29&lt;s0/&gt;Ed egli disse: "Vieni!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T141612Z" creationid="giuan" creationdate="20260501T141612Z">
+        <seg>14,29 E issu iat narau: «Beni!». </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>14,2&lt;s0/&gt;Egli disse ai suoi cortigiani: "Costui è Giovanni il Battista risuscitato dai morti; per ciò la potenza dei miracoli opera in lui".</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T132427Z" creationid="giuan" creationdate="20260501T132427Z">
         <seg>14,2 Issu ddis iat narau a is serbidoris suus: «Custu est Giuanni su Batista arresuscitau de is mortus; po cussu si faint miràculus po mesu de issu/sa potèntzia de is miràculus òperat in issu».
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,30&lt;s0/&gt;Ma per la violenza del vento, s'impaurì e, cominciando ad affondare, gridò: "Signore, salvami!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T141638Z" creationid="giuan" creationdate="20260501T141638Z">
+        <seg>14,30 Ma biendi su bentu forti, iat tìmiu e, cumentzendi a nci afundai, iat aboxinau: «Sennori, sarva·mì».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,31&lt;s0/&gt;E subito Gesù stese la mano, lo afferrò e gli disse: "Uomo di poca fede, perché hai dubitato?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T141659Z" creationid="giuan" creationdate="20260501T141659Z">
+        <seg>14,31 E luegus Gesùs ddi iat stendiau sa manu, dd'iat agafau e ddi iat narau: «Òmini cun pagu fidi, e poita est chi as dudau?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,32&lt;s0/&gt;Appena saliti sulla barca, il vento cessò.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T141713Z" creationid="giuan" creationdate="20260501T141713Z">
+        <seg>14,32 Cumenti nci fiant artziaus a sa barca, su bentu iat sentzau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6709,6 +6750,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251014T065337Z" creationid="BRUNA" creationdate="20251014T065337Z">
         <seg>E Pedru dd’arrespundit: «Tu ses su Cristu». 30 E ddis cumandat a no fueddai de issu cun nemus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Pietro, scendendo dalla barca, si mise a camminare sulle acque e andò verso Gesù.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T141623Z" creationid="giuan" creationdate="20260501T141623Z">
+        <seg>Perdu, calendide·ndi de sa barca, si fiat postu a caminai asuba de s'àcua e fiat mòviu faci a Gesùs.</seg>
       </tuv>
     </tu>
     <tu>
