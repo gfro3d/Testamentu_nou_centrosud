@@ -1191,8 +1191,8 @@ fintzas a fàiri bìnciri sa giudìtzia;
       <tuv lang="it">
         <seg>12,39&lt;s0/&gt;"Una generazione perversa e adultera pretende un segno!</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260424T091840Z" creationid="BRUNA" creationdate="20260424T091840Z">
-        <seg> «Una generatzioni mala e adùltera est circhendi unu sinnu! Perou no ddis at a èssiri donau perunu sinnu, si no su sinnu de Gionas, su profeta.
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142607Z" creationid="BRUNA" creationdate="20260424T091840Z">
+        <seg> «Una generatzioni mala e adùltera est circhendi unu sinnu! 
 </seg>
       </tuv>
     </tu>
@@ -6590,6 +6590,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T140713Z" creationid="giuan" creationdate="20260501T140713Z">
         <seg>Ma sa genti, dd'iat scìpiu, e de is citadis ddi iant postu in fatu a pei. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Ma nessun segno le sarà dato, se non il segno di Giona profeta.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142613Z" creationid="giuan" creationdate="20260501T142613Z">
+        <seg>Perou no ddis at a èssiri donau perunu sinnu, si no su sinnu de Gionas, su profeta.</seg>
       </tuv>
     </tu>
     <tu>
