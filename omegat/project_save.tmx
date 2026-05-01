@@ -1243,6 +1243,14 @@ fintzas a fàiri bìnciri sa giudìtzia;
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,44&lt;s0/&gt;Allora dice: Ritornerò alla mia abitazione, da cui sono uscito.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142644Z" creationid="giuan" creationdate="20260501T142644Z">
+        <seg>Insaras narat: “Apu a furriai a domu mia, de innui ndi seu essiu”.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,45&lt;s0/&gt;Allora va, si prende sette altri spiriti peggiori ed entra a prendervi dimora; e la nuova&lt;s1/&gt;condizione di quell'uomo diventa peggiore della prima.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T125729Z" creationid="BRUNA" creationdate="20260424T092637Z">
@@ -5997,8 +6005,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>E tornato la trova vuota,&lt;s1/&gt;spazzata e adorna.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260424T092419Z" creationid="BRUNA" creationdate="20260424T092419Z">
-        <seg>Insaras narat: “Apu a furriai a domu mia, de innui ndi seu essiu”. E furriau dd’agatat sbùida, mundada e assetiada.
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142640Z" creationid="BRUNA" creationdate="20260424T092419Z">
+        <seg>E furriau dd’agatat sbùida, mundada e assetiada.
 </seg>
       </tuv>
     </tu>
