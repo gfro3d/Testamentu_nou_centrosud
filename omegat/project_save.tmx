@@ -648,8 +648,8 @@ issu t'at a aprontai su caminu.
       <tuv lang="it">
         <seg>11,16&lt;s0/&gt;Ma a chi paragonerò io questa generazione?</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260421T065350Z" creationid="BRUNA" creationdate="20260421T065350Z">
-        <seg>Ma a chini dd’apu a assimbillai custa generatzioni? Issa assimbillat a cuddus pipieddus sètzius in is pratzas chi a boxis narant a is cumpàngius:</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142239Z" creationid="BRUNA" creationdate="20260421T065350Z">
+        <seg>Ma a chini dd’apu a assimbillai custa generatzioni? </seg>
       </tuv>
     </tu>
     <tu>
@@ -6188,6 +6188,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260326T161912Z" creationid="BRUNA" creationdate="20250914T155358Z">
         <seg>E su spìridu malu, trumentedi·ddu e aboxinendi a forti ndi fiat essiu a foras. Fiant totus intimorigiaus, tantis chi si pregontànt apari: «Ita cosa est custa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Essa è simile a quei fanciulli seduti sulle piazze che si rivolgono agli altri compagni e dicono:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142247Z" creationid="giuan" creationdate="20260501T142247Z">
+        <seg>Issa assimbillat a cuddus pipieddus sètzius in is pratzas chi a boxis narant a is cumpàngius:</seg>
       </tuv>
     </tu>
     <tu>
