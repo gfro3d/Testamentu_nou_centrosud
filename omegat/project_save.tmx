@@ -846,8 +846,8 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
       <tuv lang="it">
         <seg>11,9&lt;s0/&gt;E allora, che cosa siete andati a vedere?</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260421T063855Z" creationid="BRUNA" creationdate="20260421T063855Z">
-        <seg>E tandus, ita seis andaus a biri? A unu profeta? Ellus, prus de unu profeta bosi naru.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142221Z" creationid="BRUNA" creationdate="20260421T063855Z">
+        <seg>E tandus, ita seis andaus a biri? .</seg>
       </tuv>
     </tu>
     <tu>
@@ -7058,6 +7058,14 @@ e a issu sceti serbi».</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Sì, vi dico, anche più di un profeta.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142227Z" creationid="giuan" creationdate="20260501T142227Z">
+        <seg>Ellus, prus de unu profeta bosi naru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Ti scongiuro, in nome di Dio, non tormentarmi!». &lt;t13/&gt;8&lt;t14/&gt; Gli diceva infatti: «Esci, spirito immondo, da quest'uomo!». &lt;t15/&gt;9&lt;t16/&gt; E gli domandò: «Come ti chiami?».</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T145449Z" creationid="BRUNA" creationdate="20251001T152803Z">
@@ -7087,6 +7095,14 @@ e a issu sceti serbi».</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T152152Z" creationid="giuan" creationdate="20251014T110531Z">
         <seg>Totu dd'est dàbbili a chini creit». 24 E su babbu de su piciocheddu a boxi manna dd’iat arrespustu: «Giai creu, agiuda·mì in su pagu chi creu/agiuda sa pagu fidi mia». 25 E Gesùs, biendi ca una truma de genti fiat acostiendi, iat ammeletzau su spìridu malu narendi: «Spìridu mudu e surdu, deu ti ddu cumandu, essindi a foras de issu e no ddoi torris a intrai prus». 26 E aboxinendi e scutulendide·ddu/santzainendide·ddu a forti su, ndi ddi fiat essiu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Un profeta?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142215Z" creationid="giuan" creationdate="20260501T142215Z">
+        <seg>A unu profeta? </seg>
       </tuv>
     </tu>
     <tu>
