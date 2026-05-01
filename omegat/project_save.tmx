@@ -1729,10 +1729,43 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>13,48&lt;s0/&gt;Quando è piena, i pescatori la tirano a riva e poi, sedutisi, raccolgono i pesci buoni nei&lt;s1/&gt;canestri e buttano via i cattivi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T131652Z" creationid="giuan" creationdate="20260501T131652Z">
+        <seg>13,48 Candu est prena, is piscadoris ndi dda tirant a terra e a pustis, si setzint, e nci ponint su pisci bonu in is canisteddus e su malu nci ddu fuliant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,49&lt;s0/&gt;Così sarà alla fine del mondo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T131721Z" creationid="giuan" creationdate="20260501T131721Z">
+        <seg>13,49 Aici at a èssiri a s'acabbu de su mundu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>13,4&lt;s0/&gt;E mentre seminava una parte del seme cadde sulla strada e vennero gli uccelli e la divorarono.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T125953Z" creationid="giuan" creationdate="20260501T125953Z">
         <seg>13,4 E in s'interis chi fiat seminendi parti de su sèmini nci fiat arruta a sa bia e fiant calaus is pillonis e si nci dd'iant papau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,50&lt;s0/&gt;e li getteranno nella fornace ardente, dove sarà pianto e stridore di denti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T131739Z" creationid="giuan" creationdate="20260501T131739Z">
+        <seg>[13,42 e nci ddus ant a ghetai a su forraxi allutu innui at a èssiri prantu e tzichirriu de dentis.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,51&lt;s0/&gt;Avete capito tutte queste cose?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T131806Z" creationid="giuan" creationdate="20260501T131806Z">
+        <seg>13,51 «Cumprèndiu totu eis?».  </seg>
       </tuv>
     </tu>
     <tu>
@@ -5859,6 +5892,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Gli risposero: "Sì".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T131814Z" creationid="giuan" creationdate="20260501T131814Z">
+        <seg>Dd'iant arrespustu: «Eja».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Gli risposero: "Sì, o Signore!".</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260402T072011Z" creationid="giuan" creationdate="20260402T072011Z">
@@ -6642,6 +6683,14 @@ e a issu sceti serbi».</seg>
       <tuv lang="sc" changeid="BRUNA" changedate="20251212T140756Z" creationid="BRUNA" creationdate="20251212T140756Z">
         <seg>Càstia de ita totu funt imputendi·tì!». 5 Ma Gesùs no iat arrespustu nudda, tantis chi Pilatu ndi fiat abarrau spantau meda.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Verranno gli angeli e separeranno i cattivi dai buoni</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T131715Z" creationid="giuan" creationdate="20260501T131715Z">
+        <seg> Ant a bènniri is àngiulus e nd'ant a sceddai is malus de is bonus</seg>
       </tuv>
     </tu>
     <tu>
