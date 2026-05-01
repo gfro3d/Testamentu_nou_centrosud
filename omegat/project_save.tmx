@@ -1085,8 +1085,8 @@ fintzas a fàiri bìnciri sa giudìtzia;
       <tuv lang="it">
         <seg>12,29&lt;s0/&gt;Come potrebbe uno penetrare nella casa dell'uomo forte e rapirgli le sue cose, se prima non lo lega?</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260424T091023Z" creationid="BRUNA" creationdate="20260424T090859Z">
-        <seg>Cumenti unu nci iat a pòdiri intrai a sa domu de s’òmini forti a ndi ddi furai totu, si ainnantis no dd’acàpiat? Sceti insaras dd’at a pòdiri sdorrobbai sa domu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125627Z" creationid="BRUNA" creationdate="20260424T090859Z">
+        <seg>Cumenti unu nci iat a pòdiri intrai a sa domu de s’òmini forti a ndi ddi furai totu, si ainnantis no dd’acàpiat? </seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,8 +1138,8 @@ fintzas a fàiri bìnciri sa giudìtzia;
       <tuv lang="it">
         <seg>12,34&lt;s0/&gt;Razza di vipere, come potete dire cose buone, voi che siete cattivi?</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260424T091403Z" creationid="BRUNA" creationdate="20260424T091403Z">
-        <seg>Arratza de pìberas, cumenti podeis narai cosas bonas, sendi malus? Ca sa buca fueddat de su chi est prenu su coru.
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125648Z" creationid="BRUNA" creationdate="20260424T091403Z">
+        <seg>Arratza de pìberas, cumenti podeis narai cosas bonas, sendi malus? 
 </seg>
       </tuv>
     </tu>
@@ -1210,8 +1210,8 @@ fintzas a fàiri bìnciri sa giudìtzia;
       <tuv lang="it">
         <seg>12,41&lt;s0/&gt;Quelli di Nìnive si alzeranno a giudicare questa generazione e la condanneranno, perché essi si convertirono alla predicazione di Giona.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260424T092005Z" creationid="BRUNA" creationdate="20260424T092005Z">
-        <seg>Is òminis de Nìnive si nd’ant a strantaxai in su giudìtziu cun custa generatzioni e dd’ant a cundennai, ca si fiant cunvertius a pustis de sa prèdica de Gionas. Alloddu innoi unu prus de Gionas!
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125703Z" creationid="BRUNA" creationdate="20260424T092005Z">
+        <seg>Is òminis de Nìnive si nd’ant a strantaxai in su giudìtziu cun custa generatzioni e dd’ant a cundennai, ca si fiant cunvertius a pustis de sa prèdica de Gionas.
 </seg>
       </tuv>
     </tu>
@@ -1237,8 +1237,8 @@ fintzas a fàiri bìnciri sa giudìtzia;
       <tuv lang="it">
         <seg>12,45&lt;s0/&gt;Allora va, si prende sette altri spiriti peggiori ed entra a prendervi dimora; e la nuova&lt;s1/&gt;condizione di quell'uomo diventa peggiore della prima.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260424T092637Z" creationid="BRUNA" creationdate="20260424T092637Z">
-        <seg>Insaras andat, si pigat cun issu àterus seti spìridus prus malus de issu e intrant a ddoi bìviri; e sa cunditzioni noa de cuss’òmini si fait peus de sa de innantis. Aici at a èssiri po custa generatzioni mala puru».
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125729Z" creationid="BRUNA" creationdate="20260424T092637Z">
+        <seg>Insaras andat, si pigat cun issu àterus seti spìridus prus malus de issu e intrant a ddoi bìviri; e sa cunditzioni noa de cuss’òmini si fait peus de sa de innantis.
 </seg>
       </tuv>
     </tu>
@@ -1379,6 +1379,14 @@ fintzas a fàiri bìnciri sa giudìtzia;
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251105T081503Z" creationid="BRUNA" creationdate="20250914T085222Z">
         <seg>Luegus su Spìridu nci dd'iat spintu a su desertu e ddoi fiat abarrau coranta diis, tenteau de sàtana, e issu fiat cun is feras e is àngiulus dd'atendiant.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,1&lt;s0/&gt;Quel giorno Gesù uscì di casa e si sedette in riva al mare.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125842Z" creationid="giuan" creationdate="20260501T125842Z">
+        <seg>13,1 Sa dii Gesùs fiat essiu de domu e si fiat sètziu in s'oru de mari. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4634,6 +4642,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Allora soltanto gli potrà saccheggiare la casa.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125633Z" creationid="giuan" creationdate="20260501T125633Z">
+        <seg>Sceti insaras dd’at a pòdiri sdorrobbai sa domu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Alzati, ti chiama!». &lt;t1/&gt;50&lt;t2/&gt; Egli, gettato via il mantello, balzò in piedi e venne da Gesù. &lt;t3/&gt;51&lt;t4/&gt; Allora Gesù gli disse: «Che vuoi che io ti faccia?».</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T095640Z" creationid="BRUNA" creationdate="20251205T095415Z">
@@ -4792,6 +4808,14 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="sc" changeid="BRUNA" changedate="20260327T093601Z" creationid="BRUNA" creationdate="20250914T160332Z">
         <seg>Cumandat fintzas a is spìridus malus e ddi ponint menti!». E sa nomea sua si fiat spainada in deretura in totu sa Galilea e a ingìriu.  
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Così avverrà anche a questa generazione perversa".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125738Z" creationid="giuan" creationdate="20260501T125738Z">
+        <seg> Aici at a èssiri po custa generatzioni mala puru». </seg>
       </tuv>
     </tu>
     <tu>
@@ -5168,6 +5192,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251203T080856Z" creationid="BRUNA" creationdate="20250912T085220Z">
         <seg>Mira, seu mandendi su nùntziu miu ananti tuu,   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Ecco, ora qui c'è più di Giona!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125710Z" creationid="giuan" creationdate="20260501T125710Z">
+        <seg> Alloddu innoi unu prus de Gionas! </seg>
       </tuv>
     </tu>
     <tu>
@@ -5906,10 +5938,19 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Poiché la bocca parla dalla pienezza del cuore.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125655Z" creationid="giuan" creationdate="20260501T125655Z">
+        <seg>Ca sa buca fueddat de su chi est prenu su coru. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Porrò il&lt;s1/&gt;mio spirito sopra di lui e annunzierà la giustizia alle genti.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260501T125540Z" creationid="giuan" creationdate="20260501T125540Z">
-        <seg>Apu a p</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125614Z" creationid="giuan" creationdate="20260501T125540Z">
+        <seg>Apu a pònniri su spìridu miu asuba sua 
+e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       </tuv>
     </tu>
     <tu>
