@@ -837,8 +837,8 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
       <tuv lang="it">
         <seg>11,8&lt;s0/&gt;Che cosa dunque siete andati a vedere?</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260421T063605Z" creationid="BRUNA" creationdate="20260421T063605Z">
-        <seg>E it'est duncas, chi seis andaus a biri? A un’òmini cun bistiris delicaus? Is chi portant bistiris delicaus funt in is palàtzius de is reis!
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142129Z" creationid="BRUNA" creationdate="20260421T063605Z">
+        <seg>E it'est duncas, chi seis andaus a biri?
 </seg>
       </tuv>
     </tu>
@@ -5588,6 +5588,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Coloro che portano&lt;s1/&gt;morbide vesti stanno nei palazzi dei re!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142158Z" creationid="giuan" creationdate="20260501T142158Z">
+        <seg> Is chi portant bistiris delicaus funt in is palàtzius de is reis! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Comanda persino agli spiriti immondi e gli obbediscono!». &lt;t13/&gt;28&lt;t14/&gt; La sua fama si diffuse subito dovunque nei dintorni della Galilea.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260327T093601Z" creationid="BRUNA" creationdate="20250914T160332Z">
@@ -7079,6 +7087,14 @@ e a issu sceti serbi».</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T152152Z" creationid="giuan" creationdate="20251014T110531Z">
         <seg>Totu dd'est dàbbili a chini creit». 24 E su babbu de su piciocheddu a boxi manna dd’iat arrespustu: «Giai creu, agiuda·mì in su pagu chi creu/agiuda sa pagu fidi mia». 25 E Gesùs, biendi ca una truma de genti fiat acostiendi, iat ammeletzau su spìridu malu narendi: «Spìridu mudu e surdu, deu ti ddu cumandu, essindi a foras de issu e no ddoi torris a intrai prus». 26 E aboxinendi e scutulendide·ddu/santzainendide·ddu a forti su, ndi ddi fiat essiu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Un uomo avvolto in morbide vesti?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142153Z" creationid="giuan" creationdate="20260501T142153Z">
+        <seg> A un’òmini cun bistiris delicaus?</seg>
       </tuv>
     </tu>
     <tu>
