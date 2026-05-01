@@ -1645,6 +1645,14 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>13,38&lt;s0/&gt;Il campo è il mondo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T141203Z" creationid="giuan" creationdate="20260501T141203Z">
+        <seg>13,38 Su cungiau est su mundu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>13,39&lt;s0/&gt;e il nemico che l'ha seminata è il diavolo.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T131335Z" creationid="giuan" creationdate="20260501T131335Z">
@@ -6190,8 +6198,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Il seme buono sono i figli del regno; la zizzania sono i figli del maligno,</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260501T131311Z" creationid="giuan" creationdate="20260501T131311Z">
-        <seg>13,38 Su cungiau est su mundu. Su sèmini bonu funt is fillus de su rennu, su lùlluru funt is fillus de su malìnniu,</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T141209Z" creationid="giuan" creationdate="20260501T131311Z">
+        <seg>Su sèmini bonu funt is fillus de su rennu, su lùlluru funt is fillus de su malìnniu,</seg>
       </tuv>
     </tu>
     <tu>
@@ -6359,8 +6367,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Ma alla sapienza è stata resa giustizia dalle sue opere".</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260501T141114Z" creationid="giuan" creationdate="20260501T141114Z">
-        <seg>Ma a sa sabiduria dd’ant torrau giustìtzia is òperas suas”.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T141145Z" creationid="giuan" creationdate="20260501T141114Z">
+        <seg>Ma a sa sabiduria dd’ant torrau giustìtzia is òperas suas”.1</seg>
       </tuv>
     </tu>
     <tu>
