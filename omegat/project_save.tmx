@@ -902,8 +902,8 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
       <tuv lang="it">
         <seg>12,10&lt;s0/&gt;Ed ecco, c'era un uomo che aveva una mano inaridita, ed essi chiesero a Gesù: "È permesso curare di sabato?".</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260424T084855Z" creationid="BRUNA" creationdate="20260424T084855Z">
-        <seg>E mi’, ddoi fiat un’òmini chi portat una manu cancarada, e issus dd’iant preguntau a Gesùs: «Fait a sanai in dii de sàbudu?». Dd’iant narau aici po ddi ghetai curpa.
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142432Z" creationid="BRUNA" creationdate="20260424T084855Z">
+        <seg>E mi’, ddoi fiat un’òmini chi portat una manu cancarada, e issus dd’iant preguntau a Gesùs: «Fait a sanai in dii de sàbudu?».
 </seg>
       </tuv>
     </tu>
@@ -5665,6 +5665,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251113T091419Z" creationid="BRUNA" creationdate="20251001T154414Z">
         <seg>ca pensàt: 28 «Chi ddi tocu assumancu su manteddu apu a sanai». 29 E deretu si ddi fiat firmada sa pèrdida de sànguni e issa iat cumprèndiu ca su corpus suu fiat sanau de su mali chi patiat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Dicevano ciò per accusarlo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142440Z" creationid="giuan" creationdate="20260501T142440Z">
+        <seg>Dd’iant narau aici po ddi ghetai curpa.</seg>
       </tuv>
     </tu>
     <tu>
