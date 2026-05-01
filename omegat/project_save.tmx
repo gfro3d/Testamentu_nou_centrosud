@@ -1407,6 +1407,63 @@ fintzas a fàiri bìnciri sa giudìtzia;
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>13,3&lt;s0/&gt;Egli parlò loro di molte cose in parabole.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125921Z" creationid="giuan" creationdate="20260501T125921Z">
+        <seg>13,3 Issu ddis iat fueddau de cosas medas cun paràbulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,4&lt;s0/&gt;E mentre seminava una parte del seme cadde sulla strada e vennero gli uccelli e la divorarono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125953Z" creationid="giuan" creationdate="20260501T125953Z">
+        <seg>13,4 E in s'interis chi fiat seminendi parti de su sèmini nci fiat arruta a sa bia e fiant calaus is pillonis e si nci dd'iant papau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,5&lt;s0/&gt;Un'altra parte cadde in luogo sassoso, dove non c'era molta terra; subito germogliò, perché il&lt;s1/&gt;terreno non era profondo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T130032Z" creationid="giuan" creationdate="20260501T130008Z">
+        <seg>13,5 Un'àtera parti nci fiat arruta in logu perdosu, innui no ddoi iat terra meda;e luegus iat intzeurrau, ca sa terra fiat pagu funguda.
+ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,6&lt;s0/&gt;Ma, spuntato il sole, restò bruciata e non avendo radici si seccò.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T130052Z" creationid="giuan" creationdate="20260501T130052Z">
+        <seg>13,6 Ma, candu fiat essiu su soli, dd'iat abruxada ca no portendi arreìxini si fiat sicada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,7&lt;s0/&gt;Un'altra parte cadde sulle spine e le spine crebbero e la soffocarono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T130133Z" creationid="giuan" creationdate="20260501T130133Z">
+        <seg>13,7 Un'àtera parti nci fiat arruta in mesu a sa spina e sa spina fiat crèscia e dd'iat allupada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,8&lt;s0/&gt;Un'altra parte cadde sulla terra buona e diede frutto, dove il cento, dove il sessanta, dove il trenta.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T130139Z" creationid="giuan" creationdate="20260501T130139Z">
+        <seg>13,8 Un'àtera nci fiat arruta in sa terra bona e iat bogau frutu, a logus a su centu, a logus a su sessanta, a logus a su trinta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,9&lt;s0/&gt;Chi ha orecchi intenda".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T130216Z" creationid="giuan" creationdate="20260501T130216Z">
+        <seg>13,9 Chini pòrtat origas intendat». </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>13&lt;t0/&gt; Continuò dicendo loro: «Se non comprendete questa parabola, come potrete capire tutte le altre parabole? &lt;t1/&gt;14&lt;t2/&gt; Il seminatore semina la parola. &lt;t3/&gt;15&lt;t4/&gt; Quelli lungo la strada sono coloro nei quali viene seminata la parola; ma quando l'ascoltano, subito viene satana, e porta via la parola seminata in &lt;t5/&gt;loro. &lt;t6/&gt;16&lt;t7/&gt; Similmente quelli che ricevono il seme sulle pietre sono coloro che, quando ascoltano la parola, subito l'accolgono con gioia, &lt;t8/&gt;17&lt;t9/&gt; ma non hanno radice in &lt;t10/&gt;se&lt;t11/&gt; stessi, sono incostanti e quindi, al sopraggiungere di qualche tribolazione o persecuzione a causa della parola, subito si abbattono. &lt;t12/&gt;18&lt;t13/&gt; Altri sono quelli che ricevono il seme tra le spine: sono coloro che hanno ascoltato la parola, &lt;t14/&gt;19&lt;t15/&gt; ma sopraggiungono le preoccupazioni del mondo e l'inganno della ricchezza e tutte le altre bramosie, soffocano la parola e questa rimane senza frutto. &lt;t16/&gt;20&lt;t17/&gt; Quelli poi che ricevono il seme su un terreno buono, sono coloro che ascoltano la parola, l'accolgono e portano frutto nella misura chi del trenta, chi del sessanta, chi del cento per uno».</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T153913Z" creationid="giuan" creationdate="20250929T073012Z">
@@ -4929,6 +4986,15 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251010T055639Z" creationid="giuan" creationdate="20251010T055639Z">
         <seg>E de cosas aici ndi feis medas».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E disse: "Ecco, il seminatore uscì a seminare.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125936Z" creationid="giuan" creationdate="20260501T125936Z">
+        <seg>E iat narau: «Mi’ su seminadori chi fiat essiu a seminai.
+</seg>
       </tuv>
     </tu>
     <tu>
