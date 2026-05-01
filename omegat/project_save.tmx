@@ -1075,8 +1075,8 @@ fintzas a fàiri bìnciri sa giudìtzia;
       <tuv lang="it">
         <seg>12,27&lt;s0/&gt;E se io scaccio i demòni in nome di Beelzebùl, i vostri figli in nome di chi li scacciano?</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260424T090548Z" creationid="BRUNA" creationdate="20260424T090548Z">
-        <seg>E si deu nci bogu is dimònius in nòmini de Beelzebù, fillus bostus in nòmini de chini nci ddus bogant? Po custu issus ant a èssiri is giudìcis de bosàterus.
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142546Z" creationid="BRUNA" creationdate="20260424T090548Z">
+        <seg>E si deu nci bogu is dimònius in nòmini de Beelzebù, fillus bostus in nòmini de chini nci ddus bogant? 
 </seg>
       </tuv>
     </tu>
@@ -6774,6 +6774,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T152326Z" creationid="giuan" creationdate="20251014T111419Z">
         <seg>Ca in caminu iant difatis arrexonau asuba de chini intre issus fessit su prus mannu. 35 E setzendi·sì iat tzèrriau a is Doxi e ddis iat narau: «Si unu bolit èssiri su primu, at a èssiri s’ùrtimu e su serbidori de totus». 36 A pustis, pigau unu pipiu, dd’iat postu in mesu a issus e imprassendide·ddu ddis iat narau: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Per questo loro stessi saranno i vostri giudici.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142550Z" creationid="giuan" creationdate="20260501T142550Z">
+        <seg>Po custu issus ant a èssiri is giudìcis de bosàterus. </seg>
       </tuv>
     </tu>
     <tu>
