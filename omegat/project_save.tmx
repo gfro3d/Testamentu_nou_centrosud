@@ -1537,6 +1537,30 @@ e no si cunvertant, e deu ddus sani/apu a sanai.</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>13,26&lt;s0/&gt;Quando poi la messe fiorì e fece frutto, ecco apparve anche la zizzania.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T130844Z" creationid="giuan" creationdate="20260501T130844Z">
+        <seg>13,26 Candu su lori iat bogau frori e frutu, insaras fiat essiu su lùlluru puru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,27&lt;s0/&gt;Allora i servi andarono dal padrone di casa e gli dissero: Padrone, non hai seminato del buon seme nel tuo campo?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T130906Z" creationid="giuan" creationdate="20260501T130906Z">
+        <seg>13,27 E is tzeracus fiant andaus a domu de su meri e ddi iant narau: «Su meri, no ias seminau sèmini bonu in su cungiau tuu? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,28&lt;s0/&gt;Ed egli rispose loro: Un nemico ha fatto questo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T130935Z" creationid="giuan" creationdate="20260501T130935Z">
+        <seg>13,28 E issu ddis iat arrespustu: «Unu nemigu dd'at fatu custu». .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>13,2&lt;s0/&gt;Si cominciò a raccogliere attorno a lui tanta folla che dovette salire su una barca; là si pose a sedere, mentre tutta la folla rimaneva sulla spiaggia.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T125902Z" creationid="giuan" creationdate="20260501T125902Z">
@@ -5031,6 +5055,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Da dove viene dunque la zizzania?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T130911Z" creationid="giuan" creationdate="20260501T130911Z">
+        <seg>E de innui nd’est essiu su lùlluru?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Davide generò Salomone da quella che era stata la moglie di Urìa,</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260224T081541Z" creationid="giuan" creationdate="20260224T081541Z">
@@ -5166,6 +5198,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251120T113051Z" creationid="giuan" creationdate="20251104T112451Z">
         <seg>E is discìpulus dd’iant intèndiu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E i servi gli dissero: Vuoi dunque che andiamo a raccoglierla?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T130938Z" creationid="giuan" creationdate="20260501T130938Z">
+        <seg>E is tzeracus dd'iant narau: «Bolis chi andeus a ndi ddu bogai?»</seg>
       </tuv>
     </tu>
     <tu>
