@@ -938,8 +938,8 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris. M
       <tuv lang="it">
         <seg>12,15&lt;s0/&gt;Ma Gesù, saputolo, si allontanò di là.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260424T085318Z" creationid="BRUNA" creationdate="20260424T085318Z">
-        <seg> E Gesùs, dd’iat scìpiu e si ndi fiat andau de innia. Medas dd’iant postu in fatu e issu iat sanau a totus,
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125517Z" creationid="BRUNA" creationdate="20260424T085318Z">
+        <seg> E Gesùs, dd’iat scìpiu e si ndi fiat andau de innia.
 </seg>
       </tuv>
     </tu>
@@ -965,12 +965,10 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris. M
       <tuv lang="it">
         <seg>12,18&lt;s0/&gt;Ecco il mio servo che io ho scelto; il mio prediletto, nel quale mi sono compiaciuto.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260424T085506Z" creationid="BRUNA" creationdate="20260424T085506Z">
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125601Z" creationid="BRUNA" creationdate="20260424T085506Z">
         <seg>Ecu a su serbidori miu chi apu scioberau;
 su prus stimau
 e in issu s’ànima mia si cumpraxit.
-Apu a pònniri su spìridu miu asuba sua 
-e issu at a annuntziai sa giustìtzia a is natzionis.
 </seg>
       </tuv>
     </tu>
@@ -5682,6 +5680,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Molti lo seguirono ed egli guarì tutti,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125447Z" creationid="giuan" creationdate="20260501T125447Z">
+        <seg>Medas dd'iant postu in fatu e issu iat sanau a totus, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Nessuno è buono, se non Dio solo. &lt;t3/&gt;19&lt;t4/&gt; Tu conosci i comandamenti: &lt;t5/&gt;Non uccidere, non commettere adulterio, non rubare, non dire falsa testimonianza&lt;t6/&gt;, non frodare, &lt;t7/&gt;onora il padre e la madre&lt;t8/&gt;».</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251120T103619Z" creationid="giuan" creationdate="20251027T113226Z">
@@ -5896,6 +5902,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251208T084057Z" creationid="BRUNA" creationdate="20251205T152507Z">
         <seg> Ca funt in seti chi dd’ant tenta po mulleri». 24 E Gesùs ddis iat arrespustu: «No seis fortzis in faddina giai ca no connosceis ni is Scrituras ni su poderi de Deus? 25 Candu ant a arresuscitai de is mortus, difatis, no nci at àiri ni pobiddu ni mulleri, ma ant a èssiri che àngiulus in is celus. 26 Torrendi a su contu de is mortus chi depint arresuscitai, no eis lìgiu su libru de Mosè, candu ananti de su arruaxu a fogu fitianu Deus dd’iat narau: Deu seu su Deus de Abramu, su Deus de Isacu e de Giacobbu? 27 Issu no est su Deus de is mortus, est su Deus de is bius!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Porrò il&lt;s1/&gt;mio spirito sopra di lui e annunzierà la giustizia alle genti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T125540Z" creationid="giuan" creationdate="20260501T125540Z">
+        <seg>Apu a p</seg>
       </tuv>
     </tu>
     <tu>
