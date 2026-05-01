@@ -920,8 +920,8 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
       <tuv lang="it">
         <seg>12,12&lt;s0/&gt;Ora, quanto è più prezioso un uomo di una pecora!</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260424T085021Z" creationid="BRUNA" creationdate="20260424T085021Z">
-        <seg>Immoi, cantu prus si bàlit un’òmini de una brebei! Po custu est lìcitu a fàiri òperas bonas/su beni fintzas in dii de sàbudu».
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142503Z" creationid="BRUNA" creationdate="20260424T085021Z">
+        <seg>Immoi, cantu prus si bàlit un’òmini de una brebei!
 </seg>
       </tuv>
     </tu>
@@ -929,8 +929,8 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
       <tuv lang="it">
         <seg>12,13&lt;s0/&gt;E rivolto all'uomo, gli disse: "Stendi la mano".</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260424T085103Z" creationid="BRUNA" creationdate="20260424T085103Z">
-        <seg>E a s’òmini, dd’iat narau: «Stèndia sa manu». E issu dd’iat stendiada e sa manu fiat torrada sana che a s’àtera.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142521Z" creationid="BRUNA" creationdate="20260424T085103Z">
+        <seg>E a s’òmini, dd’iat narau: «Stèndia sa manu». </seg>
       </tuv>
     </tu>
     <tu>
@@ -6167,6 +6167,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Egli la stese, e quella ritornò sana come&lt;s1/&gt;l'altra.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142534Z" creationid="giuan" creationdate="20260501T142534Z">
+        <seg>E issu dd’iat stendiada e sa manu fiat torrada sana che a s’àtera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Egli, alzatosi, lo seguì.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251112T151116Z" creationid="BRUNA" creationdate="20250918T095938Z">
@@ -6807,6 +6815,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T141050Z" creationid="giuan" creationdate="20260501T141050Z">
         <seg> Ca si in Sòdoma iant a èssiri fatu is miràculus fatus a tui, issa s’iat a agatai ancora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Perciò è permesso fare del bene anche di&lt;s1/&gt;sabato".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142511Z" creationid="giuan" creationdate="20260501T142511Z">
+        <seg>Po custu est lìcitu a fàiri òperas bonas/su beni fintzas in dii de sàbudu».</seg>
       </tuv>
     </tu>
     <tu>
