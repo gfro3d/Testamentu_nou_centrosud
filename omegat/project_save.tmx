@@ -707,8 +707,8 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
       <tuv lang="it">
         <seg>11,21&lt;s0/&gt;"Guai a te, Corazin!</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260421T072212Z" creationid="BRUNA" creationdate="20260421T072212Z">
-        <seg>«Arguai a tui, Corazìn! Arguai a tui, Betsàida. Ca, si in Tiro e in Sidoni iant àiri fatu is miràculus chi ant fatu in mesu a bosàterus, giai de diora iant àiri fatu penitèntzia, a sacu e in su cinixu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142319Z" creationid="BRUNA" creationdate="20260421T072212Z">
+        <seg>«Arguai a tui, Corazìn!</seg>
       </tuv>
     </tu>
     <tu>
@@ -717,6 +717,14 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260421T072328Z" creationid="BRUNA" creationdate="20260421T072328Z">
         <seg>Ma deu bosi naru: at a èssiri prus lèbia sa pena/sorti po Tiro e Sidoni, in sa dii de su giudìtziu, de sa de bosàterus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,23&lt;s0/&gt;E tu, Cafarnao, sarai forse innalzata fino al cielo?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142343Z" creationid="giuan" creationdate="20260501T142343Z">
+        <seg>E a tui, Cafarnau, fintzas a celu ti nci ant a artziai? </seg>
       </tuv>
     </tu>
     <tu>
@@ -6235,8 +6243,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Fino agli inferi precipiterai!</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260501T141041Z" creationid="BRUNA" creationdate="20260421T072543Z">
-        <seg>E a tui, Cafarnau, fintzas a celu ti nci ant a artziai? Fintzas a s’Ades nci as a arrùiri!</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142418Z" creationid="BRUNA" creationdate="20260421T072543Z">
+        <seg>Fintzas a s’Ades nci as a arrùiri! </seg>
       </tuv>
     </tu>
     <tu>
@@ -6333,6 +6341,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260415T100105Z" creationid="giuan" creationdate="20260415T100105Z">
         <seg>A indonu eis arriciu, a indonu donai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Guai a te, Betsàida.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142306Z" creationid="giuan" creationdate="20260501T142306Z">
+        <seg> Arguai a tui, Betsàida. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6767,6 +6783,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T085117Z" creationid="giuan" creationdate="20251027T113455Z">
         <seg>Ca Deus podit totu!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Perché, se a Tiro e a Sidone fossero stati compiuti i miracoli che sono stati fatti in mezzo a voi, già da tempo avrebbero fatto penitenza, ravvolte nel cilicio e nella cenere.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T142324Z" creationid="giuan" creationdate="20260501T142324Z">
+        <seg>Ca, si in Tiro e in Sidoni iant àiri fatu is miràculus chi ant fatu in mesu a bosàterus, giai de diora iant àiri fatu penitèntzia, a sacu e in su cinixu.</seg>
       </tuv>
     </tu>
     <tu>
