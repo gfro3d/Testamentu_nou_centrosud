@@ -672,9 +672,9 @@ issu t'at a aprontai su caminu.
       <tuv lang="it">
         <seg>11,19&lt;s0/&gt;È venuto il Figlio dell'uomo, che mangia e beve, e dicono: Ecco un mangione e un beone, amico dei pubblicani e dei peccatori.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260421T071525Z" creationid="BRUNA" creationdate="20260421T071525Z">
+      <tuv lang="sc" changeid="giuan" changedate="20260501T141108Z" creationid="BRUNA" creationdate="20260421T071525Z">
         <seg>Est bènniu su Fillu de s’òmini, chi papat e bufat, e narant: 
-Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris. Ma a sa sabiduria dd’ant torrau giustìtzia is òperas suas”.
+Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris. 
 :</seg>
       </tuv>
     </tu>
@@ -1980,6 +1980,15 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T140848Z" creationid="giuan" creationdate="20260501T140848Z">
         <seg>14,18 E issu iat narau: «Betei·mi·nde·ddus a innoi».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,19&lt;s0/&gt;E dopo aver ordinato alla folla di sedersi sull'erba, prese i cinque pani e i due pesci e, alzati gli occhi al cielo, pronunziò la benedizione, spezzò i pani e li diede ai discepoli e i discepoli li distribuirono alla folla.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T140906Z" creationid="giuan" creationdate="20260501T140906Z">
+        <seg>14,19 E a pustis chi iat cumandau a sa genti a si sètziri asuba de s'erba, iat pigau is cincu panis e is duus piscis, iat castiau a celu, iat beneixu, iat segau is panis e ddus iat donaus a is discìpulus e is discìpulus ddus iant aportus a sa genti.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -6053,8 +6062,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Fino agli inferi precipiterai!</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260421T072543Z" creationid="BRUNA" creationdate="20260421T072543Z">
-        <seg>E a tui, Cafarnau, fintzas a celu ti nci ant a artziai? Fintzas a s’Ades nci as a arrùiri! Ca si in Sòdoma iant a èssiri fatu is miràculus fatus a tui, issa s’iat a agatai ancora.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T141041Z" creationid="BRUNA" creationdate="20260421T072543Z">
+        <seg>E a tui, Cafarnau, fintzas a celu ti nci ant a artziai? Fintzas a s’Ades nci as a arrùiri!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6348,6 +6357,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Ma alla sapienza è stata resa giustizia dalle sue opere".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T141114Z" creationid="giuan" creationdate="20260501T141114Z">
+        <seg>Ma a sa sabiduria dd’ant torrau giustìtzia is òperas suas”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Ma egli subito rivolse loro la parola e disse: «Coraggio, sono io, non temete!». &lt;t11/&gt;51&lt;t12/&gt; Quindi salì con loro sulla barca e il vento cessò.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251117T101335Z" creationid="BRUNA" creationdate="20251008T151033Z">
@@ -6577,6 +6594,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T085117Z" creationid="giuan" creationdate="20251027T113455Z">
         <seg>Ca Deus podit totu!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Perché, se in Sòdoma fossero avvenuti i miracoli compiuti in te, oggi ancora essa esisterebbe!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260501T141050Z" creationid="giuan" creationdate="20260501T141050Z">
+        <seg> Ca si in Sòdoma iant a èssiri fatu is miràculus fatus a tui, issa s’iat a agatai ancora.</seg>
       </tuv>
     </tu>
     <tu>
