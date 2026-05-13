@@ -2299,8 +2299,9 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
       <tuv lang="it">
         <seg>15,1&lt;s0/&gt;In quel tempo vennero a Gesù da Gerusalemme alcuni farisei e alcuni scribi e gli dissero:</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260501T142931Z" creationid="giuan" creationdate="20260501T142735Z">
-        <seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T142810Z" creationid="giuan" creationdate="20260501T142735Z">
+        <seg>15,1 In cussu tempus de Gerusalemmi fiant arribbaus a innui fiat Gesùs uns cantu fariseus e unus cantu scribas e ddi iant narau:
+
 </seg>
       </tuv>
     </tu>
@@ -6937,6 +6938,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T125655Z" creationid="giuan" creationdate="20260501T125655Z">
         <seg>Ca sa buca fueddat de su chi est prenu su coru. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Poiché non si lavano le mani quando prendono cibo!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T142833Z" creationid="giuan" creationdate="20260513T142833Z">
+        <seg>15,2 «Poita is discìpulus tuus no ponint in menti a su connotu de is antigus? Ca no si sciàcuant is manus candu papant!».</seg>
       </tuv>
     </tu>
     <tu>
