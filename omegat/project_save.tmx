@@ -2519,6 +2519,46 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>15,35&lt;s0/&gt;Dopo aver ordinato alla folla di sedersi per terra,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T144724Z" creationid="giuan" creationdate="20260513T144724Z">
+        <seg>15,35 A pustis de àiri cumandau a sa genti a si sètziri in terra,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,36&lt;s0/&gt;Gesù prese i sette pani e i pesci, rese grazie, li spezzò, li dava ai discepoli, e i discepoli li distribuivano alla folla.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T144746Z" creationid="giuan" creationdate="20260513T144746Z">
+        <seg>15,36 Gesùs iat pigau is seti panis e is piscis, iat torrau gràtzias, ddus iat segaus, ddus iat donaus a is discìpulus e issus ddus iant aportus a sa genti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,37&lt;s0/&gt;Tutti mangiarono e furono saziati.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T144815Z" creationid="giuan" creationdate="20260513T144815Z">
+        <seg>15,37 Totus iant papau e si ndi fiant pràndius. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,38&lt;s0/&gt;Quelli che avevano mangiato erano quattromila uomini, senza contare le donne e i bambini.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T144837Z" creationid="giuan" creationdate="20260513T144837Z">
+        <seg>15,38 Is chi iant papau fiant cuatru milla òminis, chene pònniri in contu is fèminas e piciocheddus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,39&lt;s0/&gt;Congedata la folla, Gesù salì sulla barca e andò nella regione di Magadàn.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T144856Z" creationid="giuan" creationdate="20260513T144856Z">
+        <seg>15,39 Dispidiu chi nci iat sa genti, Gesùs nci fiat artziau a sa barca e fiat andau a is partis de Magadàn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>15,3&lt;s0/&gt;Ed egli rispose loro: "Perché voi trasgredite il comandamento di Dio in nome della vostra&lt;s1/&gt;tradizione?</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260513T142849Z" creationid="giuan" creationdate="20260513T142849Z">
@@ -5965,6 +6005,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Dei pezzi avanzati portarono via sette sporte piene.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T144832Z" creationid="giuan" creationdate="20260513T144832Z">
+        <seg>De is tancus chi ddoi iat abarrau nd’iant pigau seti cofas prenas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Di nuovo il sommo sacerdote lo interrogò dicendogli: «Sei tu il Cristo, il Figlio di Dio benedetto?». &lt;t17/&gt;62&lt;t18/&gt; Gesù rispose: «Io lo sono!</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251209T143409Z" creationid="giuan" creationdate="20251209T143409Z">
@@ -7378,6 +7426,14 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T104538Z" creationid="giuan" creationdate="20251104T113012Z">
         <seg>Arrespundei·mì». 31 E issus nd’arrexonànt impari narendi: «Chi arrespundeus “Deus” at a narai: E insaras poit’est chi no dd’eis crètiu? 32 Ellus e ita naraus de "is òminis?"». </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Risposero: "Sette, e pochi pesciolini".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T144719Z" creationid="giuan" creationdate="20260513T144719Z">
+        <seg>Iant arrespustu: «Seti, e pagus piscixeddus».</seg>
       </tuv>
     </tu>
     <tu>
