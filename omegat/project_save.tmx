@@ -2347,12 +2347,70 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>15,16&lt;s0/&gt;Ed egli rispose: "Anche voi siete ancora senza intelletto?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143412Z" creationid="giuan" creationdate="20260513T143412Z">
+        <seg>15,16 E issu iat arrespustu: «Bosàterus puru ancora chene intelletu seis?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,17&lt;s0/&gt;Non capite che tutto ciò che entra nella bocca, passa nel ventre e va a finire nella fogna?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143430Z" creationid="giuan" creationdate="20260513T143430Z">
+        <seg>15,17 No ddu cumprendeis ca totu su chi intrat a buca, passat in sa brenti e nc'acabbat in sa latrina/mara?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,18&lt;s0/&gt;Invece ciò che esce dalla bocca proviene dal cuore.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143455Z" creationid="giuan" creationdate="20260513T143455Z">
+        <seg>15,18 Intamis su chi ndi essit de buca benit de su coru. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,19&lt;s0/&gt;Dal cuore, infatti, provengono i propositi malvagi, gli omicidi, gli adultèri, le prostituzioni, i furti, le false testimonianze, le bestemmie.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143516Z" creationid="giuan" creationdate="20260513T143516Z">
+        <seg>15,19 Ca est de su coru chi ndi essint is ideas malas, is mortis, is adultèrius, is lussùrias/fornicatzionis is furas, is testimonias frassas, is frastimus.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>15,1&lt;s0/&gt;In quel tempo vennero a Gesù da Gerusalemme alcuni farisei e alcuni scribi e gli dissero:</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260513T142810Z" creationid="giuan" creationdate="20260501T142735Z">
         <seg>15,1 In cussu tempus de Gerusalemmi fiant arribbaus a innui fiat Gesùs uns cantu fariseus e unus cantu scribas e ddi iant narau:
 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,20&lt;s0/&gt;Queste sono le cose che rendono immondo l'uomo, ma il mangiare senza lavarsi le mani non rende immondo l'uomo".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143549Z" creationid="giuan" creationdate="20260513T143549Z">
+        <seg>15,20 Custas funt is cosas chi imbrutant s'òmini, ma su de  papai chene si sciacuai is manus no ddu imbrutat».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,21&lt;s0/&gt;Partito di là, Gesù si diresse verso le parti di Tiro e Sidone.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143620Z" creationid="giuan" creationdate="20260513T143620Z">
+        <seg>5,21 Mòviu de innia, Gesùs iat tirau faci a is partis de Tiru e Sidoni.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,22&lt;s0/&gt;Ed ecco una donna Cananea, che veniva da quelle regioni, si mise a gridare: "Pietà di me,&lt;s1/&gt;Signore, figlio di Davide.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143642Z" creationid="giuan" creationdate="20260513T143642Z">
+        <seg>15,22 E ecu a una fèmina Cananea, chi fiat arribbendi de cussus tretus, si fiat posta a aboxinai: «Teni piedadi de mei, Sennori, fillu de Dàvidi. A filla mia dd’est trumentendi de mala manera unu dimòniu».</seg>
       </tuv>
     </tu>
     <tu>
@@ -6792,6 +6850,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Mia figlia è crudelmente tormentata da un demonio".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143802Z" creationid="giuan" creationdate="20260513T143802Z">
+        <seg>A filla mia est trumentendide·dda de mala manera unu dimòniu».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Molta folla lo seguiva e gli si stringeva intorno.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251113T090816Z" creationid="BRUNA" creationdate="20251001T153938Z">
@@ -7151,6 +7217,14 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251014T062951Z" creationid="giuan" creationdate="20251009T141818Z">
         <seg>Custu pòpulu mi torrat onori cun is laras,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Questo rende immondo l'uomo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143510Z" creationid="giuan" creationdate="20260513T143510Z">
+        <seg>Custu est chi imbrutat s'òmini.</seg>
       </tuv>
     </tu>
     <tu>
