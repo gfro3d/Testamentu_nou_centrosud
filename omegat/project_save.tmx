@@ -2650,10 +2650,60 @@ ma su coru suu est atesu de mei.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>16,1&lt;s0/&gt;I farisei e i sadducei si avvicinarono per metterlo alla prova e gli chiesero che mostrasse loro un segno dal cielo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T144943Z" creationid="giuan" creationdate="20260513T144943Z">
+        <seg>16,1 Is fariseus e is sadduceus si fiant acostiaus po ddu pònniri a prova e dd’iant pediu a ddis ammostai  unu sinnu de su celu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>16,1&lt;t0/&gt; Passato il sabato, Maria di Màgdala, Maria di Giacomo e Salome comprarono oli aromatici per andare a imbalsamare Gesù. &lt;t1/&gt;2&lt;t2/&gt; Di buon mattino, il primo giorno dopo il sabato, vennero al sepolcro al levar del sole. &lt;t3/&gt;3&lt;t4/&gt; Esse dicevano tra loro: «Chi ci rotolerà via il masso dall'ingresso del sepolcro?». &lt;t5/&gt;4&lt;t6/&gt; Ma, guardando, videro che il masso era già stato rotolato via, benché fosse molto grande. &lt;t7/&gt;5&lt;t8/&gt; Entrando nel sepolcro, videro un giovane, seduto sulla destra, vestito d'una veste bianca, ed ebbero paura. &lt;t9/&gt;6&lt;t10/&gt; Ma egli disse loro: «Non abbiate paura!</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T172356Z" creationid="BRUNA" creationdate="20251219T140658Z">
         <seg>Passau su sàbudu, Maria de Màgdala, Maria de Giacu e Salomè iant comporau ollu nuscosu/aromàticu po andai a ùngiri su corpus de Gesùs. 2  E a chitzi, sa primu/a primu dii de sa cida, cumenti fiat obrescendi fiant andadas a sa tumba. 3 E si narànt s’una cun s’àtera: «Chini si nd’at a transiri sa perda de ananti de s’intrada a sa tumba?». 4 Ma, castiendi, iant bistu ca sa perda nci dd’iant giai transia, mancai fessat manna meda. 5 E intrendi a sa tumba, iant bistu unu piciocu, sètziu a manu dereta, cun unu bistiri biancu, e si fiant spramadas. 6 Ma issu ddis iat narau: «No timais!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>16,2&lt;s0/&gt;Ma egli rispose: "Quando si fa sera, voi dite: Bel tempo, perché il cielo rosseggia;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T145001Z" creationid="giuan" creationdate="20260513T145001Z">
+        <seg>16,2 Ma issu iat arrespustu: «Candu est scurighendi, bosàterus narais: “Tempus bonu”, ca su celu est arrùbiu che fogu; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>16,3&lt;s0/&gt;e al mattino: Oggi burrasca, perché il cielo è rosso cupo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T145030Z" creationid="giuan" creationdate="20260513T145020Z">
+        <seg>16,3 e a mengianu: “Oi tempus malu, ca su celu est arrùbiu  cotu”.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>16,4&lt;s0/&gt;Una generazione perversa e adultera cerca un segno, ma nessun segno le sarà dato se non il segno di Giona".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T145056Z" creationid="giuan" creationdate="20260513T145056Z">
+        <seg>16,4 Una generatzioni pecadora e adùltera circat unu sinnu, ma no dd’at a èssiri donau perunu sinnu si no su sinnu de Gionas». </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>16,5&lt;s0/&gt;Nel passare però all'altra riva, i discepoli avevano dimenticato di prendere il pane.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T145117Z" creationid="giuan" creationdate="20260513T145117Z">
+        <seg>16,5 Cumenti fiant passendi a s’àteru oru, a is discìpulus ddis iat scarèsciu  a ndi pigai su pani. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>16,6&lt;s0/&gt;Gesù disse loro: "Fate bene attenzione e guardatevi dal lievito dei farisei e dei sadducei".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T145242Z" creationid="giuan" creationdate="20260513T145242Z">
+        <seg>16,6 Gesùs ddis iat narau: «Donai atentzioni e castiai·sì de su fromentu de is fariseus e de is sadduceus».
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -6209,6 +6259,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>E lasciatili, se ne andò.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T145112Z" creationid="giuan" creationdate="20260513T145112Z">
+        <seg>E lassendide·ddus, si ndi fiat andau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>E le sue sorelle non stanno qui da noi?».</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T150157Z" creationid="BRUNA" creationdate="20251008T142729Z">
@@ -7434,6 +7492,14 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260513T144719Z" creationid="giuan" creationdate="20260513T144719Z">
         <seg>Iant arrespustu: «Seti, e pagus piscixeddus».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Sapete dunque interpretare l'aspetto del cielo e non sapete distinguere i segni dei tempi?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T145036Z" creationid="giuan" creationdate="20260513T145036Z">
+        <seg>Scieis cumprèndiri cumenti càmbiat su celu e no ndi scieis scerai is sinnus de is tempus?</seg>
       </tuv>
     </tu>
     <tu>
