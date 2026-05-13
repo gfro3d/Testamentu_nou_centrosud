@@ -2297,6 +2297,56 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>15,10&lt;s0/&gt;Poi, riunita la folla, disse: "Ascoltate e intendete!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143149Z" creationid="giuan" creationdate="20260513T143149Z">
+        <seg>15,10 A pustis, iat assoddiu sa genti e iat narau: «Ascurtai e cumprendei!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,11&lt;s0/&gt;Non quello che entra nella bocca rende impuro l'uomo, ma quello che esce dalla bocca rende impuro l'uomo!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143202Z" creationid="giuan" creationdate="20260513T143202Z">
+        <seg>15,11 No est su chi intrat a buca chi imbrutat s'òmini, ma est su chi ndi essit de sa buca chi imbrutat s'òmini!».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,12&lt;s0/&gt;Allora i discepoli gli si accostarono per dirgli: "Sai che i farisei si sono scandalizzati nel sentire queste parole?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143227Z" creationid="giuan" creationdate="20260513T143227Z">
+        <seg>15,12 E is discìpulus si ddi fiant acostiaus po ddi narai: «Ddu sciis ca is fariseus si funt scandalizaus/ofèndius intendendi custas paràulas?».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,13&lt;s0/&gt;Ed egli rispose: "Ogni pianta che non è stata piantata dal mio Padre celeste sarà sradicata.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143243Z" creationid="giuan" creationdate="20260513T143243Z">
+        <seg>15,13 E issu iat arrespustu: «Ónnia fundu chi no at prantau Babbu miu de is celus ndi dd’ant a bogai de fundu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,14&lt;s0/&gt;Lasciateli!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143323Z" creationid="giuan" creationdate="20260513T143309Z">
+        <seg>15,14 Lassaide·ddus stai! .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,15&lt;s0/&gt;Pietro allora gli disse: "Spiegaci questa parabola".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143344Z" creationid="giuan" creationdate="20260513T143344Z">
+        <seg>15,15 Pedru tandu ddi iat narau: «Acrara·sì custa paràbula».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>15,1&lt;s0/&gt;In quel tempo vennero a Gesù da Gerusalemme alcuni farisei e alcuni scribi e gli dissero:</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260513T142810Z" creationid="giuan" creationdate="20260501T142735Z">
@@ -6015,6 +6065,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>E quando un cieco guida un altro cieco, tutti e due cadranno in un fosso!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143327Z" creationid="giuan" creationdate="20260513T143327Z">
+        <seg> E candu unu tzurpu ghiat a un'àteru tzurpu, ambuduus nci ant a arrùiri a unu fossu!»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>E quanti lo toccavano guarivano.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T141925Z" creationid="giuan" creationdate="20260501T141925Z">
@@ -7216,6 +7274,14 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T153332Z" creationid="BRUNA" creationdate="20251205T153231Z">
         <seg>Setzi a manu dereta mia,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Sono ciechi e guide di ciechi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260513T143312Z" creationid="giuan" creationdate="20260513T143312Z">
+        <seg>Funt tzurpus e ghias de tzurpus.</seg>
       </tuv>
     </tu>
     <tu>
