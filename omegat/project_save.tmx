@@ -2916,6 +2916,55 @@ ma su coru suu est atesu de mei.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>17,1&lt;s0/&gt;Sei giorni dopo, Gesù prese con sé Pietro, Giacomo e Giovanni suo fratello e li condusse in disparte, su un alto monte.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260518T170809Z" creationid="giuan" creationdate="20260518T170809Z">
+        <seg>17,1 Ses diis a pustis, Gesùs s’iat pigau infatu a Pedru, a Giacu e a Giuanni su fradi e nci ddus iat portaus a una parti, asuba de unu monti artu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,2&lt;s0/&gt;E fu trasfigurato davanti a loro; il suo volto brillò come il sole e le sue vesti divennero&lt;s1/&gt;candide come la luce.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260518T170826Z" creationid="giuan" creationdate="20260518T170826Z">
+        <seg>17,2 E si fiat trasfigurau ananti insoru; sa cara sua luxendi che soli e is bistiris suu fendi·sì ìnnidus che sa luxi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,3&lt;s0/&gt;Ed ecco apparvero loro Mosè ed Elia, che conversavano con lui.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260518T170842Z" creationid="giuan" creationdate="20260518T170842Z">
+        <seg>17,3 E totuinduna ddis aparèssint Mosès e Elias, chistionendi cun Gesùs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,4&lt;s0/&gt;Pietro prese allora la parola e disse a Gesù: "Signore, è bello per noi restare qui; se vuoi, farò qui tre tende, una per te, una per Mosè e una per Elia".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260518T170857Z" creationid="giuan" creationdate="20260518T170857Z">
+        <seg>17,4 Tandu pigat su fueddu Pedru e narat a Gesùs: «Sennori, est cosa bona po nosu a abarrai innoi; si bolis, apu a fàiri innoi etotu tres barracas, una po tui, una po Mosès e una po Elias».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,5&lt;s0/&gt;Egli stava ancora parlando quando una nube luminosa li avvolse con la sua ombra.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260518T170918Z" creationid="giuan" creationdate="20260518T170918Z">
+        <seg>17,5 Issu fiat ancora chistionendi candu una nui luxenti nci ddus imboddiàt in s’umbra sua. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,6&lt;s0/&gt;All'udire ciò, i discepoli caddero con la faccia a terra e furono presi da grande timore.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260518T170958Z" creationid="giuan" creationdate="20260518T170958Z">
+        <seg>17,6 Intende·ndi aici, is discìpulus si nci fiant ghetaus faci a terra e ddis iat pigau una timoria manna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>17&lt;t0/&gt; Erode infatti aveva fatto arrestare Giovanni e lo aveva messo in prigione a causa di Erodìade, moglie di suo fratello Filippo, che egli aveva sposata. &lt;t1/&gt;18&lt;t2/&gt; Giovanni diceva a Erode: «Non ti è lecito tenere la moglie di tuo fratello». &lt;t3/&gt;19&lt;t4/&gt; Per questo Erodìade gli portava rancore e avrebbe voluto farlo uccidere, ma non poteva, &lt;t5/&gt;20&lt;t6/&gt; perché Erode temeva Giovanni, sapendolo giusto e santo, e vigilava su di lui; e anche se nell'ascoltarlo restava molto perplesso, tuttavia lo ascoltava volentieri.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260330T152529Z" creationid="BRUNA" creationdate="20251008T144616Z">
@@ -6021,6 +6070,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Ascoltatelo".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260518T170935Z" creationid="giuan" creationdate="20260518T170935Z">
+        <seg> Ascurtaide·ddu».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Avete il cuore indurito? &lt;t7/&gt;18&lt;t8/&gt; &lt;t9/&gt;Avete occhi e non vedete, avete orecchi e non udite&lt;t10/&gt;?</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251201T170900Z" creationid="BRUNA" creationdate="20251014T064832Z">
@@ -6693,6 +6750,15 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="sc" changeid="giuan" changedate="20260305T151642Z" creationid="giuan" creationdate="20260305T151642Z">
         <seg>
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Ed ecco una voce che diceva: "Questi è il Figlio mio prediletto, nel quale mi sono compiaciuto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260518T170931Z" creationid="giuan" creationdate="20260518T170931Z">
+        <seg>E de innia una boxi chi naràt:
+«Custu est su Fillu miu prus stimau, in issu mi seu cumpraxu.</seg>
       </tuv>
     </tu>
     <tu>
