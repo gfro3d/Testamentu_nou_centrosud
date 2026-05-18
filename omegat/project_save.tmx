@@ -2975,8 +2975,24 @@ ma su coru suu est atesu de mei.
       <tuv lang="it">
         <seg>17,17&lt;s0/&gt;E Gesù rispose: "O generazione incredula e perversa!</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260518T171458Z" creationid="giuan" creationdate="20260518T171458Z">
-        <seg>17,17 E Gesùs iat arrespustu: «O generatzioni chene fidi e trevessa!</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260518T171605Z" creationid="giuan" creationdate="20260518T171458Z">
+        <seg>17,17 E Gesùs iat arrespustu: «O generatzioni chene fidi e trevessa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,18&lt;s0/&gt;E Gesù gli parlò severamente, e il demonio uscì da lui e da quel momento il ragazzo fu guarito.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260518T171728Z" creationid="giuan" creationdate="20260518T171728Z">
+        <seg>17,18 Gesùs dd’iat certau e su dimòniu ndi fiat èssiu de issu e de insaras su piciocheddu fiat sanau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>17,19&lt;s0/&gt;Allora i discepoli, accostatisi a Gesù in disparte, gli chiesero: "Perché noi non abbiamo potuto scacciarlo?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260518T171828Z" creationid="giuan" creationdate="20260518T171828Z">
+        <seg>17,19 Intzandus is discìpulus, acostiendi·sì a Gesùs a una parti, dd’iant preguntau: «Poita est chi nosu no nci dd’eus potziu bogai?».</seg>
       </tuv>
     </tu>
     <tu>
@@ -7040,16 +7056,16 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Fino a quando dovrò sopportarvi?</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251014T105749Z" creationid="giuan" creationdate="20251014T105749Z">
-        <seg>Fintzas a candu s’apu a dèpiri baliai?</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260518T171741Z" creationid="giuan" creationdate="20251014T105749Z">
+        <seg> Fintzas a candu bos’apu a baliai?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>Fino a quando starò con voi?</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260107T112239Z" creationid="giuan" creationdate="20251014T105729Z">
-        <seg>19 Issu insaras ddis arrespundit: «O generatzioni scrètia! Fintzas a candu apu a abarrai cun bosàterus? </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260518T171640Z" creationid="giuan" creationdate="20251014T105729Z">
+        <seg>Fintzas a candu apu a èssiri cun bosàterus?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7758,6 +7774,14 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251014T105836Z" creationid="giuan" creationdate="20251014T105755Z">
         <seg>Betei mi·nde·ddu a innoi». 20 E nci dd’iant portau su piciocheddu.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Portatemelo qui".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260518T171538Z" creationid="giuan" creationdate="20260518T171538Z">
+        <seg> Betei·mi·nde·ddu a innoi».</seg>
       </tuv>
     </tu>
     <tu>
