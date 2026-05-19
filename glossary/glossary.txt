@@ -1036,3 +1036,7 @@ impetantis	impetantis	in s'interis
 pesce	pisci
 moneta d'argento	stateri	soddu, staderi
 tassa	tributu
+Macina girata da asino	pedra de molenti
+Abissi del are	mesu de mari
+Monco	strupiau
+Rallegrare	allirgai
