@@ -153,8 +153,8 @@
       <tuv lang="it">
         <seg>1,2&lt;s0/&gt;Abramo generò Isacco, Isacco generò Giacobbe, Giacobbe generò Giuda e i suoi fratelli,</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260224T081357Z" creationid="giuan" creationdate="20260224T081357Z">
-        <seg>1,2 Abramu ingenereit a Isacu, Isacu ingenereit a Giacobbu, Giacobbu iat generau a Giudas e a is fradis,</seg>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260519T084947Z" creationid="giuan" creationdate="20260224T081357Z">
+        <seg>1,2 Abramu ingenereit a Isacu, Isacu ingenereit a Giacobbu, Giacobbu iat generau a Giudas e a is fradis, </seg>
       </tuv>
     </tu>
     <tu>
@@ -8501,6 +8501,15 @@ e a issu sceti serbi».</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T145610Z" creationid="BRUNA" creationdate="20251001T152924Z">
         <seg>9 E cuddu dd’iat arrespustu: « Legioni mi narant ca seus in medas».  10 E dd’iat pregau meda a no nci ddus bogai de cussa regioni.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>È inevitabile che avvengano scandali, ma guai all'uomo per colpa del quale avviene lo scandalo!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260519T085116Z" creationid="BRUNA" creationdate="20260519T085116Z">
+        <seg>18,7 Arguai a su mundu po is scàndulus! Is scàndulus depint incapitai; ma arguai a s'òmini chi ndi betit su scàndulu!
 </seg>
       </tuv>
     </tu>
