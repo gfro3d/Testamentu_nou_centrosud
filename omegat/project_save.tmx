@@ -3936,6 +3936,22 @@ ca de tui nd'at a essiri, difatis, una ghia chi at a pàsciri Israeli, su pòpul
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>20,10&lt;s0/&gt;Quando arrivarono i primi, pensavano che avrebbero ricevuto di più.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T080039Z" creationid="giuan" creationdate="20260530T080039Z">
+        <seg>20,10 Candu fiant lòmpius is primus, s'iant crètiu ca ndi ddis tocat de prus. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,11&lt;s0/&gt;Nel ritirarlo però, mormoravano contro il padrone dicendo:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T080131Z" creationid="giuan" creationdate="20260530T080131Z">
+        <seg>20,11 E pighendide·ddu, murrugiànt contras a su meri narendi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>20,1&lt;s0/&gt;"Il regno dei cieli è simile a un padrone di casa che uscì all'alba per prendere a giornata&lt;s1/&gt;lavoratori per la sua vigna.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260530T075627Z" creationid="giuan" creationdate="20260530T075627Z">
@@ -3980,6 +3996,30 @@ ca de tui nd'at a essiri, difatis, una ghia chi at a pàsciri Israeli, su pòpul
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260530T075840Z" creationid="giuan" creationdate="20260530T075840Z">
         <seg>20,6 Faciora de is cincu fiat torrau a essiri, nd'iat agatau àterus chi fiant innia e ddis iat narau: "Poita aturais innoi totu sa dii a s’afainu?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,7&lt;s0/&gt;Gli risposero: Perché nessuno ci ha presi a giornata.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T075921Z" creationid="giuan" creationdate="20260530T075921Z">
+        <seg>20,7 Ddi iant arrespustu: "Poita ca nemus s'at pigau a giorronada".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,8&lt;s0/&gt;Quando fu sera, il padrone della vigna disse al suo fattore: Chiama gli operai e dà loro la paga, incominciando dagli ultimi fino ai primi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T075957Z" creationid="giuan" creationdate="20260530T075957Z">
+        <seg>20,8 Candu iat scurigau, su meri de sa bìngia iat narau a su fatori suu: "Tzèrria a is giorronaderis e dona·ddis sa paga, cumentzendi de is ùrtimus fintzas a is primus".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,9&lt;s0/&gt;Venuti quelli delle cinque del pomeriggio, ricevettero ciascuno un denaro.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T080020Z" creationid="giuan" creationdate="20260530T080020Z">
+        <seg>20,9 Bènnius is de is cincu de a merì, iant pigau unu dinai a cada de unu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7564,6 +7604,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Ed egli disse loro: Andate anche voi nellamia vigna.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T075925Z" creationid="giuan" creationdate="20260530T075925Z">
+        <seg> E issu ddis iat narau: "Baxei bosàterus puru a sa bìngia mia".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Ed egli disse loro: &lt;t1/&gt;11&lt;t2/&gt; «A voi è stato confidato il mistero del regno di Dio; a quelli di fuori invece tutto viene esposto in parabole, &lt;t3/&gt;12&lt;t4/&gt; perché:</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251117T141430Z" creationid="giuan" creationdate="20250929T072813Z">
@@ -8108,6 +8156,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T141145Z" creationid="giuan" creationdate="20260501T141114Z">
         <seg>Ma a sa sabiduria dd’ant torrau giustìtzia is òperas suas”.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Ma anch'essi ricevettero un denaro per ciascuno.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T080103Z" creationid="giuan" creationdate="20260530T080103Z">
+        <seg>Ma issus puru iant arriciu a cada de unu dinai peròmini.</seg>
       </tuv>
     </tu>
     <tu>
