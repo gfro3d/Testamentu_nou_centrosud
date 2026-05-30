@@ -1056,3 +1056,5 @@ prendere a giornata	acodrai
 disoccupati	a s'afainu
 ve ne state	aturais
 oziosi	a s'afainu
+giornata	giorronada
+mormoravano	murrugiànt
