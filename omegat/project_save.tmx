@@ -3263,6 +3263,14 @@ ma su coru suu est atesu de mei.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>18,21&lt;s0/&gt;Allora Pietro gli si avvicinò e gli disse: "Signore, quante volte dovrò perdonare al mio&lt;s1/&gt;fratello, se pecca contro di me?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T081254Z" creationid="giuan" creationdate="20260530T081254Z">
+        <seg>18,21 E Pedru si ddi fiat acostiau e dd'iat narau: «Sennori, cantu bortas apu a perdonai a fradi miu, si pecat contras a mei? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>18,22&lt;s0/&gt;E Gesù gli rispose: "Non ti dico fino a sette, ma fino a settanta volte sette.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260519T091122Z" creationid="BRUNA" creationdate="20260519T091122Z">
@@ -7937,8 +7945,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Fino a sette volte?".</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260519T091053Z" creationid="BRUNA" creationdate="20260519T091053Z">
-        <seg>18,21 E Pedru si ddi fiat acostiau e dd'iat narau: «Sennori, cantu bortas apu a perdonai a fradi miu, si pecat contras a mei? Fintzas a seti bortas?».
+      <tuv lang="sc" changeid="giuan" changedate="20260530T081307Z" creationid="BRUNA" creationdate="20260519T091053Z">
+        <seg> Fintzas a seti bortas?».
 </seg>
       </tuv>
     </tu>
