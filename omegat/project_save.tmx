@@ -3952,6 +3952,55 @@ ca de tui nd'at a essiri, difatis, una ghia chi at a pàsciri Israeli, su pòpul
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>20,12&lt;s0/&gt;Questi ultimi hanno lavorato un'ora soltanto e li hai trattati come noi, che abbiamo sopportato il peso della giornata e il caldo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T080216Z" creationid="giuan" creationdate="20260530T080216Z">
+        <seg>20,12 "Is ùrtimus ant trabballau un'ora sceti e ddus as ugaliaus a nosu, chi eus aguantau su pesu de sa dii e su fogori”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,13&lt;s0/&gt;Ma il padrone, rispondendo a uno di loro, disse: Amico, io non ti faccio torto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T080239Z" creationid="giuan" creationdate="20260530T080239Z">
+        <seg>20,13 Ma su meri, arrespundendi a unu de issus, iat narau: "Amigu, deu no seu fendu·dì ingiustìtzia. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,14&lt;s0/&gt;Prendi il tuo e vattene; ma io voglio dare anche a quest'ultimo quanto a te.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T080308Z" creationid="giuan" creationdate="20260530T080308Z">
+        <seg>20,14 Piga su tuu e bai·ti·ndi; deu bollu donai a cust'ùrtimu puru cantu a tui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,15&lt;s0/&gt;Non posso fare delle mie cose quello che voglio?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T080335Z" creationid="giuan" creationdate="20260530T080335Z">
+        <seg>20,15 De is cosas mias no ndi potzu fàiri su chi bollu? 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,16&lt;s0/&gt;Così gli ultimi saranno i primi, e i primi gli ultimi".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T080407Z" creationid="giuan" creationdate="20260530T080407Z">
+        <seg>20,16 Aici is ùrtimus ant a èssiri is primus, e is primus is ùrtimus».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,17&lt;s0/&gt;Mentre saliva a Gerusalemme, Gesù prese in disparte i dodici e lungo la via disse loro:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T080429Z" creationid="giuan" creationdate="20260530T080429Z">
+        <seg>20,17 In s'interis chi fiat artziendi a Gerusalemmi, Gesùs s'iat pigau a is doxi a una parti e in sa bia ddis iat narau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>20,1&lt;s0/&gt;"Il regno dei cieli è simile a un padrone di casa che uscì all'alba per prendere a giornata&lt;s1/&gt;lavoratori per la sua vigna.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260530T075627Z" creationid="giuan" creationdate="20260530T075627Z">
@@ -8328,6 +8377,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Non hai forse convenuto con me per un denaro?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T080246Z" creationid="giuan" creationdate="20260530T080246Z">
+        <seg>Ellus no si fiaus abarraus de acòrdiu po unu dinai?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Non intendete e non capite ancora?</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251014T064740Z" creationid="BRUNA" creationdate="20251014T064740Z">
@@ -8380,6 +8437,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T144302Z" creationid="giuan" creationdate="20250929T075622Z">
         <seg>O prusaprestu po dda pònniri in su candelobru? 22 Ca no ddoi at nudda chi est cuau si no po èssiri bogau a craru e nudda chi est secretu si no po èssiri scoviau. 23 Si unu portat origas po ascurtai chi ascurtit!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Oppure tu sei invidioso perché io sono buono?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T080350Z" creationid="giuan" creationdate="20260530T080350Z">
+        <seg>O tui ses imbidiosu ca deu seu bonu?".</seg>
       </tuv>
     </tu>
     <tu>
