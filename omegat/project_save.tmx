@@ -3936,6 +3936,54 @@ ca de tui nd'at a essiri, difatis, una ghia chi at a pàsciri Israeli, su pòpul
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>20,1&lt;s0/&gt;"Il regno dei cieli è simile a un padrone di casa che uscì all'alba per prendere a giornata&lt;s1/&gt;lavoratori per la sua vigna.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T075627Z" creationid="giuan" creationdate="20260530T075627Z">
+        <seg>20,1 «Ca su rennu de is celus est che a unu meri de domu chi fiat essiu a mengianu chitzi po acodrai giorronaderis a trabballai sa bìngia sua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,2&lt;s0/&gt;Accordatosi con loro per un denaro al giorno, li mandò nella sua vigna.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T075643Z" creationid="giuan" creationdate="20260530T075643Z">
+        <seg>20,2 Candu iat agiustau cun issus po unu dinai a sa dii, nci ddus iat mandaus a sa bìngia sua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,3&lt;s0/&gt;Uscito poi verso le nove del mattino, ne vide altri che stavano sulla piazza disoccupati</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T075715Z" creationid="giuan" creationdate="20260530T075715Z">
+        <seg>20,3 E candu faci a is noi oras de a mengianu fiat essiu e nd’iat bistu àterus chi fiant me in sa pratza a s’afainu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,4&lt;s0/&gt;e disse loro: Andate anche voi nella mia vigna; quello che è giusto ve lo darò.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T075732Z" creationid="giuan" creationdate="20260530T075732Z">
+        <seg>20,4 e ddis iat narau: "Baxei bosàterus puru a sa bìngia mia; su chi est giustu bosi dd’apu a donai".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,5&lt;s0/&gt;Uscì di nuovo verso mezzogiorno e verso le tre e fece altrettanto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T075800Z" creationid="giuan" creationdate="20260530T075800Z">
+        <seg> Torrau a essiri faciora de mesudì e faciora de is tres e iat fatu aici etotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>20,6&lt;s0/&gt;Uscito ancora verso le cinque, ne vide altri che se ne stavano là e disse loro: Perché ve ne state qui tutto il giorno oziosi?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T075840Z" creationid="giuan" creationdate="20260530T075840Z">
+        <seg>20,6 Faciora de is cincu fiat torrau a essiri, nd'iat agatau àterus chi fiant innia e ddis iat narau: "Poita aturais innoi totu sa dii a s’afainu?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>20&lt;t0/&gt; Allora essi partirono e predicarono dappertutto, mentre il Signore operava insieme con loro e confermava la parola con i prodigi che l'accompagnavano.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260108T165241Z" creationid="BRUNA" creationdate="20251219T144503Z">
@@ -7584,6 +7632,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251209T141845Z" creationid="giuan" creationdate="20251209T141845Z">
         <seg>E iant certau a sa fèmina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Ed essi andarono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T075753Z" creationid="giuan" creationdate="20260530T075753Z">
+        <seg>20,5 E issus fiant andaus.</seg>
       </tuv>
     </tu>
     <tu>
