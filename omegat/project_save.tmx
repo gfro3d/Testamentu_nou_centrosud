@@ -3533,8 +3533,26 @@ ma su coru suu est atesu de mei.
       <tuv lang="it">
         <seg>19,17&lt;s0/&gt;Egli rispose: "Perché mi interroghi su ciò che è buono?</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260530T073523Z" creationid="giuan" creationdate="20260530T073523Z">
-        <seg>19,17 Issu iat arrespustu: «Poita mi preguntas asuba de su chi est bonu? Si bolis intrai in sa vida, arrespeta is cumandamentus».
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073541Z" creationid="giuan" creationdate="20260530T073523Z">
+        <seg>19,17 Issu iat arrespustu: «Poita mi preguntas asuba de su chi est bonu? 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,18&lt;s0/&gt;Ed egli chiese: "Quali?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073606Z" creationid="giuan" creationdate="20260530T073606Z">
+        <seg>19,18 E issu iat preguntau: «Cali cumandamentus?». 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,19&lt;s0/&gt;onora il padre e la madre, ama il prossimo tuo come te stesso".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073627Z" creationid="giuan" creationdate="20260530T073627Z">
+        <seg>19,19 onora a babbu tuu e a mama tua, ama a is àterus cumenti a tui etotu».
 </seg>
       </tuv>
     </tu>
@@ -3544,6 +3562,50 @@ ma su coru suu est atesu de mei.
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260530T072809Z" creationid="giuan" creationdate="20260530T072809Z">
         <seg> 19,1 Acabbaus custus arrexonus, Gesùs fiat mòviu de sa Galilea e fiat andau a sa regioni de sa Giudea, addei de su Giordanu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,20&lt;s0/&gt;Il giovane gli disse: "Ho sempre osservato tutte queste cose; che mi manca ancora?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073647Z" creationid="giuan" creationdate="20260530T073647Z">
+        <seg>19,20 Su giòvunu dd'iat narau: «Apu sempri arrespetautotu custas cosas, ita est chi mi mancat ancora?».
+
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,21&lt;s0/&gt;Gli disse Gesù: "Se vuoi essere perfetto, va', vendi quello che possiedi, dàllo ai poveri e avrai un tesoro nel cielo; poi vieni e seguimi".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073716Z" creationid="giuan" creationdate="20260530T073716Z">
+        <seg>19,21 Gesùs dd'iat narau: «Si bolis èssiri perfetu, bai, bendi su chi tenis e dona·ddu a is pòburus e in celu as a tènniri unu tesoru; a pustis beni e poni in fatu a mei».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,22&lt;s0/&gt;Udito questo, il giovane se ne andò triste; poiché aveva molte ricchezze.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073732Z" creationid="giuan" creationdate="20260530T073732Z">
+        <seg>19,22 Intèndius custus fueddus, su giòvunu si ndi fiat andau tristu; giai ca teniat benis medas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,23&lt;s0/&gt;Gesù allora disse ai suoi discepoli: "In verità vi dico: difficilmente un ricco entrerà nel regno dei cieli.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073753Z" creationid="giuan" creationdate="20260530T073753Z">
+        <seg>19,23 Insaras Gesùs iat narau a is discìpulus suus: «In beridadi bosi naru: est difìcili chi un'arricu intrit in su rennu de is celus.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,24&lt;s0/&gt;Ve lo ripeto: è più facile che un cammello passi per la cruna di un ago, che un ricco entri nel regno dei cieli".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073807Z" creationid="giuan" creationdate="20260530T073807Z">
+        <seg>19,24 Si ddu torru a narai: est prus fàcili chi unu camellu nci passit in s'ogu de un'agu, chi no un'arricu intrit a su rennu de is celus».</seg>
       </tuv>
     </tu>
     <tu>
@@ -7620,6 +7682,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Gesù rispose: "Non uccidere, non commettere adulterio, non rubare, non testimoniare il falso,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073612Z" creationid="giuan" creationdate="20260530T073612Z">
+        <seg>Gesùs iat arrespustu: «No bòcias, no fatzas adultèriu, no furis, no testimongis su frassu,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Gesù, vista la loro fede, disse al&lt;s1/&gt;paralitico: "Coraggio, figliolo, ti sono rimessi i tuoi peccati".</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260402T071035Z" creationid="giuan" creationdate="20260402T071035Z">
@@ -8498,6 +8568,14 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Se vuoi entrare nella vita, osserva i comandamenti".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073545Z" creationid="giuan" creationdate="20260530T073545Z">
+        <seg>Si bolis intrai in sa vida, arrespeta is cumandamentus».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Sei venuto a rovinarci!</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20250922T093848Z" creationid="BRUNA" creationdate="20250914T152710Z">
@@ -8683,6 +8761,14 @@ e a issu sceti serbi».</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20250921T122046Z" creationid="BRUNA" creationdate="20250921T122046Z">
         <seg>Una dotrina noa imparada cun autoridadi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Uno solo è buono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073535Z" creationid="giuan" creationdate="20260530T073535Z">
+        <seg>Unu sceti est su bonu. </seg>
       </tuv>
     </tu>
     <tu>
