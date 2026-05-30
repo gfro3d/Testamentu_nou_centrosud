@@ -3177,6 +3177,14 @@ ma su coru suu est atesu de mei.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>18,12&lt;s0/&gt;Che ve ne pare?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T072714Z" creationid="giuan" creationdate="20260530T072714Z">
+        <seg>18,12 Ita bosi ndi parit?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>18,13&lt;s0/&gt;Se gli riesce di trovarla, in verità vi dico, si rallegrerà per quella più che per le novantanove che non si erano smarrite.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260519T094455Z" creationid="BRUNA" creationdate="20260519T085938Z">
@@ -3461,6 +3469,30 @@ ma su coru suu est atesu de mei.
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260511T075050Z" creationid="BRUNA" creationdate="20251205T151909Z">
         <seg>Insaras si fiant acostiaus unus cantu sadduceus, is chi narant ca arresurretzioni no nci nd’at, e ddu preguntànt narendi: 19 «Su Maistu, Mosè nosi at lassau scritu ca: si su fradi de unu si morit e lassat sa mulleri chene fillus, su fradi ndi pigat sa mulleri po chi su fradi mortu tengat un’erèntzia. 20 Ddoi fiant seti fradis; su primu si fiat cojau e si fiat mortu chene lassai eredeu; 21 insaras cussa fèmina si dd’iat pigada su de duus, ma si fiat mortu chene lassai erèntzia; e su de tres aici etotu, 22 e mancunu de is fradis iat lassau erèntzia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,1&lt;s0/&gt;Terminati questi discorsi, Gesù partì dalla Galilea e andò nel territorio della Giudea, al di là del Giordano.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T072809Z" creationid="giuan" creationdate="20260530T072809Z">
+        <seg> 19,1 Acabbaus custus arrexonus, Gesùs fiat mòviu de sa Galilea e fiat andau a sa regioni de sa Giudea, addei de su Giordanu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,2&lt;s0/&gt;E lo seguì molta folla e colà egli guarì i malati.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T072828Z" creationid="giuan" creationdate="20260530T072828Z">
+        <seg>19,2 E areis de genti ddi iant postu in fatu e issu ddas iat sanadas innia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,3&lt;s0/&gt;Allora gli si avvicinarono alcuni farisei per metterlo alla prova e gli chiesero: "È lecito ad un uomo ripudiare la propria moglie per qualsiasi motivo?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T072912Z" creationid="giuan" creationdate="20260530T072912Z">
+        <seg>19,3 Insaras si ddi fiant acostiaus unus cantu fariseus po ddu fàiri arrùiri in trampa/ pònniri a prova ddi iant preguntau: «Lìcitu ddi est a (un'òmini) a nci bogai a sa mulleri po calisiat arrexoni/càusa?».</seg>
       </tuv>
     </tu>
     <tu>
@@ -8328,8 +8360,8 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       <tuv lang="it">
         <seg>Se un uomo ha cento pecore e ne smarrisce una, non lascerà forse le novantanove sui monti, per andare in cerca di quella perduta?</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260519T085755Z" creationid="BRUNA" creationdate="20260519T085755Z">
-        <seg>18,12 Ita bosi ndi parit? Si un'òmini tenit centu brebeis e si ndi perdit una, no at a lassai is norantanoi in monti, po andai a circai sa chi s’est pèrdia?
+      <tuv lang="sc" changeid="giuan" changedate="20260530T072709Z" creationid="BRUNA" creationdate="20260519T085755Z">
+        <seg> Si un'òmini tenit centu brebeis e si ndi perdit una, no at a lassai is norantanoi in monti, po andai a circai sa chi s’est pèrdia?
 </seg>
       </tuv>
     </tu>
