@@ -3491,8 +3491,56 @@ ma su coru suu est atesu de mei.
       <tuv lang="it">
         <seg>19,3&lt;s0/&gt;Allora gli si avvicinarono alcuni farisei per metterlo alla prova e gli chiesero: "È lecito ad un uomo ripudiare la propria moglie per qualsiasi motivo?".</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260530T072912Z" creationid="giuan" creationdate="20260530T072912Z">
-        <seg>19,3 Insaras si ddi fiant acostiaus unus cantu fariseus po ddu fàiri arrùiri in trampa/ pònniri a prova ddi iant preguntau: «Lìcitu ddi est a (un'òmini) a nci bogai a sa mulleri po calisiat arrexoni/càusa?».</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073004Z" creationid="giuan" creationdate="20260530T072912Z">
+        <seg>19,3 Insaras si ddi fiant acostiaus unus cantu fariseus po ddu  pònniri a prova ddi iant preguntau: «Lìcitu ddi est a (un'òmini) a nci bogai a sa mulleri po calisiat arrexoni?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,4&lt;s0/&gt;Ed egli rispose: "Non avete letto che il Creatore da principio li creò maschio e femmina e disse:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T072917Z" creationid="giuan" creationdate="20260530T072917Z">
+        <seg>19,4 E issu iat arrespustu: «Ellus no dd'eis lìgiu ca su Creadori de su cumintzu ddus iat fatus mascu e fèmina e iat narau:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,5&lt;s0/&gt;Per questo l'uomo lascerà suo padre e sua madre e si unirà a sua moglie e i due saranno una carne sola?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073030Z" creationid="giuan" creationdate="20260530T073030Z">
+        <seg>19,5 "Po custu s'òmini at a lassai a su babbu e a sa mama e s'at a auniri a sa mulleri e issus duus ant a èssiri una carri sceti?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,6&lt;s0/&gt;Così che non sono più due, ma una carne sola.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073050Z" creationid="giuan" creationdate="20260530T073050Z">
+        <seg>19,6 Aici no funt prus duus, ma una carri sceti. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,7&lt;s0/&gt;Gli obiettarono: "Perché allora Mosè ha ordinato di darle l'atto di ripudio e mandarla via?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073131Z" creationid="giuan" creationdate="20260530T073131Z">
+        <seg>19,7 Issus dd'abbetiant: «Poita insaras Mosè at cumandau a ddi donai un'àutu/documentu de arrefudu e a nci dda bogai?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,8&lt;s0/&gt;Rispose loro Gesù: "Per la durezza del vostro cuore Mosè vi ha permesso di ripudiare le vostre mogli, ma da principio non fu così.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073153Z" creationid="giuan" creationdate="20260530T073153Z">
+        <seg>19,8 E Gesùs ddis iat arrespustu: «Po mori de su coru tostau de bosàterus Mosè bosi at permìtiu de arrefudai/nci bogai a mulleris bostas, ma a princìpiu no fiat aici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>19,9&lt;s0/&gt;Perciò io vi dico: Chiunque ripudia la propria moglie, se non in caso di concubinato, e ne sposa un'altra commette adulterio".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073208Z" creationid="giuan" creationdate="20260530T073208Z">
+        <seg>19,9 E deu bosi naru: Chini arrefudat a sa mulleri, si no po unioni illegìtima, e si ndi cojat un'àtera fait adultèriu».</seg>
       </tuv>
     </tu>
     <tu>
@@ -8273,6 +8321,14 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260402T071859Z" creationid="giuan" creationdate="20260402T071859Z">
         <seg>E issus si nd'arriiant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Quello dunque che Dio ha congiunto, l'uomo non lo separi".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260530T073054Z" creationid="giuan" creationdate="20260530T073054Z">
+        <seg>E duncas su chi Deus at auniu, s'òmini no ddu scrobit».</seg>
       </tuv>
     </tu>
     <tu>
