@@ -4313,10 +4313,45 @@ ma bosàterus ndi seis fendi una gruta  de furonis!».
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>21,18&lt;s0/&gt;La mattina dopo, mentre rientrava in città, ebbe fame.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260622T063520Z" creationid="BRUNA" creationdate="20260622T063520Z">
+        <seg>21,18 Su mengianu a pustis, furriendi a sa citadi, dd'iat pigau fàmini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>21,1&lt;s0/&gt;Quando furono vicini a Gerusalemme e giunsero presso Bètfage, verso il monte degli Ulivi, Gesù mandò due dei suoi discepoli</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260622T062216Z" creationid="BRUNA" creationdate="20260622T062216Z">
         <seg>21,1 Candu fiant acanta de Gerusalemmi e fiant lòmpius a Bètfage, a su Monti de is Olias, Gesùs iat mandau a duus  discìpulus suus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>21,20&lt;s0/&gt;Vedendo ciò i discepoli rimasero stupiti e dissero: "Come mai il fico si è seccato&lt;s1/&gt;immediatamente?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260622T063627Z" creationid="BRUNA" creationdate="20260622T063627Z">
+        <seg>21,20 Biendi custu is discìpulus fiant spantaus e narànt/narànt spantaus: «Cumenti est chi sa mata de sa figu s'est sicada in deretura?».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>21,21&lt;s0/&gt;Rispose Gesù: "In verità vi dico: Se avrete fede e non dubiterete, non solo potrete fare ciò che è accaduto a questo fico, ma anche se direte a questo monte: Levati di lì e gettati nel mare, ciò avverrà.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260622T063652Z" creationid="BRUNA" creationdate="20260622T063652Z">
+        <seg>21,21 Iat arrespustu Gesùs: «In beridadi bosi naru: Si teneis fidi e no dudais, no sceti eis a fàiri su chi est acuntèssiu a custa mata, ma fintzas si ddi narai a custu monti: "Pesadi·ndi de inguni e gheta·ti·nci a mari,  custu at a acontèssiri".
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>21,22&lt;s0/&gt;E tutto quello che chiederete con fede nella preghiera, lo otterrete".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260622T063712Z" creationid="BRUNA" creationdate="20260622T063712Z">
+        <seg>21,22 E totu su chi eis a pediri preghendi cun fidi, dd'eis a arriciri».
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -7350,6 +7385,15 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Chi ti ha dato questa autorità?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260622T063753Z" creationid="BRUNA" creationdate="20260622T063753Z">
+        <seg>21,23 Intrau a su tèmpiu, in s'interis chi fiat donendi imparu si ddi fiant acostiaus is sacerdotus majoris e is mannus de su pòpulu narendi: «Cun cali autoridadi fais custu? chini ti dd’at donada custa autoridadi?».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Chi vi ha suggerito di sottrarvi all'ira imminente?</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260305T155030Z" creationid="giuan" creationdate="20260305T153825Z">
@@ -7809,6 +7853,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260316T104012Z" creationid="BRUNA" creationdate="20260316T104012Z">
         <seg>8,3 E Gesùs iat allonghiau sa manu e dd'iat tocau narendi: «Eja bollu, chi sias purificau». E in deretura sa lebbra ddi fiat sparèssia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E subito quel fico si seccò.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260622T063606Z" creationid="BRUNA" creationdate="20260622T063606Z">
+        <seg>21,19 E biendi una mata de figu in sa bia, si ddi fiat acostiau, ma no ddoi iat agatau àteru che folla, e dd'iat narau: «Mai prus nàsciat frutu de tui». E in deretura sa mata si fiat sicada.</seg>
       </tuv>
     </tu>
     <tu>
