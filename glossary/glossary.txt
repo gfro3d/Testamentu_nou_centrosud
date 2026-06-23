@@ -1097,3 +1097,5 @@ non hai soggezione	no ndi fais contu de/no timis a nemus
 parere	parri
 tributo	tributu
 malizia	idea mala
+moneta	moneda
+denaro	dinari
