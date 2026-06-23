@@ -1079,3 +1079,5 @@ banchetto di nozze	cumbidu po sa coja
 Ecco	Mi'
 animali ingrassati	bèstias ingrassadas
 macellati	maceddadas
+campo	cungiau
+affari;	fainas
