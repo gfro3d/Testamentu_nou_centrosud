@@ -1104,3 +1104,5 @@ iscrizione	scritu/s'iscritzioni
 risurrezione	arresurretzioni
 vedova	fiuda
 discendenza	eredeu
+Alla fine	A s'acabbu
+moglie	mulleri
