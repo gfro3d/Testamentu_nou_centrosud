@@ -1099,3 +1099,6 @@ tributo	tributu
 malizia	idea mala
 moneta	moneda
 denaro	dinari
+immagine	màgini
+iscrizione	scritu/s'iscritzioni
+risurrezione	arresurretzioni
