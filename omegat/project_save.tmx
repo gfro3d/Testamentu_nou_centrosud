@@ -4667,6 +4667,33 @@ no est cosa de spantu po is ogus nostus?
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>22,20&lt;s0/&gt;Egli domandò loro: "Di chi è questa immagine e l'iscrizione?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260623T081938Z" creationid="BRUNA" creationdate="20260623T081938Z">
+        <seg>22,20 E issu ddis iat preguntau: «De chini est custa màgini e custu scritu/s'iscritzioni?».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>22,22&lt;s0/&gt;A queste parole rimasero sorpresi e, lasciatolo, se ne andarono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260623T082036Z" creationid="BRUNA" creationdate="20260623T082036Z">
+        <seg>22,22 A custus fueddus fiant abarraus spantaus e lassendide·ddu si ndi fiant andaus.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>22,23&lt;s0/&gt;In quello stesso giorno vennero a lui dei sadducei, i quali affermano che non c'è risurrezione, e lo interrogarono:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260623T082133Z" creationid="BRUNA" creationdate="20260623T082133Z">
+        <seg>22,23 E sa dii etotu fiant acostiaus anca fiat issu unus cantu sadduceus, chi afirmànt/narànt ca no nc'at arresurretzioni, e ddi iant preguntau:
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>22,2&lt;s0/&gt;"Il regno dei cieli è simile a un re che fece un banchetto di nozze per suo figlio.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260623T075222Z" creationid="BRUNA" creationdate="20260623T075222Z">
@@ -7451,6 +7478,15 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260622T064107Z" creationid="BRUNA" creationdate="20260622T064107Z">
         <seg>21,27 Insaras arrespundendi a Gesùs, narànt: «No ddu scieus». E issu ddis iat torrau: «Mancu deu bosi naru cun cali autoridadi fatzu custas cosas».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Allora disse loro: "Rendete dunque a Cesare quello che è di Cesare e a Dio quello che è di Dio".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="BRUNA" changedate="20260623T082015Z" creationid="BRUNA" creationdate="20260623T082015Z">
+        <seg>22,21 Dd'iant arrespustu: «De Cèsari». E insaras ddis iat narau: «Torrai duncas a Cèsari su chi est de Cèsari e a Deus su chi est de Deus».
 </seg>
       </tuv>
     </tu>
