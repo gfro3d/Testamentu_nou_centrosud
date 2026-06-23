@@ -1094,3 +1094,6 @@ eletti	eletus
 in fallo	in faddina
 veritiero	beridadosu
 non hai soggezione	no ndi fais contu de/no timis a nemus
+parere	parri
+tributo	tributu
+malizia	idea mala
