@@ -1102,3 +1102,5 @@ denaro	dinari
 immagine	màgini
 iscrizione	scritu/s'iscritzioni
 risurrezione	arresurretzioni
+vedova	fiuda
+discendenza	eredeu
