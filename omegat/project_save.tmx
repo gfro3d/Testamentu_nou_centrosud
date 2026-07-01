@@ -4372,6 +4372,22 @@ ma bosàterus ndi seis fendi una gruta  de furonis!».
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>21,27&lt;s0/&gt;Rispondendo perciò a Gesù, dissero: "Non lo sappiamo".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072100Z" creationid="giuan" creationdate="20260701T072100Z">
+        <seg>21,27 Insaras arrespundendi a Gesùs, narànt: «No ddu scieus». </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>21,28&lt;s0/&gt;"Che ve ne pare?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072021Z" creationid="giuan" creationdate="20260701T071948Z">
+        <seg>21,28 «Ita si ndi parit?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>21,29&lt;s0/&gt;Ed egli rispose: Sì, signore; ma non andò.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260622T064155Z" creationid="BRUNA" creationdate="20260622T064155Z">
@@ -8440,8 +8456,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Allora anch'egli disse loro: "Neanch'io vi dico con quale autorità faccio queste cose".</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260622T064107Z" creationid="BRUNA" creationdate="20260622T064107Z">
-        <seg>21,27 Insaras arrespundendi a Gesùs, narànt: «No ddu scieus». E issu ddis iat torrau: «Mancu deu bosi naru cun cali autoridadi fatzu custas cosas».
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072053Z" creationid="BRUNA" creationdate="20260622T064107Z">
+        <seg>E issu ddis iat torrau: «Mancu deu bosi naru cun cali autoridadi fatzu custas cosas».
 </seg>
       </tuv>
     </tu>
@@ -10779,8 +10795,8 @@ e a issu sceti serbi».</seg>
       <tuv lang="it">
         <seg>Un uomo aveva due figli; rivoltosi al primo disse: Figlio, va' oggi a lavorare nella vigna.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260622T064138Z" creationid="BRUNA" creationdate="20260622T064138Z">
-        <seg>21,28 «Ita si ndi parit/ndi pentzais? Un'òmini teniat duus fillus. Acostiendi·sì a su primu e dd'iat narau: "Fillu miu, bai e trabballa in sa bìngia”.
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072005Z" creationid="BRUNA" creationdate="20260622T064138Z">
+        <seg> Un'òmini teniat duus fillus. Acostiendi·sì a su primu e dd'iat narau: "Fillu miu, bai e trabballa in sa bìngia”.
 </seg>
       </tuv>
     </tu>
