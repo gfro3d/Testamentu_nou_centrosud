@@ -4658,6 +4658,14 @@ no est cosa de spantu po is ogus nostus?
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>22,19&lt;s0/&gt;Mostratemi la moneta del tributo".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071518Z" creationid="giuan" creationdate="20260701T071518Z">
+        <seg>22,19 Ammostai·mì sa moneda de su tributu».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>22,1&lt;s0/&gt;Gesù riprese a parlar loro in parabole e disse:</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260623T075118Z" creationid="BRUNA" creationdate="20260623T075118Z">
@@ -9386,8 +9394,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Ed essi gli presentarono un denaro.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260623T081749Z" creationid="BRUNA" creationdate="20260623T081749Z">
-        <seg>22,19 Ammostai·mì sa moneda de su tributu». E issus ddi iant presentau unu dinari.
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071511Z" creationid="BRUNA" creationdate="20260623T081749Z">
+        <seg> E issus ddi iant presentau unu dinari.
 </seg>
       </tuv>
     </tu>
