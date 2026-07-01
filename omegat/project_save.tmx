@@ -4728,6 +4728,14 @@ no est cosa de spantu po is ogus nostus?
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>22,28&lt;s0/&gt;&lt;s1/&gt;Alla risurrezione, di quale dei sette essa sarà moglie?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071426Z" creationid="giuan" creationdate="20260701T071426Z">
+        <seg>22,28 In s'ora de s'arresurretzioni, de cali de is seti at a èssiri mulleri?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>22,29&lt;s0/&gt;E Gesù rispose loro: "Voi vi ingannate, non conoscendo né le Scritture né la potenza di Dio.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260623T082949Z" creationid="BRUNA" creationdate="20260623T082949Z">
@@ -10329,8 +10337,8 @@ Osanna in su prus artu de is celus!».
       <tuv lang="it">
         <seg>Poiché tutti l'hanno avuta".</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260623T082704Z" creationid="BRUNA" creationdate="20260623T082704Z">
-        <seg>22,28 In s'ora de s'arresurretzioni, de cali de is seti at a èssiri mulleri? Giai ca totus si dd'ant cojada».
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071441Z" creationid="BRUNA" creationdate="20260623T082704Z">
+        <seg>Giai ca totus si dd'ant cojada».
 </seg>
       </tuv>
     </tu>
