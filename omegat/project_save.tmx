@@ -6516,10 +6516,53 @@ asuta de is peis tuus?
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>26,38&lt;s0/&gt;Disse loro: "La mia anima è triste fino alla morte; restate qui e vegliate con me".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102341Z" creationid="giuan" creationdate="20260701T102341Z">
+        <seg>26,38 Ddis iat narau: «S'ànima mia est trista a si mòrriri; abarrai innoi e billai cun mei».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,39&lt;s0/&gt;E avanzatosi un poco, si prostrò con la faccia a terra e pregava dicendo: "Padre mio, se è possibile, passi da me questo calice!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102404Z" creationid="giuan" creationdate="20260701T102404Z">
+        <seg>26,39 E avantzendi prus innantis si fiat ghetau faci a terra e pregàt narendi: Babbu miu, si fait, passit/si stesiit de mei custu càlixi! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>26,3&lt;s0/&gt;Allora i sommi sacerdoti e gli anziani del popolo si riunirono nel palazzo del sommo sacerdote, che si chiamava Caifa,</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260701T094956Z" creationid="giuan" creationdate="20260701T094956Z">
         <seg>26,3 Insaras is sacerdotus majoris e is mannus de su pòpulu si fiant assoddius/arreunius in sa corti de su sacerdotu majori, chi ddi narànt Caifa,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,40&lt;s0/&gt;Poi tornò dai discepoli e li trovò che dormivano.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102434Z" creationid="giuan" creationdate="20260701T102434Z">
+        <seg>26,40 E fiat torrau a innui fiant is discìpulus e ddus iat agataus dromius. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,41&lt;s0/&gt;Vegliate e pregate, per non cadere in tentazione.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102504Z" creationid="giuan" creationdate="20260701T102504Z">
+        <seg>26,41 Billai e pregai, po no nci arrui in tentatzioni. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,42&lt;s0/&gt;E di nuovo, allontanatosi, pregava dicendo: "Padre mio, se questo calice non può passare da me&lt;s1/&gt;senza che io lo beva, sia fatta la tua volontà".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102630Z" creationid="giuan" creationdate="20260701T102630Z">
+        <seg>26,42 E si fiat torrau a stesiai pregàt narendi: «Babbu miu si custu càlixi no podit passai de mei chene chi mi ddu bufi, siat fata sa voluntadi tua».
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -9709,6 +9752,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>E disse a Pietro: "Così non siete stati capaci di vegliare un'ora sola con me?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102445Z" creationid="giuan" creationdate="20260701T102445Z">
+        <seg>E iat narau a Pedru: «Aici no nci dd'eis fata a billai mancu un'ora cunmegus?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>E disse: "Ecco, il seminatore uscì a seminare.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T125936Z" creationid="giuan" creationdate="20260501T125936Z">
@@ -10711,6 +10762,14 @@ De sa buca de is pipius e de is creaduras t'as procurau una làudi?/alabantza?»
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Lo spirito è pronto, ma la carne è debole".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102507Z" creationid="giuan" creationdate="20260701T102507Z">
+        <seg>Su spìridu est prontu, ma sa carri est dèbbili».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Lo stesso dicevano anche tutti gli altri.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251209T142716Z" creationid="giuan" creationdate="20251209T142716Z">
@@ -11120,6 +11179,14 @@ Osanna in su prus artu de is celus!».
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T172300Z" creationid="giuan" creationdate="20251209T142945Z">
         <seg>Perou chi siat cumenti bolis tui no cumenti bollu deu». 37 E torrau, ddus iat agataus dromius e iat narau a Pedru: «Simoni, dromiu ses?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Però non come voglio io, ma come vuoi tu!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102411Z" creationid="giuan" creationdate="20260701T102411Z">
+        <seg>Ma no siat cumenti bollu deu, prus a prestu cumenti bolis tui!».</seg>
       </tuv>
     </tu>
     <tu>
