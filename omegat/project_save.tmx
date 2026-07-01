@@ -4381,10 +4381,18 @@ ma bosàterus ndi seis fendi una gruta  de furonis!».
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>21,32&lt;s0/&gt;È venuto a voi Giovanni nella via della giustizia e non gli avete creduto; i pubblicani e le prostitute invece gli hanno creduto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071739Z" creationid="giuan" creationdate="20260701T071739Z">
+        <seg>21,32 Ca Giuanni est bènniu a bosàterus in sa bia de sa giustìtzia e bosàterus no dd'eis crètiu; is publicanus e is prostitutas/meretricis intamis dd'ant crètiu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>21,33&lt;s0/&gt;Ascoltate un'altra parabola: C'era un padrone che piantò una vigna e la circondò con una siepe,&lt;s1/&gt;vi scavò un frantoio, vi costruì una torre, poi l'affidò a dei vignaioli e se ne andò.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260622T064444Z" creationid="BRUNA" creationdate="20260622T064444Z">
-        <seg>21,33 «Ascurtai un'àtera paràbula: Unu meri at postu una bìngia e dd'iat ingiriada a cresura, iat stuvau unu unu lacu, nd'iat pesau una turri, a pustis dd'iat donada a mesu a pari a unus cantu bingiaderis e si ndi fiat anadau.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071649Z" creationid="BRUNA" creationdate="20260622T064444Z">
+        <seg>21,33 «Ascurtai un'àtera paràbula: Unu meri at postu una bìngia e dd'iat ingiriada a cresura, iat stuvau unu unu lacu, nd'iat pesau una turri, a pustis dd'iat donada a mesu a pari a unus cantu bingiaderis e si ndi fiat andau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10877,8 +10885,8 @@ e a issu sceti serbi».</seg>
       <tuv lang="it">
         <seg>Voi, al contrario, pur avendo visto queste cose, non vi siete nemmeno pentiti per credergli.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260622T064424Z" creationid="BRUNA" creationdate="20260622T064424Z">
-        <seg>21,32 Ca Giuanni est bènniu a bosàterus in sa bia de sa giustìtzia e bosàterus no dd'eis crètiu; is publicanus e is prostitutas/meretricis intamis dd'ant crètiu. Ma bosàterus, mancai apendi bistu custas cosas, a pustis no si seis mancu pentius po ddi crèiri».</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071733Z" creationid="BRUNA" creationdate="20260622T064424Z">
+        <seg>Ma bosàterus, mancai apendi bistu custas cosas, a pustis no si seis mancu pentius po ddi crèiri».</seg>
       </tuv>
     </tu>
     <tu>
