@@ -4364,6 +4364,14 @@ ma bosàterus ndi seis fendi una gruta  de furonis!».
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>21,25&lt;s0/&gt;Il battesimo di Giovanni da dove veniva?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072138Z" creationid="giuan" creationdate="20260701T072138Z">
+        <seg>21,25 Su batiari de Giuanni de innui beniat?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>21,26&lt;s0/&gt;se diciamo 'dagli uomini', abbiamo timore della folla, perché tutti considerano Giovanni un profeta".</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260622T064045Z" creationid="BRUNA" creationdate="20260622T064045Z">
@@ -8803,6 +8811,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Dal cielo o dagli uomini?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072151Z" creationid="giuan" creationdate="20260701T072151Z">
+        <seg> De is celus/De Deus o de is òminis?». </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Davide generò Salomone da quella che era stata la moglie di Urìa,</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260224T081541Z" creationid="giuan" creationdate="20260224T081541Z">
@@ -9459,8 +9475,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Ed essi riflettevano tra sé dicendo: "Se diciamo: "dal Cielo", ci risponderà: "perché dunque non gli avete creduto?";</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260622T063919Z" creationid="BRUNA" creationdate="20260622T063919Z">
-        <seg>21,25 Su batiari de Giuanni de innui beniat? De is celus/De Deus o de is òminis?». E issus pentzànt intre sei narendi: «Si naraus: "de is celus/De Deus", s'at a arrespùndiri: "poita no dd'eis crètiu?";</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072145Z" creationid="BRUNA" creationdate="20260622T063919Z">
+        <seg>E issus pentzànt intre sei narendi: «Si naraus: "de is celus/De Deus", s'at a arrespùndiri: "poita no dd'eis crètiu?";</seg>
       </tuv>
     </tu>
     <tu>
