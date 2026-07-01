@@ -4604,6 +4604,14 @@ no est cosa de spantu po is ogus nostus?
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>22,12&lt;s0/&gt;gli disse: Amico, come hai potuto entrare qui senz'abito nuziale?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071615Z" creationid="giuan" creationdate="20260701T071615Z">
+        <seg>22,12 dd'iat narau: “Amigu, cumenti as fatu a intrai a innoi chene sa bestimenta de sa coja?”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>22,13&lt;s0/&gt;Allora il re ordinò ai servi: Legatelo mani e piedi e gettatelo fuori nelle tenebre; là sarà pianto e stridore di denti.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260623T080859Z" creationid="BRUNA" creationdate="20260623T080859Z">
@@ -9272,8 +9280,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Ed egli ammutolì.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260623T080737Z" creationid="BRUNA" creationdate="20260623T080737Z">
-        <seg>22,12 dd'iat narau: “Amigu, cumenti as fatu a intrai a innoi chene sa bestimenta de sa coja?”. E issu fiat abarrau a sa muda.
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071609Z" creationid="BRUNA" creationdate="20260623T080737Z">
+        <seg> E issu fiat abarrau a sa muda.
 </seg>
       </tuv>
     </tu>
