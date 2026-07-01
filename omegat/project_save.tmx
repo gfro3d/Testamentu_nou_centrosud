@@ -4849,6 +4849,14 @@ no est cosa de spantu po is ogus nostus?
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>22,42&lt;s0/&gt;"Che ne pensate del Messia?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071027Z" creationid="giuan" creationdate="20260701T071027Z">
+        <seg>22,42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>22,43&lt;s0/&gt;Ed egli a loro: "Come mai allora Davide, sotto ispirazione, lo chiama Signore, dicendo:</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260623T083839Z" creationid="BRUNA" creationdate="20260623T083839Z">
@@ -8739,6 +8747,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Di chi è figlio?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071057Z" creationid="giuan" creationdate="20260701T071057Z">
+        <seg> Fillu de chini est?». </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Di nuovo il sommo sacerdote lo interrogò dicendogli: «Sei tu il Cristo, il Figlio di Dio benedetto?». &lt;t17/&gt;62&lt;t18/&gt; Gesù rispose: «Io lo sono!</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251209T143409Z" creationid="giuan" creationdate="20251209T143409Z">
@@ -9583,8 +9599,8 @@ De sa buca de is pipius e de is creaduras t'as procurau una làudi?/alabantza?»
       <tuv lang="it">
         <seg>Gli risposero: "Di Davide".</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260623T083824Z" creationid="BRUNA" creationdate="20260623T083824Z">
-        <seg>22,42 «Ita ndi pentzais de su Messia? Fillu de chini est?». Ddi iant arrespustu: «De Dàvidi».
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071151Z" creationid="BRUNA" creationdate="20260623T083824Z">
+        <seg>Ddi iant arrespustu: «De Dàvidi».
 </seg>
       </tuv>
     </tu>
