@@ -4676,6 +4676,14 @@ no est cosa de spantu po is ogus nostus?
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>22,21&lt;s0/&gt;Gli risposero: "Di Cesare".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071459Z" creationid="giuan" creationdate="20260701T071459Z">
+        <seg>22,21 Dd'iant arrespustu: «De Cèsari».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>22,22&lt;s0/&gt;A queste parole rimasero sorpresi e, lasciatolo, se ne andarono.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260623T082036Z" creationid="BRUNA" creationdate="20260623T082036Z">
@@ -8401,8 +8409,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Allora disse loro: "Rendete dunque a Cesare quello che è di Cesare e a Dio quello che è di Dio".</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260623T082015Z" creationid="BRUNA" creationdate="20260623T082015Z">
-        <seg>22,21 Dd'iant arrespustu: «De Cèsari». E insaras ddis iat narau: «Torrai duncas a Cèsari su chi est de Cèsari e a Deus su chi est de Deus».
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071454Z" creationid="BRUNA" creationdate="20260623T082015Z">
+        <seg> E insaras ddis iat narau: «Torrai duncas a Cèsari su chi est de Cèsari e a Deus su chi est de Deus».
 </seg>
       </tuv>
     </tu>
