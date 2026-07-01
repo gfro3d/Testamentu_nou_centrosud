@@ -4421,6 +4421,14 @@ ma bosàterus ndi seis fendi una gruta  de furonis!».
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>21,2&lt;s0/&gt;dicendo loro: "Andate nel villaggio che vi sta di fronte: subito troverete un'asina legata e con essa un puledro.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072506Z" creationid="giuan" creationdate="20260701T072506Z">
+        <seg>21,2 narendide·ddis: «Baxei a sa bidda chi est faci a bosàterus: luegus eis a agatai una burrica acapiada e cun issa unu pudreddu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>21,30&lt;s0/&gt;Rivoltosi al secondo, gli disse lo stesso.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260701T071933Z" creationid="giuan" creationdate="20260701T071933Z">
@@ -10620,8 +10628,8 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       <tuv lang="it">
         <seg>Scioglieteli e conduceteli a me.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260622T165220Z" creationid="BRUNA" creationdate="20260622T062244Z">
-        <seg>21,2 narendide·ddis: «Baxei a sa bidda chi est faci a bosàterus: luegus eis a agatai una burrica acapiada e cun issa unu pudreddu. Scapiainde·ddus e betei·mi·nde·ddus.
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072500Z" creationid="BRUNA" creationdate="20260622T062244Z">
+        <seg>Scapiainde·ddus e betei·mi·nde·ddus.
 </seg>
       </tuv>
     </tu>
