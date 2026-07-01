@@ -6310,11 +6310,30 @@ asuta de is peis tuus?
       <tuv lang="it">
         <seg>26,15&lt;s0/&gt;e disse: "Quanto mi volete dare perché io ve lo consegni?".</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260701T095450Z" creationid="giuan" creationdate="20260701T095450Z">
-        <seg>26,15 e iat narau: «Cantu mi boleis donai po si ddu intregai?». .
+      <tuv lang="sc" changeid="giuan" changedate="20260701T095508Z" creationid="giuan" creationdate="20260701T095450Z">
+        <seg>26,15 e iat narau: «Cantu mi boleis donai po si ddu intregai?». 
 
 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,16&lt;s0/&gt;Da quel momento cercava l'occasione propizia per consegnarlo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T095530Z" creationid="giuan" creationdate="20260701T095530Z">
+        <seg>26,16 De insaras fiat circhendi s'ocasioni bona po ddu intregai.
+
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,17&lt;s0/&gt;Il primo giorno degli Azzimi, i discepoli si avvicinarono a Gesù e gli dissero: "Dove vuoi che ti prepariamo, per mangiare la Pasqua?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T095600Z" creationid="giuan" creationdate="20260701T095600Z">
+        <seg>26,17 Sa primu dii de is panis Ázimus, is discìpulus si fiant acostiaus a Gesùs e ddi iant narau: «Innui bolis chi apronteus po ti papai sa Pasca?».</seg>
       </tuv>
     </tu>
     <tu>
@@ -9721,6 +9740,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T141925Z" creationid="giuan" creationdate="20260501T141925Z">
         <seg> E totu is chi ddu tocànt fiant sanaus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E quelli gli fissarono trenta monete d'argento.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T095513Z" creationid="giuan" creationdate="20260701T095502Z">
+        <seg>E issus ddi iant stabbiliu trinta dinais de prata.</seg>
       </tuv>
     </tu>
     <tu>
