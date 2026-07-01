@@ -4381,6 +4381,22 @@ ma bosàterus ndi seis fendi una gruta  de furonis!».
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>21,30&lt;s0/&gt;Rivoltosi al secondo, gli disse lo stesso.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071933Z" creationid="giuan" creationdate="20260701T071933Z">
+        <seg>21,30 E a su segundu, dd'iat narau sa pròpiu cosa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>21,31&lt;s0/&gt;Chi dei due ha compiuto la volontà del padre?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071840Z" creationid="giuan" creationdate="20260701T071840Z">
+        <seg>21,31 Chini de is duus at fatu sa voluntadi de su babbu?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>21,32&lt;s0/&gt;È venuto a voi Giovanni nella via della giustizia e non gli avete creduto; i pubblicani e le prostitute invece gli hanno creduto.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260701T071739Z" creationid="giuan" creationdate="20260701T071739Z">
@@ -8827,6 +8843,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Dicono: "L'ultimo".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071858Z" creationid="giuan" creationdate="20260701T071858Z">
+        <seg> «S'ùrtimu» narànt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Disse il Signore al mio Signore:</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T153148Z" creationid="BRUNA" creationdate="20251205T153100Z">
@@ -8845,8 +8869,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>E Gesù disse loro: "In verità vi dico: I pubblicani e le prostitute vi passano avanti nel regno di Dio.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260622T064350Z" creationid="BRUNA" creationdate="20260622T064350Z">
-        <seg>21,31 Chini de is duus at fatu sa voluntadi de su babbu?». «S'ùrtimu» narànt. E Gesùs ddis iat narau: «In beridadi bosi naru: is publicanus e is prostitutas/meretricis bosi nci passant ananti in su rennu de Deus.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071852Z" creationid="BRUNA" creationdate="20260622T064350Z">
+        <seg> E Gesùs ddis iat narau: «In beridadi bosi naru: is publicanus e is prostitutas/meretricis bosi nci passant ananti in su rennu de Deus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9329,8 +9353,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Ed egli rispose: Non ne ho voglia; ma poi, pentitosi, ci andò.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260622T064218Z" creationid="BRUNA" creationdate="20260622T064218Z">
-        <seg>21,30 E a su segundu, dd'iat narau sa pròpiu cosa. E issu dd’iat arrespustu: "No ndi tengu gana"; ma a pustis, si ndi fiat pentiu, e ddoi fiat andau.
+      <tuv lang="sc" changeid="giuan" changedate="20260701T071927Z" creationid="BRUNA" creationdate="20260622T064218Z">
+        <seg>E issu dd’iat arrespustu: "No ndi tengu gana"; ma a pustis, si ndi fiat pentiu, e ddoi fiat andau.
 </seg>
       </tuv>
     </tu>
