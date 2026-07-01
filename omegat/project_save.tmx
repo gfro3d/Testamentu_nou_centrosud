@@ -4321,6 +4321,14 @@ ma bosàterus ndi seis fendi una gruta  de furonis!».
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>21,19&lt;s0/&gt;Vedendo un fico sulla strada, gli si avvicinò, ma non vi trovò altro che foglie, e gli disse: "Non nasca mai più frutto da te".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072331Z" creationid="giuan" creationdate="20260701T072331Z">
+        <seg>21,19 E biendi una mata de figu in sa bia, si ddi fiat acostiau, ma no ddoi iat agatau àteru che folla, e dd'iat narau: «Mai prus nàsciat frutu de tui».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>21,1&lt;s0/&gt;Quando furono vicini a Gerusalemme e giunsero presso Bètfage, verso il monte degli Ulivi, Gesù mandò due dei suoi discepoli</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260622T062216Z" creationid="BRUNA" creationdate="20260622T062216Z">
@@ -9235,8 +9243,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>E subito quel fico si seccò.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260622T063606Z" creationid="BRUNA" creationdate="20260622T063606Z">
-        <seg>21,19 E biendi una mata de figu in sa bia, si ddi fiat acostiau, ma no ddoi iat agatau àteru che folla, e dd'iat narau: «Mai prus nàsciat frutu de tui». E in deretura sa mata si fiat sicada.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072326Z" creationid="BRUNA" creationdate="20260622T063606Z">
+        <seg> E in deretura sa mata si fiat sicada.</seg>
       </tuv>
     </tu>
     <tu>
