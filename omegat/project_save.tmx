@@ -3439,6 +3439,14 @@ ma su coru suu est atesu de mei.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>18,7&lt;s0/&gt;Guai al mondo per gli scandali!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072707Z" creationid="giuan" creationdate="20260701T072707Z">
+        <seg>18,7 Arguai a su mundu po is scàndulus!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>18,8&lt;s0/&gt;Se la tua mano o il tuo piede ti è occasione di scandalo, taglialo e gettalo via da te; è meglio per te entrare nella vita monco o zoppo, che avere due mani o due piedi ed essere gettato nel fuoco eterno.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260519T085232Z" creationid="BRUNA" creationdate="20260519T085232Z">
@@ -11129,8 +11137,8 @@ e a issu sceti serbi».</seg>
       <tuv lang="it">
         <seg>È inevitabile che avvengano scandali, ma guai all'uomo per colpa del quale avviene lo scandalo!</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260519T085116Z" creationid="BRUNA" creationdate="20260519T085116Z">
-        <seg>18,7 Arguai a su mundu po is scàndulus! Is scàndulus depint incapitai; ma arguai a s'òmini chi ndi betit su scàndulu!
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072701Z" creationid="BRUNA" creationdate="20260519T085116Z">
+        <seg> Is scàndulus depint incapitai; ma arguai a s'òmini chi ndi betit su scàndulu!
 </seg>
       </tuv>
     </tu>
