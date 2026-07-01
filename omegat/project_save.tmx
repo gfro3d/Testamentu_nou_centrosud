@@ -4610,6 +4610,17 @@ no est cosa de spantu po is ogus nostus?
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>21,9&lt;s0/&gt;La folla che andava innanzi e quella che veniva dietro, gridava: Osanna al figlio di Davide!&lt;s1/&gt;Benedetto colui che viene nel nome del Signore!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072421Z" creationid="giuan" creationdate="20260701T072421Z">
+        <seg>21,9 Sa genti chi andàt ananti e sa chi sodigàt in fatu, aboxinàt:
+«Osanna a su fillu de Dàvidi!
+Beneitu su chi benit in nòmini
+de su Sennori!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>21&lt;t0/&gt; Allora costrinsero un tale che passava, un certo Simone di Cirene che veniva dalla campagna, padre di Alessandro e Rufo, a portare la croce. &lt;t1/&gt;22&lt;t2/&gt; Condussero dunque Gesù al luogo del Gòlgota, che significa luogo del cranio, &lt;t3/&gt;23&lt;t4/&gt; e gli offrirono vino mescolato con mirra, ma egli non ne prese.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251212T141259Z" creationid="BRUNA" creationdate="20251212T141259Z">
@@ -10258,11 +10269,8 @@ De sa buca de is pipius e de is creaduras t'as procurau una làudi?/alabantza?»
       <tuv lang="it">
         <seg>Osanna nel più alto dei cieli!</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260622T062708Z" creationid="BRUNA" creationdate="20260622T062708Z">
-        <seg>21,9 Sa genti chi andàt ananti e sa chi sodigàt in fatu, aboxinàt:
-«Osanna a su fillu de Dàvidi!
-Beneitu su chi benit in nòmini
-de su Sennori!
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072414Z" creationid="BRUNA" creationdate="20260622T062708Z">
+        <seg>
 Osanna in su prus artu de is celus!».
 </seg>
       </tuv>
