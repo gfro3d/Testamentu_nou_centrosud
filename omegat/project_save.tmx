@@ -4356,6 +4356,14 @@ ma bosàterus ndi seis fendi una gruta  de furonis!».
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>21,23&lt;s0/&gt;Entrato nel tempio, mentre insegnava gli si avvicinarono i sommi sacerdoti e gli anziani del popolo e gli dissero: "Con quale autorità fai questo?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072231Z" creationid="giuan" creationdate="20260701T072231Z">
+        <seg>21,23 Intrau a su tèmpiu, in s'interis chi fiat donendi imparu si ddi fiant acostiaus is sacerdotus majoris e is mannus de su pòpulu narendi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>21,24&lt;s0/&gt;Gesù rispose: "Vi farò anch'io una domanda e se voi mi rispondete, vi dirò anche con quale&lt;s1/&gt;autorità faccio questo.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260622T063836Z" creationid="BRUNA" creationdate="20260622T063836Z">
@@ -8715,8 +8723,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Chi ti ha dato questa autorità?".</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260622T063753Z" creationid="BRUNA" creationdate="20260622T063753Z">
-        <seg>21,23 Intrau a su tèmpiu, in s'interis chi fiat donendi imparu si ddi fiant acostiaus is sacerdotus majoris e is mannus de su pòpulu narendi: «Cun cali autoridadi fais custu? chini ti dd’at donada custa autoridadi?».
+      <tuv lang="sc" changeid="giuan" changedate="20260701T072250Z" creationid="BRUNA" creationdate="20260622T063753Z">
+        <seg> «Chini ti dd’at donada custa autoridadi?».
 </seg>
       </tuv>
     </tu>
