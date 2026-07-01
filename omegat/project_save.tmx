@@ -6601,10 +6601,61 @@ asuta de is peis tuus?
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>26,47&lt;s0/&gt;Mentre parlava ancora, ecco arrivare Giuda, uno dei Dodici, e con lui una gran folla con spade e bastoni, mandata dai sommi sacerdoti e dagli anziani del popolo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T103006Z" creationid="giuan" creationdate="20260701T103006Z">
+        <seg>26,47 In s'interis chi fiat fueddendi, mi'  arribendi a Giudas, unu de is Doxi, e cun issu una truma manna de genti a spadas e a matzucus, mandada de is sacerdotus majoris e de is mannus de su pòpulu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,48&lt;s0/&gt;Il traditore aveva dato loro questo segnale dicendo: "Quello che bacerò, è lui; arrestatelo!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T103025Z" creationid="giuan" creationdate="20260701T103025Z">
+        <seg>26,48 Su traitori ddis iat donau custu sinnali narendi: «Su chi apu a basai, issu est; arrestaide·ddu!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,49&lt;s0/&gt;E subito si avvicinò a Gesù e disse: "Salve, Rabbi!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T103051Z" creationid="giuan" creationdate="20260701T103051Z">
+        <seg>26,49 E luegus si fiat acostiau a Gesùs e iat narau: «Saludi, Rabbi!». 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>26,4&lt;s0/&gt;e tennero consiglio per arrestare con un inganno Gesù e farlo morire.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260701T095014Z" creationid="giuan" creationdate="20260701T095014Z">
         <seg>26,4 iant detzìdiu de aciapai a traitoria a Gesùs po ddu fàiri bociri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,50&lt;s0/&gt;E Gesù gli disse: "Amico, per questo sei qui!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T103129Z" creationid="giuan" creationdate="20260701T103129Z">
+        <seg>26,50 E Gesùs dd'iat narau: «Amigu, po custu ses innoi!». 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,51&lt;s0/&gt;Ed ecco, uno di quelli che erano con Gesù, messa mano alla spada, la estrasse e colpì il servo del sommo sacerdote staccandogli un orecchio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T103219Z" creationid="giuan" creationdate="20260701T103219Z">
+        <seg>26,51 E ecu, unu de is chi fiant cun Gesùs, nd'iat bogadu sa spada de sa bàina e nd'iat donau unu corpu a su tzeracu de su sacerdotu majori esegau nd'iat  un'origa.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,52&lt;s0/&gt;Allora Gesù gli disse: "Rimetti la spada nel fodero, perché tutti quelli che mettono mano alla spada periranno di spada.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T103253Z" creationid="giuan" creationdate="20260701T103253Z">
+        <seg>26,52 Tandu Gesùs dd'iat narau: «Torra·nci sa spada a su logu suu, ca totu is chi ponint/ghetant manu a sa spada ant a mòrriri de spada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9334,6 +9385,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Allora si fecero avanti e misero le mani addosso a Gesù e lo arrestarono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T103138Z" creationid="giuan" creationdate="20260701T103138Z">
+        <seg>Tandu si fiant acostiaus e a Gesùs e dd'iant aferrau e tentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Allora soltanto gli potrà saccheggiare la casa.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T125633Z" creationid="giuan" creationdate="20260501T125633Z">
@@ -9913,6 +9972,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T102555Z" creationid="giuan" creationdate="20251104T112118Z">
         <seg>E ddus iant lassaus a fàiri. 7 E issus nci iant portau su molenteddu anca fiat Gesùs, dd’iant ghetau asuba is manteddus insoru e issu dd’iat sètziu. 8 E medas sterriant is manteddus insoru in sa bia e àterus ddi sterriant fròngia chi iant segau in su sartu. 9 E is chi caminànt ananti e is chi sighiant infatu aboxinànt: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E lo baciò.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T103055Z" creationid="giuan" creationdate="20260701T103055Z">
+        <seg>E dd'iat basau.</seg>
       </tuv>
     </tu>
     <tu>
