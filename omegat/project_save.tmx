@@ -6458,6 +6458,64 @@ asuta de is peis tuus?
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>26,31&lt;s0/&gt;Allora Gesù disse loro: "Voi tutti vi scandalizzerete per causa mia in questa notte.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102049Z" creationid="giuan" creationdate="20260701T102049Z">
+        <seg>26,31 Tandu Gesùs ddis iat narau: «Totu Bosàterus notesta s'eis a scandalizai po mori mia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,32&lt;s0/&gt;ma dopo la mia risurrezione, vi precederò in Galilea".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102136Z" creationid="giuan" creationdate="20260701T102136Z">
+        <seg>26,32 ma a pustis de s'arresurretzioni mia, apu a andai a innantis de bosàterus a Galilea».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,33&lt;s0/&gt;E Pietro gli disse: "Anche se tutti si scandalizzassero di te, io non mi scandalizzerò mai".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102153Z" creationid="giuan" creationdate="20260701T102153Z">
+        <seg>26,33 E Pedru ddi iat narau: «Mancai totus s'ant a scandalizai po mori tua, deu no m'apu a scandalizai mai».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,34&lt;s0/&gt;Gli disse Gesù: "In verità ti dico: questa notte stessa, prima che il gallo canti, mi rinnegherai tre volte".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102213Z" creationid="giuan" creationdate="20260701T102213Z">
+        <seg>26,34 Ddi iat narau Gesùs: «In beridadi ti naru: notesta etotu, innantis chi su caboni cantit, m'as a disconnòsciri tres bortas».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,35&lt;s0/&gt;E Pietro gli rispose: "Anche se dovessi morire con te, non ti rinnegherò".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102237Z" creationid="giuan" creationdate="20260701T102237Z">
+        <seg>26,35 E Pedru ddi iat arrespustu: «Mancai depa mòrriri cun tui, no t'apu a disconnòsciri mai». </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,36&lt;s0/&gt;Allora Gesù andò con loro in un podere, chiamato Getsèmani, e disse ai discepoli: "Sedetevi qui, mentre io vado là a pregare".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102305Z" creationid="giuan" creationdate="20260701T102305Z">
+        <seg>26,36 Tandu Gesùs fiat andau impari a issus a unu cungiau, chi ddi narànt Getsèmani, e iat narau a is discìpulus: «Setzei·sì innoi, in s’ora chi andu a innia a pregai».
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,37&lt;s0/&gt;E presi con sé Pietro e i due figli di Zebedèo, cominciò a provare tristezza e angoscia.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102327Z" creationid="giuan" creationdate="20260701T102327Z">
+        <seg>26,37 S'iat nd'iat leau infatu a Pedru e a is duus fillus de Zededeu e iat cumentzau a ddi pigai tristura e axiori.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>26,3&lt;s0/&gt;Allora i sommi sacerdoti e gli anziani del popolo si riunirono nel palazzo del sommo sacerdote, che si chiamava Caifa,</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260701T094956Z" creationid="giuan" creationdate="20260701T094956Z">
@@ -10662,6 +10720,14 @@ De sa buca de is pipius e de is creaduras t'as procurau una làudi?/alabantza?»
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Lo stesso dissero&lt;s1/&gt;tutti gli altri discepoli.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102241Z" creationid="giuan" creationdate="20260701T102241Z">
+        <seg>Su pròpriu iant narau totu is discìpulus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Là lo vedrete, come vi ha detto». &lt;t13/&gt;8&lt;t14/&gt; Ed esse, uscite, fuggirono via dal sepolcro perché erano piene di timore e di spavento.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T172413Z" creationid="BRUNA" creationdate="20251219T141100Z">
@@ -11428,9 +11494,9 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       <tuv lang="it">
         <seg>Sta scritto infatti: Percuoterò il pastore e saranno disperse le pecore del gregge,</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260701T102043Z" creationid="giuan" creationdate="20260701T102043Z">
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102114Z" creationid="giuan" creationdate="20260701T102043Z">
         <seg> Ddoi est scritu difatis:
-Apu a scùdiri a su pastori e is brebeis de su tallu s'ant a spratzinai/spainai/spèrdiri,
+Apu a scùdiri a su pastori e is brebeis de su tallu s'ant a spratzinai,
 </seg>
       </tuv>
     </tu>
