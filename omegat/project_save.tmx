@@ -6402,10 +6402,58 @@ asuta de is peis tuus?
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>26,25&lt;s0/&gt;Giuda, il traditore, disse: "Rabbi, sono forse io?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T101756Z" creationid="giuan" creationdate="20260701T101756Z">
+        <seg>26,25 Giudas, su chi dd'iat a traixiri, iat narau: «Rabbi, no ap'a a èssiri deu?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,26&lt;s0/&gt;Ora, mentre essi mangiavano, Gesù prese il pane e, pronunziata la benedizione, lo spezzò e lo&lt;s1/&gt;diede ai discepoli dicendo: "Prendete e mangiate; questo è il mio corpo".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T101837Z" creationid="giuan" creationdate="20260701T101837Z">
+        <seg>26,26 In s'ora chi issus fiant papendi, Gesùs iat pigau su pani e, a pustis chi dd'iat beneixu, dd'iat pratziu e dd'iat donau a is discìpulus narendi: «Pigai e papai; custu est su corpus miu».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,27&lt;s0/&gt;Poi prese il calice e, dopo aver reso grazie, lo diede loro, dicendo: "Bevetene tutti,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T101900Z" creationid="giuan" creationdate="20260701T101900Z">
+        <seg>26,27 A pustis iat pigau su càlixi e, torrendi gràtzias, si ddus iat donau, narendi: «Bufaide·ndi totus,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,28&lt;s0/&gt;perché questo è il mio sangue dell'alleanza, versato per molti, in remissione dei peccati.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T101924Z" creationid="giuan" creationdate="20260701T101924Z">
+        <seg>26,28 ca custu est su sànguni miu de s'alleàntzia, spartu po medas, in perdonu de is pecaus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,29&lt;s0/&gt;Io vi dico che da ora non berrò più di questo frutto della vite fino al giorno in cui lo berrò nuovo con voi nel regno del Padre mio".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T101956Z" creationid="giuan" creationdate="20260701T101956Z">
+        <seg>26,29 Deu bosi naru ca de immoi no apu a bufai prus de custu frutu de sa bìngia fintzas a sa dii chi dd'apu a bufai nou cun bosàterus in su Rennu de Babbu miu».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>26,2&lt;s0/&gt;"Voi sapete che fra due giorni è Pasqua e che il Figlio dell'uomo sarà consegnato per essere crocifisso".</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260701T094943Z" creationid="giuan" creationdate="20260701T094943Z">
         <seg>26,2 «Bosàterus scieis ca pusticràs est Pasca e ca a su Fillu de s'òmini dd'ant a intregai po ddu pònniri in cruxi».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>26,30&lt;s0/&gt;E dopo aver cantato l'inno, uscirono verso il monte degli Ulivi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102007Z" creationid="giuan" creationdate="20260701T102007Z">
+        <seg>26,30 E a pustis de àiri cantau s'innu, fiant bessius conca a su Monti de is Olias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10340,6 +10388,14 @@ De sa buca de is pipius e de is creaduras t'as procurau una làudi?/alabantza?»
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Gli rispose: "Tu l'hai detto".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T101815Z" creationid="giuan" creationdate="20260701T101815Z">
+        <seg> E dd'iat arrespustu: «Tui dd'as narau».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Gli risposero: "Di Davide".</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260701T071151Z" creationid="BRUNA" creationdate="20260623T083824Z">
@@ -11366,6 +11422,16 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260513T143312Z" creationid="giuan" creationdate="20260513T143312Z">
         <seg>Funt tzurpus e ghias de tzurpus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Sta scritto infatti: Percuoterò il pastore e saranno disperse le pecore del gregge,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260701T102043Z" creationid="giuan" creationdate="20260701T102043Z">
+        <seg> Ddoi est scritu difatis:
+Apu a scùdiri a su pastori e is brebeis de su tallu s'ant a spratzinai/spainai/spèrdiri,
+</seg>
       </tuv>
     </tu>
     <tu>
