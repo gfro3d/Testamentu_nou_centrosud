@@ -1121,3 +1121,4 @@ scavare	stuvai
 impostore	ingannadori
 impostura	ingannu
 folgore	lampu
+dubitavano	dudànt
