@@ -1929,8 +1929,8 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
       <tuv lang="it">
         <seg>13&lt;t0/&gt; Uscì di nuovo lungo il mare; tutta la folla veniva a lui ed egli li ammaestrava. &lt;t1/&gt;14&lt;t2/&gt; Nel passare, vide Levi, il figlio di Alfeo, seduto al banco delle imposte, e gli disse: «Seguimi».</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260326T162348Z" creationid="BRUNA" creationdate="20250918T094800Z">
-        <seg>13  Gesùs nci fiat torrau a essiri a oru de mari; totus andànt anca fiat issu e issu ddis donàt s'imparu. 14 E passendi iat bistu a Levi, fillu de Alfeu, sètziu in su bangu de is tributus, e dd'iat narau: «Beni cun megus». </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260709T144022Z" creationid="BRUNA" creationdate="20250918T094800Z">
+        <seg>13  Gesùs nci fiat torrau a bessiri a oru de mari; totus andànt anca fiat issu e issu ddis donàt s'imparu. 14 E passendi iat bistu a Levi, fillu de Alfeu, sètziu in su bangu de is tributus, e dd'iat narau: «Beni cun megus». </seg>
       </tuv>
     </tu>
     <tu>
@@ -2386,6 +2386,14 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
         <seg>15,1 In cussu tempus de Gerusalemmi fiant arribbaus a innui fiat Gesùs uns cantu fariseus e unus cantu scribas e ddi iant narau:
 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>15,1&lt;t0/&gt; Al mattino i sommi sacerdoti, con gli anziani, gli scribi e tutto il sinedrio, dopo aver tenuto consiglio, misero in catene Gesù, lo condussero e lo consegnarono a Pilato. &lt;t1/&gt;2&lt;t2/&gt; Allora Pilato prese a interrogarlo: «Sei tu il re dei Giudei?».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260709T143305Z" creationid="giuan" creationdate="20260709T143305Z">
+        <seg> A mengianu chitzi is sacerdotus majoris impari a is mannus, a is scribas e a totu su sinèdriu,si fiant cunsillaus apari e a pustis iant incadenau a Gesùs e dd’iant intregau a Pilatu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3918,10 +3926,10 @@ Racheli prangit is fillus suus e no  bolit a dd'acunnortai, ca no funt prus.</se
       <tuv lang="it">
         <seg>2,6&lt;s0/&gt;E tu, Betlemme, terra di Giuda, non sei davvero il più piccolo capoluogo di Giuda: da te uscirà infatti un capo che pascerà il mio popolo, Israele.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260326T170236Z" creationid="giuan" creationdate="20260305T151449Z">
+      <tuv lang="sc" changeid="giuan" changedate="20260709T144022Z" creationid="giuan" creationdate="20260305T151449Z">
         <seg>2,6 E tui, Betlemmi, terra de Giudas,
 no ses sa prus pitica de is capitalis de Giudas:
-ca de tui nd'at a essiri, difatis, una ghia chi at a pàsciri Israeli, su pòpulu miu».
+ca de tui nd'at a bessiri, difatis, una ghia chi at a pàsciri Israeli, su pòpulu miu».
 </seg>
       </tuv>
     </tu>
@@ -4180,16 +4188,16 @@ ca de tui nd'at a essiri, difatis, una ghia chi at a pàsciri Israeli, su pòpul
       <tuv lang="it">
         <seg>20,5&lt;s0/&gt;Uscì di nuovo verso mezzogiorno e verso le tre e fece altrettanto.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260530T075800Z" creationid="giuan" creationdate="20260530T075800Z">
-        <seg> Torrau a essiri faciora de mesudì e faciora de is tres e iat fatu aici etotu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260709T144022Z" creationid="giuan" creationdate="20260530T075800Z">
+        <seg> Torrau a bessiri faciora de mesudì e faciora de is tres e iat fatu aici etotu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>20,6&lt;s0/&gt;Uscito ancora verso le cinque, ne vide altri che se ne stavano là e disse loro: Perché ve ne state qui tutto il giorno oziosi?</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260530T075840Z" creationid="giuan" creationdate="20260530T075840Z">
-        <seg>20,6 Faciora de is cincu fiat torrau a essiri, nd'iat agatau àterus chi fiant innia e ddis iat narau: "Poita aturais innoi totu sa dii a s’afainu?".</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260709T144022Z" creationid="giuan" creationdate="20260530T075840Z">
+        <seg>20,6 Faciora de is cincu fiat torrau a bessiri, nd'iat agatau àterus chi fiant innia e ddis iat narau: "Poita aturais innoi totu sa dii a s’afainu?".</seg>
       </tuv>
     </tu>
     <tu>
@@ -5434,8 +5442,8 @@ asuta de is peis tuus?
       <tuv lang="it">
         <seg>24,11&lt;s0/&gt;Sorgeranno molti falsi profeti e inganneranno molti;</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260623T155007Z" creationid="giuan" creationdate="20260623T155007Z">
-        <seg>24,11 Ant a bessiri a campu medas profetas frassus e ant a trampai a medas;</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260709T144022Z" creationid="giuan" creationdate="20260623T155007Z">
+        <seg>24,11 Ant a bbessiri a campu medas profetas frassus e ant a trampai a medas;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5548,8 +5556,8 @@ asuta de is peis tuus?
       <tuv lang="it">
         <seg>24,24&lt;s0/&gt;Sorgeranno infatti falsi cristi e falsi profeti e faranno grandi portenti e miracoli, così da indurre in errore, se possibile, anche gli eletti.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260623T160326Z" creationid="giuan" creationdate="20260623T160326Z">
-        <seg>24,24 Difatis, ant a essiri a campu cristus frassus e profetas frassus e ant a fàiri grandu sinnus e prodìgius aici de straviai, si fait, fintzas a is eletus.
+      <tuv lang="sc" changeid="giuan" changedate="20260709T144022Z" creationid="giuan" creationdate="20260623T160326Z">
+        <seg>24,24 Difatis, ant a bessiri a campu cristus frassus e profetas frassus e ant a fàiri grandu sinnus e prodìgius aici de straviai, si fait, fintzas a is eletus.
 </seg>
       </tuv>
     </tu>
@@ -7532,8 +7540,8 @@ E pigheint is trinta monedas de prata, su prètziu de su bèndiu, chi is fillus 
       <tuv lang="it">
         <seg>28&lt;t0/&gt; Allora si accostò uno degli scribi che li aveva uditi discutere, e, visto come aveva loro ben risposto, gli domandò: «Qual è il primo di tutti i comandamenti?». &lt;t1/&gt;29&lt;t2/&gt; Gesù rispose: «Il primo è: &lt;t3/&gt;Ascolta, Israele.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260327T172113Z" creationid="BRUNA" creationdate="20251205T152552Z">
-        <seg>Bosàterus seis in faddina manna».
+      <tuv lang="sc" changeid="giuan" changedate="20260709T143443Z" creationid="BRUNA" creationdate="20251205T152552Z">
+        <seg>
  28 Insaras si fiat acostiau unu de is scribas chi ddus iat intèndius arrexonendi e chi, biendi cumenti ddis iat arrespustu, dd’iat preguntau: «E cal’est su primu de totu is cumandamentus? 29 E Gesùs iat arrespustu: «Su primu est: Ascurta o Israeli. </seg>
       </tuv>
     </tu>
@@ -8475,8 +8483,8 @@ No tentis a su Sennori su Deus tuu».</seg>
       <tuv lang="it">
         <seg>5,26&lt;s0/&gt;In verità ti dico: non uscirai di là finché tu non abbia pagato fino all'ultimo spicciolo!</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260309T175124Z" creationid="giuan" creationdate="20260309T171213Z">
-        <seg>5,26 In beridadi ti naru: no nd'as a essiri de innia fintzas a candu as a àiri pagau s'ùrtimu soddixeddu!
+      <tuv lang="sc" changeid="giuan" changedate="20260709T144022Z" creationid="giuan" creationdate="20260309T171213Z">
+        <seg>5,26 In beridadi ti naru: no nd'as a bessiri de innia fintzas a candu as a àiri pagau s'ùrtimu soddixeddu!
 </seg>
       </tuv>
     </tu>
@@ -8539,8 +8547,8 @@ No fatzas adultèriu;
       <tuv lang="it">
         <seg>5,32&lt;s0/&gt;ma io vi dico: chiunque ripudia sua moglie, eccetto il caso di concubinato, la espone&lt;s1/&gt;all'adulterio e chiunque sposa una ripudiata, commette adulterio.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260309T171400Z" creationid="giuan" creationdate="20260309T171400Z">
-        <seg>5,32 ma deu si naru: chini arrefudat sa mulleri, francu chi no siat afanceddada, dda fait essiri adùltera e chini si cojat a una fèmina arrefudada, fait adultèriu.
+      <tuv lang="sc" changeid="giuan" changedate="20260709T144022Z" creationid="giuan" creationdate="20260309T171400Z">
+        <seg>5,32 ma deu si naru: chini arrefudat sa mulleri, francu chi no siat afanceddada, dda fait bessiri adùltera e chini si cojat a una fèmina arrefudada, fait adultèriu.
 </seg>
       </tuv>
     </tu>
@@ -8661,8 +8669,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>5,45&lt;s0/&gt;perché siate figli del Padre vostro celeste, che fa sorgere il suo sole sopra i malvagi e sopra i buoni, e fa piovere sopra i giusti e sopra gli ingiusti.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260309T172335Z" creationid="giuan" creationdate="20260309T171826Z">
-        <seg>5,45 po chi siais fillus de su Babbu de bosàterus chi est in is celus chi fait essiri su soli suu asuba de malus e bonus, e fait pròiri asuba de is giustus e asuba de is chi no funt giustus.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260709T144022Z" creationid="giuan" creationdate="20260309T171826Z">
+        <seg>5,45 po chi siais fillus de su Babbu de bosàterus chi est in is celus chi fait bessiri su soli suu asuba de malus e bonus, e fait pròiri asuba de is giustus e asuba de is chi no funt giustus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8767,8 +8775,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>5&lt;t0/&gt; Gesù si mise a dire loro: «Guardate che nessuno v'inganni! &lt;t1/&gt;6&lt;t2/&gt; Molti verranno in mio nome, dicendo: "Sono io", e inganneranno molti. &lt;t3/&gt;7&lt;t4/&gt; E quando sentirete parlare di guerre, non allarmatevi; bisogna infatti che ciò avvenga, ma non sarà ancora la fine. &lt;t5/&gt;8&lt;t6/&gt; Si leverà infatti nazione contro nazione e regno contro regno; vi saranno terremoti sulla terra e vi saranno carestie.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251209T115144Z" creationid="giuan" creationdate="20251209T115144Z">
-        <seg>5 E tandus Gesùs ddis naràt: «Castiai chi nemus bosi impròsit! 6 Nd’ant a bènniri meda in nòmini miu, narendi: "Seu deu" e nd’ant a trampai medas. 7 E candu, duncas, eis a intèndiri de gherras e de boxis de gherra, no si ndi assicheis ca totu custu depit capitai, ma no at a èssiri ancora sa fini. 8 S’at a pesai, difatis, natzioni contras a natzioni e rennu contras a rennu, sa terra s’at a trèmiri e ddoi at àiri fàmini. Custu at a èssiri su cumentzu de is dolorias.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260709T143511Z" creationid="giuan" creationdate="20251209T115144Z">
+        <seg>5 E tandus Gesùs ddis naràt: «Castiai chi nemus bosi impròsit! 6 Nd’ant a bènniri meda in nòmini miu, narendi: "Seu deu" e nd’ant a trampai medas. 7 E candu, duncas, eis a intèndiri de gherras e de boxis de gherra, no si ndi assicheis ca totu custu depit capitai, ma no at a èssiri ancora sa fini. 8 S’at a pesai, difatis, natzioni contras a natzioni e rennu contras a rennu, sa terra s’at a trèmiri e ddoi at àiri fàmini. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11205,8 +11213,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Ed egli rispose: «Tu lo dici». &lt;t3/&gt;3&lt;t4/&gt; I sommi sacerdoti frattanto gli muovevano molte accuse. &lt;t5/&gt;4&lt;t6/&gt; Pilato lo interrogò di nuovo: «Non rispondi nulla?</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251212T140701Z" creationid="BRUNA" creationdate="20251212T140701Z">
-        <seg> A mengianu chitzi is sacerdotus majoris impari a is mannus, a is scribas e a totu su sinèdriu,si fiant cunsillaus apari e a pustis iant incadenau a Gesùs e dd’iant intregau a Pilatu. 2 Tandus Pilatu dd’iat preguntau: «Ses tui su rei de is Giudeus?». E issu dd’iat arrespustu: «Tui ses narendi-ddu/Tui dd’as narau». 3 Is sacerdotus majoris, potantis, ddi imputànt nexis meda. 4 Pilatu dd’iat torrau a preguntai: «No arrespundis nudda? </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260709T143159Z" creationid="BRUNA" creationdate="20251212T140701Z">
+        <seg>. 2 Tandus Pilatu dd’iat preguntau: «Ses tui su rei de is Giudeus?». E issu dd’iat arrespustu: «Tui ses narendi-ddu/Tui dd’as narau». 3 Is sacerdotus majoris, potantis, ddi imputànt nexis meda. 4 Pilatu dd’iat torrau a preguntai: «No arrespundis nudda? </seg>
       </tuv>
     </tu>
     <tu>
@@ -12454,6 +12462,14 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Questo sarà il principio dei dolori.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260709T143559Z" creationid="giuan" creationdate="20260709T143516Z">
+        <seg>Custu at a èssiri su cumentzu de is dolorias. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Quindi Gesù li ammonì dicendo: "Badate che nessuno lo sappia!".</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260402T072052Z" creationid="giuan" creationdate="20260402T072052Z">
@@ -12812,8 +12828,8 @@ e a issu sceti serbi».</seg>
       <tuv lang="it">
         <seg>Vedi di quante cose ti accusano!». &lt;t7/&gt;5&lt;t8/&gt; Ma Gesù non rispose più nulla, sicché Pilato ne restò meravigliato.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251212T140756Z" creationid="BRUNA" creationdate="20251212T140756Z">
-        <seg>Càstia de ita totu funt imputendi·tì!». 5 Ma Gesùs no iat arrespustu nudda, tantis chi Pilatu ndi fiat abarrau spantau meda.
+      <tuv lang="sc" changeid="giuan" changedate="20260709T143416Z" creationid="BRUNA" creationdate="20251212T140756Z">
+        <seg>5 Ma Gesùs no iat arrespustu nudda, tantis chi Pilatu ndi fiat abarrau spantau meda.Càstia de ita totu funt imputendi·tì!». 
 </seg>
       </tuv>
     </tu>
@@ -12888,6 +12904,14 @@ e a issu sceti serbi».</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251126T090421Z" creationid="giuan" creationdate="20251104T112623Z">
         <seg>E bosàteru intamis nd’eis fatu una gruta de furonis!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Voi siete in grande errore».</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260709T143450Z" creationid="giuan" creationdate="20260709T143450Z">
+        <seg>Bosàterus seis in faddina manna».</seg>
       </tuv>
     </tu>
     <tu>
