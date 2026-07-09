@@ -1122,3 +1122,4 @@ impostore	ingannadori
 impostura	ingannu
 folgore	lampu
 dubitavano	dudànt
+uscirà	nd'at a bessiri
