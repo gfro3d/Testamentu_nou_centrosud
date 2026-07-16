@@ -1125,3 +1125,4 @@ dubitavano	dudànt
 uscirà	nd'at a bessiri
 Chi ha orecchi intenda	Chini portat origas ascurtit
 Chi ha orecchi intenda	Chini portat origas chi ascurtit
+nome	nòmini
