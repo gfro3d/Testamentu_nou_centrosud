@@ -10518,6 +10518,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Anche i peccatori fanno&lt;s1/&gt;lo stesso.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T100726Z" creationid="giuan" creationdate="20260729T100726Z">
+        <seg>Is pecadoris puru faint su pròpiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Andate a vedere».</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251008T150114Z" creationid="BRUNA" creationdate="20251008T150114Z">
