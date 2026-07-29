@@ -9158,11 +9158,27 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>6,30&lt;s0/&gt;Da' a chiunque ti chiede; e a chi prende del tuo, non richiederlo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T095030Z" creationid="giuan" creationdate="20260729T095030Z">
+        <seg>6,30  Dona a chini ti pèdit; e a chini pigat de su tuu, no ddi pedas a ti ddu  torrai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>6,30&lt;s0/&gt;Ora se Dio veste così l'erba del campo, che oggi c'è e domani verrà gettata nel forno, non farà&lt;s1/&gt;assai più per voi, gente di poca fede?</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260316T080657Z" creationid="giuan" creationdate="20260316T080657Z">
         <seg>6,30 Duncas si Deus dda bestit aici s'erba de su campu, chi oi nci est e cras nci dda ghetant a su forru, ellus no at a fàiri meda de prus po bosàterus, genti de pagu fidi?
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,31&lt;s0/&gt;Ciò che volete gli uomini facciano a voi, anche voi fatelo a loro.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T095309Z" creationid="giuan" creationdate="20260729T095309Z">
+        <seg>6,31  Su chi boleis chi is òminis fatzant a bosàterus, fadeide·ddu bosàterus puru a issus.</seg>
       </tuv>
     </tu>
     <tu>
