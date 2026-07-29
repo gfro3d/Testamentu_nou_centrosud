@@ -9142,6 +9142,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>6,9&lt;s0/&gt;Poi Gesù disse loro: "Domando a voi: È lecito in giorno di sabato fare del bene o fare del male,&lt;s1/&gt;salvare una vita o perderla?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T080346Z" creationid="giuan" creationdate="20260729T080346Z">
+        <seg>6,9  E Gesùs ddis iat narau: «Bosi preguntu: Litzitu est in dii de sàbudu a fàiri su beni o a fàiri  su mali, a sarvai una vida o o dda pèrdiri?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>6,9&lt;s0/&gt;Voi dunque pregate così: Padre nostro che sei nei cieli, sia santificato il tuo nome;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260316T075920Z" creationid="giuan" creationdate="20260316T075920Z">
