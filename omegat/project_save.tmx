@@ -9218,6 +9218,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>6,33&lt;s0/&gt;E se fate del bene a coloro che vi fanno del bene, che merito ne avrete?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T100035Z" creationid="giuan" creationdate="20260729T100035Z">
+        <seg>6,33  E si fadeis su beni a is chi faint su beni a bosàterus, ita mèritu nd’eis a tènniri? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>6,34&lt;s0/&gt;Non affannatevi dunque per il domani, perché il domani avrà già le sue inquietudini.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260402T070547Z" creationid="giuan" creationdate="20260316T080823Z">
@@ -10498,6 +10506,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T095640Z" creationid="BRUNA" creationdate="20251205T095415Z">
         <seg>Pesati·ndi ca est tzerriendi·tì!». 50 Issu, scavulendi·nci su manteddu, cun unu brìnchidu si ndi fiat strantaxau e fiat andau anca fiat Gesùs. 51 Insaras Gesùs dd’iat narau: «E ita bolis a ti fàiri deu?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Anche i peccatori fanno lo stesso.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T095543Z" creationid="giuan" creationdate="20260729T095543Z">
+        <seg>Is pecadoris puru stimànt a is chi ddus stimat.</seg>
       </tuv>
     </tu>
     <tu>
