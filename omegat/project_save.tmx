@@ -9040,11 +9040,27 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>6,24&lt;s0/&gt;Ma guai a voi, ricchi, perché avete già la vostra consolazione.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T092127Z" creationid="giuan" creationdate="20260729T092127Z">
+        <seg>6,24  Ma arguai a bosàterus, arricus, ca teneis giai su cunsolu bostu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>6,24&lt;s0/&gt;Nessuno può servire a due padroni: o odierà l'uno e amerà l'altro, o preferirà l'uno e&lt;s1/&gt;disprezzerà l'altro: non potete servire a Dio e a mammona.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260316T081956Z" creationid="giuan" creationdate="20260316T080449Z">
         <seg>6,24 Nemus podit serbiri a duus meris: o at a tènniri in òdiu a s'unu e at a stimai a s'àteru, o at a preferriri a s'unu e at a dispretziai a s'àteru: no podeis serbiri a Deus e a mammona.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,25&lt;s0/&gt;Guai a voi che ora siete sazi, perché avrete fame.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T092412Z" creationid="giuan" creationdate="20260729T092412Z">
+        <seg>6,25 Arguai a bosàterus chi immoi seis pràndius ca eis a tènniri fàmini. </seg>
       </tuv>
     </tu>
     <tu>
