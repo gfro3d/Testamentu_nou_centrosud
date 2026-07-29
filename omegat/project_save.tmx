@@ -8813,6 +8813,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>6,12&lt;s0/&gt;In quei giorni Gesù se ne andò sulla montagna a pregare e passò la notte in orazione.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T081923Z" creationid="giuan" creationdate="20260729T081923Z">
+        <seg>6,12  In cussas diis Gesùs si ndi fiat andau a monti a pregai e iat passau sa noti in oratzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>6,12&lt;s0/&gt;e rimetti a noi i nostri debiti come noi li rimettiamo ai nostri debitori,</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260316T082732Z" creationid="giuan" creationdate="20260316T080017Z">
