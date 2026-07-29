@@ -9076,8 +9076,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>6,26&lt;s0/&gt;Guai quando tutti gli uomini diranno bene di voi.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260729T092616Z" creationid="giuan" creationdate="20260729T092616Z">
-        <seg>6,26  Arguai candu totu is ominis ant a chistionai beni de bosàterus. </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T092649Z" creationid="giuan" creationdate="20260729T092616Z">
+        <seg>6,26  Arguai candu totu is òminis ant a chistionai beni de bosàterus. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9096,6 +9096,14 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="sc" changeid="giuan" changedate="20260316T081428Z" creationid="giuan" creationdate="20260316T080559Z">
         <seg>6,27 Chini de bosàterus, po cantu fatzat, podit aciùngiri mancai pagu a sa vida sua?
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,27&lt;s0/&gt;Ma a voi che ascoltate, io dico: Amate i vostri nemici, fate del bene a coloro che vi odiano,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T093206Z" creationid="giuan" creationdate="20260729T093206Z">
+        <seg>6,27  Ma a bosàterus chi seis ascurtendi naru: Stimai a is nemigus bostus, fadei su beni a is chi si odiant,</seg>
       </tuv>
     </tu>
     <tu>
@@ -10319,6 +10327,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251203T085810Z" creationid="giuan" creationdate="20251014T105928Z">
         <seg>Comenti iat bistu a Gesùs su spìridu iat cumentzau a scutulai su piciocheddu e issu si fiat giogau, trotoxendi·si in terra e boghendi spuma. 21 E Gesùs iat preguntau a su babbu: «De candu est chi est pighendi·ddi aici?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Allo stesso modo infatti facevano i loro padri&lt;s1/&gt;con i falsi profeti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T092656Z" creationid="giuan" creationdate="20260729T092632Z">
+        <seg>Ca aici atotu faiant is babbus insoru cun profetas frassus.</seg>
       </tuv>
     </tu>
     <tu>
