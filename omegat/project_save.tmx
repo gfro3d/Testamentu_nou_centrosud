@@ -8973,11 +8973,27 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>6,20&lt;s0/&gt;Alzati gli occhi verso i suoi discepoli, Gesù diceva: "Beati voi poveri, perché vostro è il regno&lt;s1/&gt;di Dio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T090834Z" creationid="giuan" creationdate="20260729T090834Z">
+        <seg>6,20  E artziaus is ogus faci a is discipulus suus, Gesùs naràt: «Biadus bosàterus is poburus, ca est su bostu su rennu de Deus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>6,20&lt;s0/&gt;accumulatevi invece tesori nel cielo, dove né tignola né ruggine consumano, e dove ladri non scassinano e non rubano.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260316T082343Z" creationid="giuan" creationdate="20260316T080254Z">
         <seg>6,20 ammuntonai prusaprestu tesorus in celu, innui ni tìngia ni arruina sperdint,e innui furonis no intrant e no furant.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,21&lt;s0/&gt;Beati voi che ora avete fame, perché sarete saziati.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T091027Z" creationid="giuan" creationdate="20260729T091027Z">
+        <seg>6,21  Biadus bosàterus chi immoi teneis fàmini, ca eis a èssiri pràndius. </seg>
       </tuv>
     </tu>
     <tu>
@@ -10435,6 +10451,14 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="sc" changeid="giuan" changedate="20260327T153432Z" creationid="giuan" creationdate="20251209T143109Z">
         <seg>Bastat, ca s’ora est arribada: ecu, su Fillu de s’òmini funt intreghendide·ddu in manus a·is pecadoris. 42 Pesai e andeus! 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Beati voi che ora piangete, perché riderete.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T091116Z" creationid="giuan" creationdate="20260729T091116Z">
+        <seg>Biadus bosàterus chi immoi seis prangendi, ca eis a arriri.</seg>
       </tuv>
     </tu>
     <tu>
