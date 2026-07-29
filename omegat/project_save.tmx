@@ -9127,8 +9127,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>6,8&lt;s0/&gt;Ma Gesù era a conoscenza dei loro pensieri e disse all'uomo che aveva la mano inaridita: "Alzati&lt;s1/&gt;e mettiti nel mezzo!".</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260729T075437Z" creationid="giuan" creationdate="20260729T075437Z">
-        <seg>6,8  Ma Gesùs ca connosciàt is arrexonamentu insoru dd’iat narau a s’omini chi portàt sa manu cancarada: </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T075449Z" creationid="giuan" creationdate="20260729T075437Z">
+        <seg>6,8  Ma Gesùs ca connosciàt is arrexonamentu insoru dd’iat narau a s’omini chi portàt sa manu cancarada: «Pesa·ti·ndi e poni·ti in mesu!». </seg>
       </tuv>
     </tu>
     <tu>
@@ -11824,6 +11824,14 @@ De sa buca de is pipius e de is creaduras t'as procurau una làudi?/alabantza?»
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251209T115413Z" creationid="giuan" creationdate="20251209T115413Z">
         <seg>Deu bosi apu narau totu innantis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>L'uomo, alzatosi, si mise nel punto indicato.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T075820Z" creationid="giuan" creationdate="20260729T075820Z">
+        <seg>S'òmini, si ndi fiat pesau e si fiat postu in su tretu inditau. </seg>
       </tuv>
     </tu>
     <tu>
