@@ -8856,6 +8856,22 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>6,14&lt;s0/&gt;Simone, che chiamò anche Pietro, Andrea suo fratello, Giacomo, Giovanni, Filippo, Bartolomeo,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T082353Z" creationid="giuan" creationdate="20260729T082353Z">
+        <seg>6,14  Simoni, che iat narau fintzas Pedru, Andria su fradi, Giacu, Giuanni, Filipu, Bartumeu,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,15&lt;s0/&gt;Matteo, Tommaso, Giacomo d'Alfeo, Simone soprannominato Zelota,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T082420Z" creationid="giuan" creationdate="20260729T082420Z">
+        <seg>6,15  Mateu, Tommasu, Giacu de Alfeu, Simoni, annomingiau Zelota,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>6,15&lt;s0/&gt;ma se voi non perdonerete agli uomini, neppure il Padre vostro perdonerà le vostre colpe.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260316T080113Z" creationid="giuan" creationdate="20260316T080113Z">
@@ -8870,6 +8886,14 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="sc" changeid="giuan" changedate="20260316T082623Z" creationid="giuan" creationdate="20260316T080147Z">
         <seg>6,16 E candu giaunais, no siais annugiaus cumenti a is ipòcritas, ca si sbisuriant sa faci po fàiri biri a is òminis ca funt giaunendi. 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,16&lt;s0/&gt;Giuda di Giacomo e Giuda Iscariota, che fu il traditore.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T082754Z" creationid="giuan" creationdate="20260729T082754Z">
+        <seg>6,16  Giudas de Giacu e Giudas Iscariota, su chi dd'at a traixiri. </seg>
       </tuv>
     </tu>
     <tu>
