@@ -9043,6 +9043,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>6,3&lt;s0/&gt;Gesù rispose: "Allora non avete mai letto ciò che fece Davide, quando ebbe fame lui e i suoi&lt;s1/&gt;compagni?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T072919Z" creationid="giuan" creationdate="20260729T072919Z">
+        <seg>6,3  Gesùs iat arrespostu: «No dd’eis ligiu su chi iat fatu Dàvidi, candu iat tentu fàmini, issu e is chi fiant cun issu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>6,3&lt;s0/&gt;Quando invece tu fai l'elemosina, non sappia la tua sinistra ciò che fa la tua destra,</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260316T075616Z" creationid="giuan" creationdate="20260316T075616Z">
