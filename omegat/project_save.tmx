@@ -9228,8 +9228,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>6,34&lt;s0/&gt;E se prestate a coloro da cui sperate ricevere, che merito ne avrete?</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260729T101001Z" creationid="giuan" creationdate="20260729T101001Z">
-        <seg>6,34 E si imprestais a chini sperais ca si ddu torrat, ita mèritu nd'eis a tènniri? Fintzas is pecadoris imprestant a is pecadoris po arriciri ateruetanti.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T102049Z" creationid="giuan" creationdate="20260729T101001Z">
+        <seg>6,34 E si imprestais a chini sperais ca si ddu torrat, ita mèritu nd'eis a tènniri?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9239,6 +9239,14 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="sc" changeid="giuan" changedate="20260402T070547Z" creationid="giuan" creationdate="20260316T080823Z">
         <seg>6,34 No si pongais in pentzamentu po s'incràs, ca s'incràs at a tènniri giai is pentzamentus suus. 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>6,35&lt;s0/&gt;Amate invece i vostri nemici, fate del bene e prestate senza sperarne nulla, e il vostro premio&lt;s1/&gt;sarà grande e sarete figli dell'Altissimo; perché egli è benevolo verso gl'ingrati e i malvagi.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T102029Z" creationid="giuan" creationdate="20260729T102029Z">
+        <seg>6,35  Stimai prusaprestu a is nimigus bostus, fadei su beni e imprestai chene abetai nudda, e su prèmiu de bosàterus at a èssiri mannu e eis a èssiri fillus de su Deus Soberanu</seg>
       </tuv>
     </tu>
     <tu>
@@ -10514,6 +10522,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T095640Z" creationid="BRUNA" creationdate="20251205T095415Z">
         <seg>Pesati·ndi ca est tzerriendi·tì!». 50 Issu, scavulendi·nci su manteddu, cun unu brìnchidu si ndi fiat strantaxau e fiat andau anca fiat Gesùs. 51 Insaras Gesùs dd’iat narau: «E ita bolis a ti fàiri deu?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Anche i peccatori concedono&lt;s1/&gt;prestiti ai peccatori per riceverne altrettanto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T102319Z" creationid="giuan" creationdate="20260729T102319Z">
+        <seg> Fintzas is pecadoris imprestant a is pecadoris po arriciri ateruetanti.;</seg>
       </tuv>
     </tu>
     <tu>
