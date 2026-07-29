@@ -8782,8 +8782,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>6,10&lt;s0/&gt;E volgendo tutt'intorno lo sguardo su di loro, disse all'uomo: "Stendi la mano!".</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260729T081148Z" creationid="giuan" creationdate="20260729T081148Z">
-        <seg>6,10  E a pustis de ddus àiri castiaus a totus, dd'iat narau a s'òmini: «Stèndia sa manu!». E issu dd’iat fatu e sa manu fiat sanada.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T081200Z" creationid="giuan" creationdate="20260729T081148Z">
+        <seg>6,10  E a pustis de ddus àiri castiaus a totus, dd'iat narau a s'òmini: «Stèndia sa manu!». </seg>
       </tuv>
     </tu>
     <tu>
@@ -11408,6 +11408,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T142534Z" creationid="giuan" creationdate="20260501T142534Z">
         <seg>E issu dd’iat stendiada e sa manu fiat torrada sana che a s’àtera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Egli lo fece e&lt;s1/&gt;la mano guarì.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260729T081204Z" creationid="giuan" creationdate="20260729T081204Z">
+        <seg>E issu dd’iat fatu e sa manu fiat sanada.</seg>
       </tuv>
     </tu>
     <tu>
