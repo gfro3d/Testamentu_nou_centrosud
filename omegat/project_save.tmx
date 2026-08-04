@@ -89,8 +89,8 @@
       <tuv lang="it">
         <seg>1,1&lt;s0/&gt;Genealogia di Gesù Cristo figlio di Davide, figlio di Abramo.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260706T162558Z" creationid="giuan" creationdate="20260224T081320Z">
-        <seg>1,1 Genealogia de Gesùs Cristu fillu de Dàvidi,  fillu de Abramu</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260804T075718Z" creationid="giuan" creationdate="20260224T081320Z">
+        <seg>1,1 Genealogia de Gesùs Cristu fillu de Dàvidi,  fillu de Abramucuman</seg>
       </tuv>
     </tu>
     <tu>
@@ -10130,8 +10130,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>8,9&lt;s0/&gt;Perché anch'io, che sono un subalterno, ho soldati sotto di me e dico a uno: Va', ed egli va; e a un altro; Vieni, ed egli viene, e al mio servo: Fa' questo, ed egli lo fa".</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260316T104921Z" creationid="BRUNA" creationdate="20260316T104921Z">
-        <seg>8,9 Ca deu puru, mancai sia a cumandu allenu, portu sordaus a cumandu miu e ddi naru a unu: Bai, e issu andat, e a un'àteru; Beni, e issu benit, e a su serbidori miu: Fai custu, e issu ddu fait».</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260804T075738Z" creationid="BRUNA" creationdate="20260316T104921Z">
+        <seg>8,9 Ca deu puru, mancai sia a cumandau de àtiri, portu sordaus a cumandu miu e ddi naru a unu: Bai, e issu andat, e a un'àteru; Beni, e issu benit, e a su serbidori miu: Fai custu, e issu ddu fait».</seg>
       </tuv>
     </tu>
     <tu>
