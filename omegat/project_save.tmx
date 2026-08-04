@@ -11745,6 +11745,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Ed egli lo diede alla madre.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260804T090217Z" creationid="giuan" creationdate="20260804T090217Z">
+        <seg>E issu dd’iat donau a sa mama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Ed egli rispose:</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260716T092511Z" creationid="giuan" creationdate="20260716T092511Z">
