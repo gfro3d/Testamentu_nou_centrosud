@@ -97,8 +97,8 @@
       <tuv lang="it">
         <seg>1,1&lt;t0/&gt; Inizio del vangelo di Gesù Cristo, Figlio di Dio. &lt;t1/&gt;2&lt;t2/&gt; Come è scritto nel profeta Isaia:</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251006T093221Z" creationid="Gianfranco" creationdate="20250910T223154Z">
-        <seg>1,1&lt;t0/&gt; Cumintzu de s'evangèliu de Gesùs Cristu, Fillu de Deus. &lt;t1/&gt;2&lt;t2/&gt; Comenti ddoi est scritu in su profeta Isaia</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260804T103031Z" creationid="Gianfranco" creationdate="20250910T223154Z">
+        <seg>1,1&lt;t0/&gt; Cumintzu de s'evangèliu de Gesùs Cristu, Fillu de Deus. &lt;t1/&gt;2&lt;t2/&gt; cumenti ddoi est scritu in su profeta Isaia</seg>
       </tuv>
     </tu>
     <tu>
@@ -691,8 +691,8 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
       <tuv lang="it">
         <seg>11,1&lt;t0/&gt; Quando si avvicinarono a Gerusalemme, verso Bètfage e Betània, presso il monte degli Ulivi, mandò due dei suoi discepoli &lt;t1/&gt;2&lt;t2/&gt; e disse loro: «Andate nel villaggio che vi sta di fronte, e subito entrando in esso troverete un asinello legato, sul quale nessuno è mai salito.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251205T102116Z" creationid="giuan" creationdate="20251104T112014Z">
-        <seg>11,1 Comenti fiant acostiendi a Gerusalemmi, faci a Bètfage e Betània, acanta de su Monti de is Olias, iat mandau a duus de is discìpulus suus 2 e ddis iat narau: «Baxei a sa bidda chi teneis ananti, e aintru eis a agatai unu molenteddu acapiau chi no dd’at sètziu mai nemus.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260804T103031Z" creationid="giuan" creationdate="20251104T112014Z">
+        <seg>11,1 cumenti fiant acostiendi a Gerusalemmi, faci a Bètfage e Betània, acanta de su Monti de is Olias, iat mandau a duus de is discìpulus suus 2 e ddis iat narau: «Baxei a sa bidda chi teneis ananti, e aintru eis a agatai unu molenteddu acapiau chi no dd’at sètziu mai nemus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2885,8 +2885,8 @@ ma su coru suu est atesu de mei.
       <tuv lang="it">
         <seg>16,8&lt;s0/&gt;Accortosene, Gesù chiese: "Perché, uomini di poca fede, andate dicendo che non avete il pane?</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260513T145309Z" creationid="giuan" creationdate="20260513T145309Z">
-        <seg>16,8 Comenti si ndi fiat sapiu Gesùs iat preguntau: «Òminis de pagu fidi, ita seis narendi ca seis chene pani? </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260804T103031Z" creationid="giuan" creationdate="20260513T145309Z">
+        <seg>16,8 cumenti si ndi fiat sapiu Gesùs iat preguntau: «Òminis de pagu fidi, ita seis narendi ca seis chene pani? </seg>
       </tuv>
     </tu>
     <tu>
@@ -5089,8 +5089,8 @@ asuta de is peis tuus?
       <tuv lang="it">
         <seg>22&lt;t0/&gt; Ma gli scribi, che erano discesi da Gerusalemme, dicevano: «Costui è posseduto da Beelzebùl e scaccia i demòni per mezzo del principe dei demòni». &lt;t1/&gt;23&lt;t2/&gt; Ma egli, chiamatili, diceva loro in parabole: «Come può satana scacciare satana? &lt;t3/&gt;24&lt;t4/&gt; Se un regno è diviso in &lt;t5/&gt;se&lt;t6/&gt; stesso, quel regno non può reggersi; &lt;t7/&gt;25&lt;t8/&gt; se una casa è divisa in se stessa, quella casa non può reggersi. &lt;t9/&gt;26&lt;t10/&gt; Alla stessa maniera, se satana si ribella contro &lt;t11/&gt;se&lt;t12/&gt; stesso ed è diviso, non può resistere, ma sta per finire. &lt;t13/&gt;27&lt;t14/&gt; Nessuno può entrare nella casa di un uomo forte e rapire le sue cose se prima non avrà legato l'uomo forte; allora ne saccheggerà la casa. &lt;t15/&gt;28&lt;t16/&gt; In verità vi dico: tutti i peccati saranno perdonati ai figli degli uomini e anche tutte le bestemmie che diranno; &lt;t17/&gt;29&lt;t18/&gt; ma chi avrà bestemmiato contro lo Spirito santo, non avrà perdono in eterno: sarà reo di colpa eterna». &lt;t19/&gt;30&lt;t20/&gt; Poiché dicevano: «È posseduto da uno spirito immondo».</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260327T143917Z" creationid="BRUNA" creationdate="20251018T205324Z">
-        <seg>22 Ma is scribas, chi ndi fiant abasciaus de Gerusalemmi, narànt: «Custu est possidiu de Beelzebù e nci bogat is dimònius cun s'agiudu de su prìncipi de is dimònius». 23 Ma issu ddus iat tzerriaus acanta sua e cun paràbulas ddis naràt: «Comenti fait sàtana a nci bogai a sàtana?». 24 Si unu rennu est partziu aintru de sei etotu, cussu rennu no podit durai; 25 e si una domu est partzia aintru de sei etotu no podit durai.  A sa pròpriu manera, 26 si sàtana si furriat  contras a issu etotu e si partzit, no podit durai ma est lòmpia sa fini sua. 27 Nemus podit intrai a domu de un'òmini forti a ndi ddi furai sa cosa sua, si innantis a s'òmini forti no dd'at acapiau; insaras dd'at a sdorrobbai sa domu.  28 In beridadi bosi·naru: totu is pecaus ant a èssiri perdonaus a is fillus de is òminis e fintzas calisisiat frastimu chi ant a ghetai; 29 ma chini frastimat contras a su Spìridu santu no at a otènniri perdonu perunu: e abarrat in su pecau in eternu». Giai ca narànt: «Unu spìridu malu ddu possidit».
+      <tuv lang="sc" changeid="giuan" changedate="20260804T103031Z" creationid="BRUNA" creationdate="20251018T205324Z">
+        <seg>22 Ma is scribas, chi ndi fiant abasciaus de Gerusalemmi, narànt: «Custu est possidiu de Beelzebù e nci bogat is dimònius cun s'agiudu de su prìncipi de is dimònius». 23 Ma issu ddus iat tzerriaus acanta sua e cun paràbulas ddis naràt: «cumenti fait sàtana a nci bogai a sàtana?». 24 Si unu rennu est partziu aintru de sei etotu, cussu rennu no podit durai; 25 e si una domu est partzia aintru de sei etotu no podit durai.  A sa pròpriu manera, 26 si sàtana si furriat  contras a issu etotu e si partzit, no podit durai ma est lòmpia sa fini sua. 27 Nemus podit intrai a domu de un'òmini forti a ndi ddi furai sa cosa sua, si innantis a s'òmini forti no dd'at acapiau; insaras dd'at a sdorrobbai sa domu.  28 In beridadi bosi·naru: totu is pecaus ant a èssiri perdonaus a is fillus de is òminis e fintzas calisisiat frastimu chi ant a ghetai; 29 ma chini frastimat contras a su Spìridu santu no at a otènniri perdonu perunu: e abarrat in su pecau in eternu». Giai ca narànt: «Unu spìridu malu ddu possidit».
 </seg>
       </tuv>
     </tu>
@@ -7902,8 +7902,8 @@ aderetzai is àndalas suas!
       <tuv lang="it">
         <seg>35&lt;t0/&gt; Gesù continuava a parlare, insegnando nel tempio: «Come mai dicono gli scribi che il Messia è figlio di Davide? &lt;t1/&gt;36&lt;t2/&gt; Davide stesso infatti ha detto, mosso dallo Spirito Santo:</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251205T153110Z" creationid="BRUNA" creationdate="20251205T152956Z">
-        <seg>Gesùs sighiat a donai imparu in su tèmpiu narendi: «Comenti est chi is scribas narant ca su Messia est fillu de Dàvidi? 36 Dàvidi etotu difatis iat narau, mòviu de su spìridu santu:</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260804T103031Z" creationid="BRUNA" creationdate="20251205T152956Z">
+        <seg>Gesùs sighiat a donai imparu in su tèmpiu narendi: «cumenti est chi is scribas narant ca su Messia est fillu de Dàvidi? 36 Dàvidi etotu difatis iat narau, mòviu de su spìridu santu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8295,8 +8295,8 @@ No tentis a su Sennori su Deus tuu».</seg>
       <tuv lang="it">
         <seg>45&lt;t0/&gt; Ordinò poi ai discepoli di salire sulla barca e precederlo sull'altra riva, verso Betsàida, mentre egli avrebbe licenziato la folla. &lt;t1/&gt;46&lt;t2/&gt; Appena li ebbe congedati, salì sul monte a pregare. &lt;t3/&gt;47&lt;t4/&gt; Venuta la sera, la barca era in mezzo al mare ed egli solo a terra. &lt;t5/&gt;48&lt;t6/&gt; Vedendoli però tutti affaticati nel remare, poiché avevano il vento contrario, già verso l'ultima parte della notte andò verso di loro camminando sul mare, e voleva oltrepassarli. &lt;t7/&gt;49&lt;t8/&gt; Essi, vedendolo camminare sul mare, pensarono: «È un fantasma», e cominciarono a gridare, &lt;t9/&gt;50&lt;t10/&gt; perché tutti lo avevano visto ed erano rimasti turbati.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251205T104929Z" creationid="BRUNA" creationdate="20251008T150938Z">
-        <seg>45 A pustis iat cumandau a is discìpulus a nci artziai a sa barca e a cumentzai a andai ainnantis, cara a Betsàida, in s’interis chi issu nci dispidiat sa genti.46  Comenti nci ddus iat dispidius nci fiat artziau a monti a pregai. 47 Lòmpiu chi fiat su merì, sa barca fiat in mesu de mari e issu  fiat a solu in terra. 48  E biendi ca ddis fiat fadiosu a arremai, ca su bentu ddis fiat contras, a coa de noti fiat mòviu conca anca fiant issus e caminendi  asuba de mari pariat ca ddus boliat propassai. 49 E issus biendi·ddu caminendi a pillu de àcua iant pensau «Est unu pantàsima!», e si fiant pesaus a boxis 50 ca totus dd’iant bistu e si fiant assustraus.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260804T103031Z" creationid="BRUNA" creationdate="20251008T150938Z">
+        <seg>45 A pustis iat cumandau a is discìpulus a nci artziai a sa barca e a cumentzai a andai ainnantis, cara a Betsàida, in s’interis chi issu nci dispidiat sa genti.46  cumenti nci ddus iat dispidius nci fiat artziau a monti a pregai. 47 Lòmpiu chi fiat su merì, sa barca fiat in mesu de mari e issu  fiat a solu in terra. 48  E biendi ca ddis fiat fadiosu a arremai, ca su bentu ddis fiat contras, a coa de noti fiat mòviu conca anca fiant issus e caminendi  asuba de mari pariat ca ddus boliat propassai. 49 E issus biendi·ddu caminendi a pillu de àcua iant pensau «Est unu pantàsima!», e si fiant pesaus a boxis 50 ca totus dd’iant bistu e si fiant assustraus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8422,8 +8422,8 @@ No tentis a su Sennori su Deus tuu».</seg>
       <tuv lang="it">
         <seg>5,1&lt;t0/&gt; Intanto giunsero all'altra riva del mare, nella regione dei Gerasèni. &lt;t1/&gt;2&lt;t2/&gt; Come scese dalla barca, gli venne incontro dai sepolcri un uomo posseduto da uno spirito immondo. &lt;t3/&gt;3&lt;t4/&gt; Egli aveva la sua dimora nei sepolcri e nessuno più riusciva a tenerlo legato neanche con catene, &lt;t5/&gt;4&lt;t6/&gt; perché più volte era stato legato con ceppi e catene, ma aveva sempre spezzato le catene e infranto i ceppi, e nessuno più riusciva a domarlo. &lt;t7/&gt;5&lt;t8/&gt; Continuamente, notte e giorno, tra i sepolcri e sui monti, gridava e si percuoteva con pietre. &lt;t9/&gt;6&lt;t10/&gt; Visto Gesù da lontano, accorse, gli si gettò ai piedi, &lt;t11/&gt;7&lt;t12/&gt; e urlando a gran voce disse: «Che hai tu in comune con me, Gesù, Figlio del Dio altissimo?</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251113T085510Z" creationid="BRUNA" creationdate="20251001T152621Z">
-        <seg>5,1 Fiant lòmpius, duncas, a s'àteru oru de mari, me in sa regioni de is Gerasenus. 2 Comenti Gesùs ndi fiat calau de sa barca, iat atobiau, benendi de is tumbas, un'òmini cun unu spìridu malu.3 Issu biviat in mesu a is tumbas e nemus arrennesciat prus a dd’aguantai acapiau mancu a cadena; 4 ca prus bortas dd’iant acapiau a trabas e a cadenas, ma iat sempri segau is cadenas e truncau is trabas, e nemus ddu podiat ammasedai. 5 E fiat a totu dii e a totu noti, peri is tumbas e peri is montis, aboxinendi e ferendi·sì a perda. 6 Candu de atesu iat bistu a Gesùs, iat atacau a cùrriri e si ddi fiat ingenugau ananti  7 e aboxinendi a tzèrrius iat narau: «Lassa·mì in paxi o Gesùs, Fillu de su Deus totu poderosu,</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260804T103031Z" creationid="BRUNA" creationdate="20251001T152621Z">
+        <seg>5,1 Fiant lòmpius, duncas, a s'àteru oru de mari, me in sa regioni de is Gerasenus. 2 cumenti Gesùs ndi fiat calau de sa barca, iat atobiau, benendi de is tumbas, un'òmini cun unu spìridu malu.3 Issu biviat in mesu a is tumbas e nemus arrennesciat prus a dd’aguantai acapiau mancu a cadena; 4 ca prus bortas dd’iant acapiau a trabas e a cadenas, ma iat sempri segau is cadenas e truncau is trabas, e nemus ddu podiat ammasedai. 5 E fiat a totu dii e a totu noti, peri is tumbas e peri is montis, aboxinendi e ferendi·sì a perda. 6 Candu de atesu iat bistu a Gesùs, iat atacau a cùrriri e si ddi fiat ingenugau ananti  7 e aboxinendi a tzèrrius iat narau: «Lassa·mì in paxi o Gesùs, Fillu de su Deus totu poderosu,</seg>
       </tuv>
     </tu>
     <tu>
@@ -8765,8 +8765,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>53&lt;t0/&gt; Compiuta la traversata, approdarono e presero terra a Genèsaret. &lt;t1/&gt;54&lt;t2/&gt; Appena scesi dalla barca, la gente lo riconobbe, &lt;t3/&gt;55&lt;t4/&gt; e accorrendo da tutta quella regione cominciarono a portargli sui lettucci quelli che stavano male, dovunque udivano che si trovasse. &lt;t5/&gt;56&lt;t6/&gt; E dovunque giungeva, in villaggi o città o campagne, ponevano i malati nelle piazze e lo pregavano di potergli toccare almeno la frangia del mantello; e quanti lo toccavano guarivano.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251117T102317Z" creationid="BRUNA" creationdate="20251008T151528Z">
-        <seg>53 Acabbada sa traessada iant tocau terra in Genèsaret e ndi fiant abasciaus. 54 Comenti ndi fiant calaus de sa barca  sa genti iat connotu deretu a Gesùs, 55 e acudiant de totu sa regioni e iant incumentzau a nci ddi portai is màrturus, in is stojas insoru, a calisisiat logu intendiant chi fessit. 56 E a ònnia logu chi arribbàt, biddas, tzitadis o sartus, ndi bogànt is malàdius a is pratzas e ddu pregànt de ddi fàiri tocai assumancu s’oru de su manteddu, e is chi ddu tocànt sanànt.
+      <tuv lang="sc" changeid="giuan" changedate="20260804T103031Z" creationid="BRUNA" creationdate="20251008T151528Z">
+        <seg>53 Acabbada sa traessada iant tocau terra in Genèsaret e ndi fiant abasciaus. 54 cumenti ndi fiant calaus de sa barca  sa genti iat connotu deretu a Gesùs, 55 e acudiant de totu sa regioni e iant incumentzau a nci ddi portai is màrturus, in is stojas insoru, a calisisiat logu intendiant chi fessit. 56 E a ònnia logu chi arribbàt, biddas, tzitadis o sartus, ndi bogànt is malàdius a is pratzas e ddu pregànt de ddi fàiri tocai assumancu s’oru de su manteddu, e is chi ddu tocànt sanànt.
 </seg>
       </tuv>
     </tu>
@@ -9008,8 +9008,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>6,22&lt;s0/&gt;Beati voi quando gli uomini vi odieranno e quando vi metteranno al bando e v'insulteranno e&lt;s1/&gt;respingeranno il vostro nome come scellerato, a causa del Figlio dell'uomo.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260729T091743Z" creationid="giuan" creationdate="20260729T091540Z">
-        <seg>6,22  Biadus bosàterus candu is òminis bos’ant a odiai e candu si nci ant a bogai e s’ant a ingiuriai e ant a disfamiai su nòmini bostu comenti malu po mori de su Fillu de s’òmini.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260804T103031Z" creationid="giuan" creationdate="20260729T091540Z">
+        <seg>6,22  Biadus bosàterus candu is òminis bos’ant a odiai e candu si nci ant a bogai e s’ant a ingiuriai e ant a disfamiai su nòmini bostu cumenti malu po mori de su Fillu de s’òmini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9301,8 +9301,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>6,40&lt;s0/&gt;Il discepolo non è da più del maestro; ma ognuno ben preparato sarà come il suo maestro.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260730T073727Z" creationid="giuan" creationdate="20260730T073727Z">
-        <seg>6,40  Su discìpulu no est prus de su maistu; ma onniunu beni preparau/imparau at a èssiri comenti a/de su maistu suu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260804T103031Z" creationid="giuan" creationdate="20260730T073727Z">
+        <seg>6,40  Su discìpulu no est prus de su maistu; ma onniunu beni preparau/imparau at a èssiri cumenti a/de su maistu suu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10613,8 +10613,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>9&lt;t0/&gt; Mentre scendevano dal monte, ordinò loro di non raccontare a nessuno ciò che avevano visto, se &lt;t1/&gt;non dopo che il Figlio dell'uomo fosse risuscitato dai morti. &lt;t2/&gt;10&lt;t3/&gt; Ed essi tennero per sé la cosa, domandandosi però che cosa volesse dire risuscitare dai morti. &lt;t4/&gt;11&lt;t5/&gt; E lo interrogarono: «Perché gli scribi dicono che prima deve venire Elia?». &lt;t6/&gt;12&lt;t7/&gt; Egli rispose loro: «Sì, prima viene Elia e ristabilisce ogni cosa; ma come sta scritto del Figlio dell'uomo?</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251203T083059Z" creationid="giuan" creationdate="20251014T105107Z">
-        <seg>9 Comenti nd’abasciànt de monti ddus iat pretzetaus a no contai nudda a nemus de su chi iant bistu, si no a pustis de arresuscitai su Fillu de s’òmini de mesu de is mortus. 10 E issus iant postu menti, preguntendi·sì perou ita iat a bòlliri narai a arresuscitai de mesu de is mortus. 11 E dd’iant preguntau: «Poit’est chi is scribas narant ca innantis depit bènniri Elias?». 12 E Gesùs ddis iat arrespustu: «Eja, a innantis benit Elias e torrat totu a sètiu. E poita est chi ddoi est scritu ca su Fillu de s’òmini depit patiri meda e èssiri dispretziau? </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260804T103031Z" creationid="giuan" creationdate="20251014T105107Z">
+        <seg>9 cumenti nd’abasciànt de monti ddus iat pretzetaus a no contai nudda a nemus de su chi iant bistu, si no a pustis de arresuscitai su Fillu de s’òmini de mesu de is mortus. 10 E issus iant postu menti, preguntendi·sì perou ita iat a bòlliri narai a arresuscitai de mesu de is mortus. 11 E dd’iant preguntau: «Poit’est chi is scribas narant ca innantis depit bènniri Elias?». 12 E Gesùs ddis iat arrespustu: «Eja, a innantis benit Elias e torrat totu a sètiu. E poita est chi ddoi est scritu ca su Fillu de s’òmini depit patiri meda e èssiri dispretziau? </seg>
       </tuv>
     </tu>
     <tu>
@@ -10669,8 +10669,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>Alla vista di Gesù lo spirito scosse con convulsioni il ragazzo ed egli, caduto a terra, si rotolava spumando. &lt;t13/&gt;21&lt;t14/&gt; Gesù interrogò il padre: «Da quanto tempo gli accade questo?».</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251203T085810Z" creationid="giuan" creationdate="20251014T105928Z">
-        <seg>Comenti iat bistu a Gesùs su spìridu iat cumentzau a scutulai su piciocheddu e issu si fiat giogau, trotoxendi·si in terra e boghendi spuma. 21 E Gesùs iat preguntau a su babbu: «De candu est chi est pighendi·ddi aici?».</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260804T103031Z" creationid="giuan" creationdate="20251014T105928Z">
+        <seg>cumenti iat bistu a Gesùs su spìridu iat cumentzau a scutulai su piciocheddu e issu si fiat giogau, trotoxendi·si in terra e boghendi spuma. 21 E Gesùs iat preguntau a su babbu: «De candu est chi est pighendi·ddi aici?».</seg>
       </tuv>
     </tu>
     <tu>
