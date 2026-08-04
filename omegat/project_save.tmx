@@ -9716,6 +9716,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>7,20&lt;s0/&gt;Venuti da lui, quegli uomini dissero: "Giovanni il Battista ci ha mandati da te per domandarti:&lt;s1/&gt;Sei tu colui che viene o dobbiamo aspettare un altro?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260804T093155Z" creationid="giuan" creationdate="20260804T093155Z">
+        <seg>7,20  E lòmpius a innui fiat issu is òminis iant narau: «Giuanni su Batista s’at mandau a innoi a ti preguntai: “Tui ses su chi depit bènniri, o ndi depeus abetai a un’àteru?”».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>7,21&lt;s0/&gt;Non chiunque mi dice: Signore, Signore, entrerà nel regno dei cieli, ma colui che fa la volontà del Padre mio che è nei cieli.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260511T075326Z" creationid="BRUNA" creationdate="20260316T101553Z">
