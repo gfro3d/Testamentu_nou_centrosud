@@ -9828,6 +9828,16 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>7,27&lt;s0/&gt;Egli è colui del quale sta scritto: Ecco io mando davanti a te il mio messaggero, egli preparerà&lt;s1/&gt;la via davanti a te.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260810T080652Z" creationid="giuan" creationdate="20260810T080652Z">
+        <seg>Est de issu chi  est scritu:
+Mira, seu mandendi su nùntziu miu innantis a tui,
+issu t'at a aprontai su caminu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>7,28&lt;s0/&gt;Quando Gesù ebbe finito questi discorsi, le folle restarono stupite del suo insegnamento:</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260316T102726Z" creationid="BRUNA" creationdate="20260316T102726Z">
@@ -13443,6 +13453,14 @@ e a issu sceti serbi».</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T142227Z" creationid="giuan" creationdate="20260501T142227Z">
         <seg>Ellus, prus de unu profeta bosi naru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Sì, vi dico, e più che un profeta.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260810T075640Z" creationid="giuan" creationdate="20260810T075640Z">
+        <seg>Eja, bosi naru, e prus de unu profeta.</seg>
       </tuv>
     </tu>
     <tu>
