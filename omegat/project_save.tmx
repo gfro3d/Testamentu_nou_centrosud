@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="it">
+        <seg>"Se costui fosse un profeta,&lt;s1/&gt;saprebbe chi e che specie di donna è colei che lo tocca: è una peccatrice".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260810T095951Z" creationid="giuan" creationdate="20260810T095951Z">
+        <seg>«Si custu fessit unu profeta, iat a sciri chini est e ita arratza de fèmina est sa chi est tochendide·ddu: ca est una pecadora».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,10&lt;s0/&gt;Ezechia generò Manasse, Manasse generò Amos, Amos generò Giosia,</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260224T081650Z" creationid="giuan" creationdate="20260224T081650Z">
@@ -9955,6 +9963,14 @@ issu t'at a aprontai su caminu.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260810T095047Z" creationid="giuan" creationdate="20260810T095047Z">
         <seg>7,38  e si fiat posta a palas, acanta de is peis suuus, prangendi iat incumentzau a ddus sciundiri de làgrimas, e ddus sciugàt cun is pilus suus, ddus basàt e ddus ungiàt cun ollu profumau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>7,39&lt;s0/&gt;A quella vista il fariseo che l'aveva invitato pensò tra sé.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260810T100110Z" creationid="giuan" creationdate="20260810T100110Z">
+        <seg>7,39 Biendi custu, su fariseu chi dd’iat cumbidau, iat pensau intre sei etotu: </seg>
       </tuv>
     </tu>
     <tu>
