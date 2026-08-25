@@ -1153,3 +1153,5 @@ li asciugava	ddus sciugàt
 "Maestro, di' pure"	«Nerit, su Maistu»
 condonò	iat cundonau
 "Chi ha orecchi per intendere, intenda!"	Chini portat origas chi intendat!
+germogliò	iat intzeurrau
+umidità	umidori
