@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_0766b073d" segtype="sentence" srclang="it"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="it"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10272,6 +10272,14 @@ issu t'at a aprontai su caminu.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260316T112742Z" creationid="BRUNA" creationdate="20260316T112742Z">
         <seg>8,19 Tandus unu scriba si fiat acostau e dd'iat narau: «Maistu, deu t'apu a sighiri a innui siat chi andis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>8,1&lt;s0/&gt;In seguito egli se ne andava per le città e i villaggi, predicando e annunziando la buona novella&lt;s1/&gt;del regno di Dio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260825T071958Z" creationid="giuan" creationdate="20260825T071958Z">
+        <seg>8,1  A pustis issu andàt de citadi in citadi e de bidda in bidda, predichendi e annuntziendi sa bona nova de su rennu de Deus e is Doxi cun issu.</seg>
       </tuv>
     </tu>
     <tu>
