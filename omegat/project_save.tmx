@@ -661,8 +661,8 @@
       <tuv lang="it">
         <seg>1,66&lt;s0/&gt;Coloro che le udivano, le serbavano in cuor loro: "Che sarà mai questo bambino?" si dicevano.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260827T150706Z" creationid="giuan" creationdate="20260827T150706Z">
-        <seg>1,66 E totu is chi iant intèndiu custas cosas ddas teniant allogadas in coru insoru, narendi: «E chini at a èssiri custu pipieddu?». </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260827T151209Z" creationid="giuan" creationdate="20260827T150706Z">
+        <seg>1,66 E totu is chi iant intèndiu custas cosas ddas teniant allogadas in coru insoru, narendi: «E chini/ita at a èssiri custu pipieddu?». </seg>
       </tuv>
     </tu>
     <tu>
@@ -686,8 +686,8 @@
       <tuv lang="it">
         <seg>1,69&lt;s0/&gt;e ha suscitato per noi una salvezza potente nella casa di Davide, suo servo,</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260827T151158Z" creationid="giuan" creationdate="20260827T151158Z">
-        <seg>1,69 po nd’àiri pesau/artziau po nosu unu sarvadori poderosu in sa domu de Dàvidi, serbidori suu,
+      <tuv lang="sc" changeid="giuan" changedate="20260827T151311Z" creationid="giuan" creationdate="20260827T151158Z">
+        <seg>1,69 po nd’àiri pesau/artziau po nosu unu sarvadori poderosu in sa domu de Dàvidi, serbidori/tzeracu suu,
 </seg>
       </tuv>
     </tu>
@@ -706,6 +706,15 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260224T081503Z" creationid="giuan" creationdate="20260224T081503Z">
         <seg>1,6 Jesse ingenereit a Dàvidi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,70&lt;s0/&gt;come aveva promesso per bocca dei suoi santi profeti d'un tempo:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260827T151345Z" creationid="giuan" creationdate="20260827T151345Z">
+        <seg>1,70 cumenti iat promìtiu po buca de is santus profetas suus de su tempus antigu:
+</seg>
       </tuv>
     </tu>
     <tu>
