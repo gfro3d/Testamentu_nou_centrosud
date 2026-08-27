@@ -305,6 +305,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,27&lt;s0/&gt;a una vergine, promessa sposa di un uomo della casa di Davide, chiamato Giuseppe.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260827T141956Z" creationid="giuan" creationdate="20260827T141956Z">
+        <seg>1,27 a una vìrgini, impromìtia a sposa a un’òmini de sa domu de Dàvidi, chi ddi narànt Giusepi. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,2&lt;s0/&gt;Abramo generò Isacco, Isacco generò Giacobbe, Giacobbe generò Giuda e i suoi fratelli,</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260804T100648Z" creationid="giuan" creationdate="20260224T081357Z">
@@ -13173,6 +13181,14 @@ De sa buca de is pipius e de is creaduras t'as procurau una làudi?/alabantza?»
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T153752Z" creationid="BRUNA" creationdate="20250923T080758Z">
         <seg>S'òmini iat allonghiau sa manu e si dd'iat sanada. E is Fariseus essius chi nci fiant, iant cumentzau a ordimingiai cun is erodianus contras a Gesùs, po cumenti ddu spèrdiri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>La vergine si&lt;s1/&gt;chiamava Maria.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260827T142000Z" creationid="giuan" creationdate="20260827T142000Z">
+        <seg>A sa vìrgini ddi narànt Maria.</seg>
       </tuv>
     </tu>
     <tu>
