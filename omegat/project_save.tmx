@@ -394,6 +394,22 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,36&lt;s0/&gt;Vedi: anche Elisabetta, tua parente, nella sua vecchiaia, ha concepito un figlio e questo è il&lt;s1/&gt;sesto mese per lei, che tutti dicevano sterile:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260827T143731Z" creationid="giuan" creationdate="20260827T143731Z">
+        <seg>1,36 E càstia: Elisabeta puru, sa parenti tua, chi totus narànt ca fiat lunàdiga, a sa becesa at ingenerau unu fillu e custu po issa est su de ses mesis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,37&lt;s0/&gt;nulla è impossibile a Dio".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260827T143747Z" creationid="giuan" creationdate="20260827T143747Z">
+        <seg>1,37 ca nudda ddi est impossìbbili a Deus».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,3&lt;s0/&gt;Giuda generò Fares e Zara da Tamar, Fares generò Esrom, Esrom generò Aram,</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260804T100931Z" creationid="giuan" creationdate="20260224T081402Z">
@@ -11792,8 +11808,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>Colui che nascerà sarà dunque santo e chiamato Figlio di Dio.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260827T143001Z" creationid="giuan" creationdate="20260827T143001Z">
-        <seg>Po custu fintzas su chi at a nàsciri at a  èsseri santu e dd’ant a narai Fillu de Deus</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260827T143722Z" creationid="giuan" creationdate="20260827T143001Z">
+        <seg>Po custu fintzas su chi at a nàsciri at a  èssiri santu e dd’ant a narai Fillu de Deus</seg>
       </tuv>
     </tu>
     <tu>
