@@ -62,10 +62,26 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,13&lt;s0/&gt;Ma l'angelo gli disse: "Non temere, Zaccaria, la tua preghiera è stata esaudita e tua moglie&lt;s1/&gt;Elisabetta ti darà un figlio, che chiamerai Giovanni.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260827T140118Z" creationid="giuan" creationdate="20260827T140118Z">
+        <seg>1,13 Ma s’àngiulu ddi iat narau: «No timas, Zacaria, ca Deus at ascurtau sa pregadoria tua e mulleri tua Elisabeta t'at a donai unu fillu e a nòmini dd’as a pònniri Giuanni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,13&lt;s0/&gt;Zorobabele generò Abiud, Abiud generò Elìacim, Elìacim generò Azor,</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260804T101326Z" creationid="giuan" creationdate="20260224T081735Z">
         <seg>1,13 Zorobabele ingenereit a Abiùd, Abiùd ingenereit a Elìacim, Elìacim ingenereit a Azòr,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,14&lt;s0/&gt;Avrai gioia ed esultanza e molti si rallegreranno della sua nascita,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260827T140212Z" creationid="giuan" creationdate="20260827T140212Z">
+        <seg> 1,14 As a tènniri gosu e prexu mannu e medas s'ant a allirgai de su nascimentu suu,</seg>
       </tuv>
     </tu>
     <tu>
