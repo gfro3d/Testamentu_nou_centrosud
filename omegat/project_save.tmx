@@ -151,6 +151,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,18&lt;s0/&gt;Zaccaria disse all'angelo: "Come posso conoscere questo?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260827T140600Z" creationid="giuan" creationdate="20260827T140600Z">
+        <seg>1,18 Ma Zacaria iat narau a s’àngiulu: «Cumenti apu a fàiri a connòsciri custu? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,19&lt;s0/&gt;Giuseppe suo sposo, che era giusto e non voleva ripudiarla, decise di licenziarla in segreto.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260804T102205Z" creationid="giuan" creationdate="20260224T082130Z">
@@ -13019,6 +13027,14 @@ De sa buca de is pipius e de is creaduras t'as procurau una làudi?/alabantza?»
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260326T161846Z" creationid="BRUNA" creationdate="20250914T152856Z">
         <seg>Deu ddu sciu chini ses tui: su Santu de Deus». E Gesùs dd'iat certau narendi: «Abarra a sa muda e essindi de cuss'òmini!». </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Io sono vecchio e mia moglie è avanzata&lt;s1/&gt;negli anni".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260827T140605Z" creationid="giuan" creationdate="20260827T140605Z">
+        <seg>Deu seu giai bèciu e mulleri mia est intrada in edadi».</seg>
       </tuv>
     </tu>
     <tu>
