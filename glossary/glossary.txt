@@ -1170,3 +1170,4 @@ regno	rennu
 Elisabetta	Elisabeta
 orecchi	origas
 grembo	intrànnias	coa
+padri	mannus
