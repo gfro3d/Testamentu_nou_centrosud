@@ -1175,3 +1175,6 @@ tempo del parto	tempus de sfendiai
 diede alla luce	iat parturiu
 intanto	in s'interis
 circoncidere	circuncìdiri
+intervenne	si fiat posta in mesu
+In quel medesimo istante	In deretura
+gli si sciolse	si ddi fiat strobia
