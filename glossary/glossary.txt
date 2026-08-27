@@ -1171,3 +1171,7 @@ Elisabetta	Elisabeta
 orecchi	origas
 grembo	intrànnias	coa
 padri	mannus
+tempo del parto	tempus de sfendiai
+diede alla luce	iat parturiu
+intanto	in s'interis
+circoncidere	circuncìdiri
