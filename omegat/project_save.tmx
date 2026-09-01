@@ -11480,8 +11480,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>8,55&lt;s0/&gt;Il suo spirito ritornò in lei ed ella si alzò all'istante.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260901T105744Z" creationid="giuan" creationdate="20260901T105744Z">
-        <seg>8,55  E su spiridu de issa fiat torrau e si ndi fiat pesada inderetura. E iat cumandau a ddi donai a papai.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260901T105817Z" creationid="giuan" creationdate="20260901T105744Z">
+        <seg>8,55  E su spiridu de issa fiat torrau e si ndi fiat pesada inderetura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13359,6 +13359,14 @@ issu t'at a aprontai su caminu.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260729T081204Z" creationid="giuan" creationdate="20260729T081204Z">
         <seg>E issu dd’iat fatu e sa manu fiat sanada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Egli ordinò di darle da mangiare.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260901T105811Z" creationid="giuan" creationdate="20260901T105811Z">
+        <seg>E iat cumandau a ddi donai a papai.</seg>
       </tuv>
     </tu>
     <tu>
