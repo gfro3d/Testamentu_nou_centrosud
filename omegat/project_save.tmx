@@ -11456,8 +11456,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>8,52&lt;s0/&gt;Tutti piangevano e facevano il lamento su di lei.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260901T104809Z" creationid="giuan" creationdate="20260901T104809Z">
-        <seg>8,52  Totus prangiant e dd’atitànt. E issu iat narau:.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260901T104825Z" creationid="giuan" creationdate="20260901T104809Z">
+        <seg>8,52  Totus prangiant e dd’atitànt. E issu iat narau: </seg>
       </tuv>
     </tu>
     <tu>
@@ -13482,6 +13482,14 @@ issu t'at a aprontai su caminu.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T150256Z" creationid="BRUNA" creationdate="20251008T142933Z">
         <seg>7 E Gesùs andàt peri is biddas de acanta donendi imparu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Gesù disse: "Non piangete, perché non è morta,&lt;s1/&gt;ma dorme".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260901T104815Z" creationid="giuan" creationdate="20260901T104815Z">
+        <seg> «No prangiais ca no est morta ma est dromia».</seg>
       </tuv>
     </tu>
     <tu>
