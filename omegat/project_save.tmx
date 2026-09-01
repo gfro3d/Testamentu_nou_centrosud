@@ -11213,8 +11213,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>8,30&lt;s0/&gt;Gesù gli domandò: "Qual è il tuo nome?".</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260901T081324Z" creationid="giuan" creationdate="20260901T081324Z">
-        <seg>8,30  Gesùs dd’iat preguntau: «Ita ti narant?». .</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260901T081342Z" creationid="giuan" creationdate="20260901T081324Z">
+        <seg>8,30  Gesùs dd’iat preguntau: «Ita ti narant?».</seg>
       </tuv>
     </tu>
     <tu>
@@ -14473,6 +14473,14 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T104538Z" creationid="giuan" creationdate="20251104T113012Z">
         <seg>Arrespundei·mì». 31 E issus nd’arrexonànt impari narendi: «Chi arrespundeus “Deus” at a narai: E insaras poit’est chi no dd’eis crètiu? 32 Ellus e ita naraus de "is òminis?"». </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Rispose: "Legione", perché molti demòni erano entrati in&lt;s1/&gt;lui.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260901T081334Z" creationid="giuan" creationdate="20260901T081334Z">
+        <seg>Iat arrespustu: «Legioni», ca dimònius meda fiant intraus in issu.</seg>
       </tuv>
     </tu>
     <tu>
