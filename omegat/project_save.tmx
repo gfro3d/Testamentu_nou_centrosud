@@ -11091,8 +11091,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>8,24&lt;s0/&gt;Accostatisi a lui, lo svegliarono dicendo: "Maestro, maestro, siamo perduti!".</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260827T080219Z" creationid="giuan" creationdate="20260827T080219Z">
-        <seg>8,24  Acostiaus chi si fiant, ndi dd’iant scidau narendi: «Maistu, seus perdius!». E issu scidendi·si·ndi, iat certau su bentu e s’àcua ameletzosa; e cuddus si fiant firmaus e fiat torrada sa bonanza.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260901T070317Z" creationid="giuan" creationdate="20260827T080219Z">
+        <seg>8,24  Acostiaus chi si fiant, ndi dd’iant scidau narendi: «Maistu, seus perdius!».</seg>
       </tuv>
     </tu>
     <tu>
@@ -12553,6 +12553,15 @@ issu t'at a aprontai su caminu.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260701T103055Z" creationid="giuan" creationdate="20260701T103055Z">
         <seg>E dd'iat basau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E lui, destatosi,&lt;s1/&gt;sgridò il vento e i flutti minacciosi; essi cessarono e si fece bonaccia.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260901T070304Z" creationid="giuan" creationdate="20260901T070304Z">
+        <seg>E issu scidendi·si·ndi, iat certau su bentu e s’àcua ameletzosa; e cuddus si fiant firmaus e fiat torrada sa bonanza.
+</seg>
       </tuv>
     </tu>
     <tu>
