@@ -11656,8 +11656,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>9,14&lt;s0/&gt;C'erano infatti circa cinquemila uomini.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260903T095513Z" creationid="giuan" creationdate="20260903T095513Z">
-        <seg>9,14  Ddoi iat, difatis, agiumai cincumilla òminis. Issu iat narau a is discìpulus: «Faide·ddus sètziri a trumas de una cincuantena».</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260903T095528Z" creationid="giuan" creationdate="20260903T095513Z">
+        <seg>9,14  Ddoi iat, difatis, agiumai cincumilla òminis. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13463,6 +13463,14 @@ issu t'at a aprontai su caminu.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260402T070756Z" creationid="BRUNA" creationdate="20260316T115018Z">
         <seg> E issus, ndi essiant de is corpus de is òminis e nci intrànt in su de is procus: e totu su tallu si nci spentumànt e si fiant mortus in is caddarigas de mari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Egli disse ai discepoli: "Fateli sedere per gruppi di&lt;s1/&gt;cinquanta".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260903T095720Z" creationid="giuan" creationdate="20260903T095720Z">
+        <seg>Issu iat narau a is discìpulus: «Faide·ddus sètziri a trumas de una cincuantena».</seg>
       </tuv>
     </tu>
     <tu>
