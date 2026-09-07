@@ -1184,3 +1184,5 @@ Maestro	su Maistu
 uscito	bessiu
 uscire	bessiri
 come	cumenti
+fin dagli inizi	fintzas de s'incumintzu
+inizio	incumintzu
