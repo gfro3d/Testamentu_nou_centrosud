@@ -1186,3 +1186,4 @@ uscire	bessiri
 come	cumenti
 fin dagli inizi	fintzas de s'incumintzu
 inizio	incumintzu
+principio	cumintzu
