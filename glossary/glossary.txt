@@ -1183,3 +1183,4 @@ bontà	buntadi	bonesa
 Maestro	su Maistu
 uscito	bessiu
 uscire	bessiri
+come	cumenti
