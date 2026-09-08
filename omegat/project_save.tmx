@@ -11955,8 +11955,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>9,30&lt;s0/&gt;Ed ecco due uomini parlavano con lui: erano Mosè ed Elia,</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260908T083141Z" creationid="giuan" creationdate="20260908T083141Z">
-        <seg>9,30  E mi’ duus ominis chistionendi cun issu: fiant Mosè e Elias.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260908T085714Z" creationid="giuan" creationdate="20260908T083141Z">
+        <seg>9,30  E mi’ duus ominis chistionendi cun issu: fiant Mosè e Elias, </seg>
       </tuv>
     </tu>
     <tu>
@@ -11965,6 +11965,14 @@ issu t'at a aprontai su caminu.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260907T164459Z" creationid="giuan" creationdate="20260402T072136Z">
         <seg>9,31 Ma issus, comenti nci fiant bessius, iant spartzinau sa nomea sua in totu cussa regioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,31&lt;s0/&gt;apparsi nella loro gloria, e parlavano della sua dipartita che avrebbe portato a compimento a&lt;s1/&gt;Gerusalemme.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260908T085706Z" creationid="giuan" creationdate="20260908T085706Z">
+        <seg>9,31  aparèssius in gloria, e chistionànt de sa dispidida sua/s’èsodu suu chi fiat acanta de si cumpriri in Gerusalemmi.</seg>
       </tuv>
     </tu>
     <tu>
