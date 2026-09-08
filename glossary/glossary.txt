@@ -1192,3 +1192,6 @@ resoconto	arrelatu
 illustre	primorosu
 sacerdote	sacerdotu
 prescrizioni	pretzetus
+sterile	lunàdiga
+incenso	timòngia
+si turbò	si ndi fiat assicau
