@@ -12091,8 +12091,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>9,39&lt;s0/&gt;Ecco, uno spirito lo afferra e subito egli grida, lo scuote ed egli dà schiuma e solo a fatica se&lt;s1/&gt;ne allontana lasciandolo sfinito.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260908T103711Z" creationid="giuan" creationdate="20260908T103711Z">
-        <seg>9,39  E mi’, unu spiridu dd’aferrat e totinduna aboxinat, ddu scutulàt cun violèntzia e issu bogat spuma; e a traballu, destrossendide·ddu, si ndi stesiat de issu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260908T105316Z" creationid="giuan" creationdate="20260908T103711Z">
+        <seg>9,39  E mi’, unu spiridu dd’aferrat e totinduna aboxinat, ddu scutulàt a forti e issu bogat spuma; e a traballu, destrossendide·ddu, si ndi stesiat de issu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12117,6 +12117,14 @@ issu t'at a aprontai su caminu.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260908T104015Z" creationid="giuan" creationdate="20260908T103717Z">
         <seg>9,40  «E Apu pregau a is discipulus tuus a nci ddu bogai, ma no nci dd’ant fata».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>9,41&lt;s0/&gt;Gesù rispose: "O generazione incredula e perversa, fino a quando sarò con voi e vi sopporterò?&lt;s1/&gt;Conducimi qui tuo figlio".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260908T105332Z" creationid="giuan" creationdate="20260908T105332Z">
+        <seg>9,41 E Gesùs iat arrespustu: «O generatzioni chene fidi e trevessa! Fintzas a candu apu a èssiri cun bosàterus? Fintzas a candu bos’apu a baliai? Beti·ndi a a fillu tuu».</seg>
       </tuv>
     </tu>
     <tu>
