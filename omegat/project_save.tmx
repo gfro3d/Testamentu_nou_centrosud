@@ -12275,8 +12275,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>9,59&lt;s0/&gt;A un altro disse: "Seguimi".</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260910T155921Z" creationid="giuan" creationdate="20260910T155921Z">
-        <seg>9,59  A un’àteru iat narau: «Sighi·mì». E issu iat arrespustu: «Sennori, lassa·mì, innantis, andai a nci interrai a babbu miu». </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260910T160107Z" creationid="giuan" creationdate="20260910T155921Z">
+        <seg>9,59  A un’àteru iat narau: «Sighi·mì».  </seg>
       </tuv>
     </tu>
     <tu>
@@ -13142,6 +13142,14 @@ issu t'at a aprontai su caminu.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251205T094848Z" creationid="giuan" creationdate="20251027T114330Z">
         <seg>E iant tzèrriau a su tzurpu narendi·ddi: «Ajò! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E costui rispose: "Signore, concedimi di andare prima a seppellire&lt;s1/&gt;mio padre".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260910T160114Z" creationid="giuan" creationdate="20260910T160114Z">
+        <seg>E issu iat arrespustu: «Sennori, lassa·mì, innantis, andai a nci interrai a babbu miu».</seg>
       </tuv>
     </tu>
     <tu>
