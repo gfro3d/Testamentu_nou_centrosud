@@ -12131,8 +12131,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>9,42&lt;s0/&gt;Mentre questi si avvicinava, il demonio lo gettò per terra agitandolo con convulsioni.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260908T110003Z" creationid="giuan" creationdate="20260908T110003Z">
-        <seg>9,42  E in s’interis chi cuddu si ddoi acostiat, su dimòniu nci dd’iat scutu a terra e dd’iat scutulau cun violèntzia . Gesùs iat ameletzau su spìridu malu, iat sanau a su piciocheddu e dd’iat torrau a su babbu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260910T135129Z" creationid="giuan" creationdate="20260908T110003Z">
+        <seg>9,42  E in s’interis chi cuddu si ddoi acostiat, su dimòniu nci dd’iat scutu a terra e dd’iat scutulau cun violèntzia . </seg>
       </tuv>
     </tu>
     <tu>
@@ -13941,6 +13941,14 @@ De sa buca de is pipius e de is creaduras t'as procurau una làudi?/alabantza?»
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260402T071035Z" creationid="giuan" creationdate="20260402T071035Z">
         <seg>Gesùs, biendi sa fidi insoru, iat narau a su màrturu: «Fai·tì coràgiu, fillu miu, is pecaus tuus ti funt perdonaus».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Gesù&lt;s1/&gt;minacciò lo spirito immondo, risanò il fanciullo e lo consegnò a suo padre.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260910T135134Z" creationid="giuan" creationdate="20260910T135134Z">
+        <seg>Gesùs iat ameletzau su spìridu malu, iat sanau a su piciocheddu e dd’iat torrau a su babbu.</seg>
       </tuv>
     </tu>
     <tu>
