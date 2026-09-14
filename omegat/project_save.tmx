@@ -950,6 +950,14 @@ e ghiai is passus nostus a sa bia de sa paxi».
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,16&lt;s0/&gt;Chi ascolta voi ascolta me, chi disprezza voi disprezza me.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260914T082145Z" creationid="giuan" creationdate="20260914T082145Z">
+        <seg>10,16  Chini ascurtat a bosàterus ascurtat a mei, chini arrefudat a bosàterus arrefudat a mei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,16&lt;s0/&gt;Ecco: io vi mando come pecore in mezzo ai lupi; siate dunque prudenti come i serpenti e semplici come le colombe.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260907T164459Z" creationid="giuan" creationdate="20260415T100646Z">
@@ -14148,6 +14156,14 @@ issu t'at a aprontai su caminu.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260716T091006Z" creationid="BRUNA" creationdate="20260421T072543Z">
         <seg>Fintzas a is Infèrus nci as a arrùiri! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Fino agli inferi sarai precipitata!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260914T081511Z" creationid="giuan" creationdate="20260914T081511Z">
+        <seg>10,15  E a tui, Cafarnau, fintzas a celu ti nci ant a a artziai? Fintzas a is Inferus nci as a arruiri!</seg>
       </tuv>
     </tu>
     <tu>
