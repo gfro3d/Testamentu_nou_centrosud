@@ -1246,10 +1246,26 @@ e ghiai is passus nostus a sa bia de sa paxi».
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>10,7&lt;s0/&gt;Restate in quella casa, mangiando e bevendo di quello che hanno, perché l'operaio è degno della&lt;s1/&gt;sua mercede.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260914T071806Z" creationid="giuan" creationdate="20260914T071806Z">
+        <seg>10,7  Abarrai in cussa domu, papendi e bufendi de su chi tenint, poita a s’operaju ddi minescit sa paga sua. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>10,8&lt;s0/&gt;Guarite gli infermi, risuscitate i morti, sanate i lebbrosi, cacciate i demòni.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260415T100055Z" creationid="giuan" creationdate="20260415T100055Z">
         <seg>10,8 Sanai a is malàidus, arresuscitai is mortus, sanai is lebrosus, bogai·nci is dimònius. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,8&lt;s0/&gt;Quando entrerete in una città e vi accoglieranno, mangiate quello che vi sarà messo dinanzi,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260914T072046Z" creationid="giuan" creationdate="20260914T072046Z">
+        <seg>10,8 In calisisiat citadi chi intreis e bosi arricint, papai su chi bosi ponint ananti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14888,6 +14904,14 @@ De sa buca de is pipius e de is creaduras t'as procurau una làudi?/alabantza?»
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251014T064740Z" creationid="BRUNA" creationdate="20251014T064740Z">
         <seg>No eis intèndiu e no seis cumprendendi mancu immoi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Non passate di casa in casa.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260914T071809Z" creationid="giuan" creationdate="20260914T071809Z">
+        <seg>No andeis de domu in domu.</seg>
       </tuv>
     </tu>
     <tu>
