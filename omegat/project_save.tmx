@@ -1234,8 +1234,8 @@ e ghiai is passus nostus a sa bia de sa paxi».
       <tuv lang="it">
         <seg>10,31&lt;s0/&gt;Per caso, un sacerdote scendeva per quella medesima strada e quando lo vide passò oltre&lt;s1/&gt;dall'altra parte.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260917T073716Z" creationid="giuan" creationdate="20260917T073716Z">
-        <seg>Sorti iat bofiu ca unu sacerdotu fiat calendi in cussa bia e, candu dd'iat bistu, iat tirau deretu passendi a s'àteru oru de su caminu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20260917T073726Z" creationid="giuan" creationdate="20260917T073716Z">
+        <seg>10,31  E sorti iat bofiu ca unu sacerdotu fiat calendi in cussa bia e, candu dd'iat bistu, iat tirau deretu. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1244,6 +1244,14 @@ e ghiai is passus nostus a sa bia de sa paxi».
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260415T102025Z" creationid="giuan" creationdate="20260415T102025Z">
         <seg>10,31 no timais duncas: bosàterus baleis prus de medas cruculeus!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>10,32&lt;s0/&gt;Anche un levita, giunto in quel luogo, lo vide e passò oltre.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20260917T074500Z" creationid="giuan" creationdate="20260917T074500Z">
+        <seg>10,32  Aici etotu unu levita, lòmpiu a cussu logu, biendide·ddu iat tirau deretu e nci fiat passau a s’àtera parti. </seg>
       </tuv>
     </tu>
     <tu>
