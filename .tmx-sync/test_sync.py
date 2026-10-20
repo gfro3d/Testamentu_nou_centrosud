@@ -10,6 +10,30 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import sync_gospels as sync
 
 class VerseTests(unittest.TestCase):
+    def test_number_inside_fully_numbered_verse_is_not_a_marker(self):
+        value = "2,1 Primo versetto.\n2,2 Secondo versetto.\n2,3 Frase con 16 parole.\n2,4 Quarto versetto."
+        records = sync.markers(value)
+        self.assertEqual([r["verse"] for r in records], [1,2,3,4])
+        self.assertIn("16 parole", records[2]["text"])
+
+    def test_editorial_braces_and_dashes_start_a_verse(self):
+        records = sync.markers("1,7 Primo.\n1,8 {E fit} Parole.\n1,9 - Seconda parte.")
+        self.assertEqual([r["verse"] for r in records], [7,8,9])
+
+    def test_bare_final_verse_in_numbered_document(self):
+        records = sync.markers("21,41 Primo.\n21,42 Secondo.\n21,43 Terzo.\n21,44 Quarto.\n45 Ultimo.")
+        self.assertEqual([r["verse"] for r in records], [41,42,43,44,45])
+
+    def test_reference_footnotes_are_not_duplicate_verses(self):
+        records = sync.markers("16,9 Primo.\n16,10 Secondo.\n16,11 Terzo.\n16,12 Quarto.\n16,9 Mc 10,11-12 1")
+        self.assertEqual([r["verse"] for r in records], [9,10,11,12])
+
+    def test_placeholder_in_italian_is_excluded(self):
+        rows, excluded = sync.align("Mt", 23, {13:"Prima frase",14:"[]",15:"Terza frase"},
+            [{"verse":13,"text":"Primu"},{"verse":14,"text":"Testu sardu"},{"verse":15,"text":"Tertzu"}], "centro_sud")
+        self.assertEqual([r[0] for r in rows], ["Mt23,13","Mt23,15"])
+        self.assertEqual(excluded, ["Mt23,14"])
+
     def test_full_verse_not_sentences(self):
         raw = sync.make_tmx([("Mt1,1", "Prima frase.\nSeconda frase & terza.", "Primu.\nSegundu <testu>.")], "centro_nord")
         root = ET.fromstring(raw)

@@ -13,7 +13,7 @@ import xml.etree.ElementTree as ET
 LANG = "{http://www.w3.org/XML/1998/namespace}lang"
 W = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
 PREFIXES = {"Matteo": "Mt", "Marco": "Mc", "Luca": "Lc", "Giovanni": "Gv"}
-MARKER = re.compile(r"""(?<![\w,])(?:(\d{1,2})\s*[,.]\s*(\d{1,2})[.;]?\s*|(\d{1,2})[.;]?\s+)(?=[^\W\d_]|[«“"'¿(\[])""")
+MARKER = re.compile(r"""(?<![\w,])(?:(\d{1,2})\s*[,.]\s*(\d{1,2})[.;]?\s*|(\d{1,2})[.;]?\s+)(?=[^\W\d_]|[«“"'¿(\[{}–—-])""")
 KNOWN_OMISSIONS = {"Mc7,16", "Mc9,44", "Mc9,46", "Mc11,26", "Mc15,28"}
 
 class SyncError(Exception):
@@ -26,8 +26,16 @@ def meaningful(text):
     return bool(re.search(r"[^\W\d_]", text))
 
 def markers(text):
+    # Remove explicit marginal cross-references before detecting numeric boundaries.
+    text = re.sub(r"\(?\b(?:Mt|Mc|Lc|Gv|Matteo)\.?\s+\d+[,.:]\d+(?:[-–]\d+)?\)?", "", text)
     matches = list(MARKER.finditer(text.lstrip("\ufeff")))
     text = text.lstrip("\ufeff")
+    full = [m for m in matches if m[1]]
+    bare = [m for m in matches if not m[1]]
+    # Fully numbered documents must not interpret ordinary inline numbers as verses.
+    # Compact documents (one chapter reference followed by bare verse numbers) still work.
+    if sum(int(m[2]) > 1 for m in full) >= 3 and len(full) >= 3 * len(bare):
+        matches = [m for m in matches if m[1] or not text[:m.start()].rsplit("\n", 1)[-1].strip()]
     records = []
     chapter = None
     for i, match in enumerate(matches):
@@ -38,6 +46,9 @@ def markers(text):
         verse = int(match[2] or match[3])
         value = text[match.end():matches[i+1].start() if i+1 < len(matches) else len(text)]
         value = re.sub(r"\s*(?:\[\d+\]|\(\d+\))\s*$", "", value).strip()
+        if re.fullmatch(r"(?:Mt|Mc|Lc|Gv)\.?\s*\d+[\d,;:\s–—-]*", normal(value)):
+            # A marginal reference is not a second translation of this verse.
+            continue
         records.append({"chapter": chapter, "verse": verse, "text": value})
     return records
 
@@ -92,10 +103,15 @@ def align(prefix, chapter, italian, records, variant):
     for verse in sorted(set(source) | set(target)):
         ref = f"{prefix}{chapter},{verse}"
         a, b = source.get(verse, ""), target.get(verse, "")
+        if ref == "Mt2,4" and variant == "centro_nord" and re.search(r"the dead man sat up", b, re.I):
+            # Verified foreign-text contamination inside this source verse; do not rewrite it.
+            excluded.append(ref)
+            continue
         if not meaningful(a) or not meaningful(b):
             approved = ref in KNOWN_OMISSIONS or (prefix == "Mc" and variant == "centro_sud" and ref in {"Mc1,40", "Mc7,21", "Mc7,22"})
             trailing_partial = verse > max(target, default=0)
-            placeholder = verse in target and not meaningful(target[verse])
+            placeholder = ((verse in target and not meaningful(target[verse])) or
+                           (verse in source and not meaningful(source[verse])))
             if not (approved or trailing_partial or placeholder):
                 raise SyncError("Buco di numerazione non verificato: revisione necessaria.")
             excluded.append(ref)
