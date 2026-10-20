@@ -10,6 +10,15 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import sync_gospels as sync
 
 class VerseTests(unittest.TestCase):
+    def test_docx_internal_break_preserves_verse_boundary(self):
+        xml = '<w:document xmlns:w="'+sync.W[1:-1]+'"><w:body><w:p><w:r><w:t>1,1 Primo versetto abbastanza lungo da riconoscere il capitolo.</w:t><w:br/><w:t>2 Secondo,</w:t><w:br/><w:t>3 Terzo.</w:t></w:r></w:p></w:body></w:document>'
+        raw=io.BytesIO()
+        with zipfile.ZipFile(raw,"w") as archive:
+            archive.writestr("word/document.xml",xml)
+        records=sync.markers(sync.extract(raw.getvalue(),""))
+        self.assertEqual([r["verse"] for r in records],[1,2,3])
+        self.assertEqual(records[1]["text"],"Secondo,")
+
     def test_number_inside_fully_numbered_verse_is_not_a_marker(self):
         value = "2,1 Primo versetto.\n2,2 Secondo versetto.\n2,3 Frase con 16 parole.\n2,4 Quarto versetto."
         records = sync.markers(value)

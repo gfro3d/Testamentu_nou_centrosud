@@ -62,7 +62,7 @@ def unique_map(records):
     for record in records:
         v = record["verse"]
         if v in result:
-            raise SyncError("Numerazione duplicata: revisione editoriale necessaria.")
+            raise SyncError(f"Capitolo {record.get('chapter', '?')}, versetto {v}: numerazione duplicata.")
         result[v] = record["text"]
     return result
 
@@ -163,7 +163,7 @@ def extract(raw, mime):
     if raw[:2] == b"PK":
         with zipfile.ZipFile(io.BytesIO(raw)) as archive:
             root = ET.fromstring(archive.read("word/document.xml"))
-            return "\n".join("".join(t.text or "" for t in p.iter(W+"t")) for p in root.iter(W+"p"))
+            return "\n".join("".join((t.text or "") if t.tag == W+"t" else "\n" if t.tag in {W+"br", W+"cr"} else "\t" if t.tag == W+"tab" else "" for t in p.iter()) for p in root.iter(W+"p"))
     if raw.lstrip().startswith(b"{\\rtf"):
         from striprtf.striprtf import rtf_to_text
         return rtf_to_text(raw.decode("latin-1"))
