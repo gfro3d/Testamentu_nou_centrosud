@@ -10,6 +10,13 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import sync_gospels as sync
 
 class VerseTests(unittest.TestCase):
+    def test_identical_duplicate_is_deduplicated(self):
+        self.assertEqual(sync.unique_map([{ "verse":21,"text":"Testo uguale"},{"verse":21,"text":"Testo uguale"}]),{21:"Testo uguale"})
+
+    def test_conflicting_duplicate_is_rejected(self):
+        with self.assertRaises(sync.SyncError):
+            sync.unique_map([{ "verse":21,"text":"Testo uno"},{"verse":21,"text":"Testo due"}])
+
     def test_docx_internal_break_preserves_verse_boundary(self):
         xml = '<w:document xmlns:w="'+sync.W[1:-1]+'"><w:body><w:p><w:r><w:t>1,1 Primo versetto abbastanza lungo da riconoscere il capitolo.</w:t><w:br/><w:t>2 Secondo,</w:t><w:br/><w:t>3 Terzo.</w:t></w:r></w:p></w:body></w:document>'
         raw=io.BytesIO()

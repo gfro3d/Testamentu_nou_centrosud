@@ -6,6 +6,7 @@ import json
 import os
 import re
 import sys
+import time
 import zipfile
 from pathlib import Path
 import xml.etree.ElementTree as ET
@@ -61,6 +62,8 @@ def unique_map(records):
     result = {}
     for record in records:
         v = record["verse"]
+        if v in result and normal(result[v]) == normal(record["text"]):
+            continue
         if v in result:
             raise SyncError(f"Capitolo {record.get('chapter', '?')}, versetto {v}: numerazione duplicata.")
         result[v] = record["text"]
@@ -180,8 +183,12 @@ class Drive:
         self.http = AuthorizedSession(auth)
 
     def get(self, path, params=None, binary=False):
-        response = self.http.get("https://www.googleapis.com/drive/v3/" + path,
-                                 params=params, timeout=90)
+        for attempt in range(4):
+            response = self.http.get("https://www.googleapis.com/drive/v3/" + path,
+                                     params=params, timeout=90)
+            if response.status_code not in {429, 500, 502, 503, 504} or attempt == 3:
+                break
+            time.sleep(2 ** attempt)
         if response.status_code != 200:
             raise SyncError(f"Accesso Drive non riuscito (HTTP {response.status_code}).")
         return response.content if binary else response.json()
