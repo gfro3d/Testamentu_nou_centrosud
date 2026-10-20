@@ -113,7 +113,8 @@ def align(prefix, chapter, italian, records, variant):
             placeholder = ((verse in target and not meaningful(target[verse])) or
                            (verse in source and not meaningful(source[verse])))
             if not (approved or trailing_partial or placeholder):
-                raise SyncError("Buco di numerazione non verificato: revisione necessaria.")
+                side = "italiano" if not meaningful(a) else "sardo"
+                raise SyncError(f"{ref}: coppia incompleta ({side}), revisione necessaria.")
             excluded.append(ref)
             continue
         a, b = normal(a), normal(b)
