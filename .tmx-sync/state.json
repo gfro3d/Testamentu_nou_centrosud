@@ -1,9 +1,40 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "variant": "centro_sud",
   "branch": "main",
-  "initial_sync_completed": false,
+  "initial_sync_completed": true,
   "managed_output_directory": "tm/controllo-teologia",
-  "outputs": {},
-  "note": "Nessuna TMX pubblicata. Le fonti e il registro dettagliato Drive restano nell'automazione privata: non pubblicare ID, nomi di documenti, date o metadati privati su GitHub."
+  "outputs": {
+    "Matteo_it_sc_centro_sud.tmx": {
+      "sha256": "13e970e9f44f9da055ec6b5182ac12416502e99788190d51008cc0450d337306",
+      "units": 1070,
+      "first": "Mt1,1",
+      "last": "Mt28,20",
+      "excluded_references": [
+        "Mt23,14"
+      ]
+    },
+    "Marco_it_sc_centro_sud.tmx": {
+      "sha256": "e47fd32c21f668906510993d50d2fe1b69e29421bf12157ebb422cd78f51658c",
+      "units": 670,
+      "first": "Mc1,1",
+      "last": "Mc16,20",
+      "excluded_references": [
+        "Mc1,40",
+        "Mc7,16",
+        "Mc7,21",
+        "Mc7,22",
+        "Mc9,46"
+      ]
+    },
+    "Luca_it_sc_centro_sud.tmx": {
+      "sha256": "33ca0645f5574e14f21581148554d5767cb1cbec3840bb840dbe0e01a6974bff",
+      "units": 794,
+      "first": "Lc1,1",
+      "last": "Lc17,37",
+      "excluded_references": [
+        "Lc17,36"
+      ]
+    }
+  }
 }
