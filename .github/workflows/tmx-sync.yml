@@ -1,0 +1,64 @@
+name: TMX Vangeli da Drive
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/tmx-sync.yml'
+      - '.tmx-sync/**'
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+permissions:
+  contents: read
+concurrency:
+  group: tmx-drive-sync
+  cancel-in-progress: false
+jobs:
+  validate:
+    if: github.event_name != 'schedule' || vars.TMX_SYNC_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Validate Python and verse alignment tests
+        run: |
+          python3 -m py_compile .tmx-sync/sync_gospels.py .tmx-sync/test_sync.py
+          python3 -m unittest discover -s .tmx-sync -p 'test_*.py' -v
+  sync:
+    needs: validate
+    if: github.event_name != 'push' && vars.TMX_SYNC_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Install Drive client dependencies
+        run: python3 -m pip install --disable-pip-version-check -r .tmx-sync/requirements.txt
+      - name: Build and validate TMX files
+        env:
+          GOOGLE_DRIVE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_DRIVE_SERVICE_ACCOUNT_JSON }}
+          GOOGLE_DRIVE_SYNC_CONFIG: ${{ secrets.GOOGLE_DRIVE_SYNC_CONFIG }}
+          TMX_VARIANT: centro_sud
+        run: |
+          test -n "$GOOGLE_DRIVE_SERVICE_ACCOUNT_JSON" || { echo "::error::Missing GOOGLE_DRIVE_SERVICE_ACCOUNT_JSON secret"; exit 1; }
+          test -n "$GOOGLE_DRIVE_SYNC_CONFIG" || { echo "::error::Missing GOOGLE_DRIVE_SYNC_CONFIG secret"; exit 1; }
+          python3 .tmx-sync/sync_gospels.py
+      - name: Publish changed memories
+        run: |
+          git fetch origin main
+          test "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)" || { echo "::error::Main changed during generation; run again"; exit 1; }
+          git add -- tm/controllo-teologia .tmx-sync/state.json
+          if git diff --cached --quiet; then
+            echo "No changed TMX content."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update verse-aligned Gospel translation memories"
+          git push origin HEAD:main

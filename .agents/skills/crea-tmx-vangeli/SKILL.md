@@ -4,7 +4,7 @@ description: Generare e sincronizzare TMX Vangeli italiano CEI 1974 e sardo cent
 ---
 
 # TMX Vangeli italiano sardo
-Leggere .tmx-sync/state.json per le fonti, le versioni elaborate e la destinazione di questo repository.
+Leggere .tmx-sync/state.json per lo stato degli output. Le fonti Drive e le credenziali restano nei segreti GitHub Actions; leggere .tmx-sync/SETUP.md per l'attivazione.
 Repository autorizzati: gfro3d/Testamentu_nou_centronord e gfro3d/Testamentu_nou_centrosud, ramo main.
 Leggere omegat.project: con tm_dir __DEFAULT__ usare tm/controllo-teologia/ (minuscolo).
 Creare una TMX per Vangelo e variante con nomi stabili: Matteo_it_sc_centro_nord.tmx, Marco_it_sc_centro_nord.tmx, Luca_it_sc_centro_nord.tmx, Giovanni_it_sc_centro_nord.tmx; nel centro sud usare centro_sud.
@@ -26,9 +26,9 @@ Rileggere l'XML e confrontare segmenti, prefissi, conteggi, unicità, copertura 
 Aggiornare solo i file gestiti della variante corretta. Mantenere nomi stabili: ogni commit rappresenta una nuova versione, senza copie datate nella cartella TM attiva.
 Non modificare omegat/project_save.tmx, source/, target/, glossari, TMX manuali o la configurazione della segmentazione di OmegaT.
 Leggere gli SHA correnti prima di scrivere, usare commit senza force push, preferibilmente atomico per TMX e stato. Su concorrenza rileggere e riconciliare. Verificare pubblicazione mediante readback.
-Aggiornare lo stato con versioni/hash delle fonti elaborate, output, copertura, eccezioni e commit solo dopo il successo. Se fallisce un repository, non dichiararlo riuscito né ripetere i successi dell'altro.
+Aggiornare lo stato pubblico solo con hash degli output, conteggi e riferimenti di copertura. Non pubblicare identificativi Drive, URL privati, nomi o date delle fonti. Aggiornare lo stato soltanto dopo il successo. Se fallisce un repository, non dichiararlo riuscito né ripetere i successi dell'altro.
 Su perdita inattesa di capitoli o ambiguità, preservare la TMX valida e segnalare il blocco. Non sostituirla con dati vuoti o incompleti senza istruzione esplicita.
 Nessuna notifica e nessun commit TMX se il contenuto non cambia. Segnalare aggiornamenti con link ai commit e segnalare errori. Le sole modifiche di commenti o formattazione non richiedono TMX nuove.
 
 ## Esecuzione
-La skill definisce il flusso; l'automazione ChatGPT lo richiama ogni ora. Non è un trigger immediato di Drive. Se non si dispone di un ambiente capace di estrarre/validare le fonti e produrre XML, segnalare il blocco e non segnare la sincronizzazione come completata.
+Il workflow .github/workflows/tmx-sync.yml esegue test e sincronizzazione su GitHub Actions, indipendentemente dall'ambiente della chat. Leggere .tmx-sync/SETUP.md. Il programma .tmx-sync/sync_gospels.py estrae le fonti e valida le TMX; i test sono in .tmx-sync/test_sync.py. La variabile TMX_SYNC_ENABLED deve essere true per abilitare i controlli ogni ora; prima configurare GOOGLE_DRIVE_SERVICE_ACCOUNT_JSON e GOOGLE_DRIVE_SYNC_CONFIG nei segreti Actions di ciascun repository. Il vecchio controllo ChatGPT resta in pausa. Una configurazione presente o un test sintetico verde non equivalgono alla pubblicazione: verificare la prima esecuzione reale e i file TMX.
