@@ -6841,7 +6841,7 @@
         <seg>Lc17,2 È meglio per lui che gli sia messa al collo una pietra da mulino e venga gettato nel mare, piuttosto che scandalizzare uno di questi piccoli.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc17,2 Est mellus po issu chi dd'acapint a su tzugu una pedra de mola, e chi nci ddu ghetint a mari. chi no a scandulai a unu de custu piticheddus.</seg>
+        <seg>Lc17,2 Est mellus po issu chi dd'acapint a su tzugu una pedra de mola, e chi nci ddu ghetint a mari, chi no a scandulai a unu de custus piticheddus.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc17_3">
@@ -7003,7 +7003,7 @@
         <seg>Lc17,20 Interrogato dai farisei: "Quando verrà il regno di Dio?", rispose:</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc17,20 Preguntau de is fariseus: «Candu bènit su rennu de Deus?» E issu ddis iat arrespustu narendi:</seg>
+        <seg>Lc17,20 Preguntau de is fariseus: "Candu bènit su rennu de Deus?", ddis iat arrespustu:</seg>
       </tuv>
     </tu>
     <tu tuid="Lc17_21">
@@ -7093,7 +7093,7 @@
         <seg>Lc17,30 Così sarà nel giorno in cui il Figlio dell'uomo si rivelerà.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc17,30 Aici etotu at a èssiri sa dii chi su Fillu de s’òmini at a èssiri svelau.</seg>
+        <seg>Lc17,30 Aici etotu at a èssiri in sa dii chi su Fillu de s’òmini at a èssiri svelau.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc17_31">
@@ -7147,7 +7147,7 @@
         <seg>Lc17,37 Allora i discepoli gli chiesero: "Dove, Signore?". Ed egli disse loro: "Dove sarà il cadavere, là si raduneranno anche gli avvoltoi".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc17,37 Insaras is discìpulus dd’iant preguntau: «Innui, Sennori?». E issu ddis iat narau «Innui est su corpus, innia s’ant a pinnigai is àchilis puru».</seg>
+        <seg>Lc17,37 Insaras is discìpulus dd’iant preguntau: «Innui, Sennori?». E issu ddis iat narau: «Innui est su corpus, innia s’ant a pinnigai is àchilis/untruxus puru».</seg>
       </tuv>
     </tu>
   </body>
