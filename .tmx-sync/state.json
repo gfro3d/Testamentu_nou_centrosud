@@ -6,7 +6,7 @@
   "managed_output_directory": "tm/controllo-teologia",
   "outputs": {
     "Matteo_it_sc_centro_sud.tmx": {
-      "sha256": "02b69e60fbd1936aeb94bbf7fd0c415389a1a3b3b39f203b68de88ef5db2966c",
+      "sha256": "22958e6bd89d8939a3ff919c4289ae3e546965d21d806754888e083ae9f5a2df",
       "units": 1070,
       "first": "Mt1,1",
       "last": "Mt28,20",
@@ -15,7 +15,7 @@
       ]
     },
     "Marco_it_sc_centro_sud.tmx": {
-      "sha256": "e47fd32c21f668906510993d50d2fe1b69e29421bf12157ebb422cd78f51658c",
+      "sha256": "a08b1d2195c01a6ce42166e569be6e635521e5ac7cfe090889f293ffdddda441",
       "units": 670,
       "first": "Mc1,1",
       "last": "Mc16,20",
@@ -28,7 +28,7 @@
       ]
     },
     "Luca_it_sc_centro_sud.tmx": {
-      "sha256": "63b77f696bd5b003565b063ab2d8df2a5c8df064374624e89d48cd5dac2dcb4f",
+      "sha256": "5d99c506074c98583c332228f6ff27e2b907bf5f062cfae320c462e2a3c5d3e7",
       "units": 837,
       "first": "Lc1,1",
       "last": "Lc18,43",
