@@ -64,7 +64,7 @@
         <seg>Lc1,7 Ma non avevano figli, perché Elisabetta era sterile e tutti e due erano avanti negli anni.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc1,7 Ma no teniant unu fillu, ca Elisabeta fiat lunàdiga, e totus a is duus fiant intraus in edadi.</seg>
+        <seg>Lc1,7 Ma no teniant unu fillu, ca Elisabeta fiat lunàdiga, e ambaduus fiant intraus in edadi.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc1_8">
@@ -226,7 +226,7 @@
         <seg>Lc1,25 "Ecco che cosa ha fatto per me il Signore, nei giorni in cui si è degnato di togliere la mia vergogna tra gli uomini".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc1,25 «Ecu, ita at fatu/aici at fatu po mei su Sennori, in is diis chi m’at castiau po ndi tirai sa bregùnia mia ananti de is òminis».</seg>
+        <seg>Lc1,25 «Ecu, ita at fatu/aici at fatu po mei su Sennori, in is diis chi m’at castiau po ndi tirai sa bregùngia mia ananti de is òminis».</seg>
       </tuv>
     </tu>
     <tu tuid="Lc1_26">
@@ -523,7 +523,7 @@
         <seg>Lc1,58 I vicini e i parenti udirono che il Signore aveva esaltato in lei la sua misericordia, e si rallegravano con lei.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc1,58 Is bixinus e is parentis iant intèndiu ca su Sennori iat ammanniau sa misericòrdia sua cun Elisabeta, e si ndi prexànt cun issa.</seg>
+        <seg>Lc1,58 Is bixinus e is parentis iant intèndiu ca su Sennori iat ammanniau sa misericòrdia sua po Elisabeta, e si ndi prexànt cun issa.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc1_59">
@@ -613,7 +613,7 @@
         <seg>Lc1,68 "Benedetto il Signore Dio d'Israele, perché ha visitato e redento il suo popolo,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc1,68 «Beneitu su Sennori Deus de Israeli, po àiri abbisitau e fatu s’arrescatu de arredimiu su pòpulu suu,</seg>
+        <seg>Lc1,68 «Beneitu su Sennori Deus de Israeli, ca at abbisitau e fatu s’arrescatu de arredìmiu su pòpulu suu,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc1_69">
@@ -622,7 +622,7 @@
         <seg>Lc1,69 e ha suscitato per noi una salvezza potente nella casa di Davide, suo servo,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc1,69 po nd’àiri pesau/artziau po nosu unu sarvadori poderosu in sa domu de Dàvidi, serbidori suu,</seg>
+        <seg>Lc1,69 ca nd'at artziau po nosu unu sarbadori poderosu in sa domu de Dàvidi, serbidori suu,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc1_70">
@@ -640,7 +640,7 @@
         <seg>Lc1,71 salvezza dai nostri nemici, e dalle mani di quanti ci odiano.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc1,71 sarvamentu/sarvesa de is nemigus nostus, e de is manus de is chi si tenint in òdiu;</seg>
+        <seg>Lc1,71 sarvamentu de is nemigus nostus, e de is manus de is chi si tenint in òdiu;</seg>
       </tuv>
     </tu>
     <tu tuid="Lc1_72">
@@ -667,7 +667,7 @@
         <seg>Lc1,74 di concederci, liberati dalle mani dei nemici, di servirlo senza timore,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc1,74 po s’acantzai, lìbberaus de is manus de is nemigus nostus, de ddu serbiri chene timoria,</seg>
+        <seg>Lc1,74 po nos'acantzai, lìbberaus de is manus de is nemigus nostus, de ddu serbiri chene timoria,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc1_75">
@@ -730,7 +730,7 @@
         <seg>Lc2,1 In quei giorni un decreto di Cesare Augusto ordinò che si facesse il censimento di tutta la terra.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc2,1 Acuntèssit ca fiat bessiu unu decretu de Cèsari Augustu chi iat ordinau a fàiri su censimentu de totu sa terra.</seg>
+        <seg>Lc2,1 E fiat acuntèssiu ca fiat bessiu unu decretu de Cèsari Augustu chi iat ordinau a fàiri su censimentu de totu sa terra.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc2_2">
@@ -856,7 +856,7 @@
         <seg>Lc2,15 Appena gli angeli si furono allontanati per tornare al cielo, i pastori dicevano fra loro: "Andiamo fino a Betlemme, vediamo questo avvenimento che il Signore ci ha fatto conoscere".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc2,15 Acuntèssit ca/Cumenti is àngiulus si nci fiant stesiaus po nci torrai a celu, is pastoris si narànt s’unu cun s’àteru: «Andaus duncas fintzas a Betlemmi, a biri/e bieus custu acuntèssiu chi su Sennori s’at fatu connòsciri».</seg>
+        <seg>Lc2,15 Acuntèssit ca/Cumenti is àngiulus si nci fiant stesiaus po nci torrai a celu, is pastoris si narànt s’unu cun s’àteru: «Andeus duncas fintzas a Betlemmi, a biri/e bieus custu acuntèssiu chi su Sennori s’at fatu connòsciri».</seg>
       </tuv>
     </tu>
     <tu tuid="Lc2_16">
@@ -901,7 +901,7 @@
         <seg>Lc2,20 I pastori poi se ne tornarono, glorificando e lodando Dio per tutto quello che avevano udito e visto, com'era stato detto loro.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc2,20 A pustis is pastoris ndi fiant torraus, glorifichendi e laudendi a Deus po totu su chi iant intèndiu e bistu, cumenti ddis iant narau.</seg>
+        <seg>Lc2,20 A pustis is pastoris ndi fiant torraus, glorifichendi e laudendi a Deus po totu su chi iant intèndiu e bistu, cumenti ddis iant contau.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc2_21">
@@ -928,7 +928,7 @@
         <seg>Lc2,23 come è scritto nella Legge del Signore: Ogni maschio primogenito sarà sacro al Signore;</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc2,23 cumenti est scritu in sa Lei de su Sennori: Ònnia primu mascu (chi nàscit) at a èssiri sacru a su Sennori;</seg>
+        <seg>Lc2,23 cumenti est scritu in sa Lei de su Sennori: Ònnia primu fillu mascu at a èssiri sacru a su Sennori;</seg>
       </tuv>
     </tu>
     <tu tuid="Lc2_24">
@@ -964,7 +964,7 @@
         <seg>Lc2,27 Mosso dunque dallo Spirito, si recò al tempio; e mentre i genitori vi portavano il bambino Gesù per adempiere la Legge,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc2,27 Mòviu, duncas, de su Spìridu, fiat andau a su tèmpiu; e in s’interis chi sa mama e su babbu nci portànt a Gesùs po ddi fàiri su chi fiat cunforma a sa Lei,</seg>
+        <seg>Lc2,27 Mòviu, duncas, de su Spìridu, fiat arribbau a su tèmpiu; e in s’interis chi sa mama e su babbu nci portànt a Gesùs po ddi fàiri su chi fiat cunforma a sa Lei,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc2_28">
@@ -1117,7 +1117,7 @@
         <seg>Lc2,44 Credendolo nella carovana, fecero una giornata di viaggio, e poi si misero a cercarlo tra i parenti e i conoscenti;</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc2,44 Creendide·ddu in mesu de sa carovana, iant fatu una dii de caminu, e a pustis ddu circànt in mesu de is parentis e de is connoscentis;</seg>
+        <seg>Lc2,44 Creendide·ddu in mesu de sa carovana, a pustis chi iant fatu iant una dii de caminu, ddu circànt in mesu de is parentis e de is connoscentis;</seg>
       </tuv>
     </tu>
     <tu tuid="Lc2_45">
@@ -1261,7 +1261,7 @@
         <seg>Lc3,8 Fate dunque opere degne della conversione e non cominciate a dire in voi stessi: Abbiamo Abramo per padre! Perché io vi dico che Dio può far nascere figli ad Abramo anche da queste pietre.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,8 Fadei duncas frutus dìnniu de sa cunversioni e no cumentzeis a si narai intre bosàterus etotu: Teneus a Abramu po babbu! Ca deu bosi naru ca Deus a Abramu ndi podit boga/pesai fillus fintzas de custas pedras.</seg>
+        <seg>Lc3,8 Fadei duncas frutus dìnniu de sa cunversioni e no cumentzeis a si narai intre bosàterus etotu: Teneus a Abramu po babbu! Ca deu bosi naru ndi poditpesai fillus de Abramu fintzas de custas pedras.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_9">
@@ -1270,7 +1270,7 @@
         <seg>Lc3,9 Anzi, la scure è già posta alla radice degli alberi; ogni albero che non porta buon frutto, sarà tagliato e buttato nel fuoco".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,9 Antzis, sa seguri est giai posta in s’arreìxini de is matas; ònnia mata chi no donat frutu bonu, si ndi segat e si nci dda gheta a su fogu».</seg>
+        <seg>Lc3,9 Antzis, sa seguri est giai posta in s’arreìxini de is matas; ònnia mata chi no donat frutu bonu, si ndi segat e si nci ghetat a su fogu».</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_10">
@@ -1333,7 +1333,7 @@
         <seg>Lc3,16 Giovanni rispose a tutti dicendo: "Io vi battezzo con acqua; ma viene uno che è più forte di me, al quale io non son degno di sciogliere neppure il legaccio dei sandali: costui vi battezzerà in Spirito Santo e fuoco.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,16 Giuanni iat arrespustu a totus narendi: «Deu si bàtiu cun s’àcua; ma est benendi su chi est prus forti de mei, e deu a issu no seu dìnniu de ndi ddi scapiai mancu sa corria de is sàndulus; issu s’at a batiai in Spìridu Santu e in fogu.</seg>
+        <seg>Lc3,16 Giuanni iat arrespustu a totus narendi: «Deu bosi bàtiu cun s’àcua; ma est benendi su chi est prus forti de mei, e deu a issu no seu dìnniu de ndi ddi scapiai mancu sa corria de is sàndulus; issu s’at a batiai in Spìridu Santu e fogu.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_17">
@@ -1351,7 +1351,7 @@
         <seg>Lc3,18 Con molte altre esortazioni annunziava al popolo la buona novella.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,18 Cun medas atèras esortatzionis/consillus annuntziàt sa bona nova a su pòpulu.</seg>
+        <seg>Lc3,18 Cun medas atèras esortatzionis annuntziàt sa bona nova a su pòpulu.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_19">
@@ -1369,7 +1369,7 @@
         <seg>Lc3,20 aggiunse alle altre anche questa: fece rinchiudere Giovanni in prigione.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,20 iat aciuntu a is àteras custa puru: nc’iat fatu inserrai in presoni a Giuanni.</seg>
+        <seg>Lc3,20 iat aciuntu a is àterus custu puru: nci iat fatu inserrai in presoni a Giuanni.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_21">
@@ -1405,7 +1405,7 @@
         <seg>Lc3,24 figlio di Mattat, figlio di Levi, figlio di Melchi, figlio di Innai, figlio di Giuseppe,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,24 fillu de Matat, fillu de Levi, fillu de Melchi, fillu de Iannai, fillu de Giusepi,</seg>
+        <seg>Lc3,24 fillu de Matàt, fillu de Levi, fillu de Melchì, fillu de Iannai, fillu de Giusepi,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_25">
@@ -1414,7 +1414,7 @@
         <seg>Lc3,25 figlio di Mattatìa, figlio di Amos, figlio di Naum, figlio di Esli, figlio di Naggai,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,25 fillu de Matatias, fillu de Amos, fillu de Naum, fillu de Esli, fillu de Naggai,</seg>
+        <seg>Lc3,25 fillu de Matatias, fillu de Amos, fillu de Naùm, fillu de Eslì, fillu de Naggai,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_26">
@@ -1423,7 +1423,7 @@
         <seg>Lc3,26 figlio di Maat, figlio di Mattatia, figlio di Semein, figlio di Iosek, figlio di Ioda,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,26 fillu de Maat, fillu de Matatias, fillu de Sèmein, fillu de Josec, fillu de Joda,</seg>
+        <seg>Lc3,26 fillu de Màat, fillu de Matatias, fillu de Semein, fillu de Josèc, fillu de Jodà,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_27">
@@ -1432,7 +1432,7 @@
         <seg>Lc3,27 figlio di Ioanan, figlio di Resa, figlio di Zorobabele, figlio di Salatiel, figlio di Neri,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,27 fillu de Jòanan, fillu de Resa, fillu de Zorobabele, fillu de Salàtiel, fillu de Neri,</seg>
+        <seg>Lc3,27 fillu de Joanàn, fillu de Resà, fillu de Zorobabele, fillu de Salatièl, fillu de Nerì,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_28">
@@ -1441,7 +1441,7 @@
         <seg>Lc3,28 figlio di Melchi, figlio di Addi, figlio di Cosam, figlio di Elmadam, figlio di Er,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,28 fillu de Melchi, fillu de Addi, fillu de Cosam, fillu de Elmadàm, fillu de Er,</seg>
+        <seg>Lc3,28 fillu de Melchì, fillu de Addì, fillu de Cosàm, fillu de Elmadàm, fillu de Er,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_29">
@@ -1459,7 +1459,7 @@
         <seg>Lc3,30 figlio di Simeone, figlio di Giuda, figlio di Giuseppe, figlio di Ionam, figlio di Eliacim,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,30 fillu de Simeoni, fillu de Giudas, fillu de Giusepi, fillu de Jonam, fillu de Eliachim,</seg>
+        <seg>Lc3,30 fillu de Simeoni, fillu de Giudas, fillu de Giusepi, fillu de Jonàm, fillu de Eliachìm,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_31">
@@ -1468,7 +1468,7 @@
         <seg>Lc3,31 figlio di Melea, figlio di Menna, figlio di Mattata, figlio di Natam, figlio di Davide,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,31 fillu de Melea, fillu de Menna, fillu de Matatà, fillu de Natam, fllu de Dàvidi,</seg>
+        <seg>Lc3,31 fillu de Meleà, fillu de Mennà, fillu de Matatà, fillu de Natàm, fllu de Dàvidi,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_32">
@@ -1477,7 +1477,7 @@
         <seg>Lc3,32 figlio di Iesse, figlio di Obed, figlio di Booz, figlio di Sala, figlio di Naasson,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,32 fillu de Jesse, fillu de Obed, fillu de Booz, fillu de Sala, fillu de Naassòn,</seg>
+        <seg>Lc3,32 fillu de Jesse, fillu de Obèd, fillu de Boòz, fillu de Salà, fillu de Naassòn,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_33">
@@ -1486,7 +1486,7 @@
         <seg>Lc3,33 figlio di Aminadab, figlio di Admin, figlio di Arni, figlio di Esrom, figlio di Fares, figlio di Giuda,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,33 fillu de Aminadàb, fillu de Admin, fillu de Arni, fillu de Esrom, fillu de Fares, fillu de Giudas,</seg>
+        <seg>Lc3,33 fillu de Aminadàb, fillu de Admin, fillu de Arnì, fillu de Esròm, fillu de Farès, fillu de Giudas,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_34">
@@ -1495,7 +1495,7 @@
         <seg>Lc3,34 figlio di Giacobbe, figlio di Isacco, figlio di Abramo, figlio di Tare, figlio di Nacor,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,34 fillu de Giacobbu, fillu de Isacu, fillu de Abramu, fillu de Tara, fillu de Nacor,</seg>
+        <seg>Lc3,34 fillu de Giacobbu, fillu de Isacu, fillu de Abramu, fillu de Tarà, fillu de Nacòr,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_35">
@@ -1504,7 +1504,7 @@
         <seg>Lc3,35 figlio di Seruk, figlio di Ragau, figlio di Falek, figlio di Eber, figlio di Sala,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,35 fillu de Seruc, fillu de Ragau, fillu de Falec, fillu de Eber, fillu de Sala,</seg>
+        <seg>Lc3,35 fillu de Serùc, fillu de Ragau, fillu de Falec, fillu de Eber, fillu de Salà,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_36">
@@ -1513,7 +1513,7 @@
         <seg>Lc3,36 figlio di Cainam, figlio di Arfacsad, figlio di Sem, figlio di Noè, figlio di Lamech,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,36 fillu de Cainam, fillu de Arfacsad, fillu de Sem, fillu de Noè, fillu de Lamec,</seg>
+        <seg>Lc3,36 fillu de Cainàm, fillu de Arfacsàd, fillu de Sem, fillu de Noè, fillu de Lamec,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_37">
@@ -1522,7 +1522,7 @@
         <seg>Lc3,37 figlio di Matusalemme, figlio di Enoch, figlio di Iaret, figlio di Malleel, figlio di Cainam,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc3,37 fillu de Matusalemmi, fillu de Enoc, fillu de Jaret, fillu de Malelèl, fillu de Cainam,</seg>
+        <seg>Lc3,37 fillu de Matusalemmi, fillu de Enoc, fillu de Jaret, fillu de Malelèl, fillu de Cainàm,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc3_38">
@@ -1540,7 +1540,7 @@
         <seg>Lc4,1 Gesù, pieno di Spirito Santo, si allontanò dal Giordano e fu condotto dallo Spirito nel deserto</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc4,1 E Gesùs, prenu de Spìridu Santu, si nci fiat stesiau de su Giordanu e cun su Spìridu si moviat in su desertuddu ghiada in/a su desertu</seg>
+        <seg>Lc4,1 E Gesùs, prenu de Spìridu Santu, si nci fiat stesiau de su Giordanu e cun su Spìridu si moviat in su desertu</seg>
       </tuv>
     </tu>
     <tu tuid="Lc4_2">
@@ -1585,7 +1585,7 @@
         <seg>Lc4,6 "Ti darò tutta questa potenza e la gloria di questi regni, perché è stata messa nelle mie mani e io la do a chi voglio.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc4,6 «T’apu a donai totu custu potèntziae sa glòria insoru, ca mi dd’ant intregau e deu ddu dongu a chini bollu.</seg>
+        <seg>Lc4,6 «T’apu a donai totu custu potèntzia e sa glòria insoru, ca mi dd’ant intregau e deu ddu dongu a chini bollu.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc4_7">
@@ -1639,7 +1639,7 @@
         <seg>Lc4,12 Gesù gli rispose: "È stato detto: Non tenterai il Signore Dio tuo".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc4,12 Gesùs dd’iat arrespustu: «Ant narau: No as a tenteai a su Sennori Deus tuu».</seg>
+        <seg>Lc4,12 Gesùs dd’iat arrespustu: «Narau est: No as a tenteai a su Sennori Deus tuu».</seg>
       </tuv>
     </tu>
     <tu tuid="Lc4_13">
@@ -1648,7 +1648,7 @@
         <seg>Lc4,13 Dopo aver esaurito ogni specie di tentazione, il diavolo si allontanò da lui per ritornare al tempo fissato.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc4,13 A pustis de àiri acabbau ònnia arratza de tentatzioni, su tiàulu si nci fiat stesiau de issu fintzas a s’ocasioni bona.</seg>
+        <seg>Lc4,13 A pustis de àiri acabbau ònnia arratza de tentatzioni, su tiàulu si nci fiat stesiau de issu fintzas a su tempus stabbìliu.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc4_14">
@@ -1675,7 +1675,7 @@
         <seg>Lc4,16 Si recò a Nazaret, dove era stato allevato; ed entrò, secondo il suo solito, di sabato nella sinagoga e si alzò a leggere.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc4,16 Fiat andau a Nazarèt, innui dd’iant pesau; e cumenti fiat acostumau, in dii de sàbudu fiat intrau a sa sinagoga e si ndi fiat strantaxau po lìgiri.</seg>
+        <seg>Lc4,16 Fiat andau a Nàzaret, innui dd’iant pesau; e cumenti fiat acostumau, in dii de sàbudu fiat intrau a sa sinagoga e si ndi fiat strantaxau po lìgiri.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc4_17">
@@ -1684,7 +1684,7 @@
         <seg>Lc4,17 Gli fu dato il rotolo del profeta Isaia; apertolo trovò il passo dove era scritto:</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc4,17 Dd’iant donau su libru de Isaia; e sboddicauiat agatau su tretu innui ddoi fiat scritu:</seg>
+        <seg>Lc4,17 Dd’iant donau s'arròtulu de Isaia; dd'iat sboddiau e iat agatau su tretu innui ddoi fiat scritu:</seg>
       </tuv>
     </tu>
     <tu tuid="Lc4_18">
@@ -1693,7 +1693,7 @@
         <seg>Lc4,18 Lo Spirito del Signore è sopra di me; per questo mi ha consacrato con l'unzione, e mi ha mandato per annunziare ai poveri un lieto messaggio, per proclamare ai prigionieri la liberazione e ai ciechi la vista; per rimettere in libertà gli oppressi,</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc4,18 Su Spìridu de su Sennori est asuba de mei; po custu m’at cunsacrau po annuntziai a is pòburus sa bona nova e m’at mandau a ddis annuntziai sa libberatzioni a is presoneris, a is tzurpus ca ddis at a torrai sa bista ; a is oprimius ca ddus at a liberai ,</seg>
+        <seg>Lc4,18 Su Spìridu de su Sennori est asuba de mei; po custu m’at cunsacrau po annuntziai a is pòburus sa bona nova e m’at mandau a ddis annuntziai a is presoneris sa libberatzioni, a is tzurpus ca ddis at a torrai sa bista; a is oprìmius ca ddus at a liberai ,</seg>
       </tuv>
     </tu>
     <tu tuid="Lc4_19">
@@ -1711,7 +1711,7 @@
         <seg>Lc4,20 Poi arrotolò il volume, lo consegnò all'inserviente e sedette. Gli occhi di tutti nella sinagoga stavano fissi sopra di lui.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc4,20 A pustis iat imboddicausu libru, dd’iat donau a su serbidori e si fiat sètziu. Is ogus de totus in sa sinagoga fiant firmus asuba de issu.</seg>
+        <seg>Lc4,20 A pustis iat torrau a imboddiai s'arròtulu, dd’iat donau a su serbidori e si fiat sètziu. Is ogus de totus in sa sinagoga fiant firmus asuba de issu.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc4_21">
@@ -1837,7 +1837,7 @@
         <seg>Lc4,34 "Basta! Che abbiamo a che fare con te, Gesù Nazareno? Sei venuto a rovinarci? So bene chi sei: il Santo di Dio!".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc4,34 «Bastat! Ita est chi bolis de nosu, Gesùs Nazarenu? A s'arruinai ses bènniu? Sciu chini ses: su Santu se Deus!».</seg>
+        <seg>Lc4,34 «Bastat! Ita est chi bolis de nosu, Gesùs Nazarenu? A nosi arruinai ses bènniu? Sciu chini ses: su Santu se Deus!».</seg>
       </tuv>
     </tu>
     <tu tuid="Lc4_35">
@@ -1864,7 +1864,7 @@
         <seg>Lc4,37 E si diffondeva la fama di lui in tutta la regione.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc4,37 E sa fama sua si spainàt in ònnia tretu de sa regioni.</seg>
+        <seg>Lc4,37 E sa nomea sua si spainàt in ònnia tretu de sa regioni.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc4_38">
@@ -1909,7 +1909,7 @@
         <seg>Lc4,42 Sul far del giorno uscì e si recò in un luogo deserto. Ma le folle lo cercavano, lo raggiunsero e volevano trattenerlo perché non se ne andasse via da loro.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc4,42 A sa fata de sa dii dii/a dii fata Gesùs fiat bessiu e fiat andau a unu logu desertu. Ma sa genti fiat circhendide·ddu, nci dd’iat sighiu e circàt de ddu tratènniri po chi no si nd’essat andau.</seg>
+        <seg>Lc4,42 A sa fata de sa dii dii/a dii fata Gesùs fiat bessiu e fiat andau a unu logu desertu. Ma sa genti fiat circhendide·ddu, nci dd’iat sighiu e circàt de ddu tratènniri po chi no si ndi fessit andau.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc4_43">
@@ -1999,7 +1999,7 @@
         <seg>Lc5,8 Al veder questo, Simon Pietro si gettò alle ginocchia di Gesù, dicendo: "Signore, allontanati da me che sono un peccatore".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc5,8 Biendi aici, Simoni Pedru si nci fiat ghetau a is genugus de Gesùs, narendi: «Sennori, scostia·ti·nci de mei ca seu pecadori».</seg>
+        <seg>Lc5,8 Biendi aici, Simoni Pedru si nci fiat ghetau a is genugus de Gesùs, narendi: «Sennori, scostia·ti·nci de mei ca seu òmini pecadori».</seg>
       </tuv>
     </tu>
     <tu tuid="Lc5_9">
@@ -2044,7 +2044,7 @@
         <seg>Lc5,13 Gesù stese la mano e lo toccò dicendo: "Lo voglio, sii risanato!". E subito la lebbra scomparve da lui.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc5,13 E Gesùs stendiendi sa manu, dd’iat tocau narendi: «Gei bollu, sanau sias!». E deretu sa lebbra ddi fiat passada e fiat sanau.</seg>
+        <seg>Lc5,13 E Gesùs stendiendi sa manu, dd’iat tocau narendi: «Gei bollu, purificau sias!». E deretu sa lebbra ddi fiat passada e fiat sanau.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc5_14">
@@ -2053,7 +2053,7 @@
         <seg>Lc5,14 Gli ingiunse di non dirlo a nessuno: "Va', mostrati al sacerdote e fa' l'offerta per la tua purificazione, come ha ordinato Mosè, perché serva di testimonianza per essi".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc5,14 Dd’iat pretzetau a no narai nudda a nemus: «Bai, presenta·tì a su sacerdotu e oferi po sa purificatzioni tua, cumenti iat cumandau Mosè, a testimonia po issus».</seg>
+        <seg>Lc5,14 Dd’iat pretzetau a no narai nudda a nemus: «Bai, presenta·tì a su sacerdotu e oferi po sa purificatzioni tua, cumenti iat cumandau Mosè po chi serbat de testimonia a issus.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc5_15">
@@ -2080,7 +2080,7 @@
         <seg>Lc5,17 Un giorno sedeva insegnando. Sedevano là anche farisei e dottori della legge, venuti da ogni villaggio della Galilea, della Giudea e da Gerusalemme. E la potenza del Signore gli faceva operare guarigioni.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc5,17 Una dii fiat sètziu donendi imparu. Fiant sètzius innia fintzas fariseus e dotoris de sa lei, arribbaus de ònnia bidda de sa Galilea, de sa Giudea e de Gerusalemmi. E sa potèntzia de su Sennori ddi faiat sanai sa genti</seg>
+        <seg>Lc5,17 Una dii fiat sètziu donendi imparu. Fiant sètzius innia fintzas fariseus e dotoris de sa lei, arribbaus de ònnia bidda de sa Galilea, de sa Giudea e de Gerusalemmi. E sa potèntzia de su Sennori fiat cun issu po ddi fàiri sanai sa genti.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc5_18">
@@ -2089,7 +2089,7 @@
         <seg>Lc5,18 Ed ecco alcuni uomini, portando sopra un letto un paralitico, cercavano di farlo passare e metterlo davanti a lui.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc5,18 E ecu unus cantu òminis, portendi unu màrturu asuba de una stoja, circànt de ddu fàiri passai e de ddu pònniri ananti suu.</seg>
+        <seg>Lc5,18 E ecu unus cantu òminis, portendi unu màrturu asuba de unu letu, circànt de ddu fàiri passai e de ddu pònniri ananti suu.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc5_19">
@@ -2098,7 +2098,7 @@
         <seg>Lc5,19 Non trovando da qual parte introdurlo a causa della folla, salirono sul tetto e lo calarono attraverso le tegole con il lettuccio davanti a Gesù, nel mezzo della stanza.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc5,19 No agatendi de cali parti ddu fàiri intrai po mori de sa genti meda, fiant artziaus a sa crobetura e nci dd’iant calau in sa tèula cun sa stoja, in mesu, ananti a Gesùs.</seg>
+        <seg>Lc5,19 No agatendi de cali parti ddu fàiri intrai po mori de sa genti meda, fiant artziaus a sa crobetura e nci dd’iant calau in sa tèula cun su letu in mesu a s'aposentu, ananti a Gesùs.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc5_20">
@@ -2116,7 +2116,7 @@
         <seg>Lc5,21 Gli scribi e i farisei cominciarono a discutere dicendo: "Chi è costui che pronuncia bestemmie? Chi può rimettere i peccati, se non Dio soltanto?".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc5,21 Is scribas e is fariseus iant cumentzau a arrexonai narendi: «Chini est custu chi narat frastimus? Chini est chi podit perdonai is pecaus, si no Deus sceti?».</seg>
+        <seg>Lc5,21 Is scribas e is fariseus iant cumentzau a arrexonai intre issus narendi: «Chini est custu chi narat frastimus? Chini est chi podit perdonai is pecaus, si no Deus sceti?».</seg>
       </tuv>
     </tu>
     <tu tuid="Lc5_22">
@@ -2125,7 +2125,7 @@
         <seg>Lc5,22 Ma Gesù, conosciuti i loro ragionamenti, rispose: "Che cosa andate ragionando nei vostri cuori?</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc5,22 Ma Gesùs connoscendi is arrexonamentus insoru, iat arrespustu: «Ita seis arrexonendi in corus bostus?</seg>
+        <seg>Lc5,22 Ma Gesùs connoscendi is arrexonamentus insoru, iat arrespustu: «Ita seis arrexonendi in coru bostu?</seg>
       </tuv>
     </tu>
     <tu tuid="Lc5_23">
@@ -2467,7 +2467,7 @@
         <seg>Lc6,21 Beati voi che ora avete fame, perché sarete saziati. Beati voi che ora piangete, perché riderete.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc6,21 Biaus bosàterus chi immoi teneis fàmini, ca as a èssiri pràndius. Biaus bosàterus chi immoi seis prangendi, ca eis a arriri.</seg>
+        <seg>Lc6,21 Biaus bosàterus chi immoi teneis fàmini, ca eis a èssiri pràndius. Biaus bosàterus chi immoi seis prangendi, ca eis a arriri.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc6_22">
@@ -2476,7 +2476,7 @@
         <seg>Lc6,22 Beati voi quando gli uomini vi odieranno e quando vi metteranno al bando e v'insulteranno e respingeranno il vostro nome come scellerato, a causa del Figlio dell'uomo.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc6,22 Biaus bosàterus candu is òminis s’ant a odiai e candu bos’ant a pònniri abbanda e s’ant a ingiuriai e ant a disfamiai su nòmini bostu cumente malu, po mori de su Fillu de s’òmini.</seg>
+        <seg>Lc6,22 Biaus bosàterus candu is òminis bos'ant a odiai e candu bos’ant a pònniri abbanda e bos’ant a ingiuriai e ant a disfamiai su nòmini bostu cumente malu, po mori de su Fillu de s’òmini.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc6_23">
@@ -2494,7 +2494,7 @@
         <seg>Lc6,24 Ma guai a voi, ricchi, perché avete già la vostra consolazione.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc6,24 Ma arguai a bosàterus, arricus, ca su consolu bostu ddu teneis giai.</seg>
+        <seg>Lc6,24 Ma arguai a bosàterus, arricus, ca su consolu bostu dd'eis giai pigau.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc6_25">
@@ -2530,7 +2530,7 @@
         <seg>Lc6,28 benedite coloro che vi maledicono, pregate per coloro che vi maltrattano.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc6,28 beneixei a is chi bosi maleixint, pregai po is chi bosi ofendint.</seg>
+        <seg>Lc6,28 beneixei a is chi bosi maleixint, pregai po is chi bosi tratant mali.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc6_29">
@@ -2566,7 +2566,7 @@
         <seg>Lc6,32 Se amate quelli che vi amano, che merito ne avrete? Anche i peccatori fanno lo stesso.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc6,32 Chi stimais a is chi si stimant, ita mèritu ndi teneis? Ca is pecadoris puru stimant a is chi ddus stimant.</seg>
+        <seg>Lc6,32 Chi stimais a is chi bosi stimant, ita mèritu ndi teneis? Ca is pecadoris puru stimant a is chi ddus stimant.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc6_33">
@@ -2584,7 +2584,7 @@
         <seg>Lc6,34 E se prestate a coloro da cui sperate ricevere, che merito ne avrete? Anche i peccatori concedono prestiti ai peccatori per riceverne altrettanto.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc6,34 E chi imprestais cosa a is chi sperais chi si dda torrint, ita mèritu ndi teneis? Is pecadoris puru imprestant a is pecadoris po chi ndi ddis torrint aturetanti.</seg>
+        <seg>Lc6,34 E chi imprestais cosa a is chi sperais chi bosi dda torrint, ita mèritu ndi teneis? Is pecadoris puru imprestant a is pecadoris po chi ndi ddis torrint aturetanti.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc6_35">
@@ -2683,7 +2683,7 @@
         <seg>Lc6,45 L'uomo buono trae fuori il bene dal buon tesoro del suo cuore; l'uomo cattivo dal suo cattivo tesoro trae fuori il male, perché la bocca parla dalla pienezza del cuore.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc6,45 S’òmini bonu ndi bogat su beni de su siddau bonu de su coru suu; e s’òmini malu ndi bogat su mali de su malu, ca sa buca fueddat de sa prenesa de su coru.</seg>
+        <seg>Lc6,45 S’òmini bonu ndi bogat su beni de su siddau bonu de su coru suu; e s’òmini malu ndi bogat su mali de su siddau malu suu, ca sa buca fueddat de sa prenesa de su coru.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc6_46">
@@ -2719,7 +2719,7 @@
         <seg>Lc6,49 Chi invece ascolta e non mette in pratica, è simile a un uomo che ha costruito una casa sulla terra, senza fondamenta. Il fiume la investì e subito crollò; e la rovina di quella casa fu grande".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc6,49 E chini at ascurtau e no at postu in pràtica, assimbillat/est che a un’òmini chi iat fabricau una domu in sa terra, chene fundamentas. Su frùmini nci fiat atumbau contras e luegu ndi fiat arruta; e su sciùsciu de cussa domu fiat stètiu mannu.</seg>
+        <seg>Lc6,49 E chini at ascurtau e no at postu in pràtica, assimbillat a un’òmini chi iat fabricau una domu in sa terra, chene fundamentas. Su frùmini nci fiat atumbau contras e luegu ndi fiat arruta; e su sciùsciu de cussa domu fiat stètiu mannu.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc7_1">
@@ -2737,7 +2737,7 @@
         <seg>Lc7,2 Il servo di un centurione era ammalato e stava per morire. Il centurione l'aveva molto caro.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc7,2 Unu tzeracu de unu centurioni fiat malàidu e acanta de si mòrriri; su centurioni ddu teniat in prètziu.</seg>
+        <seg>Lc7,2 Unu tzeracu de unu centurioni fiat malàidu e acanta de si mòrriri; su centurioni ddu teniat in prètziu meda.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc7_3">
@@ -2809,7 +2809,7 @@
         <seg>Lc7,10 E gli inviati, quando tornarono a casa, trovarono il servo guarito.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc7,10 E is missus,candu fiant torraus a domu, iant agatau su serbidori sanau.</seg>
+        <seg>Lc7,10 E is missus,candu fiant torraus a domu, iant agatau su tzeracu sanau.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc7_11">
@@ -2908,7 +2908,7 @@
         <seg>Lc7,21 In quello stesso momento Gesù guarì molti da malattie, da infermità, da spiriti cattivi e donò la vista a molti ciechi.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc7,21 In cuss’ora etotu Gesùs iat sanau a medas de maladias, de malis, de spìridus malus e iat donau sa bista a meda tzurpus.</seg>
+        <seg>Lc7,21 In cussu momentu etotu Gesùs iat sanau a medas de maladias, de malis, de spìridus malus e iat donau sa bista a meda tzurpus.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc7_22">
@@ -2980,7 +2980,7 @@
         <seg>Lc7,29 Tutto il popolo che lo ha ascoltato, e anche i pubblicani, hanno riconosciuto la giustizia di Dio ricevendo il battesimo di Giovanni.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc7,29 Totu su pòpulu chi at ascurtau, e is publicanus puru, ant arreconnotu ca Deus teniat arrexoni, arricendi su batiari de Giuanni/ca si fiant fatus batiai de Giuanni.</seg>
+        <seg>Lc7,29 Totu su pòpulu chi dd'at ascurtau, e is publicanus puru, ant arreconnotu sa giustìtzia de Deus, arricendi su batiari de Giuanni.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc7_30">
@@ -3043,7 +3043,7 @@
         <seg>Lc7,36 Uno dei farisei lo invitò a mangiare da lui. Egli entrò nella casa del fariseo e si mise a tavola.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc7,36 Unu de is fariseus dd’iat cumbidau a papai cun issu. E issu fiat intrau a sa domu de su fariseu e si fiat postu in mesa/stèrriu a papai.</seg>
+        <seg>Lc7,36 Unu de is fariseus dd’iat cumbidau a papai cun issu. E issu fiat intrau a sa domu de su fariseu e si fiat postu in mesa.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc7_37">
@@ -3052,7 +3052,7 @@
         <seg>Lc7,37 Ed ecco una donna, una peccatrice di quella città, saputo che si trovava nella casa del fariseo, venne con un vasetto di olio profumato;</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc7,37 E ecu a una fèmina, una pecadora chi fiat de cussa citadi, sciendi ca fiat sètziu/papendi in domu de su fariseu, nc’iat portau un’ampuddixedda de alabbastru de ollu profumau;</seg>
+        <seg>Lc7,37 E ecu a una fèmina, una pecadora chi fiat de cussa citadi, sciendi ca fiat papendi in domu de su fariseu, nci iat portau un’ampuddixedda de alabbastru prena de ollu profumau;</seg>
       </tuv>
     </tu>
     <tu tuid="Lc7_38">
@@ -3079,7 +3079,7 @@
         <seg>Lc7,40 Gesù allora gli disse: "Simone, ho una cosa da dirti". Ed egli: "Maestro, di' pure".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc7,40 E Gesùs, arrespundendi, ddi naràt: «Simoni, tengu cosa de ti narai». E issu: «Nara, su Maistu».</seg>
+        <seg>Lc7,40 E Gesùs, arrespundendi, ddi naràt: «Simoni, tengu cosa de ti narai». E issu: «Su Maistu, nara».</seg>
       </tuv>
     </tu>
     <tu tuid="Lc7_41">
@@ -3223,7 +3223,7 @@
         <seg>Lc8,6 Un'altra parte cadde sulla pietra e appena germogliata inaridì per mancanza di umidità.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc8,6 E un’àtera parti fiat arruta asuba de sa pedra e cumenti iat intzeurrau si fiat sicada poita ca ddi mancàt/no teniat umidori.</seg>
+        <seg>Lc8,6 E un’àtera parti fiat arruta asuba de sa pedra e cumenti iat intzeurrau si fiat sicada poita ca ddi mancàt umidori.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc8_7">
@@ -3241,7 +3241,7 @@
         <seg>Lc8,8 Un'altra cadde sulla terra buona, germogliò e fruttò cento volte tanto". Detto questo, esclamò: "Chi ha orecchi per intendere, intenda!".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc8,8 Un’àtera nci fiat arruta in sa terra bona, iat intzeurrau e iat frutau centu bortas tanti». E narau custu, iat aboxinau: «Chini portat origas po intèndiri chi intedat!».</seg>
+        <seg>Lc8,8 Un’àtera nci fiat arruta in sa terra bona, iat intzeurrau e iat frutau centu bortas tanti». E narau custu, iat aboxinau: «Chini portat origas po intèndiri chi intendat!».</seg>
       </tuv>
     </tu>
     <tu tuid="Lc8_9">
@@ -3259,7 +3259,7 @@
         <seg>Lc8,10 Ed egli disse: "A voi è dato conoscere i misteri del regno di Dio, ma agli altri solo in parabole, perché vedendo non vedano e udendo non intendano.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc8,10 E issu iat narau: «A bosàterus est donau a connòsciri is mistèrius de su rennu de Deus, ma a is àterus sceti in paràbulas, po chi biendi no biant e ascurtendi no intendant/cumprendant.</seg>
+        <seg>Lc8,10 E issu iat narau: «A bosàterus est donau a connòsciri is mistèrius de su rennu de Deus, ma a is àterus sceti in paràbulas, po chi biendi no biant e ascurtendi no cumprendant.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc8_11">
@@ -3268,7 +3268,7 @@
         <seg>Lc8,11 Il significato della parabola è questo: Il seme è la parola di Dio.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc8,11 Sa paràbula est custa/bolit narai custu: Su sèmini est sa paràula de Deus.</seg>
+        <seg>Lc8,11 Sa paràbula bolit narai custu: Su sèmini est sa paràula de Deus.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc8_12">
@@ -3286,7 +3286,7 @@
         <seg>Lc8,13 Quelli sulla pietra sono coloro che, quando ascoltano, accolgono con gioia la parola, ma non hanno radice; credono per un certo tempo, ma nell'ora della tentazione vengono meno.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc8,13 Cuddus in sa pedra funt is chi, candu ascurtant, arricint cun gosu sa paràula, ma no tenint arreìxini; creint unu pagu de tempus, ma in s’ora de sa tentatzioni si storrant.</seg>
+        <seg>Lc8,13 Cuddus in sa pedra funt is chi, candu ascurtant, arricint cun gosu sa paràula, ma no tenint arreìxini; creint po una scuta, ma in s’ora de sa tentatzioni si storrant.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc8_14">
@@ -3304,7 +3304,7 @@
         <seg>Lc8,15 Il seme caduto sulla terra buona sono coloro che, dopo aver ascoltato la parola con cuore buono e perfetto, la custodiscono e producono frutto con la loro perseveranza.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc8,15 E su sèmini arrutu in sa terra bona funt is chi, a pustis de àiri ascurtau sa paràula cun coru bonu e perfetu, si dda poderant e donant frutu cun firmesa.</seg>
+        <seg>Lc8,15 E su sèmini arrutu in sa terra bona funt is chi, a pustis de àiri ascurtau sa paràula cun coru bonu e perfetu, si dda poderant e donant frutu cun perseveràntzia.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc8_16">
@@ -3367,7 +3367,7 @@
         <seg>Lc8,22 Un giorno salì su una barca con i suoi discepoli e disse: "Passiamo all'altra riva del lago". Presero il largo.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc8,22 E fiat acuntèssiu ca una dii fiat artziau a una barca cun is discìpulus suus e iat narau: «Passaus a s’àteru oru de su lagu». E nci fiant bessius.</seg>
+        <seg>Lc8,22 E fiat acuntèssiu ca una dii fiat artziau a una barca cun is discìpulus suus e iat narau: «Passeus a s’àteru oru de su lagu». E nci fiant bessius.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc8_23">
@@ -3475,7 +3475,7 @@
         <seg>Lc8,34 Quando videro ciò che era accaduto, i mandriani fuggirono e portarono la notizia nella città e nei villaggi.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc8,34 Candu iant bistu su chi fiat acuntèssiu, is procaxus si fiant fuius e iant annuntziau sa nova in sa citadi e in su sartu.</seg>
+        <seg>Lc8,34 Candu iant bistu su chi fiat acuntèssiu, is procaxus si fiant fuius e iant contau sa nova in sa citadi e in su sartu.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc8_35">
@@ -3493,7 +3493,7 @@
         <seg>Lc8,36 Quelli che erano stati spettatori riferirono come l'indemoniato era stato guarito.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc8,36 Is chi iant bistu ddis iat annuntziau cumenti fiat stètiu sanau s'indimoniau.</seg>
+        <seg>Lc8,36 Is chi iant bistu ddis iat contau cumenti fiat sanau s'indimoniau.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc8_37">
@@ -3682,7 +3682,7 @@
         <seg>Lc9,1 Egli allora chiamò a sé i Dodici e diede loro potere e autorità su tutti i demòni e di curare le malattie.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,1 E issu iat tzerriau a is Doxi, ddis iat donau poderi e autoridadi asuba de totu is dimònius e de sanai is maladias.</seg>
+        <seg>Lc9,1 Issu insaras, tzerriaus a is Doxi, ddis iat donau poderi e autoridadi asuba de totu is dimònius e de sanai is maladias.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_2">
@@ -3727,7 +3727,7 @@
         <seg>Lc9,6 Allora essi partirono e passavano di villaggio in villaggio, annunziando dovunque la buona novella e operando guarigioni.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,6 Tandu issus fiant mòvius e passànt de bidda in bidda, annuntziendi apetotu sa bona nova e sanendi apetotu.</seg>
+        <seg>Lc9,6 Tandu issus fiant mòvius e passànt de bidda in bidda, annuntziendi sa bona nova e sanendi apetotu.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_7">
@@ -3826,7 +3826,7 @@
         <seg>Lc9,17 Tutti mangiarono e si saziarono e delle parti loro avanzate furono portate via dodici ceste.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,17 Totus iant papau e si fiant pràndius, e nd’iant pigau su chi fiat abarrau de is arrogus: doxi cofas.</seg>
+        <seg>Lc9,17 Totus iant papau e si fiant pràndius, e de su chi fiat abarrau de is arrogus nd'iant pigau doxi cofas.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_18">
@@ -3862,7 +3862,7 @@
         <seg>Lc9,21 Egli allora ordinò loro severamente di non riferirlo a nessuno.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,21 Ma issu ddus iat ameletzau e ddis iat cumandau/ddis iat cumandau cun firmesa a no ddu narai a nemus.</seg>
+        <seg>Lc9,21 Ma issu ddus iat amonestaus e ddis iat cumandau a no ddu narai a nemus.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_22">
@@ -3889,7 +3889,7 @@
         <seg>Lc9,24 Chi vorrà salvare la propria vita, la perderà, ma chi perderà la propria vita per me, la salverà.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,24 Ca chini at a bòlliri sarvai sa vida sua, dd’at a pèrdiri, ma chini at a pèrdiri sa vida sua po mori miu, issu dd’at a sarvai.</seg>
+        <seg>Lc9,24 Ca chini at a bòlliri sarvai sa vida sua dd’at a pèrdiri, ma chini at a pèrdiri sa vida sua po mori miu, issu dd’at a sarvai.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_25">
@@ -3934,7 +3934,7 @@
         <seg>Lc9,29 E, mentre pregava, il suo volto cambiò d'aspetto e la sua veste divenne candida e sfolgorante.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,29 E fiat acuntèssiu ca, in s’interis chi fiat preghendi, sa faci sua iat mudau de bisura e sa bestimenta sua si fiat fata bianca e luxenti.</seg>
+        <seg>Lc9,29 E in s’interis chi fiat preghendi, sa faci sua iat mudau de bisura e sa bestimenta sua si fiat fata bianca e luxenti.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_30">
@@ -3952,7 +3952,7 @@
         <seg>Lc9,31 apparsi nella loro gloria, e parlavano della sua dipartita che avrebbe portato a compimento a Gerusalemme.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,31 aparèssius in glòria, e chistionànt de s’èsodu suu/s'andada sua chi fiat acanta de cumpriri in Gerusalemmi.</seg>
+        <seg>Lc9,31 aparèssius in glòria, e chistionànt de s'andada sua chi fiat acanta de cumpriri in Gerusalemmi.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_32">
@@ -3988,7 +3988,7 @@
         <seg>Lc9,35 E dalla nube uscì una voce, che diceva: "Questi è il Figlio mio, l'eletto; ascoltatelo".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,35 E de sa nui ndi fit bessia una boxi chi naràt: «Custu est su Fillu miu, su chi apu scioberau/s’eletu; ascurtaide·ddu».</seg>
+        <seg>Lc9,35 E de sa nui ndi fit bessia una boxi chi naràt: «Custu est su Fillu miu, su chi apu scioberau; ascurtaide·ddu».</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_36">
@@ -3997,7 +3997,7 @@
         <seg>Lc9,36 Appena la voce cessò, Gesù restò solo. Essi tacquero e in quei giorni non riferirono ad alcuno ciò che avevano visto.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,36 Candu sa boxi iat sentzau, Gesùs si fiat agatau a solu. Issus fiant abarraus a sa muda, e in cussas diis no iant contau nudda, a nemus, de su chi iant bistu.</seg>
+        <seg>Lc9,36 Candu sa boxi iat sentzau, Gesùs si fiat agatau a sa sola. Issus fiant abarraus a sa muda, e in cussas diis no iant contau nudda, a nemus, de su chi iant bistu.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_37">
@@ -4024,7 +4024,7 @@
         <seg>Lc9,39 Ecco, uno spirito lo afferra e subito egli grida, lo scuote ed egli dà schiuma e solo a fatica se ne allontana lasciandolo sfinito.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,39 E mira, unu spìridu dd'aferrat e totinduna aboxinat, ddu scotulat a forti, boghendi spuma e, a trabballu, destrossendide·ddu, si ndi stesiat de issu.</seg>
+        <seg>Lc9,39 Unu spìridu dd'aferrat e totinduna issu aboxinat, ddu scotulat a forti, boghendi spuma e, a trabballu, destrossendide·ddu, si nci stesiat de issu.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_40">
@@ -4033,7 +4033,7 @@
         <seg>Lc9,40 Ho pregato i tuoi discepoli di scacciarlo, ma non ci sono riusciti".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,40 Apu pregau a is discìpulus tuus a nci ddu bogai, ma no nci dd’ant fata/no ant pòtziu».</seg>
+        <seg>Lc9,40 Apu pregau a is discìpulus tuus a nci ddu bogai, ma no nci funt arrennèscius.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_41">
@@ -4042,7 +4042,7 @@
         <seg>Lc9,41 Gesù rispose: "O generazione incredula e perversa, fino a quando sarò con voi e vi sopporterò? Conducimi qui tuo figlio".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,41 E Gesùs iat arrespustu: «Oh generatzioni chene fidi e trevessa, fintzas a candu apu a èssiri cun bosàterus? Fintzas a candu m’at a tocai a bosi baliai? Beti·mi·ndi a innoi a fillu tuu».</seg>
+        <seg>Lc9,41 E Gesùs iat arrespustu: «O generatzioni chene fidi e trevessa, fintzas a candu apu a èssiri cun bosàterus? Fintzas a candu m’at a tocai a bosi baliai? Beti·mi·ndi a innoi a fillu tuu».</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_42">
@@ -4051,7 +4051,7 @@
         <seg>Lc9,42 Mentre questi si avvicinava, il demonio lo gettò per terra agitandolo con convulsioni. Gesù minacciò lo spirito immondo, risanò il fanciullo e lo consegnò a suo padre.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,42 Cumenti cussu fiat acostiendi·sì, su dimòniu nci dd’iat scutu a terra e dd’iat scutulau cun violèntzia. Gesùs iat ameletzau a su spìridu malu, iat sanau a su piciocheddu e dd’iat torrau a su babbu.</seg>
+        <seg>Lc9,42 Cumenti issu fiat acostiendi·sì, su dimòniu nci dd’iat scutu a terra e dd’iat scutulau cun violèntzia. Gesùs iat ameletzau a su spìridu malu, iat sanau a su piciocheddu e dd’iat torrau a su babbu.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_43">
@@ -4069,7 +4069,7 @@
         <seg>Lc9,44 "Mettetevi bene in mente queste parole: Il Figlio dell'uomo sta per esser consegnato in mano degli uomini".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,44 «Ponei·sì custas pàraulas me is corus de bosàterus; Ponei·sì in conca custas paràulas: Poita ca su Fillu de s’òmini est acanta de èssiri intregau in is manus de is òminis».</seg>
+        <seg>Lc9,44 «Ponei·sì in conca custas paràulas: Poita ca su Fillu de s’òmini est acanta de èssiri intregau in is manus de is òminis».</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_45">
@@ -4078,7 +4078,7 @@
         <seg>Lc9,45 Ma essi non comprendevano questa frase; per loro restava così misteriosa che non ne comprendevano il senso e avevano paura a rivolgergli domande su tale argomento.</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,45 Ma issus no cumprendiant custas paràulas; po issus abarrànt cuadas po chi no nd’essant boddiu su sentidu e timiant a ddi fàiri preguntas asuba de custas paràulas.</seg>
+        <seg>Lc9,45 Ma issus no cumprendiant custas paràulas; po issus abarrànt cuadas po chi no ndi cumprendessint su sentidu e timiant a ddi fàiri preguntas asuba de custas paràulas.</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_46">
@@ -4114,7 +4114,7 @@
         <seg>Lc9,49 Giovanni prese la parola dicendo: "Maestro, abbiamo visto un tale che scacciava demòni nel tuo nome e glielo abbiamo impedito, perché non è con noi tra i tuoi seguaci".</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,49 E Giuanni dd’iat arrespustu: «Su Maistu, eus bistu a unu boghendide·nci dimònius in nòmini tuu e si dd’eus proibbiu, ca no est de is nostus».</seg>
+        <seg>Lc9,49 E Giuanni dd’iat arrespustu: «Su Maistu, eus bistu a unu boghendide·nci dimònius in nòmini tuu e si dd’eus proibbiu, ca no no ti sighit cun nosu».</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_50">
@@ -4132,7 +4132,7 @@
         <seg>Lc9,51 Mentre stavano compiendosi i giorni in cui sarebbe stato tolto dal mondo, si diresse decisamente verso Gerusalemme</seg>
       </tuv>
       <tuv xml:lang="sc">
-        <seg>Lc9,51 E fiat acuntèssiu ca intamis fiant cumprendi is diis de s’assuntzioni/ascensioni sua, issu iat impunnau cun firmesa conca a Gerusalemmi</seg>
+        <seg>Lc9,51 E fiat acuntèssiu ca candu fiant cumprendi·sì is diis de nci èssiri pesau a celu, issu fiat mòviu deretu conca a Gerusalemmi</seg>
       </tuv>
     </tu>
     <tu tuid="Lc9_52">
