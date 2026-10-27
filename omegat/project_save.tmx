@@ -10398,6 +10398,14 @@ No tentis a su Sennori su Deus tuu».</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>5,10&lt;s0/&gt;così pure Giacomo e Giovanni, figli di Zebedèo, che erano soci di Simone.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T172812Z" creationid="giuan" creationdate="20261027T172812Z">
+        <seg>5,10 e aici etotu a Giacu e Giuanni, fillus de Zebedeu, chi fiant sòtzius de Simoni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>5,11&lt;s0/&gt;Beati voi quando vi insulteranno, vi perseguiteranno e, mentendo, diranno ogni sorta di male contro di voi per causa mia.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260309T170455Z" creationid="giuan" creationdate="20260309T170455Z">
@@ -10407,10 +10415,26 @@ No tentis a su Sennori su Deus tuu».</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>5,11&lt;s0/&gt;Tirate le barche a terra, lasciarono tutto e lo seguirono.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T172828Z" creationid="giuan" creationdate="20261027T172828Z">
+        <seg>5,11 E portau chi nci iant is barcas a terra, iant lassau totu e dd’iant postu infatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>5,12&lt;s0/&gt;Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260925T132845Z" creationid="giuan" creationdate="20260309T170535Z">
         <seg>5,12 Alligrai·sì e afestai; ca manna est s'arrecumpentza de bosàterus in is celus. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>5,12&lt;s0/&gt;Un giorno Gesù si trovava in una città e un uomo coperto di lebbra lo vide e gli si gettò ai&lt;s1/&gt;piedi pregandolo: "Signore, se vuoi, puoi sanarmi".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T172919Z" creationid="giuan" creationdate="20261027T172919Z">
+        <seg>5,12 Una dii Gesùs  fiat in una citadi e un’òmini prenu de lebbra dd’iat bistu e si nci fiat ghetau faci a terra preghendide·ddu: «Sennori, si bolis, mi podis sanai».</seg>
       </tuv>
     </tu>
     <tu>
@@ -15647,6 +15671,14 @@ issu t'at a aprontai su caminu.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T150256Z" creationid="BRUNA" creationdate="20251008T142933Z">
         <seg>7 E Gesùs andàt peri is biddas de acanta donendi imparu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Gesù disse a Simone:&lt;s1/&gt;"Non temere; d'ora in poi sarai pescatore di uomini".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T172822Z" creationid="giuan" creationdate="20261027T172822Z">
+        <seg>E Gesùs ddi iat narau a Simoni: «No timas; de immoi innantis as a èssiri piscadori de òminis».</seg>
       </tuv>
     </tu>
     <tu>
