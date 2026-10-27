@@ -5023,8 +5023,8 @@ ca de tui nd'at a bessiri, difatis, una ghia chi at a pàsciri su pòpulu miu, I
       <tuv lang="it">
         <seg>2,9&lt;s0/&gt;Un angelo del Signore si presentò davanti a loro e la gloria del Signore li avvolse di e.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261027T101125Z" creationid="giuan" creationdate="20261027T101125Z">
-        <seg>[fuzzy]Lc2,9 Un’àngiulu de su Sennori si ddis fiat presentau e sa glòria de su Sennori ddus iat ingiriaus de luxi.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T102752Z" creationid="giuan" creationdate="20261027T101125Z">
+        <seg>2,9 Un’àngiulu de su Sennori si ddis fiat presentau e sa glòria de su Sennori ddus iat ingiriaus de luxi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14459,6 +14459,14 @@ issu t'at a aprontai su caminu.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260908T095536Z" creationid="giuan" creationdate="20260908T095536Z">
         <seg> Issus no iant narau nudda, e in cussas diis no iant contau, a nemus, nudda de su chi iant bistu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Essi&lt;s1/&gt;furono presi da grande spavento,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T102759Z" creationid="giuan" creationdate="20261027T102759Z">
+        <seg>E a issus ddis iat pigau una grandu timoria,</seg>
       </tuv>
     </tu>
     <tu>
