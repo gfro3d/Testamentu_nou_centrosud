@@ -10721,6 +10721,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>5,3&lt;s0/&gt;Salì in una barca, che era di Simone, e lo pregò di scostarsi un poco da terra.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T172353Z" creationid="giuan" creationdate="20261027T172353Z">
+        <seg>5,3 Gesùs fiat artziau a una barca, chi fiat de Simoni, e dd’iat pediu a si nci stesiai unu pagheddu de terra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>5,40&lt;s0/&gt;e a chi ti vuol chiamare in giudizio per toglierti la tunica, tu lascia anche il mantello.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260309T172754Z" creationid="giuan" creationdate="20260309T171635Z">
@@ -10804,6 +10812,14 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>5,4&lt;s0/&gt;Quando ebbe finito di parlare, disse a Simone: "Prendi il largo e calate le reti per la pesca".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T172413Z" creationid="giuan" creationdate="20261027T172413Z">
+        <seg>5,4 Candu iat acabbau de fueddai, ddi iat narau a Simoni: «Stesia·ti·nci aillargu e ghetai is arretzas po piscai».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>5,5&lt;s0/&gt;Beati i miti, perché erediteranno la terra.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260309T170249Z" creationid="giuan" creationdate="20260309T170249Z">
@@ -10812,10 +10828,34 @@ Ogu po ogu e denti po denti;</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>5,5&lt;s0/&gt;Simone rispose: "Maestro, abbiamo faticato tutta la notte e non abbiamo preso nulla; ma sulla tua&lt;s1/&gt;parola getterò le reti".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T172425Z" creationid="giuan" creationdate="20261027T172425Z">
+        <seg>5,5 Simoni iat arrespustu: «Su Maistu, eus gherrau totu sa noti e no eus piscau nudda; ma ca ddu naras tui apu a calai is arretzas».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>5,6&lt;s0/&gt;Beati quelli che hanno fame e sete della giustizia, perché saranno saziati.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260309T175956Z" creationid="giuan" creationdate="20260309T170311Z">
         <seg>5,6 Biadus is famius e sidius de giustìtzia, ca ant a èssiri pràndius.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>5,6&lt;s0/&gt;E avendolo fatto, presero una quantità enorme di pesci e le reti si rompevano.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T172434Z" creationid="giuan" creationdate="20261027T172434Z">
+        <seg>5,6 E a pustis chi dd’iant fatu, iant pigau una cantidadi aici manna de pisci e is arretzas fiant seghendi·sì.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>5,7&lt;s0/&gt;Allora fecero cenno ai compagni dell'altra barca, che venissero ad aiutarli.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T172439Z" creationid="giuan" creationdate="20261027T172439Z">
+        <seg>5,7 Insaras iant fatu acinnu a is cumpàngius de s’àtera barca, po chi fessant andaus a ddus agiudai.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17072,6 +17112,14 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260530T073545Z" creationid="giuan" creationdate="20260530T073545Z">
         <seg>Si bolis intrai in sa vida, arrespeta is cumandamentus».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Sedutosi, si mise&lt;s1/&gt;ad ammaestrare le folle dalla barca.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T172401Z" creationid="giuan" creationdate="20261027T172401Z">
+        <seg>Si fiat sètziu e, de sa barca, si fiat postu a donai imparu a sa genti.</seg>
       </tuv>
     </tu>
     <tu>
