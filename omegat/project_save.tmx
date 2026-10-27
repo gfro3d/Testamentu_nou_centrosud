@@ -1679,6 +1679,14 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,1&lt;s0/&gt;Un giorno Gesù si trovava in un luogo a pregare e quando ebbe finito uno dei discepoli gli disse:&lt;s1/&gt;"Signore, insegnaci a pregare, come anche Giovanni ha insegnato ai suoi discepoli".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T174900Z" creationid="giuan" creationdate="20261027T174900Z">
+        <seg>11,1 E fiat acuntèssiu ca Gesùs fiat in unu logu preghendi e, cumenti iat acabbau, unu de is discìpulus suus ddi at narau: «Sennori, impara·sì a pregai, cumenti Giuanni puru dd’at imparau a is discìpulus suus».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,1&lt;t0/&gt; Quando si avvicinarono a Gerusalemme, verso Bètfage e Betània, presso il monte degli Ulivi, mandò due dei suoi discepoli &lt;t1/&gt;2&lt;t2/&gt; e disse loro: «Andate nel villaggio che vi sta di fronte, e subito entrando in esso troverete un asinello legato, sul quale nessuno è mai salito.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260907T164459Z" creationid="giuan" creationdate="20251104T112014Z">
@@ -1765,6 +1773,14 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
       <tuv lang="sc" changeid="BRUNA" changedate="20260421T082027Z" creationid="BRUNA" creationdate="20260421T074113Z">
         <seg>Atuai·si su giuali miu e imparai de mei, chi seu masedu e de coru ùmili, e eis a agatai arrecreu po is ànimas bostas.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,2&lt;s0/&gt;Ed egli disse loro: "Quando pregate, dite: Padre, sia santificato il tuo nome, venga il tuo&lt;s1/&gt;regno;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T174913Z" creationid="giuan" creationdate="20261027T174913Z">
+        <seg>11,2 E issu ddis iat narau: «Candu pregais, narai: “Babbu, siat santificau su nòmini tuu, bengat su rennu tuu;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12003,8 +12019,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>7,16&lt;s0/&gt;Tutti furono presi da timore e glorificavano Dio dicendo: "Un grande profeta è sorto tra noi e&lt;s1/&gt;Dio ha visit</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260804T090814Z" creationid="giuan" creationdate="20260804T090814Z">
-        <seg>7,16  E totus iant timiu e glorificànt a Deus narendi: «Unu grandu profeta est bessiu intre nosu e Deus at abisitau su pòpulu suu».</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T174831Z" creationid="giuan" creationdate="20260804T090814Z">
+        <seg>7,16  E totus iant timiu e gloriànt a Deus narendi: «Unu grandu profeta est bessiu intre nosu e Deus at abisi</seg>
       </tuv>
     </tu>
     <tu>
