@@ -4988,6 +4988,22 @@ ca de tui nd'at a bessiri, difatis, una ghia chi at a pàsciri su pòpulu miu, I
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,7&lt;s0/&gt;Diede alla luce il suo figlio primogenito, lo avvolse in fasce e lo depose in una mangiatoia,&lt;s1/&gt;perché non c'era posto per loro nell'albergo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T100755Z" creationid="giuan" creationdate="20261027T100755Z">
+        <seg>[fuzzy]Lc2,7 E iat parturiu fillu suu, su primunàsciu, dd’iat imboddiau in fascas e dd’iat postu in una mandiadroxa, ca po issus no ddoi iat logu in sa locanda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>2,8&lt;s0/&gt;C'erano in quella regione alcuni pastori che vegliavano di notte facendo la guardia al loro&lt;s1/&gt;gregge.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T100904Z" creationid="giuan" creationdate="20261027T100904Z">
+        <seg>[fuzzy]Lc2,8 In cussu logu etotu ddoi iat unus cantu pastoris chi passànt sa noti in su sartu billendi su tallu insoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>2,8&lt;s0/&gt;e li inviò a Betlemme esortandoli: "Andate e informatevi accuratamente del bambino e, quando l'avrete trovato, fatemelo sapere, perché anch'io venga ad adorarlo".</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260804T110419Z" creationid="giuan" creationdate="20260305T151550Z">
@@ -5001,6 +5017,14 @@ ca de tui nd'at a bessiri, difatis, una ghia chi at a pàsciri su pòpulu miu, I
       <tuv lang="sc" changeid="giuan" changedate="20260804T110537Z" creationid="giuan" creationdate="20260305T151616Z">
         <seg>2,9 Intèndiu chi iant is fueddus de su rei, fiant mòvius. E alloddu su steddu, chi iant bistu bessendi, chi fiat ananti insoru, fintzas a nci arribbai a su logu innui fiat su pipiu e innia si fiat firmau.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>2,9&lt;s0/&gt;Un angelo del Signore si presentò davanti a loro e la gloria del Signore li avvolse di e.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T101125Z" creationid="giuan" creationdate="20261027T101125Z">
+        <seg>[fuzzy]Lc2,9 Un’àngiulu de su Sennori si ddis fiat presentau e sa glòria de su Sennori ddus iat ingiriaus de luxi.</seg>
       </tuv>
     </tu>
     <tu>
