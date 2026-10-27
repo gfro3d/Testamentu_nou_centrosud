@@ -1595,10 +1595,26 @@ issu t'at a aprontai su caminu.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,10&lt;s0/&gt;Perché chi chiede ottiene, chi cerca trova, e a chi bussa sarà aperto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T175415Z" creationid="giuan" creationdate="20261027T175415Z">
+        <seg>11,10 Ca totu is chi pedint arricint, e is chi circant agatant, e a is chi pìchiant ddis ant a abèrriri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,11&lt;s0/&gt;In verità vi dico: tra i nati di donna non è sorto uno più grande di Giovanni il Battista;&lt;s1/&gt;tuttavia il più piccolo nel regno dei cieli è più grande di lui.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260828T074131Z" creationid="BRUNA" creationdate="20260421T065023Z">
         <seg>In beridadi bosi naru; in mesu de is nàscius de fèmina no ddoi nd’at bessiu prus mannu de Giuanni su Batista, epuru su prus piticu in su rennu de is celus est prus mannu de issu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,11&lt;s0/&gt;Quale padre tra voi, se il figlio gli chiede un pane, gli darà una pietra?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T175511Z" creationid="giuan" creationdate="20261027T175511Z">
+        <seg>11,11 Cali babbu, in mesu de bosàterus, candu su fillu ddi pedit unu pisci, e in logu de unu pisci dd’at a donai unu coloru?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16912,6 +16928,14 @@ De sa buca de is pipius e de is creaduras t'as procurau una làudi?/alabantza?»
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260925T125822Z" creationid="giuan" creationdate="20250929T075622Z">
         <seg>O prus a prestu po dda pònniri in su candelobru? 22 Ca no ddoi at nudda chi est cuau si no po èssiri bogau a craru e nudda chi est secretu si no po èssiri scoviau. 23 Si unu portat origas po ascurtai chi ascurtit!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>O se gli chiede un&lt;s1/&gt;pesce, gli darà al posto del pesce una serpe?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T175526Z" creationid="giuan" creationdate="20261027T175526Z">
+        <seg>11,12 O  fintzas si ddi pedit un’ou, dd’at a  donai unu scraponi?</seg>
       </tuv>
     </tu>
     <tu>
