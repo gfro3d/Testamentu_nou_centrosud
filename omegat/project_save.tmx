@@ -10854,8 +10854,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>5,7&lt;s0/&gt;Allora fecero cenno ai compagni dell'altra barca, che venissero ad aiutarli.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261027T172439Z" creationid="giuan" creationdate="20261027T172439Z">
-        <seg>5,7 Insaras iant fatu acinnu a is cumpàngius de s’àtera barca, po chi fessant andaus a ddus agiudai.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T172616Z" creationid="giuan" creationdate="20261027T172439Z">
+        <seg>5,7 Insaras iant fatu acinnu a is cumpàngius de s’àtera barca, po chi fessint andaus a ddus agiudai.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10864,6 +10864,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260309T175924Z" creationid="giuan" creationdate="20260309T170327Z">
         <seg>5,7 Biadus is misericordiosus, ca ant a agatai misericòrdia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>5,8&lt;s0/&gt;Al veder questo, Simon Pietro si gettò alle ginocchia di Gesù, dicendo: "Signore, allontanati da&lt;s1/&gt;me che sono un peccatore".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T172741Z" creationid="giuan" creationdate="20261027T172741Z">
+        <seg>5,8 Biendi aici, Simoni Pedru si nci fiat ghetau a is genugus de Gesùs, narendi: «Sennori, scostia·ti·nci de mei ca seu òmini pecadori».</seg>
       </tuv>
     </tu>
     <tu>
@@ -10880,6 +10888,14 @@ Ogu po ogu e denti po denti;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260309T175816Z" creationid="giuan" creationdate="20260309T170434Z">
         <seg>5,9 Biadus is chi ponint paxi, poita ca ddis ant a narai fillus de Deus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>5,9&lt;s0/&gt;Grande stupore infatti aveva preso lui e tutti quelli che erano insieme con lui per la pesca che&lt;s1/&gt;avevano fatto;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T172757Z" creationid="giuan" creationdate="20261027T172757Z">
+        <seg>5,9 Ca ddis iat pigau unu spantu mannu, a issu e a totu is chi fiant cun issu, po sa pisca chi iant fatu;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15558,6 +15574,14 @@ issu t'at a aprontai su caminu.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260908T095536Z" creationid="giuan" creationdate="20260908T095536Z">
         <seg> Issus no iant narau nudda, e in cussas diis no iant contau, a nemus, nudda de su chi iant bistu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Essi vennero e&lt;s1/&gt;riempirono tutte e due le barche al punto che quasi affondavano.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T172649Z" creationid="giuan" creationdate="20261027T172649Z">
+        <seg>Issus fiant andaus e iant prenu ambaduas barcas e agiumai si nci afundànt.</seg>
       </tuv>
     </tu>
     <tu>
