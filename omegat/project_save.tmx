@@ -10616,8 +10616,8 @@ No tentis a su Sennori su Deus tuu».</seg>
       <tuv lang="it">
         <seg>5,22&lt;s0/&gt;Ma Gesù, conosciuti i loro ragionamenti, rispose: "Che cosa andate ragionando nei vostri cuori?</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261027T173413Z" creationid="giuan" creationdate="20261027T173413Z">
-        <seg>[fuzzy]Lc5,22 Ma Gesùs connoscendi is arrexonamentus insoru, iat arrespustu: «Ita seis arrexonendi in corus bostus?</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T173544Z" creationid="giuan" creationdate="20261027T173413Z">
+        <seg>5,22 Ma Gesùs connoscendi is arrexonamentus insoru, iat arrespustu: «Ita seis arrexonendi in coru bostu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10630,11 +10630,27 @@ No tentis a su Sennori su Deus tuu».</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>5,23&lt;s0/&gt;Che cosa è più facile, dire: Ti sono rimessi i tuoi peccati, o dire: Alzati e cammina?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T173556Z" creationid="giuan" creationdate="20261027T173556Z">
+        <seg>5,23 Ita est prus fàcili a narai: “Ti funt perdonaus is pecaus tuus”, o a narai: “Pesa·ti·ndi e camina”?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>5,23&lt;s0/&gt;Se dunque presenti la tua offerta sull'altare e lì ti ricordi che tuo fratello ha qualche cosa contro di te,</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260309T171109Z" creationid="giuan" creationdate="20260309T171109Z">
         <seg>5,23 Si duncas ses presentendi s'oferta tua in s'artari e innia t'arregordas ca fradi tuu tenit calincuna cosa contras a tui,
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>5,24&lt;s0/&gt;Ora, perché sappiate che il Figlio dell'uomo ha il potere sulla terra di rimettere i peccati: io&lt;s1/&gt;ti dico - esclamò rivolto al paralitico - alzati, prendi il tuo lettuccio e va' a casa tua".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T173658Z" creationid="giuan" creationdate="20261027T173658Z">
+        <seg>5,24 Immoi, po chi scipiais ca su Fillu de s’òmini tenit su poderi in sa terra de perdonai is pecaus: “A tui ti naru” - iat narau a su màrturu - “pesa·ti·ndi, piga·tì su letu tuu e bai·ti·ndi a domu tua”».</seg>
       </tuv>
     </tu>
     <tu>
@@ -10657,11 +10673,27 @@ No tentis a su Sennori su Deus tuu».</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>5,25&lt;s0/&gt;Subito egli si alzò davanti a loro, prese il lettuccio su cui era disteso e si avviò verso casa&lt;s1/&gt;glorificando Dio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T173714Z" creationid="giuan" creationdate="20261027T173714Z">
+        <seg>5,25 In deretura issu si ndi fiat pesau ananti insoru, s’iat pigau su letu innui fiat stèrriu e si fiat incaminau faci a domu sua gloriendi a Deus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>5,26&lt;s0/&gt;In verità ti dico: non uscirai di là finché tu non abbia pagato fino all'ultimo spicciolo!</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260709T144022Z" creationid="giuan" creationdate="20260309T171213Z">
         <seg>5,26 In beridadi ti naru: no nd'as a bessiri de innia fintzas a candu as a àiri pagau s'ùrtimu soddixeddu!
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>5,26&lt;s0/&gt;Tutti rimasero stupiti e levavano lode a Dio; pieni di timore dicevano: "Oggi abbiamo visto cose&lt;s1/&gt;prodigiose".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T173758Z" creationid="giuan" creationdate="20261027T173758Z">
+        <seg>5,26 Spantu mannu iat pigau a totus e gloriànt a Deus; e prenus de timoria narànt: «Oi eus bistu cosas stravanadas!»..</seg>
       </tuv>
     </tu>
     <tu>
