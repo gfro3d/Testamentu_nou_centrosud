@@ -9099,10 +9099,26 @@ E pigheint is trinta monedas de prata, su prètziu de su bèndiu, chi is fillus 
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>3,15&lt;s0/&gt;Poiché il popolo era in attesa e tutti si domandavano in cuor loro, riguardo a Giovanni, se non&lt;s1/&gt;fosse lui il Cristo,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T141635Z" creationid="giuan" creationdate="20261027T141635Z">
+        <seg>3,15 Giai ca su pòpulu fiat abetendi e totus si preguntànt in su coru insoru, in contu de Giuanni, si no fessit issu su Cristu,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>3,16&lt;s0/&gt;Appena battezzato, Gesù uscì dall'acqua: ed ecco, si aprirono i cieli ed egli vide lo Spirito di Dio scendere come una colomba e venire su di lui.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260907T164459Z" creationid="giuan" creationdate="20260305T154307Z">
         <seg>3,16 Apenas batiau, derutu Gesùs ndi fiat bessiu de s'àcua; e ecu, si fiant abertus is celus e issu iat bistu su Spìridu de Deus calendi asuba sua comenti a una columba. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>3,16&lt;s0/&gt;Giovanni rispose a tutti dicendo: "Io vi battezzo con acqua; ma viene uno che è più forte di me,&lt;s1/&gt;al quale io non son degno di sciogliere neppure il legaccio dei sandali: costui vi battezzerà in&lt;s2/&gt;Spirito Santo e fuoco.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T141706Z" creationid="giuan" creationdate="20261027T141706Z">
+        <seg>3,16 Giuanni iat arrespustu a totus narendi: «Deu bosi bàtiu cun s’àcua; ma est benendi su chi est prus forti de mei, e deu a issu no seu dìnniu de ndi ddi scapiai mancu sa corria de is sàndulus; issu bos’at a batiai in Spìridu Santu e fogu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16339,6 +16355,14 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260901T081334Z" creationid="giuan" creationdate="20260901T081334Z">
         <seg>Iat arrespustu: «Legioni», ca dimònius meda fiant intraus in issu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Rispose: "Non maltrattate e&lt;s1/&gt;non estorcete niente a nessuno, contentatevi delle vostre paghe".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T141606Z" creationid="giuan" creationdate="20261027T141606Z">
+        <seg>Iat arrespustu: «No ammeletzeis e no ndi leeis a fortza nudda a nemus, acuntentai·sì de is pagas bostas».</seg>
       </tuv>
     </tu>
     <tu>
