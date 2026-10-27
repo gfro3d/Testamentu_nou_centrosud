@@ -2183,6 +2183,22 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,53&lt;s0/&gt;Quando fu uscito di là, gli scribi e i farisei cominciarono a trattarlo ostilmente e a farlo&lt;s1/&gt;parlare su molti argomenti,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T183046Z" creationid="giuan" creationdate="20261027T183046Z">
+        <seg>11,53 Candu ndi fiat bessiu de innia, is scribas e is fariseus iant cumentzau a ddu scuntroriai cun tìrria e a ddu fàiri fueddai de medas chistionis,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,54&lt;s0/&gt;tendendogli insidie, per sorprenderlo in qualche parola uscita dalla sua stessa bocca.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T183056Z" creationid="giuan" creationdate="20261027T183056Z">
+        <seg>11,54 ponendide·ddi su càstiu, po dd’aciapai in faddina cun calincuna paràula bessia de buca sua etotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,5&lt;s0/&gt;I ciechi ricuperano la vista, gli storpi camminano, i lebbrosi sono guariti, i sordi riacquistano l'udito, i morti risuscitano, ai poveri è predicata la buona novella,</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260716T090232Z" creationid="BRUNA" creationdate="20260421T062046Z">
@@ -18334,6 +18350,14 @@ e a issu sceti serbi».</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251126T090421Z" creationid="giuan" creationdate="20251104T112623Z">
         <seg>E bosàteru intamis nd’eis fatu una gruta de furonis!».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Voi non siete entrati,&lt;s1/&gt;e a quelli che volevano entrare l'avete impedito".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T183035Z" creationid="giuan" creationdate="20261027T183035Z">
+        <seg>Bosàterus no seis intraus, e a is chi boliant intrai no ddus eis lassaus».</seg>
       </tuv>
     </tu>
     <tu>
