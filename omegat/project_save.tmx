@@ -5115,8 +5115,8 @@ Racheli prangit is fillus suus e no  bolit a dd'acunnortai, ca no funt prus.</se
       <tuv lang="it">
         <seg>2,35&lt;s0/&gt;perché siano svelati i pensieri di molti cuori.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261027T104800Z" creationid="giuan" creationdate="20261027T104800Z">
-        <seg>[fuzzy]Lc2,35 </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T104902Z" creationid="giuan" creationdate="20261027T104800Z">
+        <seg>2,35Po chi siant svelaus is pentzus de corus meda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13784,6 +13784,14 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="sc" changeid="giuan" changedate="20260107T095433Z" creationid="BRUNA" creationdate="20251008T150704Z">
         <seg>E a pustis de dd’averiguai dd’iant narau: «Cincu panis e duus piscis». 39 E insaras ddis iat cumandau a si sètziri totus, a trupas a trupas, in s’erba birdi. 40 E totus si fiant stèrrius a trupas de centu e de cincuanta. 41 E Gesùs iat pigau is cincu panis e is duus piscis, iat artziau is ogus a celu, iat beneixu e ddus iat partzius e donaus a is discìpulus po ddus spartziri e aici etotu iat partziu is duus piscis intre totus. 42 Totus iant papau e si fiant pràndius 43 e ndi iant pigau doxi cadinus prenus de su pani e de su pisci chi fiat coillau. 44 E de cussu pani nd’iant papau cincumilla personis.
 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>E anche a te una spada trafiggerà l'anima".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T104923Z" creationid="giuan" creationdate="20261027T104826Z">
+        <seg>2,36 E a tui puru una spada t’at a trapassai s’ànima.</seg>
       </tuv>
     </tu>
     <tu>
