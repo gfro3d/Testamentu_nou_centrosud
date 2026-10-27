@@ -10886,6 +10886,14 @@ No giuris su frassu, ma cumpri a su Sennori is giuras tuas;
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>5,37&lt;s0/&gt;E nessuno mette vino nuovo in otri vecchi; altrimenti il vino nuovo spacca gli otri, si versa&lt;s1/&gt;fuori e gli otri vanno perduti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T174042Z" creationid="giuan" creationdate="20261027T174042Z">
+        <seg>5,37 E nemus ponit binu nou in is udris bècius; deghinò su binu nou crepat is udris, ndi bessit a foras e is udris funt pèrdius.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>5,37&lt;s0/&gt;Sia invece il vostro parlare sì, sì; no, no; il di più viene dal maligno.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260309T173250Z" creationid="giuan" creationdate="20260309T171531Z">
@@ -10914,8 +10922,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>5,39&lt;s0/&gt;E nessuno che beve il vino vecchio desidera il nuovo, perché dice: Il vecchio è buono!".</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261027T101954Z" creationid="giuan" creationdate="20261027T101750Z">
-        <seg>5,39 E nemus chi apat bufau binu bèciu bolit su nou, ca narat: Su bèciu est bonu!»</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T174223Z" creationid="giuan" creationdate="20261027T101750Z">
+        <seg>5,39 E nemus chi apat bufau binu bèciu bolit su nou, ca narat: Su bèciu est bonu!</seg>
       </tuv>
     </tu>
     <tu>
