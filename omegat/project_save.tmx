@@ -1627,11 +1627,27 @@ issu t'at a aprontai su caminu.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,12&lt;s0/&gt;O se gli chiede un uovo, gli darà uno scorpione?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T175654Z" creationid="giuan" creationdate="20261027T175610Z">
+        <seg>11,12 O fintzas si ddi pedit un’ou, dd’at a donai unu scraponi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,13&lt;s0/&gt;La Legge e tutti i Profeti infatti hanno profetato fino a Giovanni.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260421T065142Z" creationid="BRUNA" creationdate="20260421T065142Z">
         <seg>Ca sa Lei e totu is Profetas ant profetizau fintzas a Giuanni.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,13&lt;s0/&gt;Se dunque voi, che siete cattivi, sapete dare cose buone ai vostri figli, quanto più il Padre&lt;s1/&gt;vostro celeste darà lo Spirito Santo a coloro che glielo chiedono!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T175707Z" creationid="giuan" creationdate="20261027T175707Z">
+        <seg>11,13 Si duncas bosàterus, essendi malus, scieis donai cosas bonas a is fillus bostus, cantu prus su Babbu de su celu at a donai su Spìridu Santu a is chi si ddu pedint!».</seg>
       </tuv>
     </tu>
     <tu>
@@ -1644,10 +1660,34 @@ issu t'at a aprontai su caminu.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,14&lt;s0/&gt;Gesù stava scacciando un demonio che era muto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T175731Z" creationid="giuan" creationdate="20261027T175731Z">
+        <seg>11,14 E Gesùs fiat boghendide·nci unu dimòniu mudu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,15&lt;s0/&gt;Chi ha orecchi intenda.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260716T090815Z" creationid="BRUNA" creationdate="20260421T065250Z">
         <seg>Chini portat origas chi ascurtit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,15&lt;s0/&gt;Ma alcuni dissero: "È in nome di Beelzebùl, capo dei demòni, che egli scaccia i demòni".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T175754Z" creationid="giuan" creationdate="20261027T175754Z">
+        <seg>11,15 Ma unus cantu de issus iant narau: «Nci bogat is dimònius po contu de Beelzebù, capu de is dimònius».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,16&lt;s0/&gt;Altri poi, per metterlo alla prova, gli domandavano un segno dal cielo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T175813Z" creationid="giuan" creationdate="20261027T175813Z">
+        <seg>11,16 Àterus intamis, ponendide·ddu a sa prova, circànt de issu unu sinnu de su celu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1660,10 +1700,26 @@ issu t'at a aprontai su caminu.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>11,17&lt;s0/&gt;Egli, conoscendo i loro pensieri, disse: "Ogni regno diviso in se stesso va in rovina e una casa&lt;s1/&gt;cade sull'altra.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T175827Z" creationid="giuan" creationdate="20261027T175827Z">
+        <seg>11,17 Ma issu, connoscendi is pentzus insoru, ddis iat narau: «Ònnia rennu pràtziu contras a sei etotu andat in arruina e una domu nci arruit asuba de un’àtera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>11,17&lt;s0/&gt;Vi abbiamo suonato il flauto e non avete ballato, abbiamo cantato un lamento e non avete pianto.</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260421T071241Z" creationid="BRUNA" creationdate="20260421T071241Z">
         <seg>"S’eus sonau su pipiolu e no eis baddau, eus cantau un’atìtidu e no eis prantu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>11,18&lt;s0/&gt;Ora, se anche satana è diviso in se stesso, come potrà stare in piedi il suo regno?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T175855Z" creationid="giuan" creationdate="20261027T175855Z">
+        <seg>11,18 Tandu, si Sàtana puru est pàrtziu contras a sei etotu, cumenti at aguantai su rennu suu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16934,8 +16990,8 @@ De sa buca de is pipius e de is creaduras t'as procurau una làudi?/alabantza?»
       <tuv lang="it">
         <seg>O se gli chiede un&lt;s1/&gt;pesce, gli darà al posto del pesce una serpe?</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261027T175526Z" creationid="giuan" creationdate="20261027T175526Z">
-        <seg>11,12 O  fintzas si ddi pedit un’ou, dd’at a  donai unu scraponi?</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T175647Z" creationid="giuan" creationdate="20261027T175526Z">
+        <seg>11,11 Cali babbu, in mesu de bosàterus, candu su fillu ddi pedit unu pisci, e in logu de unu pisci dd’at a donai unu coloru?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17828,6 +17884,14 @@ e a issu sceti serbi».</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260530T073535Z" creationid="giuan" creationdate="20260530T073535Z">
         <seg>Unu sceti est su bonu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Uscito il demonio, il muto cominciò a parlare e le&lt;s1/&gt;folle rimasero meravigliate.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T175740Z" creationid="giuan" creationdate="20261027T175740Z">
+        <seg>E fiat acuntèssiu ca a pustis chi su dimòniu ndi fiat bessiu, su mudu iat fueddau e is trumas si ndi fiant spantadas.</seg>
       </tuv>
     </tu>
     <tu>
