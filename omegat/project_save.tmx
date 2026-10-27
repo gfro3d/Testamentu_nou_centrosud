@@ -10472,6 +10472,14 @@ No tentis a su Sennori su Deus tuu».</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>5,15&lt;s0/&gt;La sua fama si diffondeva ancor più; folle numerose venivano per ascoltarlo e farsi guarire dalle&lt;s1/&gt;loro infermità.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T173140Z" creationid="giuan" creationdate="20261027T173140Z">
+        <seg>5,15 Sa nomea sua si spainàt sempri de prus; areis mannas acudiant po dd’ascurtai e po si fàiri sanai de is malis insoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>5,15&lt;s0/&gt;né si accende una lucerna per metterla sotto il moggio, ma sopra il lucerniere perché faccia luce &lt;s1/&gt;a tutti quelli che sono nella casa.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260309T175618Z" creationid="giuan" creationdate="20260309T170733Z">
@@ -10490,11 +10498,35 @@ No tentis a su Sennori su Deus tuu».</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>5,16&lt;s0/&gt;Ma Gesù si ritirava in luoghi solitari a pregare.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T173155Z" creationid="giuan" creationdate="20261027T173155Z">
+        <seg>5,16 Ma Gesùs s’arretiràt in logus desertus e pregàt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>5,17&lt;s0/&gt;Non pensate che io sia venuto ad abolire la Legge o i Profeti; non son venuto per abolire, ma per dare compimento.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260309T175456Z" creationid="giuan" creationdate="20260309T170830Z">
         <seg>5,17 No cretais/si fatzais su contu chi sia bènniu po annuddai/torrai a nudda sa Lei o is Profetas; no seu bènniu po ddas torrai a nudda, ma chi totu siat cumpriu.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>5,17&lt;s0/&gt;Un giorno sedeva insegnando.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T173202Z" creationid="giuan" creationdate="20261027T173202Z">
+        <seg>5,17 Una dii fiat sètziu donendi imparu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>5,18&lt;s0/&gt;Ed ecco alcuni uomini, portando sopra un letto un paralitico, cercavano di farlo passare e&lt;s1/&gt;metterlo davanti a lui.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T173330Z" creationid="giuan" creationdate="20261027T173330Z">
+        <seg>5,18 E ecu unus cantu òminis, portendi unu màrturu asuba de unu letu, circànt de ddu fàiri passai e de ddu pònniri ananti suu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10512,6 +10544,14 @@ No tentis a su Sennori su Deus tuu».</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260309T170915Z" creationid="giuan" creationdate="20260309T170915Z">
         <seg>5,19 Chini duncas no at arrespetai/tènniri in contu unu sceti de custus pretzetus, mancai su prus piticu, e at a imparai a is òminis a fàiri aici etotu, at a  èssiri cunsiderau su prus piticu in su rennu de is celus. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>5,19&lt;s0/&gt;Non trovando da qual parte introdurlo a causa della folla, salirono sul tetto e lo calarono&lt;s1/&gt;attraverso le tegole con il lettuccio davanti a Gesù, nel mezzo della stanza.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T173347Z" creationid="giuan" creationdate="20261027T173347Z">
+        <seg>5,19 No agatendi de cali parti ddu fàiri intrai po mori de sa genti meda, fiant artziaus a sa crobetura e nci dd’iant calau in sa tèula cun su letu in mesu a s'aposentu,  ananti a Gesùs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14874,6 +14914,17 @@ issu t'at a aprontai su caminu.</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>E la potenza del Signore gli faceva&lt;s2/&gt;operare guarigioni.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T173254Z" creationid="giuan" creationdate="20261027T173254Z">
+        <seg>E sa potèntzia de su Sennori fiat cun issu po ddi fàiri sanai sa genti.
+
+
+.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>E lasciatili, se ne andò.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260513T145112Z" creationid="giuan" creationdate="20260513T145112Z">
@@ -17192,6 +17243,14 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260530T073545Z" creationid="giuan" creationdate="20260530T073545Z">
         <seg>Si bolis intrai in sa vida, arrespeta is cumandamentus».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Sedevano là anche farisei e dottori della legge, venuti da ogni&lt;s1/&gt;villaggio della Galilea, della Giudea e da Gerusalemme.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T173212Z" creationid="giuan" creationdate="20261027T173212Z">
+        <seg>Fiant sètzius innia fintzas fariseus e dotoris de sa lei, arribbaus de ònnia bidda de sa Galilea, de sa Giudea e de Gerusalemmi.</seg>
       </tuv>
     </tu>
     <tu>
