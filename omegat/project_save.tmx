@@ -458,6 +458,14 @@
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>1,42&lt;s0/&gt;ed esclamò a gran voce: "Benedetta tu fra le donne e benedetto il frutto del tuo grembo!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T100025Z" creationid="giuan" creationdate="20261027T100025Z">
+        <seg>[fuzzy]Lc1,42 e iat narau a boxi manna: «Beneita ses tui intre totu is fèminas e beneitu est su frutu de is intrànnias tuas!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>1,43&lt;s0/&gt;A che debbo che la madre del mio Signore venga a me?</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260827T144357Z" creationid="giuan" creationdate="20260827T144357Z">
@@ -470,6 +478,14 @@
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260907T164459Z" creationid="giuan" creationdate="20260827T144725Z">
         <seg>1,44 Ca biis, comenti sa boxi de su saludu tuu est arribbada a is origas mias, sa criadura s’est posta a brincai alligra in is intrànnias mias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>1,45&lt;s0/&gt;E beata colei che ha creduto nell'adempimento delle parole del Signore".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T100034Z" creationid="giuan" creationdate="20261027T100034Z">
+        <seg>[fuzzy]Lc1,45 E biada siat sa chi at crètiu ca s’at a cumpriri su chi ddi at narau su Sennori».</seg>
       </tuv>
     </tu>
     <tu>
@@ -4832,6 +4848,14 @@ Racheli prangit is fillus suus e no  bolit a dd'acunnortai, ca no funt prus.</se
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,1&lt;s0/&gt;In quei giorni un decreto di Cesare Augusto ordinò che si facesse il censimento di tutta la&lt;s1/&gt;terra.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T100039Z" creationid="giuan" creationdate="20261027T100039Z">
+        <seg>[fuzzy]Lc2,1 Acuntèssit ca fiat bessiu unu decretu de Cèsari Augustu chi iat ordinau a fàiri su censimentu de totu sa terra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>2,1&lt;t0/&gt; Ed entrò di nuovo a Cafarnao dopo alcuni giorni.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251007T131713Z" creationid="giuan" creationdate="20250916T085301Z">
@@ -4881,10 +4905,34 @@ Racheli prangit is fillus suus e no  bolit a dd'acunnortai, ca no funt prus.</se
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>2,2&lt;s0/&gt;Questo primo censimento fu fatto quando era governatore della Siria Quirinio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T100041Z" creationid="giuan" creationdate="20261027T100041Z">
+        <seg>[fuzzy]Lc2,2 Custu primu censimentu dd’iant fatu candu fiat guvernadori de sa Sìria Cuirìniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>2,3&lt;s0/&gt;All'udire queste parole, il re Erode restò turbato e con lui tutta Gerusalemme.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260305T151355Z" creationid="giuan" creationdate="20260305T151355Z">
         <seg>2,3 Intendendi custus fueddus, su rei Erodi fiat a pistighìngiu, e cun issu totu Gerusalemmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>2,3&lt;s0/&gt;Andavano tutti a farsi registrare, ciascuno nella sua città.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T100110Z" creationid="giuan" creationdate="20261027T100110Z">
+        <seg>[fuzzy]Lc2,3 Totus andànt a si fàiri assentai, onniunu a sa citadi sua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>2,4&lt;s0/&gt;Anche Giuseppe, che era della casa e della famiglia di Davide, dalla città di Nazaret e dalla&lt;s1/&gt;Galilea salì in Giudea alla città di Davide, chiamata Betlemme,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261027T100121Z" creationid="giuan" creationdate="20261027T100121Z">
+        <seg>[fuzzy]Lc2,4 Giusepi puru de sa citadi de Nazarèt in Galilea, nci fiat artziau a Giudea, a sa citadi de Dàvidi, chi ddi narànt Betlemmi, ca issu fiat de sa domu e de s’aredeu de Dàvidi,</seg>
       </tuv>
     </tu>
     <tu>
