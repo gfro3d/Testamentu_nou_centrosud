@@ -6,7 +6,7 @@
   "managed_output_directory": "tm/controllo-teologia",
   "outputs": {
     "Matteo_it_sc_centro_sud.tmx": {
-      "sha256": "2212aa8f2cef76526b33856a2789f0c87da59ad9a2d2fbf93e568664072d38c6",
+      "sha256": "0faec88ad62ebd957ba6e72a279238ae764465874a45fd316d7461d1cc334444",
       "units": 1070,
       "first": "Mt1,1",
       "last": "Mt28,20",
