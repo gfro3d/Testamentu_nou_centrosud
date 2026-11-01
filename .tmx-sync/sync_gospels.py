@@ -53,6 +53,23 @@ def markers(text):
         records.append({"chapter": chapter, "verse": verse, "text": value})
     return records
 
+def is_unfilled_template(text, chapter):
+    # Only the verified blank template; unknown content must still block publication.
+    labels = []
+    formatting = {
+        "times new roman 12", "interlinea singola",
+        "spazio prima del paragrafo: nudda", "spazio dopo il paragrafo: nudda",
+    }
+    for line in text.splitlines():
+        line = normal(line).lower()
+        if not line or line in {name.lower() for name in PREFIXES} or line in formatting:
+            continue
+        match = re.fullmatch(r"(\d+)[,.]1\s+capu de (jossu|susu)", line)
+        if not match or int(match[1]) != chapter:
+            return False
+        labels.append(match[2])
+    return sorted(labels) == ["jossu", "susu"]
+
 def split_blocks(records):
     starts = [i for i, r in enumerate(records) if r["verse"] == 1 and
               len(normal(r["text"])) >= 40 and meaningful(r["text"])]
@@ -273,9 +290,13 @@ def run(config, credentials, variant):
         for chapter, item in sorted(chapter_files.items()):
             if chapter not in italian:
                 raise SyncError("Capitolo senza corrispondente italiano.")
-            blocks = split_blocks(markers(drive.read(item)))
+            chapter_text = drive.read(item)
+            if is_unfilled_template(chapter_text, chapter):
+                problems.append(f"{prefix}{chapter}: modello senza traduzione; capitolo non aggiunto.")
+                continue
+            blocks = split_blocks(markers(chapter_text))
             if not 1 <= len(blocks) <= 2:
-                raise SyncError("Blocchi di traduzione non riconosciuti.")
+                raise SyncError(f"{prefix}{chapter}: blocchi di traduzione non riconosciuti.")
             by_variant = {}
             for block in blocks:
                 label = variant_of(block)
@@ -345,3 +366,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+

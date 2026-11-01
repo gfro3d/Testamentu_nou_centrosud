@@ -10,6 +10,19 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import sync_gospels as sync
 
 class VerseTests(unittest.TestCase):
+    def test_verified_blank_template_is_skipped(self):
+        value="Luca\n21,1 Capu de jossu\n21,1 Capu de susu\ntimes new roman 12\ninterlinea singola\nspazio prima del paragrafo: nudda\nspazio dopo il paragrafo: nudda"
+        self.assertTrue(sync.is_unfilled_template(value,21))
+
+    def test_template_with_any_translation_is_not_skipped(self):
+        value="Luca\n21,1 Capu de jossu\n21,1 Capu de susu\nUnu testu tradùidu."
+        self.assertFalse(sync.is_unfilled_template(value,21))
+
+    def test_empty_or_wrong_chapter_is_not_a_verified_template(self):
+        self.assertFalse(sync.is_unfilled_template("",21))
+        self.assertFalse(sync.is_unfilled_template("22,1 Capu de jossu\n22,1 Capu de susu",21))
+
+
     def test_identical_duplicate_is_deduplicated(self):
         self.assertEqual(sync.unique_map([{ "verse":21,"text":"Testo uguale"},{"verse":21,"text":"Testo uguale"}]),{21:"Testo uguale"})
 
@@ -118,3 +131,4 @@ class VerseTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
