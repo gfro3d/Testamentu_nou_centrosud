@@ -7537,5 +7537,428 @@
         <seg>Lc18,43 E in deretura iat torrau a biri e ddu sighiat gloriendi a Deus. E totu su pòpulu, biendi cussu, iat lauau a Deus. Mt20,29–34 Mc10,46–52</seg>
       </tuv>
     </tu>
+    <tu tuid="Lc20_1">
+      <prop type="x-reference">Lc20,1</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,1 Un giorno, mentre istruiva il popolo nel tempio e annunziava la parola di Dio, si avvicinarono i sommi sacerdoti e gli scribi con gli anziani e si rivolsero a lui dicendo:</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,1 E fiat acuntèssiu ca, una de cussas diis, in s'ora chi fiat donendi imparu a su pòpulu in su tèmpiu e fiat annuntziendi sa bona nova, si fiant acurtziaus is sacerdotus majoris e is scribas impari a is mannus</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_2">
+      <prop type="x-reference">Lc20,2</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,2 "Dicci con quale autorità fai queste cose o chi è che t'ha dato quest'autorità".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,2 e ddi iant narau: «Nara·sì cun cali autoridadi fais custas cosas o chini est chi t’at donau cust’autoridadi?».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_3">
+      <prop type="x-reference">Lc20,3</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,3 E Gesù disse loro: "Vi farò anch'io una domanda e voi rispondetemi:</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,3 E issu ddis iat arrespustu: «Deu puru s’apu a fàiri una pregunta, e narai·mì:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_4">
+      <prop type="x-reference">Lc20,4</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,4 Il battesimo di Giovanni veniva dal Cielo o dagli uomini?".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,4 su batiari de Giuanni de su Celu fiat o de is òminis?».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_5">
+      <prop type="x-reference">Lc20,5</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,5 Allora essi discutevano fra loro: "Se diciamo "dal Cielo", risponderà: "Perché non gli avete creduto?".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,5 Ma cuddus arrexonànt intre pari narendi: «Si naraus “De su Celu”, at a narai: “Poita no ddi eis crètiu?”.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_6">
+      <prop type="x-reference">Lc20,6</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,6 E se diciamo "dagli uomini", tutto il popolo ci lapiderà, perché è convinto che Giovanni è un profeta".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,6 Ma si naraus: “De is òminis”, totu su pòpulu s’at a apedriai, est cumbintu difatis ca Giuanni est unu profeta”.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_7">
+      <prop type="x-reference">Lc20,7</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,7 Risposero quindi di non saperlo.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,7 E iant arrespustu de no sciri de innui fiat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_8">
+      <prop type="x-reference">Lc20,8</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,8 E Gesù disse loro: "Nemmeno io vi dico con quale autorità faccio queste cose".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,8 E Gesùs ddis iat narau: «E mancu deu bosi naru cun cali autoridadi fatzu custas cosas».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_9">
+      <prop type="x-reference">Lc20,9</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,9 Poi cominciò a dire al popolo questa parabola: "Un uomo piantò una vigna, l'affidò a dei coltivatori e se ne andò lontano per molto tempo.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,9 Tandu iat cumentzau a contai a su pòpulu custa paràbula : «Un’òmini iat prantau una bìngia, dda iat arrendada a bingiaderis e si ndi fiat andau atesu po tempus meda.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_10">
+      <prop type="x-reference">Lc20,10</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,10 A suo tempo, mandò un servo da quei coltivatori perché gli dessero una parte del raccolto della vigna. Ma i coltivatori lo percossero e lo rimandarono a mani vuote.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,10 E candu fiat su tempus ddis iat mandau unu tzeracu a is bingiaderis po chi ddi donessint una parti de su frutu de sa bìngia. Ma is bingiaderis dd’iant scutu e nci dd’iant mandau a manus sbùidas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_11">
+      <prop type="x-reference">Lc20,11</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,11 Mandò un altro servo, ma essi percossero anche questo, lo insultarono e lo rimandarono a mani vuote.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,11 E iat torrau a mandai a un’àteru tzeracu, ma issus iant scutu a cussu puru, dd’iant ingiuriau e nci dd’iant mandau a manus sbùidas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_12">
+      <prop type="x-reference">Lc20,12</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,12 Ne mandò ancora un terzo, ma anche questo lo ferirono e lo cacciarono.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,12 E nd’iat mandau un’àteru, su de tres, ma a custu puru dd’iant fertu e nci dd’iant bogau a foras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_13">
+      <prop type="x-reference">Lc20,13</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,13 Disse allora il padrone della vigna: Che devo fare? Manderò il mio unico figlio; forse di lui avranno rispetto.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,13 Tandu su meri de sa bìngia iat narau: “Ita apu fàiri? Apu a mandai a fillu miu, su prus prus stimau; mancai po issu ant a tènniri arrespetu”.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_14">
+      <prop type="x-reference">Lc20,14</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,14 Quando lo videro, i coltivatori discutevano fra loro dicendo: Costui è l'erede. Uccidiamolo e così l'eredità sarà nostra.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,14 Ma candu is bingiaderis dd’iant bistu, si narànt intre pari: “Custu est s’erederi, ajò ca ddu boceus, po chi s’eredidadi siat sa nosta”.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_15">
+      <prop type="x-reference">Lc20,15</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,15 E lo cacciarono fuori della vigna e l'uccisero. Che cosa farà dunque a costoro il padrone della vigna?</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,15 E nci dd’iant bogau a foras de sa bìngia e dd’iant bociu. Ita duncas ddis at a fàiri su meri de sa bìngia?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_16">
+      <prop type="x-reference">Lc20,16</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,16 Verrà e manderà a morte quei coltivatori, e affiderà ad altri la vigna". Ma essi, udito ciò, esclamarono: "Non sia mai!".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,16 At a bènniri e at a spèrdiri a custus bingiaderis, e at a donai sa bìngia a àterus». Ma issus intèndiu custu, iant narau: “Mai siat!”.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_17">
+      <prop type="x-reference">Lc20,17</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,17 Allora egli si volse verso di loro e disse: "Che cos'è dunque ciò che è scritto: La pietra che i costruttori hanno scartata, è diventata testata d'angolo?</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,17 Ma issu castiedide·ddus firmu iat narau: «Duncas ita bolit narai custu chi est scritu: Sa pedra chi is muradoris ant arrefudau/scartau, pròpiu custa s’est fata pedra de contonada? arrefudau e , arrefudau, scartau.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_18">
+      <prop type="x-reference">Lc20,18</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,18 Chiunque cadrà su quella pietra si sfracellerà e a chi cadrà addosso, lo stritolerà".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,18 Chini/onniunu chi at a arrùiri asuba de cussa pedra s’at a scempiai, ma a chini ddi at a arrùiri asuba, issa ddu at a strecai».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_19">
+      <prop type="x-reference">Lc20,19</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,19 Gli scribi e i sommi sacerdoti cercarono allora di mettergli addosso le mani, ma ebbero paura del popolo. Avevano capito che quella parabola l'aveva detta per loro.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,19 E is scribas e is sacerdotus majoris iant circau luegus de ddi pònniri is manus asuba, e iant timiu su pòpulu. Difatis iant arreconnotu/cumprèndiu ca iat contau custa paràbula po issus. e 19,44</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_20">
+      <prop type="x-reference">Lc20,20</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,20 Postisi in osservazione, mandarono informatori, che si fingessero persone oneste, per coglierlo in fallo nelle sue parole e poi consegnarlo all'autorità e al potere del governatore.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,20 E si fiant postus a càstiu, iant mandau spias chi s’ammostànt giustus/chi faiant pàrriri de èssiri giustus, po aciapai una paràula sua/po dd’aciapai in trampa in calicuna paràula sua e aici ddu intregai a su poderi e a s’autoridadi de su guvernadori.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_21">
+      <prop type="x-reference">Lc20,21</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,21 Costoro lo interrogarono: "Maestro, sappiamo che parli e insegni con rettitudine e non guardi in faccia a nessuno, ma insegni secondo verità la via di Dio.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,21 E ddi iant preguntau narendi: «Maistu, scieus ca fueddas e donas imparu cun onestadi/giustesa/beni e no fais contu de chini est sa personi, ma donas imparu segundu beridadi, sa bia de Deus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_22">
+      <prop type="x-reference">Lc20,22</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,22 È lecito che noi paghiamo il tributo a Cesare?".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,22 S’est lìcitu a donai su tributu a Cesari, o no?».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_23">
+      <prop type="x-reference">Lc20,23</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,23 Conoscendo la loro malizia, disse:</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,23 Ma cumprendendi sa malesa insoru, ddis iat narau:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_24">
+      <prop type="x-reference">Lc20,24</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,24 "Mostratemi un denaro: di chi è l'immagine e l'iscrizione?". Risposero: "Di Cesare".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,24 «Amostai·mì unu denàriu/dinari: de chini tenit immàgini e iscritzioni?». Ma/E issus iant arrespustu: «De Cesari».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_25">
+      <prop type="x-reference">Lc20,25</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,25 Ed egli disse: "Rendete dunque a Cesare ciò che è di Cesare e a Dio ciò che è di Dio".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,25 E issu ddis iat narau: «Torrai, duncas, a Cesari su chi est de Cesari e a Deus su chi est de Deus».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_26">
+      <prop type="x-reference">Lc20,26</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,26 Così non poterono coglierlo in fallo davanti al popolo e, meravigliati della sua risposta, tacquero.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,26 E no dd’iant pòtziu aciapai in trampa in una paràula sua ananti de su pòpulu e, spantaus de s’arrespusta sua, fiant abarraus a sa muda».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_27">
+      <prop type="x-reference">Lc20,27</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,27 Gli si avvicinarono poi alcuni sadducei, i quali negano che vi sia la risurrezione, e gli posero questa domanda:</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,27 «E si ddi fiant acostiaus unus cantu is sadduceus, chi narànt ca no ddoi at arresurretzioni, e ddi iant preguntau:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_28">
+      <prop type="x-reference">Lc20,28</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,28 "Maestro, Mosè ci ha prescritto: Se a qualcuno muore un fratello che ha moglie, ma senza figli, suo fratello si prenda la vedova e dia una discendenza al proprio fratello.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,28 «Maistu, Mosè si at scritu: chi si morit su fradi de calincunu, chi tenit mulleri ma est chene fillus, fradi suu si depit cojai sa mulleri/fiuda po ddi donai una discendèntzia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_29">
+      <prop type="x-reference">Lc20,29</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,29 C'erano dunque sette fratelli: il primo, dopo aver preso moglie, morì senza figli.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,29 Ddoi iat, duncas, seti fradis: su primu si fiat cojau e si fiat mortu chene fillus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_30">
+      <prop type="x-reference">Lc20,30</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,30 Allora la prese il secondo</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,30 E si dd’iat cojada su segundu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_31">
+      <prop type="x-reference">Lc20,31</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,31 e poi il terzo e così tutti e sette; e morirono tutti senza lasciare figli.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,31 e su de tres si dd’iat cojada e aici etotu is seti; e si fiant mortus totus chene lassai fillus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_32">
+      <prop type="x-reference">Lc20,32</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,32 Da ultimo anche la donna morì.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,32 A ùrtimu, sa fèmina puru si fiat morta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_33">
+      <prop type="x-reference">Lc20,33</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,33 Questa donna dunque, nella risurrezione, di chi sarà moglie? Poiché tutti e sette l'hanno avuta in moglie".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,33 Sa fèmina duncas, in s’arresurretzioni, de chini de issus at a èssiri mulleri? Ca is seti dd’iant tenta a mulleri.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_34">
+      <prop type="x-reference">Lc20,34</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,34 Gesù rispose: "I figli di questo mondo prendono moglie e prendono marito;</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,34 E Gesùs ddis iat narau: «Is fillus de custu mundu pigant mulleri e pigant maridu;</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_35">
+      <prop type="x-reference">Lc20,35</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,35 ma quelli che sono giudicati degni dell'altro mondo e della risurrezione dai morti, non prendono moglie né marito;</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,35 ma is chi funt giudicaus dinnus de pigai parti a cuddu mundu e a s’arresurretzioni de is mortus, no pigant ni mulleri ni maridu;</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_36">
+      <prop type="x-reference">Lc20,36</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,36 e nemmeno possono più morire, perché sono uguali agli angeli e, essendo figli della risurrezione, sono figli di Dio.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,36 ca no si podint mancu prus mòrriri e ca funt ogualis a is àngiulus e funt fillus de Deus, sendi fillus de s’arresurretzioni, ca si no podint mancu prus mòrriri, poita funt ogualis a is àngiulus e funt fillus de Deus, sendi fillus de s’arresurretzioni,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_37">
+      <prop type="x-reference">Lc20,37</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,37 Che poi i morti risorgono, lo ha indicato anche Mosè a proposito del roveto, quando chiama il Signore: Dio di Abramo, Dio di Isacco e Dio di Giacobbe.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,37 Ma ca is mortus arresuscitant, dd’at ammostau Mosè puru in su contu de s’arruarxu, candu narat ca su Sennori est Deus de Abramu, Deus de Isacu e Deus de Giacobbu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_38">
+      <prop type="x-reference">Lc20,38</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,38 Dio non è Dio dei morti, ma dei vivi; perché tutti vivono per lui".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,38 Ma Deus no est de is mortus, ma de is bius; difatis totus bivint po issu».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_39">
+      <prop type="x-reference">Lc20,39</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,39 Dissero allora alcuni scribi: "Maestro, hai parlato bene".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,39 E unus cantu scribas iant arrespustu: «Su Maistu, beni as fueddau».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_40">
+      <prop type="x-reference">Lc20,40</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,40 E non osavano più fargli alcuna domanda.</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,40 Ca no s’atriviant prus a ddi preguntai nudda.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_41">
+      <prop type="x-reference">Lc20,41</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,41 Egli poi disse loro: "Come mai dicono che il Cristo è figlio di Davide,</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,41 E issu ddis iat narau: «Comenti est chi narant ca su Cristu est fillu de Dàvidi,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_42">
+      <prop type="x-reference">Lc20,42</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,42 se Davide stesso nel libro dei Salmi dice: Ha detto il Signore al mio Signore: siedi alla mia destra,</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,42 difatis Dàvidi etotu in su libru de is Salmus narat: «Su Sennori ddi at narau a su Sennori miu: Setzi·tì a dereta de mei,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_43">
+      <prop type="x-reference">Lc20,43</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,43 finché io ponga i tuoi nemici come sgabello ai tuoi piedi?</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,43 fintzas a candu deu ponga is nemigus tuus a scannixeddu de is peis tuus».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_44">
+      <prop type="x-reference">Lc20,44</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,44 Davide dunque lo chiama Signore; perciò come può essere suo figlio?".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,44 Dàvidi duncas ddi narat su/ddu tzerriat Sennori; e cumenti est fillu suu?».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_45">
+      <prop type="x-reference">Lc20,45</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,45 E mentre tutto il popolo ascoltava, disse ai discepoli:</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,45 E in s’interis chi totu su pòpulu fiat ascurtendi, iat narau a is discìpulus:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_46">
+      <prop type="x-reference">Lc20,46</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,46 "Guardatevi dagli scribi che amano passeggiare in lunghe vesti e hanno piacere di esser salutati nelle piazze, avere i primi seggi nelle sinagoghe e i primi posti nei conviti;</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,46 «Castiai·sì de is scribas chi bolint passillai a bestiris longus e tenint praxeri a èssiri saludaus in is pratzas, a tènniri is primus scannus in is sinagogas e is primus postus in is pichetadas;</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Lc20_47">
+      <prop type="x-reference">Lc20,47</prop>
+      <tuv xml:lang="it-IT">
+        <seg>Lc20,47 divorano le case delle vedove, e in apparenza fanno lunghe preghiere. Essi riceveranno una condanna più severa".</seg>
+      </tuv>
+      <tuv xml:lang="sc">
+        <seg>Lc20,47 chi nci ingurtint is domus de is fiudas, e cun una scusa faint pregadorias longas. Custus ant a arriciri una cundenna prus grai/manna».</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
