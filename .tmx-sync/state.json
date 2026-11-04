@@ -28,10 +28,10 @@
       ]
     },
     "Luca_it_sc_centro_sud.tmx": {
-      "sha256": "0f2c933f42dc4ef92e1711b1b0d2bde891dbe65af3f41c039657e7432d850d38",
-      "units": 884,
+      "sha256": "5c4fe9a74d0cc62df58409005823ddc74a3bccdcf9e6e29f0619e0ee7c832ce8",
+      "units": 922,
       "first": "Lc1,1",
-      "last": "Lc20,47",
+      "last": "Lc21,38",
       "excluded_references": [
         "Lc17,36"
       ]
