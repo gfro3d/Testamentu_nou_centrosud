@@ -28,12 +28,31 @@
       ]
     },
     "Luca_it_sc_centro_sud.tmx": {
-      "sha256": "5c4fe9a74d0cc62df58409005823ddc74a3bccdcf9e6e29f0619e0ee7c832ce8",
-      "units": 922,
+      "sha256": "254f14f6abb15c899ce909e7bbbc4cac2383478cb3dd157b3ad13896e6682454",
+      "units": 974,
       "first": "Lc1,1",
-      "last": "Lc21,38",
+      "last": "Lc22,52",
       "excluded_references": [
-        "Lc17,36"
+        "Lc17,36",
+        "Lc22,53",
+        "Lc22,54",
+        "Lc22,55",
+        "Lc22,56",
+        "Lc22,57",
+        "Lc22,58",
+        "Lc22,59",
+        "Lc22,60",
+        "Lc22,61",
+        "Lc22,62",
+        "Lc22,63",
+        "Lc22,64",
+        "Lc22,65",
+        "Lc22,66",
+        "Lc22,67",
+        "Lc22,68",
+        "Lc22,69",
+        "Lc22,70",
+        "Lc22,71"
       ]
     }
   }
