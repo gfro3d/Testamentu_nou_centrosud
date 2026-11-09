@@ -2562,6 +2562,14 @@ fintzas a fàiri bìnciri sa giudìtzia;
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,22&lt;s0/&gt;Poi disse ai discepoli: "Per questo io vi dico: Non datevi pensiero per la vostra vita, di quello&lt;s1/&gt;che mangerete; né per il vostro corpo, come lo vestirete.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T080015Z" creationid="giuan" creationdate="20261109T080015Z">
+        <seg>12,22 A pustis ddis iat narau a is discìpulus suus: «Po custu deu bosi naru: No siais in pentzamentu po sa vida bosta, de su chi eis a papai; ni po su corpus bostu, de ita dd’eis a bestiri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,23&lt;s0/&gt;E tutta la folla era sbalordita e diceva: "Non è forse costui il figlio di Davide?".</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260424T090104Z" creationid="BRUNA" creationdate="20260424T090104Z">
@@ -2571,11 +2579,35 @@ fintzas a fàiri bìnciri sa giudìtzia;
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,23&lt;s0/&gt;La vita vale più del cibo e il corpo più del vestito.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T080027Z" creationid="giuan" creationdate="20261109T080027Z">
+        <seg>12,23 Sa vida si balit prus de su mandiari e su corpus prus de su bestiri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,24&lt;s0/&gt;Guardate i corvi: non seminano e non mietono, non hanno ripostiglio né granaio, e Dio li nutre.&lt;s1/&gt;Quanto più degli uccelli voi valete!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T080108Z" creationid="giuan" creationdate="20261109T080108Z">
+        <seg>12,24 Castiai is crobus: no seminant e no messant, no tenint arrebustu ni stàulu, e Deus ddis donat alimentu. E bosàterus baleis prus meda de is pillonis!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,24&lt;s0/&gt;Ma i farisei, udendo questo, presero a dire: "Costui scaccia i demòni in nome di Beelzebùl,&lt;s1/&gt;principe dei demòni".</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260716T092119Z" creationid="BRUNA" creationdate="20260424T090138Z">
         <seg>Ma is fariseus, intendendi aici, iant narau: «Custu nci bogat is dimònius in nòmini de Beelzebú, prìncipi de is dimònius».
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,25&lt;s0/&gt;Chi di voi, per quanto si affanni, può aggiungere un'ora sola alla sua vita?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T080147Z" creationid="giuan" creationdate="20261109T080147Z">
+        <seg>12,25 Chini de bosàterus, po cantu si trumentit, podit aciùngiri sceti unu bratzu a s'artària sua?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2598,6 +2630,14 @@ fintzas a fàiri bìnciri sa giudìtzia;
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,26&lt;s0/&gt;Se dunque non avete potere neanche per la più piccola cosa, perché vi affannate del resto?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T080159Z" creationid="giuan" creationdate="20261109T080159Z">
+        <seg>12,26 Si, duncas, no seis bonus a fàiri mancu sa cosa prus pitica, poita est chi si trumentais po s’àteru?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,27&lt;s0/&gt;E se io scaccio i demòni in nome di Beelzebùl, i vostri figli in nome di chi li scacciano?</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T142546Z" creationid="BRUNA" creationdate="20260424T090548Z">
@@ -2607,11 +2647,27 @@ fintzas a fàiri bìnciri sa giudìtzia;
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,27&lt;s0/&gt;Guardate i gigli, come crescono: non filano, non tessono: eppure io vi dico che neanche Salomone,&lt;s1/&gt;con tutta la sua gloria, vestiva come uno di loro.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T080223Z" creationid="giuan" creationdate="20261109T080223Z">
+        <seg>12,27 Castiai is lillus, cumenti crescint: no trabballant e no filant: tandu deu bosi naru ca mancu Salomoni, cun totu sa glòria sua, fiat bestiu che a unu de issus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,28&lt;s0/&gt;Ma se io scaccio i demòni per virtù dello Spirito di Dio, è certo giunto fra voi il regno di Dio.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260716T092229Z" creationid="BRUNA" creationdate="20260424T090811Z">
         <seg>Si deu perou nci bogu is dimònius cun su Spíridu de Deus, intzandus est giai lompiu su rennu de Deus in mesu a bosàterus.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,28&lt;s0/&gt;Se dunque Dio veste così l'erba del campo, che oggi c'è e domani si getta nel forno, quanto più&lt;s1/&gt;voi, gente di poca fede?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T080231Z" creationid="giuan" creationdate="20261109T080231Z">
+        <seg>12,28 Si Deus dda bestit aici s’erba in su campu, chi oi nci est e cras nci dda ghetant a su forru, cantu prus at a bestiri a bosàterus, genti de pagu fidi!</seg>
       </tuv>
     </tu>
     <tu>
