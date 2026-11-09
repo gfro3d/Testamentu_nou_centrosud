@@ -2539,8 +2539,8 @@ fintzas a fàiri bìnciri sa giudìtzia;
       <tuv lang="it">
         <seg>12,2&lt;s0/&gt;Non c'è nulla di nascosto che non sarà svelato, né di segreto che non sarà conosciuto.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261109T074709Z" creationid="giuan" creationdate="20261109T074709Z">
-        <seg> No nci at nudda de cuau chi no at a èssiri svelau e de segretu chi no at a èssiri connotu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T074717Z" creationid="giuan" creationdate="20261109T074709Z">
+        <seg>12,2 No nci at nudda de cuau chi no at a èssiri svelau e de segretu chi no at a èssiri connotu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2640,6 +2640,14 @@ fintzas a fàiri bìnciri sa giudìtzia;
       <tuv lang="sc" changeid="BRUNA" changedate="20260424T084038Z" creationid="BRUNA" creationdate="20260424T084038Z">
         <seg>E issu iat narau: «No eis lìgiu su chi iat fatu Dàvidi candu dd’iat pigau fàmini impari a is cumpàngius suus?
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,3&lt;s0/&gt;Pertanto ciò che avrete detto nelle tenebre, sarà udito in piena luce; e ciò che avrete detto&lt;s1/&gt;all'orecchio nelle stanze più interne, sarà annunziato sui tetti.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T074812Z" creationid="giuan" creationdate="20261109T074812Z">
+        <seg>12,3 Po cussu totu is cosas chi eis narau in su scuriu, ant a èssiri intèndias in sa luxi; e su chi eis narau a soriga in is aposentus a intròsigu, at a èssiri annuntziau de is crobeturas.</seg>
       </tuv>
     </tu>
     <tu>
