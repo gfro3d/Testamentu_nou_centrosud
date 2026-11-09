@@ -2773,6 +2773,14 @@ fintzas a fàiri bìnciri sa giudìtzia;
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,34&lt;s0/&gt;Perché dove è il vostro tesoro, là sarà anche il vostro cuore.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T143104Z" creationid="giuan" creationdate="20261109T143104Z">
+        <seg>12,34 Ca innui est su scussorxu bostu, innia at a èssiri su coru bostu puru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,34&lt;s0/&gt;Razza di vipere, come potete dire cose buone, voi che siete cattivi?</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260907T164459Z" creationid="BRUNA" creationdate="20260424T091403Z">
@@ -2791,11 +2799,35 @@ fintzas a fàiri bìnciri sa giudìtzia;
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,35&lt;s0/&gt;Siate pronti, con la cintura ai fianchi e le lucerne accese;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T143113Z" creationid="giuan" creationdate="20261109T143113Z">
+        <seg>12,35 Siant is lumbus bostus cintus e is làntias allutas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,36&lt;s0/&gt;Ma io vi dico che di ogni parola infondata gli uomini renderanno conto nel giorno del giudizio;</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260424T091521Z" creationid="BRUNA" creationdate="20260424T091521Z">
         <seg>Ma deu bosi naru ca de ònnia fueddu chene càbudu is òminis nd’ant a torrai contu in sa dii de su giudìtziu;
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,36&lt;s0/&gt;siate simili a coloro che aspettano il padrone quando torna dalle nozze, per aprirgli subito,&lt;s1/&gt;appena arriva e bussa.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T143132Z" creationid="giuan" creationdate="20261109T143132Z">
+        <seg>12,36 E bosàterus siais che a is òminis chi abetant su meri insoru candu torrat de sa coja, po ddi abèrriri in deretura, candu arribbat e pichiat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,37&lt;s0/&gt;Beati quei servi che il padrone al suo ritorno troverà ancora svegli; in verità vi dico, si&lt;s1/&gt;cingerà le sue vesti, li farà mettere a tavola e passerà a servirli.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T143226Z" creationid="giuan" creationdate="20261109T143226Z">
+        <seg>12,37 Biaus cuddus tzeracus chi su meri, torrendi, at a agatai scidus; in beridadi bosi naru, s’at a cìngiri, ddus at a fàiri pònniri in sa mesa e at a passai a ddus serbiri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2818,11 +2850,27 @@ fintzas a fàiri bìnciri sa giudìtzia;
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,38&lt;s0/&gt;E se, giungendo nel mezzo della notte o prima dell'alba, li troverà così, beati loro!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T143301Z" creationid="giuan" creationdate="20261109T143301Z">
+        <seg>12,38 E si arribbendi aintru de noti, in sa de duas o in sa de tres billas de guàrdia, e ddus at a agatai aici, biaus  issus!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,39&lt;s0/&gt;"Una generazione perversa e adultera pretende un segno!</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T142607Z" creationid="BRUNA" creationdate="20260424T091840Z">
         <seg> «Una generatzioni mala e adùltera est circhendi unu sinnu! 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,39&lt;s0/&gt;Sappiate bene questo: se il padrone di casa sapesse a che ora viene il ladro, non si lascerebbe&lt;s1/&gt;scassinare la casa.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T143349Z" creationid="giuan" creationdate="20261109T143349Z">
+        <seg>12,39 Scipiais custu: si su meri de domu iat a àiri scìpui a it’ora benit su furuncu, no iat a àiri lassau a ddi sdorrobbai sa domu.</seg>
       </tuv>
     </tu>
     <tu>
