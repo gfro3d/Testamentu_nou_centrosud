@@ -2322,6 +2322,14 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,10&lt;s0/&gt;Chiunque parlerà contro il Figlio dell'uomo gli sarà perdonato, ma chi bestemmierà lo Spirito&lt;s1/&gt;Santo non gli sarà perdonato.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075549Z" creationid="giuan" creationdate="20261109T075549Z">
+        <seg>12,10 E chini si siat at a narai fueddu contras a su Fillu de s’òmini at a èssiri perdonau, ma chini at a frastimai contras a su Spìridu Santu no at a èssiri perdonau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,10&lt;s0/&gt;Ed ecco, c'era un uomo che aveva una mano inaridita, ed essi chiesero a Gesù: "È permesso curare di sabato?".</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260716T091710Z" creationid="BRUNA" creationdate="20260424T084855Z">
@@ -2340,6 +2348,14 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,11&lt;s0/&gt;Quando vi condurranno davanti alle sinagoghe, ai magistrati e alle autorità, non preoccupatevi&lt;s1/&gt;come discolparvi o che cosa dire;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075606Z" creationid="giuan" creationdate="20261109T075606Z">
+        <seg>12,11 Candu si nci ant a portai ananti de sinagogas, de is magistraus e de is autoridadis, no si pongais in pentzamentu po cumenti bosi discurpai o ita eis a narai;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,12&lt;s0/&gt;Ora, quanto è più prezioso un uomo di una pecora!</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T142503Z" creationid="BRUNA" creationdate="20260424T085021Z">
@@ -2349,10 +2365,26 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,12&lt;s0/&gt;perché lo Spirito Santo vi insegnerà in quel momento ciò che bisogna dire".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075621Z" creationid="giuan" creationdate="20261109T075621Z">
+        <seg>12,12 ca su Spìridu Santu bos’at a imparai in cuss’ora etotu ita tocat a narai».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,13&lt;s0/&gt;E rivolto all'uomo, gli disse: "Stendi la mano".</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T142521Z" creationid="BRUNA" creationdate="20260424T085103Z">
         <seg>E a s’òmini, dd’iat narau: «Stèndia sa manu». </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,13&lt;s0/&gt;Uno della folla gli disse: "Maestro, di' a mio fratello che divida con me l'eredità".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075642Z" creationid="giuan" creationdate="20261109T075642Z">
+        <seg>12,13 E unu de genti dd’iat narau: «Su Maistu, nara·ddi a fradi miu a pratziri cun mei s’eredidadi».</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,11 +2398,35 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,14&lt;s0/&gt;Ma egli rispose: "O uomo, chi mi ha costituito giudice o mediatore sopra di voi?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075716Z" creationid="giuan" creationdate="20261109T075716Z">
+        <seg>12,14 Ma issu ddi iat arrespustu: «S’òmini, chini m’at postu a giùdixi o pratzidori asuba de bosàterus?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,15&lt;s0/&gt;E disse loro: "Guardatevi e tenetevi lontano da ogni cupidigia, perché anche se uno è&lt;s1/&gt;nell'abbondanza la sua vita non dipende dai suoi beni".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075734Z" creationid="giuan" creationdate="20261109T075734Z">
+        <seg>12,15 E ddis iat narau: «Castiai·sì e lassai ònnia asurièntzia, ca mancai unu siat in s’abbundàntzia sa vida sua no dipendit de is benis suus».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,15&lt;s0/&gt;Ma Gesù, saputolo, si allontanò di là.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260716T091935Z" creationid="BRUNA" creationdate="20260424T085318Z">
         <seg> E Gesùs dd’iat scìpiu e si ndi fiat andau de innia.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,16&lt;s0/&gt;Disse poi una parabola: "La campagna di un uomo ricco aveva dato un buon raccolto.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075747Z" creationid="giuan" creationdate="20261109T075747Z">
+        <seg>12,16 Insaras ddis iat contau una paràbula narendi: «Su sartu de un’òmini arricu iat frutau beni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2383,11 +2439,27 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,17&lt;s0/&gt;Egli ragionava tra sé: Che farò, poiché non ho dove riporre i miei raccolti?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075758Z" creationid="giuan" creationdate="20261109T075758Z">
+        <seg>12,17 E fiat arrexonendi intre sei etotu: "Ita apu a fàiri, ca logu innui arregòlliri is frutus mius no ndi tengu?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,17&lt;s0/&gt;perché si adempisse ciò che era stato detto dal profeta Isaia:</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260716T092020Z" creationid="BRUNA" creationdate="20260424T085359Z">
         <seg> po chi si fessit cumpriu su chi iat narau su profeta Isaia:
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,18&lt;s0/&gt;E disse: Farò così: demolirò i miei magazzini e ne costruirò di più grandi e vi raccoglierò tutto&lt;s1/&gt;il grano e i miei beni.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075809Z" creationid="giuan" creationdate="20261109T075809Z">
+        <seg>12,18 E iat narau: "Apu a fàiri aici: nd’apu a sciusciai is stàulus mius e nd’apu a fabricai prus mannus e ddoi apu a arregòlliri totu su trigu e is benis mius.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2408,6 +2480,14 @@ e in issu s’ànima mia si cumpraxit.
       <tuv lang="sc" changeid="BRUNA" changedate="20260424T085547Z" creationid="BRUNA" creationdate="20260424T085547Z">
         <seg>No at a certai, ni aboxinai, 
 e nemus at a intèndiri in is pratzas sa boxi sua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,19&lt;s0/&gt;Poi dirò a me stesso: Anima mia, hai a disposizione molti beni, per molti anni; riposati, mangia,&lt;s1/&gt;bevi e datti alla gioia.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075850Z" creationid="giuan" creationdate="20261109T075850Z">
+        <seg>12,19 Tandu m’apu a narai a mei etotu: Ànima mia, tenis  benis meda allogaus, po annus meda; pasia·tì, papa, bufa e spassia·tì”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2444,6 +2524,22 @@ e nemus at a intèndiri in is pratzas sa boxi sua.</seg>
 ni nd’at a studai su losìngiu  fumiendi, 
 fintzas a fàiri bìnciri sa giudìtzia;
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,20&lt;s0/&gt;Ma Dio gli disse: Stolto, questa notte stessa ti sarà richiesta la tua vita.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075858Z" creationid="giuan" creationdate="20261109T075858Z">
+        <seg>12,20 Ma Deus ddi iat narau: «Macu, notesta etotu t’ant a pediri a torrai sa vida tua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,21&lt;s0/&gt;Così è di chi accumula tesori per sé, e non arricchisce davanti a Dio".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T080001Z" creationid="giuan" creationdate="20261109T080001Z">
+        <seg>12,21 Aici est chini amuntonat prendas po sei etotu, e no s’arricat ananti de Deus».</seg>
       </tuv>
     </tu>
     <tu>
@@ -2801,11 +2897,27 @@ fintzas a fàiri bìnciri sa giudìtzia;
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,7&lt;s0/&gt;Anche i capelli del vostro capo sono tutti contati.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075506Z" creationid="giuan" creationdate="20261109T075506Z">
+        <seg>12,7 Ma fintzas is pilus de sa conca bosta funt totu contaus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,7&lt;s0/&gt;Se aveste compreso che cosa significa: Misericordia io voglio e non sacrificio, non avreste&lt;s1/&gt;condannato persone senza colpa.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260716T091553Z" creationid="BRUNA" creationdate="20260424T084449Z">
         <seg>Si iais cumprèndiu ita bolit narai: «Misericòrdia deu bollu e no sacrifìciu, no iais cundennau a is chene curpa.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,8&lt;s0/&gt;Inoltre vi dico: Chiunque mi riconoscerà davanti agli uomini, anche il Figlio dell'uomo lo&lt;s1/&gt;riconoscerà davanti agli angeli di Dio;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075523Z" creationid="giuan" creationdate="20261109T075523Z">
+        <seg>12,8 E bosi naru: Chini si siat m’at a arreconnòsciri ananti de is òminis, su Fillu de s’òmini puru dd’at a arreconnòsciri ananti de is àngiulus de Deus;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2824,6 +2936,14 @@ fintzas a fàiri bìnciri sa giudìtzia;
       <tuv lang="sc" changeid="BRUNA" changedate="20260424T084644Z" creationid="BRUNA" creationdate="20260424T084644Z">
         <seg>E mòviu de innia fiat intrau a sa sinagoga insoru.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,9&lt;s0/&gt;ma chi mi rinnegherà davanti agli uomini sarà rinnegato davanti agli angeli di Dio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075532Z" creationid="giuan" creationdate="20261109T075532Z">
+        <seg>12,9 ma chini m’at a dennegai ananti de is òminis at a èssiri dènnegau ananti de is àngiulus de Deus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15704,6 +15824,14 @@ issu t'at a aprontai su caminu.</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>E quello che hai&lt;s1/&gt;preparato di chi sarà?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075904Z" creationid="giuan" creationdate="20261109T075904Z">
+        <seg>E su chi as aprontau de chini at a èssiri?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>E questi prodigi compiuti dalle sue mani? &lt;t3/&gt;3&lt;t4/&gt; Non è costui il carpentiere, il figlio di Maria, il fratello di Giacomo, di Ioses, di Giuda e di Simone?</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260327T150225Z" creationid="BRUNA" creationdate="20251008T142646Z">
@@ -16255,6 +16383,14 @@ issu t'at a aprontai su caminu.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260415T101857Z" creationid="giuan" creationdate="20260415T101857Z">
         <seg>E mancai aici nissciunu de issus nci at a arrùiri a terra chene Babbu bostu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Eppure nemmeno uno di essi è dimenticato&lt;s1/&gt;davanti a Dio.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075459Z" creationid="giuan" creationdate="20261109T075459Z">
+        <seg>E mancu unu de issus est scarèsciu ananti de Deus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17312,6 +17448,14 @@ De sa buca de is pipius e de is creaduras t'as procurau una làudi?/alabantza?»
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20261027T105132Z" creationid="giuan" creationdate="20261027T105132Z">
         <seg>No si nci stestiàt mai de su tèmpiu, serbendi noti e dii cun giaunus e pregadorias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Non temete, voi valete più di molti passeri.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261109T075511Z" creationid="giuan" creationdate="20261109T075511Z">
+        <seg>No timais, bosàterus baleis prus de medas cruculeus.</seg>
       </tuv>
     </tu>
     <tu>
