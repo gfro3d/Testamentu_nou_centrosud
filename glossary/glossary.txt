@@ -1222,3 +1222,4 @@ segno	sinnu
 giudici	giùdixis
 esce	ndi bessit
 allora	insaras	tandu
+dipartita	andada
