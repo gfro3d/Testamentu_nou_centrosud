@@ -3105,8 +3105,56 @@ fintzas a fàiri bìnciri sa giudìtzia;
       <tuv lang="it">
         <seg>12,52&lt;s0/&gt;D'ora innanzi in una casa di cinque persone</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261110T143642Z" creationid="giuan" creationdate="20261110T143642Z">
-        <seg>12,52 Ca de immoi innantis, in una domu de cincu personis ant a èssiri pratzius: tres contras a duus e duus contras a tres;</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143705Z" creationid="giuan" creationdate="20261110T143642Z">
+        <seg>12,52 Ca de immoi innantis, in una domu de cincu personis </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,53&lt;s0/&gt;si divideranno tre contro due e due contro tre; padre contro figlio e figlio contro padre, madre&lt;s1/&gt;contro figlia e figlia contro madre, suocera contro nuora e nuora contro suocera".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143742Z" creationid="giuan" creationdate="20261110T143654Z">
+        <seg>12,53 ant a èssiri pratzius: tres contras a duus e duus contras a tres; s'ant a pratziri babbu contras a fillu e fillu contras a babbu, mama contras a filla e filla contras a mama, sorga contras a nura e nura contras a sogra».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,54&lt;s0/&gt;Diceva ancora alle folle: "Quando vedete una nuvola salire da ponente, subito dite: Viene la&lt;s1/&gt;pioggia, e così accade.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143752Z" creationid="giuan" creationdate="20261110T143752Z">
+        <seg>12,54 Ddi naràt puru a sa genti: «Candu bieis una nui artziendi·si·ndi de ponenti, luegus narais: “At a pròiri”; e aici acuntessit».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,55&lt;s0/&gt;E quando soffia lo scirocco, dite: Ci sarà caldo, e così accade.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143801Z" creationid="giuan" creationdate="20261110T143801Z">
+        <seg>12,55 E candu tirat bentu de soli, narais: “At a fàiri callenti”; e aici acuntessit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,56&lt;s0/&gt;Ipocriti!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143806Z" creationid="giuan" creationdate="20261110T143806Z">
+        <seg>15,7 Ipòcritas!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,57&lt;s0/&gt;E perché non giudicate da voi stessi ciò che è giusto?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143820Z" creationid="giuan" creationdate="20261110T143820Z">
+        <seg>12,57 E poita no sceberais bosàterus etotu su chi est giustu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,58&lt;s0/&gt;Quando vai con il tuo avversario davanti al magistrato, lungo la strada procura di accordarti con&lt;s1/&gt;lui, perché non ti trascini davanti al giudice e il giudice ti consegni all'esecutore e questi ti&lt;s2/&gt;getti in prigione.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143956Z" creationid="giuan" creationdate="20261110T143956Z">
+        <seg>12,58 E candu ses andendi cun s’aversàriu tuu ananti de su magistrau, in sa bia circa de ti pònniri de acòrdiu cun issu, po chi no ti nci traghit ananti de su giùdixi, e su giùdixi t'at a intregai a s’uficiali de giustìtzia e s’uficiali de giustìtzia ti nci at a ghetai a presoni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18265,6 +18313,14 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260907T164459Z" creationid="giuan" creationdate="20260513T145036Z">
         <seg>Scieis cumprèndiri comenti càmbiat su celu e no ndi scieis scerai is sinnus de is tempus?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Sapete giudicare l'aspetto della terra e del cielo, come mai questo tempo non sapete&lt;s1/&gt;giudicarlo?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143813Z" creationid="giuan" creationdate="20261110T143813Z">
+        <seg>Scieis apretziai sa bisura de sa terra e de su celu; cumenti no scieis apretziai custu tempus?</seg>
       </tuv>
     </tu>
     <tu>
