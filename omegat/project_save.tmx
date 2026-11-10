@@ -2985,11 +2985,35 @@ fintzas a fàiri bìnciri sa giudìtzia;
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,45&lt;s0/&gt;Ma se quel servo dicesse in cuor suo: Il padrone tarda a venire, e cominciasse a percuotere i&lt;s1/&gt;servi e le serve, a mangiare, a bere e a ubriacarsi,</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143404Z" creationid="giuan" creationdate="20261110T143404Z">
+        <seg>12,45 Ma si cussu tzeracu narat in  coru suu: “Su meri miu trigat a bènniri, e cumentzat a arropai a is tzeracus e a is tzeracas, a papai, a bufai e a s’imbriagai,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,46&lt;s0/&gt;Mentre egli parlava ancora alla folla, sua madre e i suoi fratelli, stando fuori in disparte, cercavano di parlargli.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260716T092620Z" creationid="BRUNA" creationdate="20260424T092702Z">
         <seg> In s’interis chi fiat ancora chistionendi a is trumas, sa mama e fradis suus fiant in foras circhendi de chistionai cun issu.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,46&lt;s0/&gt;il padrone di quel servo arriverà nel giorno in cui meno se l'aspetta e in un'ora che non sa, e&lt;s1/&gt;lo punirà con rigore, assegnandogli il posto fra gli infedeli.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143445Z" creationid="giuan" creationdate="20261110T143445Z">
+        <seg>12,46 su meri de cussu tzeracu at a arribbai sa dii chi issu no si dd'abetat e in s'ora chi no sciit, dd'at a fàiri in duus tancus e nci dd'at at a pònniri in mesu de is infidelis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,47&lt;s0/&gt;Il servo che, conoscendo la volontà del padrone, non avrà disposto o agito secondo la sua&lt;s1/&gt;volontà, riceverà molte percosse;</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143457Z" creationid="giuan" creationdate="20261110T143457Z">
+        <seg>12,47 Su tzeracu chi, connoscendi sa voluntadi de su meri suu, no s’est aprontau e no at fatu cunforma a sa voluntadi sua, nd’at a boddiri una bella surra de corpus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3012,11 +3036,27 @@ fintzas a fàiri bìnciri sa giudìtzia;
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,48&lt;s0/&gt;quello invece che, non conoscendola, avrà fatto cose meritevoli di percosse, ne riceverà poche.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143509Z" creationid="giuan" creationdate="20261110T143509Z">
+        <seg>12,48 Su chi invecis, no dda connoscit e at fatu cosas chi minescint una bella surra de corpus, nd’at a boddiri pagus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,49&lt;s0/&gt;Poi stendendo la mano verso i suoi discepoli disse: "Ecco mia madre ed ecco i miei fratelli;</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260716T092705Z" creationid="BRUNA" creationdate="20260424T093014Z">
         <seg>E inditendi is discìpulus suus iat narau: «Ecu a mama mia e a fradis mius;
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,49&lt;s0/&gt;Sono venuto a portare il fuoco sulla terra; e come vorrei che fosse già acceso!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143539Z" creationid="giuan" creationdate="20261110T143539Z">
+        <seg>12,49 Seu bènniu a ghetai fogu asuba de sa terra; e mancai fessit giai allutu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3038,11 +3078,35 @@ fintzas a fàiri bìnciri sa giudìtzia;
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>12,50&lt;s0/&gt;C'è un battesimo che devo ricevere; e come sono angosciato, finché non sia compiuto!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143620Z" creationid="giuan" creationdate="20261110T143620Z">
+        <seg>12,50 Nci at unu batiari chi depu èssiri batiau; e cumenti seu angustiau fintzas a candu si cumprat!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>12,50&lt;s0/&gt;perché chiunque fa la volontà del Padre mio che è nei cieli, questi è per me fratello, sorella e madre".</seg>
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20260424T093132Z" creationid="BRUNA" creationdate="20260424T093132Z">
         <seg>ca chini fait sa voluntadi de su Babbu miu chi est in is celus, issu m’est fradi, sorri e mama».
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,51&lt;s0/&gt;Pensate che io sia venuto a portare la pace sulla terra?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143626Z" creationid="giuan" creationdate="20261110T143626Z">
+        <seg>12,51 Pentzais ca deu seu bènniu a betiri paxi in sa terra?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>12,52&lt;s0/&gt;D'ora innanzi in una casa di cinque persone</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143642Z" creationid="giuan" creationdate="20261110T143642Z">
+        <seg>12,52 Ca de immoi innantis, in una domu de cincu personis ant a èssiri pratzius: tres contras a duus e duus contras a tres;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14942,6 +15006,14 @@ issu t'at a aprontai su caminu.</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>A&lt;s1/&gt;chiunque fu dato molto, molto sarà chiesto; a chi fu affidato molto, sarà richiesto molto di più.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143526Z" creationid="giuan" creationdate="20261110T143526Z">
+        <seg>A chini meda dd’ant donau, meda dd’at a èssiri pediu; a chini dd'ant afidau meda, meda de prus dd’ant a pediri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Abbiamo visto sorgere la sua stella, e siamo venuti per adorarlo".</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260804T105802Z" creationid="giuan" creationdate="20260305T151337Z">
@@ -17488,6 +17560,14 @@ De sa buca de is pipius e de is creaduras t'as procurau una làudi?/alabantza?»
       </tuv>
       <tuv lang="sc" changeid="BRUNA" changedate="20251120T103619Z" creationid="giuan" creationdate="20251027T113226Z">
         <seg>Nisciunus est bonu, Deus sceti est bonu.  19 Giai ddus connoscis is cumandamentus: No bòcias, no fatzas adultèriu, no furis, no testimongis su frassu, no fatzas trampa, onora a babbu e a mama tua ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>No, vi dico, ma la divisione.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261110T143632Z" creationid="giuan" creationdate="20261110T143632Z">
+        <seg>No, bosi naru, ma antzis pratzidura.</seg>
       </tuv>
     </tu>
     <tu>
