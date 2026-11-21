@@ -3743,6 +3743,14 @@ e no si cunvertant, e deu ddus sani.</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>13,35&lt;s0/&gt;Ecco, la vostra casa sta per esservi lasciata deserta!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081635Z" creationid="giuan" creationdate="20261121T081635Z">
+        <seg>13,35 Mi', domu bosta bosi est lassada in abbandonu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>13,35&lt;s0/&gt;perché si adempisse ciò che era stato detto dal profeta: Aprirò la mia bocca in parabole,&lt;s1/&gt;proclamerò cose nascoste fin dalla fondazione del mondo.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T131217Z" creationid="giuan" creationdate="20260501T131217Z">
@@ -4191,6 +4199,14 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>14,1&lt;s0/&gt;Un sabato era entrato in casa di uno dei capi dei farisei per pranzare e la gente stava ad&lt;s1/&gt;osservarlo.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081651Z" creationid="giuan" creationdate="20261121T081651Z">
+        <seg>14,1 E fiat acuntèssiu ca unu sàbudu, candu issu fiat intrau a domu de unu de is capus de is fariseus po papai, e issus fiant castiendide·ddu cun atentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>14,1&lt;t0/&gt; Mancavano intanto due giorni alla Pasqua e agli Azzimi e i sommi sacerdoti e gli scribi cercavano il modo di impadronirsi di lui con inganno, per ucciderlo. &lt;t1/&gt;2&lt;t2/&gt; Dicevano infatti: «Non durante la festa, perché non succeda un tumulto di popolo».</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20251209T141728Z" creationid="giuan" creationdate="20251209T141728Z">
@@ -4284,6 +4300,14 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>14,2&lt;s0/&gt;Davanti a lui stava un idropico.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081656Z" creationid="giuan" creationdate="20261121T081656Z">
+        <seg>14,2 E ecu, ananti suu, ddoi fiat unu idròpicu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>14,2&lt;s0/&gt;Egli disse ai suoi cortigiani: "Costui è Giovanni il Battista risuscitato dai morti; per ciò la potenza dei miracoli opera in lui".</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260716T094032Z" creationid="giuan" creationdate="20260501T132427Z">
@@ -4358,6 +4382,14 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>14,3&lt;s0/&gt;Rivolgendosi ai dottori della legge e ai farisei, Gesù disse: "È lecito o no curare di sabato?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081706Z" creationid="giuan" creationdate="20261121T081706Z">
+        <seg>14,3 Tandu Gesùs iat narau a is dotoris de sa lei e a is fariseus: «Lìcitu est, o no, a sanai in dii de sàbudu?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>14,4&lt;s0/&gt;Giovanni infatti gli diceva: "Non ti è lecito tenerla!".</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T132456Z" creationid="giuan" creationdate="20260501T132456Z">
@@ -4366,10 +4398,34 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>14,4&lt;s0/&gt;Ma essi tacquero.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081710Z" creationid="giuan" creationdate="20261121T081710Z">
+        <seg>14,4 Ma issus fiant abarraus a sa muda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>14,5&lt;s0/&gt;Benché Erode volesse farlo morire, temeva il popolo perché lo considerava un profeta.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T132509Z" creationid="giuan" creationdate="20260501T132509Z">
         <seg>14,5 Mancai Erodi boliat a ddu bociri, timiat a su pòpulu ca ddu cunsideràt unu profeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,5&lt;s0/&gt;Poi disse: "Chi di voi, se un asino o un bue gli cade nel pozzo, non lo tirerà subito fuori in&lt;s1/&gt;giorno di sabato?".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081853Z" creationid="giuan" creationdate="20261121T081749Z">
+        <seg>14,5 A pustis iat narau: «Chini de bosàterus, si unu fillu o unu boi nci dd’arruit a su putzu, no ndi dd’at a tirai a foras inderetura in dii de sàbudu?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>14,6&lt;s0/&gt;E non potevano rispondere nulla a queste parole.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081859Z" creationid="giuan" creationdate="20261121T081859Z">
+        <seg>14,6 E no iant pòtziu arrespùndiri nudda a custu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16923,6 +16979,14 @@ issu t'at a aprontai su caminu.</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>Egli lo prese per mano, lo guarì e lo congedò.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081717Z" creationid="giuan" creationdate="20261121T081717Z">
+        <seg>Gesùs dd’iat pigau, dd’iat sanau e nci dd’iat dispidiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>Egli non sapeva quel che diceva.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260908T092224Z" creationid="giuan" creationdate="20260908T092224Z">
@@ -19166,6 +19230,14 @@ e a issu sceti serbi».</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260305T153931Z" creationid="giuan" creationdate="20260305T153931Z">
         <seg>Bosi naru ca Deus ndi podit bogai fillus de Abramu fintzas de custas pedras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>Vi dico infatti che non mi vedrete più&lt;s1/&gt;fino al tempo in cui direte: Benedetto colui che viene nel nome del Signore!".</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081645Z" creationid="giuan" creationdate="20261121T081645Z">
+        <seg>Difatis bosi naru ca no m'eis a biri fintzas a candu eis a narai: Beneitu su chi benit in nòmini de su Sennori!”».</seg>
       </tuv>
     </tu>
     <tu>
