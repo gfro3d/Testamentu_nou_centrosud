@@ -1234,8 +1234,8 @@ e ghiai is passus nostus a sa bia de sa paxi».
       <tuv lang="it">
         <seg>10,30&lt;s0/&gt;Gesù riprese: "Un uomo scendeva da Gerusalemme a Gerico e incappò nei briganti che lo&lt;s1/&gt;spogliarono, lo percossero e poi se ne andarono, lasciandolo mezzo morto.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260917T072658Z" creationid="giuan" creationdate="20260917T072658Z">
-        <seg>10,30  Gesùs iat arrespostu: «Un’òmini fiat calendi de Gerusalemmi a Gèricu candu nci fiat arrutu in mesu de brigantis chi a pustis dd’iant spollincau, scutu e si ndi fiant andaus lassendide·ddu mesu mortu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20260917T072658Z">
+        <seg>10,30  Gesùs iat arrespostu: «Un’òmini fiat calendi de Gerusalemi a Gèricu candu nci fiat arrutu in mesu de brigantis chi a pustis dd’iant spollincau, scutu e si ndi fiant andaus lassendide·ddu mesu mortu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1769,8 +1769,8 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
       <tuv lang="it">
         <seg>11,1&lt;t0/&gt; Quando si avvicinarono a Gerusalemme, verso Bètfage e Betània, presso il monte degli Ulivi, mandò due dei suoi discepoli &lt;t1/&gt;2&lt;t2/&gt; e disse loro: «Andate nel villaggio che vi sta di fronte, e subito entrando in esso troverete un asinello legato, sul quale nessuno è mai salito.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260907T164459Z" creationid="giuan" creationdate="20251104T112014Z">
-        <seg>11,1 comenti fiant acostiendi a Gerusalemmi, faci a Bètfage e Betània, acanta de su Monti de is Olias, iat mandau a duus de is discìpulus suus 2 e ddis iat narau: «Baxei a sa bidda chi teneis ananti, e aintru eis a agatai unu molenteddu acapiau chi no dd’at sètziu mai nemus.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20251104T112014Z">
+        <seg>11,1 comenti fiant acostiendi a Gerusalemi, faci a Bètfage e Betània, acanta de su Monti de is Olias, iat mandau a duus de is discìpulus suus 2 e ddis iat narau: «Baxei a sa bidda chi teneis ananti, e aintru eis a agatai unu molenteddu acapiau chi no dd’at sètziu mai nemus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2300,8 +2300,8 @@ Ecu unu satzagoni e un’imbriagoni, amigu de is publicanus e de is pecadoris.
       <tuv lang="it">
         <seg>11&lt;t0/&gt; Ed entrò a Gerusalemme, nel tempio.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251104T112322Z" creationid="giuan" creationdate="20251104T112322Z">
-        <seg>11 E fiat intrau a Gerusalemmi, a su tèmpiu. </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20251104T112322Z">
+        <seg>11 E fiat intrau a Gerusalemi, a su tèmpiu. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3520,8 +3520,8 @@ e no si cunvertant, e deu ddus sani.</seg>
       <tuv lang="it">
         <seg>13,22&lt;s0/&gt;Passava per città e villaggi, insegnando, mentre camminava verso Gerusalemme.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261110T144726Z" creationid="giuan" creationdate="20261110T144726Z">
-        <seg>13,22 E passàt peri citadis e biddas, donendi imparu, andendi·andendi conca a Gerusalemmi.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20261110T144726Z">
+        <seg>13,22 E passàt peri citadis e biddas, donendi imparu, andendi·andendi conca a Gerusalemi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3696,8 +3696,8 @@ e no si cunvertant, e deu ddus sani.</seg>
       <tuv lang="it">
         <seg>13,32&lt;s0/&gt;Egli rispose: "Andate a dire a quella volpe: Ecco, io scaccio i demòni e compio guarigioni oggi e&lt;s1/&gt;domani; e il terzo giorno avrò finito.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261121T081251Z" creationid="giuan" creationdate="20261121T081251Z">
-        <seg>Lc13,32 E ddis iat narau: «Baxei a ddi narai a cuddu margiani: “Ecu, deu nci bogu is dimònius e sanu oi e cras; e a sa de tres diis apu a èssiri lòmpiu a cumprimentu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081307Z" creationid="giuan" creationdate="20261121T081251Z">
+        <seg>13,32 E ddis iat narau: «Baxei a ddi narai a cuddu margiani: “Ecu, deu nci bogu is dimònius e sanu oi e cras; e a sa de tres diis apu a èssiri lòmpiu a cumprimentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3710,11 +3710,27 @@ e no si cunvertant, e deu ddus sani.</seg>
     </tu>
     <tu>
       <tuv lang="it">
+        <seg>13,33&lt;s0/&gt;Però è necessario che oggi, domani e il giorno seguente io vada per la mia strada, perché non è&lt;s1/&gt;possibile che un profeta muoia fuori di Gerusalemme.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20261121T081301Z">
+        <seg>13,33 Ma tocat chi oi, cras e sa dii in fatu, deu siga, no podit èssiri chi unu profeta si mòrgiat foras de Gerusalemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
         <seg>13,33&lt;s0/&gt;Un'altra parabola disse loro: "Il regno dei cieli si può paragonare al lievito, che una donna ha preso e impastato con tre misure di farina perché tutta si fermenti".</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20261001T100532Z" creationid="giuan" creationdate="20260501T131120Z">
         <seg>13,33 Ddis iat narau un'atera paràbula: «Su rennu de is celus est che a su fromentu, chi una fèmina at pigau e ciuetu cun unu moi de farra fintzas a candu est totu axedau».
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,34&lt;s0/&gt;Gerusalemme, Gerusalemme, che uccidi i profeti e lapidi coloro che sono mandati a te, quante&lt;s1/&gt;volte ho voluto raccogliere i tuoi figli come una gallina la sua covata sotto le ali e voi non&lt;s2/&gt;avete voluto!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20261121T081512Z">
+        <seg>13,34 Gerusalemi, Gerusalemi, tui chi bocis a is profetas e apèdrias a is chi ti funt mandaus, cantu bortas apu bòfiu arregòlliri a pari fillus tuus, comenti una pudda sa cria sua asuta a is alas, e bosàterus no eis bòfiu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3880,8 +3896,8 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
       <tuv lang="it">
         <seg>13,4&lt;s0/&gt;O quei diciotto, sopra i quali rovinò la torre di Sìloe e li uccise, credete che fossero più&lt;s1/&gt;colpevoli di tutti gli abitanti di Gerusalemme?</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261110T144135Z" creationid="giuan" creationdate="20261110T144135Z">
-        <seg>13,4 O cussus dexiotu, chi nci ddis est arruta a pitzus sa turri in Sìloe e ddus at bocius, creeis ca issus fiant prus depidoris de totu is àterus chi bivint in Gerusalemmi?</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20261110T144135Z">
+        <seg>13,4 O cussus dexiotu, chi nci ddis est arruta a pitzus sa turri in Sìloe e ddus at bocius, creeis ca issus fiant prus depidoris de totu is àterus chi bivint in Gerusalemi?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4531,8 +4547,8 @@ apu a decrarai/narai cosas cuadas (fintzas) de candu est nàsciu su mundu.
       <tuv lang="it">
         <seg>15,1&lt;s0/&gt;In quel tempo vennero a Gesù da Gerusalemme alcuni farisei e alcuni scribi e gli dissero:</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260513T142810Z" creationid="giuan" creationdate="20260501T142735Z">
-        <seg>15,1 In cussu tempus de Gerusalemmi fiant arribbaus a innui fiat Gesùs uns cantu fariseus e unus cantu scribas e ddi iant narau:
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20260501T142735Z">
+        <seg>15,1 In cussu tempus de Gerusalemi fiant arribbaus a innui fiat Gesùs uns cantu fariseus e unus cantu scribas e ddi iant narau:
 
 </seg>
       </tuv>
@@ -4776,8 +4792,8 @@ ma su coru suu est atesu de mei.
       <tuv lang="it">
         <seg>15&lt;t0/&gt; Andarono intanto a Gerusalemme.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20251104T112511Z" creationid="giuan" creationdate="20251104T112511Z">
-        <seg>15 E lompint a Gerusalemmi. </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20251104T112511Z">
+        <seg>15 E lompint a Gerusalemi. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4916,8 +4932,8 @@ ma su coru suu est atesu de mei.
       <tuv lang="it">
         <seg>16,21&lt;s0/&gt;Da allora Gesù cominciò a dire apertamente ai suoi discepoli che doveva andare a Gerusalemme e soffrire molto da parte degli anziani, dei sommi sacerdoti e degli scribi, e venire ucciso e risuscitare il terzo giorno.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260908T063508Z" creationid="giuan" creationdate="20260513T145718Z">
-        <seg>16,21 De insaras Gesùs iat cumentzau a narai a craru a is discìpulus suus ca depiat andai a Gerusalemmi e patiri meda a càusa de is mannus, de is sacerdotus majoris e de is scribas, ca ddu depiant bociri e ca depiat arresuscitai a sa de tres diis.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20260513T145718Z">
+        <seg>16,21 De insaras Gesùs iat cumentzau a narai a craru a is discìpulus suus ca depiat andai a Gerusalemi e patiri meda a càusa de is mannus, de is sacerdotus majoris e de is scribas, ca ddu depiant bociri e ca depiat arresuscitai a sa de tres diis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6147,8 +6163,8 @@ Racheli prangit is fillus suus e no  bolit a dd'acunnortai, ca no funt prus.</se
       <tuv lang="it">
         <seg>2,22&lt;s0/&gt;Quando venne il tempo della loro purificazione secondo la Legge di Mosè, portarono il bambino a&lt;s1/&gt;Gerusalemme per offrirlo al Signore,</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261027T103812Z" creationid="giuan" creationdate="20261027T103812Z">
-        <seg>2,22 E candu fiat arribbau su tempus de sa purificatzioni insoru segundu sa Lei de Mosè, nci iant portau sa creadura a Gerusalemmi po dda presentai a su Sennori,</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20261027T103812Z">
+        <seg>2,22 E candu fiat arribbau su tempus de sa purificatzioni insoru segundu sa Lei de Mosè, nci iant portau sa creadura a Gerusalemi po dda presentai a su Sennori,</seg>
       </tuv>
     </tu>
     <tu>
@@ -6179,8 +6195,8 @@ Racheli prangit is fillus suus e no  bolit a dd'acunnortai, ca no funt prus.</se
       <tuv lang="it">
         <seg>2,25&lt;s0/&gt;Ora a Gerusalemme c'era un uomo di nome Simeone, uomo giusto e timorato di Dio, che aspettava il&lt;s1/&gt;conforto d'Israele;</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261027T103954Z" creationid="giuan" creationdate="20261027T103954Z">
-        <seg>2,25 In Gerusalemmi ddoi fiat un’òmini chi ddi narànt Simeoni, òmini giustu e devotu a Deus, chi fiat abetendi su cunsolu de Israeli e su Spìridu Santu fiat asuba sua;</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20261027T103954Z">
+        <seg>2,25 In Gerusalemi ddoi fiat un’òmini chi ddi narànt Simeoni, òmini giustu e devotu a Deus, chi fiat abetendi su cunsolu de Israeli e su Spìridu Santu fiat asuba sua;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6299,8 +6315,8 @@ Racheli prangit is fillus suus e no  bolit a dd'acunnortai, ca no funt prus.</se
       <tuv lang="it">
         <seg>2,38&lt;s0/&gt;Sopraggiunta in quel momento, si mise anche lei a lodare Dio e parlava del bambino a quanti&lt;s1/&gt;aspettavano la redenzione di Gerusalemme.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261027T105204Z" creationid="giuan" creationdate="20261027T105204Z">
-        <seg>2,38 Lòmpia in cuss’ora etotu, laudàt a Deus e fueddàt de su pipiu a is chi abetànt s’arredentzioni de Gerusalemmi.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20261027T105204Z">
+        <seg>2,38 Lòmpia in cuss’ora etotu, laudàt a Deus e fueddàt de su pipiu a is chi abetànt s’arredentzioni de Gerusalemi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6315,8 +6331,8 @@ Racheli prangit is fillus suus e no  bolit a dd'acunnortai, ca no funt prus.</se
       <tuv lang="it">
         <seg>2,3&lt;s0/&gt;All'udire queste parole, il re Erode restò turbato e con lui tutta Gerusalemme.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260305T151355Z" creationid="giuan" creationdate="20260305T151355Z">
-        <seg>2,3 Intendendi custus fueddus, su rei Erodi fiat a pistighìngiu, e cun issu totu Gerusalemmi.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20260305T151355Z">
+        <seg>2,3 Intendendi custus fueddus, su rei Erodi fiat a pistighìngiu, e cun issu totu Gerusalemi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6339,8 +6355,8 @@ Racheli prangit is fillus suus e no  bolit a dd'acunnortai, ca no funt prus.</se
       <tuv lang="it">
         <seg>2,41&lt;s0/&gt;I suoi genitori si recavano tutti gli anni a Gerusalemme per la festa di Pasqua.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261027T110253Z" creationid="giuan" creationdate="20261027T110253Z">
-        <seg>2,41 Su babbu e sa mama ònnia annu andànt a Gerusalemmi po sa festa de Pasca.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20261027T110253Z">
+        <seg>2,41 Su babbu e sa mama ònnia annu andànt a Gerusalemi po sa festa de Pasca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6355,8 +6371,8 @@ Racheli prangit is fillus suus e no  bolit a dd'acunnortai, ca no funt prus.</se
       <tuv lang="it">
         <seg>2,43&lt;s0/&gt;ma trascorsi i giorni della festa, mentre riprendevano la via del ritorno, il fanciullo Gesù&lt;s1/&gt;rimase a Gerusalemme, senza che i genitori se ne accorgessero.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261027T110357Z" creationid="giuan" creationdate="20261027T110357Z">
-        <seg>2,43 passadas is diis de sa festa, candu fiant torrendide·ndi, su piciocheddu, Gesùs, fiat abarrau in Gerusalemmi, e sa mama e su babbu no si ndi fiant sapius.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20261027T110357Z">
+        <seg>2,43 passadas is diis de sa festa, candu fiant torrendide·ndi, su piciocheddu, Gesùs, fiat abarrau in Gerusalemi, e sa mama e su babbu no si ndi fiant sapius.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6371,8 +6387,8 @@ Racheli prangit is fillus suus e no  bolit a dd'acunnortai, ca no funt prus.</se
       <tuv lang="it">
         <seg>2,45&lt;s0/&gt;non avendolo trovato, tornarono in cerca di lui a Gerusalemme.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261027T110519Z" creationid="giuan" creationdate="20261027T110519Z">
-        <seg>Po chi siant svelaus is pentzus de corus meda».[2,45 sigomenti no dd’iant agatau fiant torraus a Gerusalemmi a ddu circai.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20261027T110519Z">
+        <seg>Po chi siant svelaus is pentzus de corus meda».[2,45 sigomenti no dd’iant agatau fiant torraus a Gerusalemi a ddu circai.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6592,8 +6608,8 @@ ca de tui nd'at a bessiri, difatis, una ghia chi at a pàsciri su pòpulu miu, I
       <tuv lang="it">
         <seg>20,17&lt;s0/&gt;Mentre saliva a Gerusalemme, Gesù prese in disparte i dodici e lungo la via disse loro:</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260530T080429Z" creationid="giuan" creationdate="20260530T080429Z">
-        <seg>20,17 In s'interis chi fiat artziendi a Gerusalemmi, Gesùs s'iat pigau a is doxi a una parti e in sa bia ddis iat narau:</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20260530T080429Z">
+        <seg>20,17 In s'interis chi fiat artziendi a Gerusalemi, Gesùs s'iat pigau a is doxi a una parti e in sa bia ddis iat narau:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6826,16 +6842,16 @@ ca de tui nd'at a bessiri, difatis, una ghia chi at a pàsciri su pòpulu miu, I
       <tuv lang="it">
         <seg>20&lt;t0/&gt; La mattina seguente, passando, videro il fico seccato fin dalle radici. &lt;t1/&gt;21&lt;t2/&gt; Allora Pietro, ricordatosi, gli disse: «Maestro, guarda: il fico che hai maledetto si è seccato». &lt;t3/&gt;22&lt;t4/&gt; Gesù allora disse loro: «Abbiate fede in Dio! &lt;t5/&gt;23&lt;t6/&gt; In verità vi dico: chi dicesse a questo monte: Lèvati e gettati nel mare, senza dubitare in cuor suo ma credendo che quanto dice avverrà, ciò gli sarà accordato. &lt;t7/&gt;24&lt;t8/&gt; Per questo vi dico: tutto quello che domandate nella preghiera, abbiate fede di averlo ottenuto e vi sarà accordato. &lt;t9/&gt;25&lt;t10/&gt; Quando vi mettete a pregare, se avete qualcosa contro qualcuno, &lt;t11/&gt;perdonate, perché anche il Padre vostro che è nei cieli perdoni a voi i vostri peccati». &lt;t12/&gt;26&lt;t13/&gt;  &lt;t14/&gt;27&lt;t15/&gt; Andarono di nuovo a Gerusalemme.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261121T075222Z" creationid="giuan" creationdate="20251104T112818Z">
-        <seg>20 E a mengianu, passendi iant bistu sa mata de sa figu totu sicada fintzas a is arrèxinis. 21 Insaras Pedru, arregordendi·si·ndi dd’iat narau: «Mi' su Maistu: sa mata de figu chi as maleixu s’est sicada». 22 Gesùs insaras ddis iat narau: «Tenei fidi in Deus! 23 In beridadi bosi naru: si unu narat a custu monti: Pesati·ndi e gheta·ti·nci a mari, chene dudas in coru suu ma creendi diaderus ca su chi narat at a acontèssiri, custu at a èssiri. 24 Po cussu bosi naru: totu su chi pedeis preghendi, creide·ddu giai arriciu e dd’eis a otènniri. 25 Candu bosi poneis a pregai, si teneis calincuna cosa contras a calincunu, perdonai, po chi aici etotu su Babbu bostu chi est me is celus perdonit is curpas de bosàterus». 26  27 E fiant torraus a andai a Gerusalemmi. </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20251104T112818Z">
+        <seg>20 E a mengianu, passendi iant bistu sa mata de sa figu totu sicada fintzas a is arrèxinis. 21 Insaras Pedru, arregordendi·si·ndi dd’iat narau: «Mi' su Maistu: sa mata de figu chi as maleixu s’est sicada». 22 Gesùs insaras ddis iat narau: «Tenei fidi in Deus! 23 In beridadi bosi naru: si unu narat a custu monti: Pesati·ndi e gheta·ti·nci a mari, chene dudas in coru suu ma creendi diaderus ca su chi narat at a acontèssiri, custu at a èssiri. 24 Po cussu bosi naru: totu su chi pedeis preghendi, creide·ddu giai arriciu e dd’eis a otènniri. 25 Candu bosi poneis a pregai, si teneis calincuna cosa contras a calincunu, perdonai, po chi aici etotu su Babbu bostu chi est me is celus perdonit is curpas de bosàterus». 26  27 E fiant torraus a andai a Gerusalemi. </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="it">
         <seg>21,10&lt;s0/&gt;Entrato Gesù in Gerusalemme, tutta la città fu in agitazione e la gente si chiedeva: "Chi è costui?".</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260622T062732Z" creationid="BRUNA" creationdate="20260622T062732Z">
-        <seg>21,10 Candu Gesùs fiat intrau a Gerusalemmi, totu sa citadi fiat in avolotu e sa genti si preguntàt: «E chini est custu?».
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="BRUNA" creationdate="20260622T062732Z">
+        <seg>21,10 Candu Gesùs fiat intrau a Gerusalemi, totu sa citadi fiat in avolotu e sa genti si preguntàt: «E chini est custu?».
 </seg>
       </tuv>
     </tu>
@@ -6920,8 +6936,8 @@ ma bosàterus ndi seis fendi una gruta  de furonis!».
       <tuv lang="it">
         <seg>21,1&lt;s0/&gt;Quando furono vicini a Gerusalemme e giunsero presso Bètfage, verso il monte degli Ulivi, Gesù mandò due dei suoi discepoli</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20260622T062216Z" creationid="BRUNA" creationdate="20260622T062216Z">
-        <seg>21,1 Candu fiant acanta de Gerusalemmi e fiant lòmpius a Bètfage, a su Monti de is Olias, Gesùs iat mandau a duus  discìpulus suus</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="BRUNA" creationdate="20260622T062216Z">
+        <seg>21,1 Candu fiant acanta de Gerusalemi e fiant lòmpius a Bètfage, a su Monti de is Olias, Gesùs iat mandau a duus  discìpulus suus</seg>
       </tuv>
     </tu>
     <tu>
@@ -7663,8 +7679,8 @@ asuta de is peis tuus?
       <tuv lang="it">
         <seg>22&lt;t0/&gt; Ma gli scribi, che erano discesi da Gerusalemme, dicevano: «Costui è posseduto da Beelzebùl e scaccia i demòni per mezzo del principe dei demòni». &lt;t1/&gt;23&lt;t2/&gt; Ma egli, chiamatili, diceva loro in parabole: «Come può satana scacciare satana? &lt;t3/&gt;24&lt;t4/&gt; Se un regno è diviso in &lt;t5/&gt;se&lt;t6/&gt; stesso, quel regno non può reggersi; &lt;t7/&gt;25&lt;t8/&gt; se una casa è divisa in se stessa, quella casa non può reggersi. &lt;t9/&gt;26&lt;t10/&gt; Alla stessa maniera, se satana si ribella contro &lt;t11/&gt;se&lt;t12/&gt; stesso ed è diviso, non può resistere, ma sta per finire. &lt;t13/&gt;27&lt;t14/&gt; Nessuno può entrare nella casa di un uomo forte e rapire le sue cose se prima non avrà legato l'uomo forte; allora ne saccheggerà la casa. &lt;t15/&gt;28&lt;t16/&gt; In verità vi dico: tutti i peccati saranno perdonati ai figli degli uomini e anche tutte le bestemmie che diranno; &lt;t17/&gt;29&lt;t18/&gt; ma chi avrà bestemmiato contro lo Spirito santo, non avrà perdono in eterno: sarà reo di colpa eterna». &lt;t19/&gt;30&lt;t20/&gt; Poiché dicevano: «È posseduto da uno spirito immondo».</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260907T164541Z" creationid="BRUNA" creationdate="20251018T205324Z">
-        <seg>22 Ma is scribas, chi ndi fiant abasciaus de Gerusalemmi, narànt: «Custu est possidiu de Beelzebù e nci bogat is dimònius cun s'agiudu de su prìncipi de is dimònius». 23 Ma issu ddus iat tzerriaus acanta sua e cun paràbulas ddis naràt: «Comenti fait sàtana a nci bogai a sàtana?». 24 Si unu rennu est partziu aintru de sei etotu, cussu rennu no podit durai; 25 e si una domu est partzia aintru de sei etotu no podit durai.  A sa pròpriu manera, 26 si sàtana si furriat  contras a issu etotu e si partzit, no podit durai ma est lòmpia sa fini sua. 27 Nemus podit intrai a domu de un'òmini forti a ndi ddi furai sa cosa sua, si innantis a s'òmini forti no dd'at acapiau; insaras dd'at a sdorrobbai sa domu.  28 In beridadi bosi·naru: totu is pecaus ant a èssiri perdonaus a is fillus de is òminis e fintzas calisisiat frastimu chi ant a ghetai; 29 ma chini frastimat contras a su Spìridu santu no at a otènniri perdonu perunu: e abarrat in su pecau in eternu». Giai ca narànt: «Unu spìridu malu ddu possidit».
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="BRUNA" creationdate="20251018T205324Z">
+        <seg>22 Ma is scribas, chi ndi fiant abasciaus de Gerusalemi, narànt: «Custu est possidiu de Beelzebù e nci bogat is dimònius cun s'agiudu de su prìncipi de is dimònius». 23 Ma issu ddus iat tzerriaus acanta sua e cun paràbulas ddis naràt: «Comenti fait sàtana a nci bogai a sàtana?». 24 Si unu rennu est partziu aintru de sei etotu, cussu rennu no podit durai; 25 e si una domu est partzia aintru de sei etotu no podit durai.  A sa pròpriu manera, 26 si sàtana si furriat  contras a issu etotu e si partzit, no podit durai ma est lòmpia sa fini sua. 27 Nemus podit intrai a domu de un'òmini forti a ndi ddi furai sa cosa sua, si innantis a s'òmini forti no dd'at acapiau; insaras dd'at a sdorrobbai sa domu.  28 In beridadi bosi·naru: totu is pecaus ant a èssiri perdonaus a is fillus de is òminis e fintzas calisisiat frastimu chi ant a ghetai; 29 ma chini frastimat contras a su Spìridu santu no at a otènniri perdonu perunu: e abarrat in su pecau in eternu». Giai ca narànt: «Unu spìridu malu ddu possidit».
 </seg>
       </tuv>
     </tu>
@@ -7911,8 +7927,8 @@ asuta de is peis tuus?
       <tuv lang="it">
         <seg>23,37&lt;s0/&gt;Gerusalemme, Gerusalemme, che uccidi i profeti e lapidi quelli che ti sono inviati, quante volte ho voluto raccogliere i tuoi figli, come una gallina raccoglie i pulcini sotto le ali, e voi non avete voluto!</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260926T070103Z" creationid="giuan" creationdate="20260623T154526Z">
-        <seg>23,37 Gerusalemmi, Gerusalemmi, chi bocis is profetas e apèdrias a is chi funt stètius mandaus a tui, cantu bortas apu disigiau de arregòlliri a pari a fillus tuus, comenti a una pudda chi aciocat is pilloneddus asuta de is alas, e bosàterus no eis bòfiu!</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20260623T154526Z">
+        <seg>23,37 Gerusalemi, Gerusalemi, chi bocis is profetas e apèdrias a is chi funt stètius mandaus a tui, cantu bortas apu disigiau de arregòlliri a pari a fillus tuus, comenti a una pudda chi aciocat is pilloneddus asuta de is alas, e bosàterus no eis bòfiu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10546,8 +10562,8 @@ aderetzai is àndalas suas!
       <tuv lang="it">
         <seg>3,5&lt;s0/&gt;Allora accorrevano a lui da Gerusalemme, da tutta la Giudea e dalla zona adiacente il Giordano;</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260305T155232Z" creationid="giuan" creationdate="20260305T153736Z">
-        <seg>3,5 E acudiant a innui fiat issu de Gerusalemmi, de totu sa Giudea e de assoru a su Giordanu; </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20260305T153736Z">
+        <seg>3,5 E acudiant a innui fiat issu de Gerusalemi, de totu sa Giudea e de assoru a su Giordanu; </seg>
       </tuv>
     </tu>
     <tu>
@@ -10691,8 +10707,8 @@ aderetzai is àndalas suas!
       <tuv lang="it">
         <seg>32&lt;t0/&gt; Mentre erano in viaggio per salire a Gerusalemme, Gesù camminava davanti a loro ed essi erano stupiti; coloro che venivano dietro erano pieni di timore.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260327T152638Z" creationid="giuan" creationdate="20251027T113617Z">
-        <seg>32 Po tantis chi fiant in viàgiu conca a Gerusalemmi, Gesùs caminàt ananti de issus e issus ndi fiant spantaus e is chi andànt infatu fiant prenus de timoria.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20251027T113617Z">
+        <seg>32 Po tantis chi fiant in viàgiu conca a Gerusalemi, Gesùs caminàt ananti de issus e issus ndi fiant spantaus e is chi andànt infatu fiant prenus de timoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11148,8 +11164,8 @@ po custu m’at cunsacrau  po annuntziai a is pòburus sa bona nova e m’at man
       <tuv lang="it">
         <seg>4,25&lt;s0/&gt;E grandi folle cominciarono a seguirlo dalla Galilea, dalla Decàpoli, da Gerusalemme, dalla Giudea e da oltre il Giordano.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260908T063508Z" creationid="giuan" creationdate="20260309T165757Z">
-        <seg>4,25 E trumas mannas iant cumentzau a ddi pònniri infatu de Galilea, de sa Decàpoli, de Gerusalemmi, de Giudea e de s'àteru oru de su Giordanu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20260309T165757Z">
+        <seg>4,25 E trumas mannas iant cumentzau a ddi pònniri infatu de Galilea, de sa Decàpoli, de Gerusalemi, de Giudea e de s'àteru oru de su Giordanu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11438,8 +11454,8 @@ No tentis a su Sennori su Deus tuu».</seg>
       <tuv lang="it">
         <seg>4,9&lt;s0/&gt;Lo condusse a Gerusalemme, lo pose sul pinnacolo del tempio e gli disse: "Se tu sei Figlio di&lt;s1/&gt;Dio, buttati giù;</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261027T144646Z" creationid="giuan" creationdate="20261027T144646Z">
-        <seg>4,9 E nci dd’iat portau a Gerusalemmi, nci dd’iat postu in su cùcuru de su tèmpiu e dd’iat narau: «Si tui ses Fillu de Deus, gheta·ti·nci a giossu;</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20261027T144646Z">
+        <seg>4,9 E nci dd’iat portau a Gerusalemi, nci dd’iat postu in su cùcuru de su tèmpiu e dd’iat narau: «Si tui ses Fillu de Deus, gheta·ti·nci a giossu;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11454,8 +11470,8 @@ No tentis a su Sennori su Deus tuu».</seg>
       <tuv lang="it">
         <seg>40&lt;t0/&gt; C'erano anche alcune donne, che stavano ad osservare da lontano, tra le quali Maria di Màgdala, Maria madre di Giacomo il minore e di Ioses, e Salome, &lt;t1/&gt;41&lt;t2/&gt; che lo seguivano e servivano quando era &lt;t3/&gt;ancora in Galilea, e molte altre che erano salite con lui a Gerusalemme.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251212T141643Z" creationid="BRUNA" creationdate="20251212T141643Z">
-        <seg>40 Ddoi fiant fintzas unas cantu fèminas, castiendi de atesu, in mesu insoru Maria de Màgdala, Maria sa mama de Giacu su piticu e de Ioses, e Salomè puru, 41 chi ddu sighiant e dd’atendiant candu fiat ancora in Galilea, e àteras meda chi fiant artziadas cun issu a Gerusalemmi.
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="BRUNA" creationdate="20251212T141643Z">
+        <seg>40 Ddoi fiant fintzas unas cantu fèminas, castiendi de atesu, in mesu insoru Maria de Màgdala, Maria sa mama de Giacu su piticu e de Ioses, e Salomè puru, 41 chi ddu sighiant e dd’atendiant candu fiat ancora in Galilea, e àteras meda chi fiant artziadas cun issu a Gerusalemi.
  </seg>
       </tuv>
     </tu>
@@ -11544,8 +11560,8 @@ No tentis a su Sennori su Deus tuu».</seg>
       <tuv lang="it">
         <seg>4&lt;t0/&gt; si presentò Giovanni a battezzare nel deserto, predicando un battesimo di conversione per il perdono dei peccati. &lt;t1/&gt;5&lt;t2/&gt; Accorreva a lui tutta la regione della Giudea e tutti gli abitanti di Gerusalemme.</seg>
       </tuv>
-      <tuv lang="sc" changeid="BRUNA" changedate="20251128T160640Z" creationid="BRUNA" creationdate="20250912T104521Z">
-        <seg>Giuanni su Batista fiat in su desertu predichendi unu batiari de cunversioni po su perdonu de is pecaus. Acudiat a innui fiat issu totu sa regioni de sa Giudea e totu is de Gerusalemmi, </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="BRUNA" creationdate="20250912T104521Z">
+        <seg>Giuanni su Batista fiat in su desertu predichendi unu batiari de cunversioni po su perdonu de is pecaus. Acudiat a innui fiat issu totu sa regioni de sa Giudea e totu is de Gerusalemi, </seg>
       </tuv>
     </tu>
     <tu>
@@ -12022,8 +12038,8 @@ No giuris su frassu, ma cumpri a su Sennori is giuras tuas;
       <tuv lang="it">
         <seg>5,35&lt;s0/&gt;né per la terra, perché è lo sgabello per i suoi piedi; né per Gerusalemme, perché è la città del gran re.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260309T171504Z" creationid="giuan" creationdate="20260309T171504Z">
-        <seg>5,35 ni po sa terra, ca est su scannu po is peis suus; ni po Gerusalemmi, ca est sa citadi de su grandu rei.
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20260309T171504Z">
+        <seg>5,35 ni po sa terra, ca est su scannu po is peis suus; ni po Gerusalemi, ca est sa citadi de su grandu rei.
 </seg>
       </tuv>
     </tu>
@@ -13239,8 +13255,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>7,1&lt;t0/&gt; Allora si riunirono attorno a lui i farisei e alcuni degli scribi venuti da Gerusalemme. &lt;t1/&gt;2&lt;t2/&gt; Avendo visto che alcuni dei suoi discepoli prendevano cibo con mani immonde, cioè non lavate - &lt;t3/&gt;3&lt;t4/&gt; i farisei &lt;t5/&gt;infatti e tutti i Giudei non mangiano se non si sono lavate le mani fino al gomito, attenendosi alla tradizione degli antichi, &lt;t6/&gt;4&lt;t7/&gt; e tornando dal mercato non mangiano senza aver fatto le abluzioni, e osservano molte altre cose per tradizione, come lavature di bicchieri, stoviglie e oggetti di rame - &lt;t8/&gt;5&lt;t9/&gt; quei farisei e scribi lo interrogarono: «Perché i tuoi discepoli non si comportano secondo la tradizione degli antichi, ma prendono cibo con mani immonde?». &lt;t10/&gt;6&lt;t11/&gt; Ed egli rispose loro: «Bene ha profetato Isaia di voi, ipocriti, come sta scritto:</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260907T164459Z" creationid="giuan" creationdate="20251009T141742Z">
-        <seg>7,1 Insaras is fariseus e unus cantu scribas lòmpius de Gerusalemmi si fiant atobiaus anca fiat issu. 2  E biendi chi unus cantu discìpulus de Gesùs pigànt sa cosa de papai cun is manus brutas, est a narai chene si dd’as àiri sciacuadas,3 ca is fariseus e totu is Giudeus no papànt chene si sciacuai is manus fintzas a su cùidu, cunforma a su chi narat su connotu de is mannus insoru, e furriendi de su mercau no papant antis de si purificai cun s’àcua, e sighint àterus impòsitus meda de is antigus, comenti su de sciacuai is tassas, su strexu e is trastus de arràmini. 5 Cussus fariseus e scribas, duncas, ddi preguntànt: «Poit’est chi is discìpulus tuus no sighint cunforma a su connotu e papant chene si sciacuai is manus?». Gesùs ddis iat arrespustu: «Isaia at profetau beni de bosàterus, ipòcritas, comenti est scritu:   </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20251009T141742Z">
+        <seg>7,1 Insaras is fariseus e unus cantu scribas lòmpius de Gerusalemi si fiant atobiaus anca fiat issu. 2  E biendi chi unus cantu discìpulus de Gesùs pigànt sa cosa de papai cun is manus brutas, est a narai chene si dd’as àiri sciacuadas,3 ca is fariseus e totu is Giudeus no papànt chene si sciacuai is manus fintzas a su cùidu, cunforma a su chi narat su connotu de is mannus insoru, e furriendi de su mercau no papant antis de si purificai cun s’àcua, e sighint àterus impòsitus meda de is antigus, comenti su de sciacuai is tassas, su strexu e is trastus de arràmini. 5 Cussus fariseus e scribas, duncas, ddi preguntànt: «Poit’est chi is discìpulus tuus no sighint cunforma a su connotu e papant chene si sciacuai is manus?». Gesùs ddis iat arrespustu: «Isaia at profetau beni de bosàterus, ipòcritas, comenti est scritu:   </seg>
       </tuv>
     </tu>
     <tu>
@@ -13715,8 +13731,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>7&lt;t0/&gt; Gesù intanto si ritirò presso il mare con i suoi discepoli e lo seguì molta folla dalla Galilea. &lt;t1/&gt;8&lt;t2/&gt; Dalla Giudea e da Gerusalemme e dall'Idumea e dalla Transgiordania e dalle parti di Tiro e Sidone una gran folla, sentendo ciò che faceva, si recò da lui. &lt;t3/&gt;9&lt;t4/&gt; Allora egli pregò i suoi discepoli che gli mettessero a disposizione una barca, a causa della folla, perché non lo schiacciassero. &lt;t5/&gt;10&lt;t6/&gt; Infatti ne aveva guariti molti, così che quanti avevano qualche male gli si gettavano addosso per toccarlo.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260327T143057Z" creationid="BRUNA" creationdate="20250923T090238Z">
-        <seg>Insaras Gesùs si nci fiat stesiau conca a mari cun is discìpulus suus e  una truma de genti lòmpia a chini de  Galilea  8  e de Giudea, a chini de Gerusalemmi e de Idumea, a chini prus addei de su Giordanu e a chini a curtzu de Tiru e Sidoni, un truma de personis chi intendendi totu su chi faiat, acudiat anca fiat issu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="BRUNA" creationdate="20250923T090238Z">
+        <seg>Insaras Gesùs si nci fiat stesiau conca a mari cun is discìpulus suus e  una truma de genti lòmpia a chini de  Galilea  8  e de Giudea, a chini de Gerusalemi e de Idumea, a chini prus addei de su Giordanu e a chini a curtzu de Tiru e Sidoni, un truma de personis chi intendendi totu su chi faiat, acudiat anca fiat issu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14856,8 +14872,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>9,31&lt;s0/&gt;apparsi nella loro gloria, e parlavano della sua dipartita che avrebbe portato a compimento a&lt;s1/&gt;Gerusalemme.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261109T073949Z" creationid="giuan" creationdate="20260908T085706Z">
-        <seg>9,31  aparèssius in gloria, e chistionànt de s'andada sua sua chi fiat acanta de si cumpriri in Gerusalemmi.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20260908T085706Z">
+        <seg>9,31  aparèssius in gloria, e chistionànt de s'andada sua sua chi fiat acanta de si cumpriri in Gerusalemi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15096,8 +15112,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>9,51&lt;s0/&gt;Mentre stavano compiendosi i giorni in cui sarebbe stato tolto dal mondo, si diresse decisamente&lt;s1/&gt;verso Gerusalemme</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260910T152819Z" creationid="giuan" creationdate="20260910T152819Z">
-        <seg>9,51  E fiat acontèssiu ca fiant po si cumpriri·is diis de s’assuntzioni/s’ascensioni sua, issu iat impunnau cun firmesa conca a Gerusalemmi</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20260910T152819Z">
+        <seg>9,51  E fiat acontèssiu ca fiant po si cumpriri·is diis de s’assuntzioni/s’ascensioni sua, issu iat impunnau cun firmesa conca a Gerusalemi</seg>
       </tuv>
     </tu>
     <tu>
@@ -15112,8 +15128,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>9,53&lt;s0/&gt;Ma essi non vollero riceverlo, perché era diretto verso Gerusalemme.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260910T153944Z" creationid="giuan" creationdate="20260910T153944Z">
-        <seg>9,53 E no dd’iant arriciu poita ca fiat andendi conca a Gerusalemmi.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20260910T153944Z">
+        <seg>9,53 E no dd’iant arriciu poita ca fiat andendi conca a Gerusalemi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15344,8 +15360,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>Alcuni Magi giunsero da oriente a Gerusalemme e domandavano:</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260305T150841Z" creationid="giuan" creationdate="20260305T150841Z">
-        <seg>Unus cantu Magus fiant lòmpius de orienti a Gerusalemmi e preguntànt:</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20260305T150841Z">
+        <seg>Unus cantu Magus fiant lòmpius de orienti a Gerusalemi e preguntànt:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15620,8 +15636,8 @@ issu t'at a aprontai su caminu.</seg>
       <tuv lang="it">
         <seg>C'era gran folla di suoi discepoli e gran&lt;s1/&gt;moltitudine di gente da tutta la Giudea, da Gerusalemme e dal litorale di Tiro e di Sidone,</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260914T094533Z" creationid="giuan" creationdate="20260729T083204Z">
-        <seg>Ddoi aiat un'arei manna de discipulus suus  e un'arei manna de genti de totu sa Giudea, de Gerusalemmi e de sa costera de Tiru e Sidoni, </seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20260729T083204Z">
+        <seg>Ddoi aiat un'arei manna de discipulus suus  e un'arei manna de genti de totu sa Giudea, de Gerusalemi e de sa costera de Tiru e Sidoni, </seg>
       </tuv>
     </tu>
     <tu>
@@ -18437,8 +18453,8 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       <tuv lang="it">
         <seg>Prendendo di nuovo in disparte i Dodici, cominciò a dir loro quello che gli sarebbe accaduto: &lt;t1/&gt;33&lt;t2/&gt; «Ecco, noi saliamo a Gerusalemme e il Figlio dell'uomo sarà consegnato ai sommi sacerdoti e agli scribi: lo condanneranno a morte, lo consegneranno ai pagani, &lt;t3/&gt;34&lt;t4/&gt; lo scherniranno, gli sputeranno addosso, lo flagelleranno e lo uccideranno; ma dopo tre giorni risusciterà».</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260910T070043Z" creationid="giuan" creationdate="20251027T113647Z">
-        <seg>E pighendi un’àtera borta a una parti is Doxi, iat cumentzau a ddis narai su chi ddis iat a èssiri acontèssiu: 33 «Mirai, seus artziendi·nci a Gerusalemmi e a su Fillu de s’òmini dd’ant a intregai a is sacerdotus majoris e a is scribas: dd’ant a cundennai a morti, dd’ant a intregai a is paganus, 34 si nd’ant a befai, dd’ant a spudai, dd’ant a aciotai e dd’ant a bociri, a pustis de tres diis perou at a arresuscitai».</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20251027T113647Z">
+        <seg>E pighendi un’àtera borta a una parti is Doxi, iat cumentzau a ddis narai su chi ddis iat a èssiri acontèssiu: 33 «Mirai, seus artziendi·nci a Gerusalemi e a su Fillu de s’òmini dd’ant a intregai a is sacerdotus majoris e a is scribas: dd’ant a cundennai a morti, dd’ant a intregai a is paganus, 34 si nd’ant a befai, dd’ant a spudai, dd’ant a aciotai e dd’ant a bociri, a pustis de tres diis perou at a arresuscitai».</seg>
       </tuv>
     </tu>
     <tu>
@@ -18689,8 +18705,8 @@ e issu at a annuntziai sa giustìtzia a is natzionis.</seg>
       <tuv lang="it">
         <seg>Sedevano là anche farisei e dottori della legge, venuti da ogni&lt;s1/&gt;villaggio della Galilea, della Giudea e da Gerusalemme.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261027T173212Z" creationid="giuan" creationdate="20261027T173212Z">
-        <seg>Fiant sètzius innia fintzas fariseus e dotoris de sa lei, arribbaus de ònnia bidda de sa Galilea, de sa Giudea e de Gerusalemmi.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081529Z" creationid="giuan" creationdate="20261027T173212Z">
+        <seg>Fiant sètzius innia fintzas fariseus e dotoris de sa lei, arribbaus de ònnia bidda de sa Galilea, de sa Giudea e de Gerusalemi.</seg>
       </tuv>
     </tu>
     <tu>
