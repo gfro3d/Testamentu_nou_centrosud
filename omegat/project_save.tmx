@@ -3178,8 +3178,8 @@ fintzas a fàiri bìnciri sa giudìtzia;
       <tuv lang="it">
         <seg>12,5&lt;s0/&gt;Vi mostrerò invece chi dovete temere: temete Colui che, dopo aver ucciso, ha il potere di gettare&lt;s1/&gt;nella Geenna.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20261109T075254Z" creationid="giuan" creationdate="20261109T075254Z">
-        <seg>12,5 Ma bosi apu a ammostai a chini depeis tìmiri: timei a Su chi, a pustis de àiri bociu, tenit su poderi de bosi nci ghetai a sa Geenna.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T080952Z" creationid="giuan" creationdate="20261109T075254Z">
+        <seg>12,5 Ma bosi apu a amostai a chini depeis tìmiri: timei a Su chi, a pustis de àiri bociu, tenit su poderi de bosi nci ghetai a sa Geenna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3270,8 +3270,8 @@ fintzas a fàiri bìnciri sa giudìtzia;
       <tuv lang="it">
         <seg>12&lt;t0/&gt; Il primo giorno degli Azzimi, quando si immolava la Pasqua, i suoi discepoli gli dissero: «Dove vuoi che andiamo a preparare perché tu possa mangiare la Pasqua?». &lt;t1/&gt;13&lt;t2/&gt; Allora mandò due dei suoi discepoli dicendo loro: «Andate in città e vi verrà incontro un uomo con una brocca d'acqua; seguitelo &lt;t3/&gt;14&lt;t4/&gt; e là dove entrerà dite al padrone di casa: Il Maestro dice: Dov'è la mia stanza, perché io vi possa mangiare la Pasqua con i miei discepoli? &lt;t5/&gt;15&lt;t6/&gt; Egli vi mostrerà al piano superiore una grande sala con i tappeti, già pronta; là preparate per noi». &lt;t7/&gt;16&lt;t8/&gt; I discepoli andarono e, entrati in città, trovarono come aveva detto loro e prepararono per la Pasqua.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260907T164459Z" creationid="giuan" creationdate="20251209T142056Z">
-        <seg>12  Sa primu dii de is panis Àzimus, candu si sacrificàt sa Pasca, is discìpulus suus dd’iant narau: «A innui bolis chi andeus a aprontai po chi tui papist sa cena de Pasca?». 13 Insaras iat mandau a duus de is discìpulus e ddis iat narau: «Baxei a sa citadi e bosi at atobiai un’òmini cun una màriga de àcua, sigheide·ddu 14 e innui at a intrai narai a su meri de domu: Su Maistu narat: Innui est s’aposentu miu po ddoi pòdiri papai sa cena de Pasca cun is discìpulus mius? 15 Issu s’at a ammostai una sala manna a tapetus, in su pranu de susu, giai pronta e innia aprontais po nosu». 16 Is discìpulus fiant andaus, e intraus a sa citadi, iant agatau totu comenti ddis iat narau e aprontau iant po sa Pasca.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T080952Z" creationid="giuan" creationdate="20251209T142056Z">
+        <seg>12  Sa primu dii de is panis Àzimus, candu si sacrificàt sa Pasca, is discìpulus suus dd’iant narau: «A innui bolis chi andeus a aprontai po chi tui papist sa cena de Pasca?». 13 Insaras iat mandau a duus de is discìpulus e ddis iat narau: «Baxei a sa citadi e bosi at atobiai un’òmini cun una màriga de àcua, sigheide·ddu 14 e innui at a intrai narai a su meri de domu: Su Maistu narat: Innui est s’aposentu miu po ddoi pòdiri papai sa cena de Pasca cun is discìpulus mius? 15 Issu s’at a amostai una sala manna a tapetus, in su pranu de susu, giai pronta e innia aprontais po nosu». 16 Is discìpulus fiant andaus, e intraus a sa citadi, iant agatau totu comenti ddis iat narau e aprontau iant po sa Pasca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3690,6 +3690,14 @@ e no si cunvertant, e deu ddus sani.</seg>
       </tuv>
       <tuv lang="sc" changeid="giuan" changedate="20260501T131051Z" creationid="giuan" creationdate="20260501T131051Z">
         <seg>13,31 Ddis iat presentau un'àtera paràbula: «Su rennu de is celus est che a unu granu de alaussa, chi un'òmini pigat e sèminat in su cungiau suu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="it">
+        <seg>13,32&lt;s0/&gt;Egli rispose: "Andate a dire a quella volpe: Ecco, io scaccio i demòni e compio guarigioni oggi e&lt;s1/&gt;domani; e il terzo giorno avrò finito.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081251Z" creationid="giuan" creationdate="20261121T081251Z">
+        <seg>Lc13,32 E ddis iat narau: «Baxei a ddi narai a cuddu margiani: “Ecu, deu nci bogu is dimònius e sanu oi e cras; e a sa de tres diis apu a èssiri lòmpiu a cumprimentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4883,8 +4891,8 @@ ma su coru suu est atesu de mei.
       <tuv lang="it">
         <seg>16,1&lt;s0/&gt;I farisei e i sadducei si avvicinarono per metterlo alla prova e gli chiesero che mostrasse loro un segno dal cielo.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260513T144943Z" creationid="giuan" creationdate="20260513T144943Z">
-        <seg>16,1 Is fariseus e is sadduceus si fiant acostiaus po ddu pònniri a prova e dd’iant pediu a ddis ammostai  unu sinnu de su celu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T080952Z" creationid="giuan" creationdate="20260513T144943Z">
+        <seg>16,1 Is fariseus e is sadduceus si fiant acostiaus po ddu pònniri a prova e dd’iant pediu a ddis amostai  unu sinnu de su celu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8080,8 +8088,8 @@ asuta de is peis tuus?
       <tuv lang="it">
         <seg>24,1&lt;s0/&gt;Mentre Gesù, uscito dal tempio, se ne andava, gli si avvicinarono i suoi discepoli per fargli osservare le costruzioni del tempio.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260623T154639Z" creationid="giuan" creationdate="20260623T154639Z">
-        <seg>24,1 E Gesùs ndi fiat bessiu de su tèmpiu e fiat andendi·si·ndi, e si ddi fiant acostiaus is discìpulus suus po dd'ammostai is fabbrìcus de su tèmpiu.</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T080952Z" creationid="giuan" creationdate="20260623T154639Z">
+        <seg>24,1 E Gesùs ndi fiat bessiu de su tèmpiu e fiat andendi·si·ndi, e si ddi fiant acostiaus is discìpulus suus po dd'amostai is fabbrìcus de su tèmpiu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12512,8 +12520,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>6,20&lt;s0/&gt;accumulatevi invece tesori nel cielo, dove né tignola né ruggine consumano, e dove ladri non scassinano e non rubano.</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260925T125822Z" creationid="giuan" creationdate="20260316T080254Z">
-        <seg>6,20 ammuntonai prus a prestu tesorus in celu, innui ni tìngia ni arruina sperdint,e innui furonis no intrant e no furant.
+      <tuv lang="sc" changeid="giuan" changedate="20261121T081127Z" creationid="giuan" creationdate="20260316T080254Z">
+        <seg>6,20 amuntonai prus a prestu tesorus in celu, innui ni tìngia ni arruina sperdint,e innui furonis no intrant e no furant.
 </seg>
       </tuv>
     </tu>
@@ -12878,8 +12886,8 @@ Ogu po ogu e denti po denti;</seg>
       <tuv lang="it">
         <seg>6,47&lt;s0/&gt;Chi viene a me e ascolta le mie parole e le mette in pratica, vi mostrerò a chi è simile:</seg>
       </tuv>
-      <tuv lang="sc" changeid="giuan" changedate="20260730T085525Z" creationid="giuan" creationdate="20260730T085525Z">
-        <seg>6,47 Chini benit a mei, ascurtendi is paràulas mias e poneninde·ddas ponit in pràtica, bosi apu a ammostai a chini assimbillat:</seg>
+      <tuv lang="sc" changeid="giuan" changedate="20261121T080952Z" creationid="giuan" creationdate="20260730T085525Z">
+        <seg>6,47 Chini benit a mei, ascurtendi is paràulas mias e poneninde·ddas ponit in pràtica, bosi apu a amostai a chini assimbillat:</seg>
       </tuv>
     </tu>
     <tu>
